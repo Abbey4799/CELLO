@@ -43,3 +43,6 @@ All the scoring results are in the folder [scores/](scores/).
 
 The collected data can be found in the [data/](data/). All samples have been anonymized. 
 
+## Citation
+
+The paper is comming soon!
