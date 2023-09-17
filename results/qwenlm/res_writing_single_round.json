@@ -1,0 +1,439 @@
+[
+    {
+        "Instruction": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+        "Instruction_id": "edec79b57161fc71c38c3bb26e9bd176267d72fa07788c9e24d92c082f0a5109",
+        "histories": [
+            [
+                "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+                "本周，全球股市出现大幅下跌，投资者开始担心全球经济前景。原因主要来自疫情的持续蔓延和地缘政治的不确定性。股市的下跌影响了企业的财务状况和投资者的信心，可能会导致经济放缓和失业率上升。政府和央行需要采取措施来稳定市场和促进经济增长。"
+            ],
+            [
+                "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+                "本周，全球股市出现大幅下跌，投资者开始担心全球经济前景。原因主要来自疫情的持续蔓延和地缘政治的不确定性。股市的下跌影响了企业的财务状况和投资者的信心，可能会导致经济放缓和失业率上升。政府和央行需要采取措施来稳定市场和促进经济增长。"
+            ]
+        ],
+        "task_description": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "本周，全球股市出现大幅下跌，投资者开始担心全球经济前景。原因主要来自疫情的持续蔓延和地缘政治的不确定性。股市的下跌影响了企业的财务状况和投资者的信心，可能会导致经济放缓和失业率上升。政府和央行需要采取措施来稳定市场和促进经济增长。"
+    },
+    {
+        "Instruction": "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+        "Instruction_id": "6ae90094e8974c0373e77f67a34c55ac63f14876b49099c4df4549d7da5c0f03",
+        "histories": [
+            [
+                "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+                "元宇宙与虚拟数字人：探索数字世界的新境界\n\n元宇宙和虚拟数字人是当今数字科技领域中最为热门的话题。元宇宙可以理解为一个完全虚拟化的世界，它将现实世界与数字世界完美融合，使人们能够在现实与虚拟之间自由穿梭。而虚拟数字人则是元宇宙中最具代表性的人物形象，它们以独特的数字身份与人类互动。\n\n虚拟数字人对大众而言是元宇宙最直观的技术应用形式。它们具有与人类相似的外貌、性格和行为，能够在数字世界中与人们进行真实的交流。虚拟数字人的出现，为人们提供了一个全新的、虚拟的社交环境。通过虚拟数字人，人们可以轻松地与来自世界各地的朋友互动，参加各种活动，甚至结识新朋友。\n\n元宇宙和虚拟数字人之间的关系密切。虚拟数字人是元宇宙中不可或缺的一部分，它们是元宇宙中用户和虚拟世界互动的主要桥梁。元宇宙中的虚拟世界需要虚拟数字人的存在，因为虚拟数字人能够让元宇宙更加真实、生动和有趣。同时，虚拟数字人也需要元宇宙的支持，因为它们需要一个广阔的数字世界来展示自己的魅力和功能。\n\n虚拟数字人的应用不仅可以满足人们在社交、娱乐等方面的需求，还可以为元宇宙的经济和社会发展带来新的机遇。虚拟数字人可以被用于数字营销、在线教育、游戏开发等多种领域，为元宇宙创造更多的价值。同时，虚拟数字人的出现也会引发一系列社会和伦理问题，如数据隐私、数字身份认证等，这些问题需要我们不断探索和解决。\n\n总之，元宇宙和虚拟数字人是数字科技领域中两个非常重要的概念。虚拟数字人是元宇宙中最具代表性的技术应用，它们为人们提供了全新的社交和娱乐体验。元宇宙和虚拟数字人之间的关系密切，相互依存。未来，随着数字科技的不断发展，虚拟数字人和元宇宙将为人类带来更多的惊喜和改变。"
+            ],
+            [
+                "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+                "元宇宙与虚拟数字人：探索数字世界的新境界\n\n元宇宙和虚拟数字人是当今数字科技领域中最为热门的话题。元宇宙可以理解为一个完全虚拟化的世界，它将现实世界与数字世界完美融合，使人们能够在现实与虚拟之间自由穿梭。而虚拟数字人则是元宇宙中最具代表性的人物形象，它们以独特的数字身份与人类互动。\n\n虚拟数字人对大众而言是元宇宙最直观的技术应用形式。它们具有与人类相似的外貌、性格和行为，能够在数字世界中与人们进行真实的交流。虚拟数字人的出现，为人们提供了一个全新的、虚拟的社交环境。通过虚拟数字人，人们可以轻松地与来自世界各地的朋友互动，参加各种活动，甚至结识新朋友。\n\n元宇宙和虚拟数字人之间的关系密切。虚拟数字人是元宇宙中不可或缺的一部分，它们是元宇宙中用户和虚拟世界互动的主要桥梁。元宇宙中的虚拟世界需要虚拟数字人的存在，因为虚拟数字人能够让元宇宙更加真实、生动和有趣。同时，虚拟数字人也需要元宇宙的支持，因为它们需要一个广阔的数字世界来展示自己的魅力和功能。\n\n虚拟数字人的应用不仅可以满足人们在社交、娱乐等方面的需求，还可以为元宇宙的经济和社会发展带来新的机遇。虚拟数字人可以被用于数字营销、在线教育、游戏开发等多种领域，为元宇宙创造更多的价值。同时，虚拟数字人的出现也会引发一系列社会和伦理问题，如数据隐私、数字身份认证等，这些问题需要我们不断探索和解决。\n\n总之，元宇宙和虚拟数字人是数字科技领域中两个非常重要的概念。虚拟数字人是元宇宙中最具代表性的技术应用，它们为人们提供了全新的社交和娱乐体验。元宇宙和虚拟数字人之间的关系密切，相互依存。未来，随着数字科技的不断发展，虚拟数字人和元宇宙将为人类带来更多的惊喜和改变。"
+            ]
+        ],
+        "task_description": "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "元宇宙与虚拟数字人：探索数字世界的新境界\n\n元宇宙和虚拟数字人是当今数字科技领域中最为热门的话题。元宇宙可以理解为一个完全虚拟化的世界，它将现实世界与数字世界完美融合，使人们能够在现实与虚拟之间自由穿梭。而虚拟数字人则是元宇宙中最具代表性的人物形象，它们以独特的数字身份与人类互动。\n\n虚拟数字人对大众而言是元宇宙最直观的技术应用形式。它们具有与人类相似的外貌、性格和行为，能够在数字世界中与人们进行真实的交流。虚拟数字人的出现，为人们提供了一个全新的、虚拟的社交环境。通过虚拟数字人，人们可以轻松地与来自世界各地的朋友互动，参加各种活动，甚至结识新朋友。\n\n元宇宙和虚拟数字人之间的关系密切。虚拟数字人是元宇宙中不可或缺的一部分，它们是元宇宙中用户和虚拟世界互动的主要桥梁。元宇宙中的虚拟世界需要虚拟数字人的存在，因为虚拟数字人能够让元宇宙更加真实、生动和有趣。同时，虚拟数字人也需要元宇宙的支持，因为它们需要一个广阔的数字世界来展示自己的魅力和功能。\n\n虚拟数字人的应用不仅可以满足人们在社交、娱乐等方面的需求，还可以为元宇宙的经济和社会发展带来新的机遇。虚拟数字人可以被用于数字营销、在线教育、游戏开发等多种领域，为元宇宙创造更多的价值。同时，虚拟数字人的出现也会引发一系列社会和伦理问题，如数据隐私、数字身份认证等，这些问题需要我们不断探索和解决。\n\n总之，元宇宙和虚拟数字人是数字科技领域中两个非常重要的概念。虚拟数字人是元宇宙中最具代表性的技术应用，它们为人们提供了全新的社交和娱乐体验。元宇宙和虚拟数字人之间的关系密切，相互依存。未来，随着数字科技的不断发展，虚拟数字人和元宇宙将为人类带来更多的惊喜和改变。"
+    },
+    {
+        "Instruction": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "Instruction_id": "1437cf4879fd07cc992e6b51de682af84d654549efe244e9524cf22ed8db3c44",
+        "histories": [
+            [
+                "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+                "利用知识图谱技术研究电网故障智能辅助处置，应用于电网故障检测、定位、诊断和处理。前景广阔，能提高故障处理效率、降低维修成本、提升供电可靠性。"
+            ],
+            [
+                "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+                "利用知识图谱技术研究电网故障智能辅助处置，应用于电网故障检测、定位、诊断和处理。前景广阔，能提高故障处理效率、降低维修成本、提升供电可靠性。"
+            ]
+        ],
+        "task_description": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "利用知识图谱技术研究电网故障智能辅助处置，应用于电网故障检测、定位、诊断和处理。前景广阔，能提高故障处理效率、降低维修成本、提升供电可靠性。"
+    },
+    {
+        "Instruction": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+        "Instruction_id": "31dbd92c4c825a5236d692b16c097ddeff2de095ad8643f1cc7082660dc9e438",
+        "histories": [
+            [
+                "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+                "X实验室是实力雄厚的科研机构，专注于前沿技术研究。在机器学习、人工智能等领域，我们取得了多项重要成果。我们致力于解决实际问题，推动技术进步，为社会发展做出贡献。"
+            ],
+            [
+                "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+                "X实验室是实力雄厚的科研机构，专注于前沿技术研究。在机器学习、人工智能等领域，我们取得了多项重要成果。我们致力于解决实际问题，推动技术进步，为社会发展做出贡献。"
+            ]
+        ],
+        "task_description": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "X实验室是实力雄厚的科研机构，专注于前沿技术研究。在机器学习、人工智能等领域，我们取得了多项重要成果。我们致力于解决实际问题，推动技术进步，为社会发展做出贡献。"
+    },
+    {
+        "Instruction": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+        "Instruction_id": "2d5facfd776f1fb033c3723c3d62c243f436f284ada934a50c5578ddddaeff36",
+        "histories": [
+            [
+                "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+                "基因表达预测框架，捕捉时间依赖性，鲁棒性强。自适应超参数调整，集成学习优化，提高预测精度。#基因表达# #RNN# #生物研究# 点击链接阅读：https://s.weibo.com/650488645323284353，探索分子生物学奥秘，丰富理论成果和技术手段。"
+            ],
+            [
+                "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+                "基因表达预测框架，捕捉时间依赖性，鲁棒性强。自适应超参数调整，集成学习优化，提高预测精度。#基因表达# #RNN# #生物研究# 点击链接阅读：https://s.weibo.com/650488645323284353，探索分子生物学奥秘，丰富理论成果和技术手段。"
+            ]
+        ],
+        "task_description": "为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+        "input_text": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n",
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "基因表达预测框架，捕捉时间依赖性，鲁棒性强。自适应超参数调整，集成学习优化，提高预测精度。#基因表达# #RNN# #生物研究# 点击链接阅读：https://s.weibo.com/650488645323284353，探索分子生物学奥秘，丰富理论成果和技术手段。"
+    },
+    {
+        "Instruction": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+        "Instruction_id": "733873a8e99d4759f9a3cef440b0a56ac9ebd65d3ba9e5073e73691ddd5089ac",
+        "histories": [
+            [
+                "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+                "1. \"在夏日的海滩，与我的毛孩一起度假，尽情享受阳光、沙滩和海风。无忧无虑，尽情玩耍。#度假 #夏日 #与狗共度美好时光\"\n2. \"这个夏天，我与我的狗在海边度过了一个愉快的假期。脚下是细软的沙滩，身边是亲爱的朋友。让我们共同拥抱这美好的夏日时光。#度假 #夏日 #与狗共度美好时光\"\n3. \"在度假的海滩上，与我的狗一起感受夏日的热情。阳光、海浪和欢声笑语交织在一起，让我们的度假变得更加难忘。#度假 #夏日 #与狗共度美好时光\"\n4. \"夏日的海滩，让人心旷神怡。与我的狗在沙滩上奔跑，让烦恼一扫而光。享受度假的快乐，让夏日的美好永驻心间。#度假 #夏日 #与狗共度美好时光\"\n5. \"度假，是与心爱的狗一起，感受夏日的温馨。让我们在海滩上玩耍，在阳光下欢笑，享受这个美好而难忘的时光。#度假 #夏日 #与狗共度美好时光\""
+            ],
+            [
+                "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+                "1. \"在夏日的海滩，与我的毛孩一起度假，尽情享受阳光、沙滩和海风。无忧无虑，尽情玩耍。#度假 #夏日 #与狗共度美好时光\"\n2. \"这个夏天，我与我的狗在海边度过了一个愉快的假期。脚下是细软的沙滩，身边是亲爱的朋友。让我们共同拥抱这美好的夏日时光。#度假 #夏日 #与狗共度美好时光\"\n3. \"在度假的海滩上，与我的狗一起感受夏日的热情。阳光、海浪和欢声笑语交织在一起，让我们的度假变得更加难忘。#度假 #夏日 #与狗共度美好时光\"\n4. \"夏日的海滩，让人心旷神怡。与我的狗在沙滩上奔跑，让烦恼一扫而光。享受度假的快乐，让夏日的美好永驻心间。#度假 #夏日 #与狗共度美好时光\"\n5. \"度假，是与心爱的狗一起，感受夏日的温馨。让我们在海滩上玩耍，在阳光下欢笑，享受这个美好而难忘的时光。#度假 #夏日 #与狗共度美好时光\""
+            ]
+        ],
+        "task_description": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "1. \"在夏日的海滩，与我的毛孩一起度假，尽情享受阳光、沙滩和海风。无忧无虑，尽情玩耍。#度假 #夏日 #与狗共度美好时光\"\n2. \"这个夏天，我与我的狗在海边度过了一个愉快的假期。脚下是细软的沙滩，身边是亲爱的朋友。让我们共同拥抱这美好的夏日时光。#度假 #夏日 #与狗共度美好时光\"\n3. \"在度假的海滩上，与我的狗一起感受夏日的热情。阳光、海浪和欢声笑语交织在一起，让我们的度假变得更加难忘。#度假 #夏日 #与狗共度美好时光\"\n4. \"夏日的海滩，让人心旷神怡。与我的狗在沙滩上奔跑，让烦恼一扫而光。享受度假的快乐，让夏日的美好永驻心间。#度假 #夏日 #与狗共度美好时光\"\n5. \"度假，是与心爱的狗一起，感受夏日的温馨。让我们在海滩上玩耍，在阳光下欢笑，享受这个美好而难忘的时光。#度假 #夏日 #与狗共度美好时光\""
+    },
+    {
+        "Instruction": "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+        "Instruction_id": "cbc73ce1edd922b99679dd6f6e985cc91c831d73de7b3cc8e231394d2925a307",
+        "histories": [
+            [
+                "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+                "万圣节快到了，我们来庆祝一下！为了庆祝这个节日，我们将在11月1日举行一次社交媒体抽奖活动！参加者需要关注我们的账号、点赞、评论和标记朋友。奖品将是一份神秘万圣节礼物！#万圣节 #神秘礼物 #抽奖活动 #社交媒体 #一起来庆祝"
+            ],
+            [
+                "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+                "万圣节快到了，我们来庆祝一下！为了庆祝这个节日，我们将在11月1日举行一次社交媒体抽奖活动！参加者需要关注我们的账号、点赞、评论和标记朋友。奖品将是一份神秘万圣节礼物！#万圣节 #神秘礼物 #抽奖活动 #社交媒体 #一起来庆祝"
+            ]
+        ],
+        "task_description": "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "万圣节快到了，我们来庆祝一下！为了庆祝这个节日，我们将在11月1日举行一次社交媒体抽奖活动！参加者需要关注我们的账号、点赞、评论和标记朋友。奖品将是一份神秘万圣节礼物！#万圣节 #神秘礼物 #抽奖活动 #社交媒体 #一起来庆祝"
+    },
+    {
+        "Instruction": "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "Instruction_id": "89b05cf7124871257ac4edba52726dbc76e314f810a62e3a8fb9b84142c9a87b",
+        "histories": [
+            [
+                "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+                "\"健身改变生活，#健身爱好者# 我的使命。探索#健康生活#，从#锻炼身体# 开始。让#身体更强壮#，让我带你到#www.example.com# 获取更多资讯。与我们一起，开启健康之旅！\""
+            ],
+            [
+                "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+                "\"健身改变生活，#健身爱好者# 我的使命。探索#健康生活#，从#锻炼身体# 开始。让#身体更强壮#，让我带你到#www.example.com# 获取更多资讯。与我们一起，开启健康之旅！\""
+            ]
+        ],
+        "task_description": "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "\"健身改变生活，#健身爱好者# 我的使命。探索#健康生活#，从#锻炼身体# 开始。让#身体更强壮#，让我带你到#www.example.com# 获取更多资讯。与我们一起，开启健康之旅！\""
+    },
+    {
+        "Instruction": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+        "Instruction_id": "1ee5b8ea80994ab6fb0e886817aec29d1a24514d7201897e72f65e59d7bb12db",
+        "histories": [
+            [
+                "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+                "1. 数字营销在线课程：错过今天，终身遗憾！限时优惠只剩24小时！\n2. 用数字营销征服世界：在线课程现在报名，24小时内享受限时优惠！\n3. 掌握数字营销技巧，开创事业新纪元！报名在线课程，仅剩24小时优惠！\n4. 数字营销大师班：限时优惠，仅限24小时！错过这次机会，再等一年！\n5. 在线课程：数字营销的秘密武器，仅剩24小时，抢购吧！\n6. 想在数字营销领域大展拳脚？在线课程仅剩24小时，不容错过！\n7. 数字营销在线课程：24小时限时优惠，让你的梦想照进现实！\n8. 领先数字营销：在线课程，限时优惠，现在报名！\n9. 赶紧报名参加数字营销在线课程，24小时优惠不容错过！\n10. 在线课程：数字营销技能提升的不二之选！抢购优惠，仅剩24小时！"
+            ],
+            [
+                "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+                "1. 数字营销在线课程：错过今天，终身遗憾！限时优惠只剩24小时！\n2. 用数字营销征服世界：在线课程现在报名，24小时内享受限时优惠！\n3. 掌握数字营销技巧，开创事业新纪元！报名在线课程，仅剩24小时优惠！\n4. 数字营销大师班：限时优惠，仅限24小时！错过这次机会，再等一年！\n5. 在线课程：数字营销的秘密武器，仅剩24小时，抢购吧！\n6. 想在数字营销领域大展拳脚？在线课程仅剩24小时，不容错过！\n7. 数字营销在线课程：24小时限时优惠，让你的梦想照进现实！\n8. 领先数字营销：在线课程，限时优惠，现在报名！\n9. 赶紧报名参加数字营销在线课程，24小时优惠不容错过！\n10. 在线课程：数字营销技能提升的不二之选！抢购优惠，仅剩24小时！"
+            ]
+        ],
+        "task_description": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "1. 数字营销在线课程：错过今天，终身遗憾！限时优惠只剩24小时！\n2. 用数字营销征服世界：在线课程现在报名，24小时内享受限时优惠！\n3. 掌握数字营销技巧，开创事业新纪元！报名在线课程，仅剩24小时优惠！\n4. 数字营销大师班：限时优惠，仅限24小时！错过这次机会，再等一年！\n5. 在线课程：数字营销的秘密武器，仅剩24小时，抢购吧！\n6. 想在数字营销领域大展拳脚？在线课程仅剩24小时，不容错过！\n7. 数字营销在线课程：24小时限时优惠，让你的梦想照进现实！\n8. 领先数字营销：在线课程，限时优惠，现在报名！\n9. 赶紧报名参加数字营销在线课程，24小时优惠不容错过！\n10. 在线课程：数字营销技能提升的不二之选！抢购优惠，仅剩24小时！"
+    },
+    {
+        "Instruction": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "Instruction_id": "2e3a353a14ec908c6434bf83b42133447bf7051f57084806128ee4d1e72d3c47",
+        "histories": [
+            [
+                "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+                "一、设计背景\n\n随着人们生活水平的提高，厨房作为家庭生活的重要组成部分，其功能和设计越来越受到关注。本设计书旨在为现代家庭提供一款具有创新性、实用性和美观性的家用厨房产品。\n\n二、产品目标\n\n1. 功能性：满足家庭日常烹饪需求，提高厨房操作效率。\n\n2. 实用性：便于清洁、安装、维护，适应家庭环境。\n\n3. 美观性：简洁、大方、时尚，符合现代审美。\n\n三、产品设计\n\n1. 功能设计\n\n本产品设计为一款集成灶，具有炉灶、消毒柜、储藏柜等多种功能。炉灶采用高效节能燃烧技术，具有大火力、易清洁等特点。消毒柜具备高温消毒、臭氧消毒等多种消毒方式，可以有效杀灭细菌、病毒，保证家庭食品安全。储藏柜具有多种储物空间，方便存放厨房用品，提高厨房收纳效率。\n\n2. 材料设计\n\n本产品采用优质不锈钢材质制作，具有防潮、耐腐蚀、易清洁等特点。炉灶面板采用耐高温、耐磨的材料制作，确保长时间使用不易损坏。消毒柜内部采用高效消毒材料，确保消毒效果。\n\n3. 外观设计\n\n本产品的外观设计简约大方，线条流畅，符合现代审美。炉灶面板采用镜面设计，使得厨房空间更加宽敞明亮。消毒柜门采用透明玻璃材质，方便用户查看消毒情况。储藏柜门采用推拉式设计，方便取用储藏物品。\n\n四、产品优势\n\n1. 一体化设计，节省空间，提高厨房操作效率。\n\n2. 高效节能，降低家庭用电成本。\n\n3. 多功能设计，满足家庭多种烹饪需求。\n\n4. 优质材料制作，保证产品使用寿命。\n\n五、市场前景\n\n随着人们生活水平的提高，厨房产品的市场需求越来越大。本产品集多种功能于一体，具有创新性、实用性和美观性，符合现代家庭的需求。随着家居装修市场的不断发展，本产品具有广泛的市场前景。\n\n六、总结\n\n本设计书为一款具有创新性、实用性和美观性的家用厨房产品。通过本产品的设计，可以提高家庭厨房操作效率，方便家庭进行多种烹饪。同时，本产品的优质材料制作和一体化设计，可以节省家庭空间，降低家庭用电成本。在现代家居装修市场中，本产品具有广泛的市场前景。"
+            ],
+            [
+                "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+                "一、设计背景\n\n随着人们生活水平的提高，厨房作为家庭生活的重要组成部分，其功能和设计越来越受到关注。本设计书旨在为现代家庭提供一款具有创新性、实用性和美观性的家用厨房产品。\n\n二、产品目标\n\n1. 功能性：满足家庭日常烹饪需求，提高厨房操作效率。\n\n2. 实用性：便于清洁、安装、维护，适应家庭环境。\n\n3. 美观性：简洁、大方、时尚，符合现代审美。\n\n三、产品设计\n\n1. 功能设计\n\n本产品设计为一款集成灶，具有炉灶、消毒柜、储藏柜等多种功能。炉灶采用高效节能燃烧技术，具有大火力、易清洁等特点。消毒柜具备高温消毒、臭氧消毒等多种消毒方式，可以有效杀灭细菌、病毒，保证家庭食品安全。储藏柜具有多种储物空间，方便存放厨房用品，提高厨房收纳效率。\n\n2. 材料设计\n\n本产品采用优质不锈钢材质制作，具有防潮、耐腐蚀、易清洁等特点。炉灶面板采用耐高温、耐磨的材料制作，确保长时间使用不易损坏。消毒柜内部采用高效消毒材料，确保消毒效果。\n\n3. 外观设计\n\n本产品的外观设计简约大方，线条流畅，符合现代审美。炉灶面板采用镜面设计，使得厨房空间更加宽敞明亮。消毒柜门采用透明玻璃材质，方便用户查看消毒情况。储藏柜门采用推拉式设计，方便取用储藏物品。\n\n四、产品优势\n\n1. 一体化设计，节省空间，提高厨房操作效率。\n\n2. 高效节能，降低家庭用电成本。\n\n3. 多功能设计，满足家庭多种烹饪需求。\n\n4. 优质材料制作，保证产品使用寿命。\n\n五、市场前景\n\n随着人们生活水平的提高，厨房产品的市场需求越来越大。本产品集多种功能于一体，具有创新性、实用性和美观性，符合现代家庭的需求。随着家居装修市场的不断发展，本产品具有广泛的市场前景。\n\n六、总结\n\n本设计书为一款具有创新性、实用性和美观性的家用厨房产品。通过本产品的设计，可以提高家庭厨房操作效率，方便家庭进行多种烹饪。同时，本产品的优质材料制作和一体化设计，可以节省家庭空间，降低家庭用电成本。在现代家居装修市场中，本产品具有广泛的市场前景。"
+            ]
+        ],
+        "task_description": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "一、设计背景\n\n随着人们生活水平的提高，厨房作为家庭生活的重要组成部分，其功能和设计越来越受到关注。本设计书旨在为现代家庭提供一款具有创新性、实用性和美观性的家用厨房产品。\n\n二、产品目标\n\n1. 功能性：满足家庭日常烹饪需求，提高厨房操作效率。\n\n2. 实用性：便于清洁、安装、维护，适应家庭环境。\n\n3. 美观性：简洁、大方、时尚，符合现代审美。\n\n三、产品设计\n\n1. 功能设计\n\n本产品设计为一款集成灶，具有炉灶、消毒柜、储藏柜等多种功能。炉灶采用高效节能燃烧技术，具有大火力、易清洁等特点。消毒柜具备高温消毒、臭氧消毒等多种消毒方式，可以有效杀灭细菌、病毒，保证家庭食品安全。储藏柜具有多种储物空间，方便存放厨房用品，提高厨房收纳效率。\n\n2. 材料设计\n\n本产品采用优质不锈钢材质制作，具有防潮、耐腐蚀、易清洁等特点。炉灶面板采用耐高温、耐磨的材料制作，确保长时间使用不易损坏。消毒柜内部采用高效消毒材料，确保消毒效果。\n\n3. 外观设计\n\n本产品的外观设计简约大方，线条流畅，符合现代审美。炉灶面板采用镜面设计，使得厨房空间更加宽敞明亮。消毒柜门采用透明玻璃材质，方便用户查看消毒情况。储藏柜门采用推拉式设计，方便取用储藏物品。\n\n四、产品优势\n\n1. 一体化设计，节省空间，提高厨房操作效率。\n\n2. 高效节能，降低家庭用电成本。\n\n3. 多功能设计，满足家庭多种烹饪需求。\n\n4. 优质材料制作，保证产品使用寿命。\n\n五、市场前景\n\n随着人们生活水平的提高，厨房产品的市场需求越来越大。本产品集多种功能于一体，具有创新性、实用性和美观性，符合现代家庭的需求。随着家居装修市场的不断发展，本产品具有广泛的市场前景。\n\n六、总结\n\n本设计书为一款具有创新性、实用性和美观性的家用厨房产品。通过本产品的设计，可以提高家庭厨房操作效率，方便家庭进行多种烹饪。同时，本产品的优质材料制作和一体化设计，可以节省家庭空间，降低家庭用电成本。在现代家居装修市场中，本产品具有广泛的市场前景。"
+    },
+    {
+        "Instruction": "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+        "Instruction_id": "03fd97e1d0300996e16245447473a06c144533011653dc344b1e8900d0601c8d",
+        "histories": [
+            [
+                "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+                "电网故障智能辅助处置技术研究\n\n随着电力行业的快速发展，电网故障已经成为一个普遍存在的问题。在电网故障发生时，快速、准确地诊断和处置故障是至关重要的。传统的故障处置方法需要大量的经验和专业技能，而且容易出现误判和漏判的情况。因此，开发一种基于知识图谱的电网故障智能辅助处置技术变得越来越必要。\n\n知识图谱是一种用于存储和表示知识的数据结构，它将实体和关系组织成一个网络，以便进行推理和查询。在电网故障智能辅助处置技术中，知识图谱可以用来表示电网的结构、设备、参数、故障模式等信息，从而帮助故障处置人员更好地理解电网的运行状态和故障原因。\n\n知识图谱的应用和优势在电网故障智能辅助处置技术中得到了充分发挥。首先，知识图谱可以提供一种统一的视角来表示电网的复杂结构和各种信息，使得故障处置人员可以更好地理解和分析电网故障。其次，知识图谱可以支持推理和查询，帮助故障处置人员快速定位故障原因和部位。最后，知识图谱可以支持人工智能算法，例如机器学习和深度学习，帮助故障处置人员自动识别故障模式和预测故障发生概率。\n\n综上所述，基于知识图谱的电网故障智能辅助处置技术具有重要的研究价值和应用前景。通过利用知识图谱的优势，可以提高电网故障的处置效率和准确性，保障电力系统的可靠运行。"
+            ],
+            [
+                "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+                "电网故障智能辅助处置技术研究\n\n随着电力行业的快速发展，电网故障已经成为一个普遍存在的问题。在电网故障发生时，快速、准确地诊断和处置故障是至关重要的。传统的故障处置方法需要大量的经验和专业技能，而且容易出现误判和漏判的情况。因此，开发一种基于知识图谱的电网故障智能辅助处置技术变得越来越必要。\n\n知识图谱是一种用于存储和表示知识的数据结构，它将实体和关系组织成一个网络，以便进行推理和查询。在电网故障智能辅助处置技术中，知识图谱可以用来表示电网的结构、设备、参数、故障模式等信息，从而帮助故障处置人员更好地理解电网的运行状态和故障原因。\n\n知识图谱的应用和优势在电网故障智能辅助处置技术中得到了充分发挥。首先，知识图谱可以提供一种统一的视角来表示电网的复杂结构和各种信息，使得故障处置人员可以更好地理解和分析电网故障。其次，知识图谱可以支持推理和查询，帮助故障处置人员快速定位故障原因和部位。最后，知识图谱可以支持人工智能算法，例如机器学习和深度学习，帮助故障处置人员自动识别故障模式和预测故障发生概率。\n\n综上所述，基于知识图谱的电网故障智能辅助处置技术具有重要的研究价值和应用前景。通过利用知识图谱的优势，可以提高电网故障的处置效率和准确性，保障电力系统的可靠运行。"
+            ]
+        ],
+        "task_description": "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "电网故障智能辅助处置技术研究\n\n随着电力行业的快速发展，电网故障已经成为一个普遍存在的问题。在电网故障发生时，快速、准确地诊断和处置故障是至关重要的。传统的故障处置方法需要大量的经验和专业技能，而且容易出现误判和漏判的情况。因此，开发一种基于知识图谱的电网故障智能辅助处置技术变得越来越必要。\n\n知识图谱是一种用于存储和表示知识的数据结构，它将实体和关系组织成一个网络，以便进行推理和查询。在电网故障智能辅助处置技术中，知识图谱可以用来表示电网的结构、设备、参数、故障模式等信息，从而帮助故障处置人员更好地理解电网的运行状态和故障原因。\n\n知识图谱的应用和优势在电网故障智能辅助处置技术中得到了充分发挥。首先，知识图谱可以提供一种统一的视角来表示电网的复杂结构和各种信息，使得故障处置人员可以更好地理解和分析电网故障。其次，知识图谱可以支持推理和查询，帮助故障处置人员快速定位故障原因和部位。最后，知识图谱可以支持人工智能算法，例如机器学习和深度学习，帮助故障处置人员自动识别故障模式和预测故障发生概率。\n\n综上所述，基于知识图谱的电网故障智能辅助处置技术具有重要的研究价值和应用前景。通过利用知识图谱的优势，可以提高电网故障的处置效率和准确性，保障电力系统的可靠运行。"
+    },
+    {
+        "Instruction": "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+        "Instruction_id": "ec2532f3d546755c219f519e772a71ebbf61987b8605d721daf1d3f2b18563b9",
+        "histories": [
+            [
+                "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+                "在电网故障智能辅助处置技术领域，国内外的研究现状如下：\n\n一、美国研究现状\n\n1. 知识图谱在电网故障诊断中的应用\n\n美国的研究人员正在利用知识图谱来构建电网故障诊断系统。他们利用知识图谱来存储电网的各种数据，包括设备信息、运行状态、故障历史等，并利用图谱推理算法来发现故障模式和规律。例如，美国电力公司Energize New Mexico正在利用知识图谱来提高电网故障诊断的准确性。\n\n2. 人工智能辅助电网故障预测和处置\n\n美国的研究人员正在利用人工智能算法来辅助电网故障预测和处置。他们使用机器学习算法来分析电网的历史数据，从而预测故障的发生概率和影响范围。此外，他们还在开发智能处置算法，用于快速识别和处理电网故障。\n\n3. 电网故障应急响应系统的研究\n\n美国的研究人员正在开发电网故障应急响应系统，以提高电网故障处置的效率和准确性。他们利用知识图谱和人工智能算法来识别和处理电网故障，同时开发智能调度算法，用于调度应急响应资源。\n\n二、日本研究现状\n\n1. 知识图谱在电网故障诊断中的应用\n\n日本的研究人员正在利用知识图谱来构建电网故障诊断系统。他们使用知识图谱来存储电网的各种数据，包括设备信息、运行状态、故障历史等，并利用图谱推理算法来发现故障模式和规律。例如，日本电力公司东京电力公司正在利用知识图谱来提高电网故障诊断的准确性。\n\n2. 人工智能辅助电网故障预测和处置\n\n日本的研究人员正在利用人工智能算法来辅助电网故障预测和处置。他们使用机器学习算法来分析电网的历史数据，从而预测故障的发生概率和影响范围。此外，他们还在开发智能处置算法，用于快速识别和处理电网故障。\n\n3. 电网故障应急响应系统的研究\n\n日本的研究人员正在开发电网故障应急响应系统，以提高电网故障处置的效率和准确性。他们利用知识图谱和人工智能算法来识别和处理电网故障，同时开发智能调度算法，用于调度应急响应资源。"
+            ],
+            [
+                "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+                "在电网故障智能辅助处置技术领域，国内外的研究现状如下：\n\n一、美国研究现状\n\n1. 知识图谱在电网故障诊断中的应用\n\n美国的研究人员正在利用知识图谱来构建电网故障诊断系统。他们利用知识图谱来存储电网的各种数据，包括设备信息、运行状态、故障历史等，并利用图谱推理算法来发现故障模式和规律。例如，美国电力公司Energize New Mexico正在利用知识图谱来提高电网故障诊断的准确性。\n\n2. 人工智能辅助电网故障预测和处置\n\n美国的研究人员正在利用人工智能算法来辅助电网故障预测和处置。他们使用机器学习算法来分析电网的历史数据，从而预测故障的发生概率和影响范围。此外，他们还在开发智能处置算法，用于快速识别和处理电网故障。\n\n3. 电网故障应急响应系统的研究\n\n美国的研究人员正在开发电网故障应急响应系统，以提高电网故障处置的效率和准确性。他们利用知识图谱和人工智能算法来识别和处理电网故障，同时开发智能调度算法，用于调度应急响应资源。\n\n二、日本研究现状\n\n1. 知识图谱在电网故障诊断中的应用\n\n日本的研究人员正在利用知识图谱来构建电网故障诊断系统。他们使用知识图谱来存储电网的各种数据，包括设备信息、运行状态、故障历史等，并利用图谱推理算法来发现故障模式和规律。例如，日本电力公司东京电力公司正在利用知识图谱来提高电网故障诊断的准确性。\n\n2. 人工智能辅助电网故障预测和处置\n\n日本的研究人员正在利用人工智能算法来辅助电网故障预测和处置。他们使用机器学习算法来分析电网的历史数据，从而预测故障的发生概率和影响范围。此外，他们还在开发智能处置算法，用于快速识别和处理电网故障。\n\n3. 电网故障应急响应系统的研究\n\n日本的研究人员正在开发电网故障应急响应系统，以提高电网故障处置的效率和准确性。他们利用知识图谱和人工智能算法来识别和处理电网故障，同时开发智能调度算法，用于调度应急响应资源。"
+            ]
+        ],
+        "task_description": "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "在电网故障智能辅助处置技术领域，国内外的研究现状如下：\n\n一、美国研究现状\n\n1. 知识图谱在电网故障诊断中的应用\n\n美国的研究人员正在利用知识图谱来构建电网故障诊断系统。他们利用知识图谱来存储电网的各种数据，包括设备信息、运行状态、故障历史等，并利用图谱推理算法来发现故障模式和规律。例如，美国电力公司Energize New Mexico正在利用知识图谱来提高电网故障诊断的准确性。\n\n2. 人工智能辅助电网故障预测和处置\n\n美国的研究人员正在利用人工智能算法来辅助电网故障预测和处置。他们使用机器学习算法来分析电网的历史数据，从而预测故障的发生概率和影响范围。此外，他们还在开发智能处置算法，用于快速识别和处理电网故障。\n\n3. 电网故障应急响应系统的研究\n\n美国的研究人员正在开发电网故障应急响应系统，以提高电网故障处置的效率和准确性。他们利用知识图谱和人工智能算法来识别和处理电网故障，同时开发智能调度算法，用于调度应急响应资源。\n\n二、日本研究现状\n\n1. 知识图谱在电网故障诊断中的应用\n\n日本的研究人员正在利用知识图谱来构建电网故障诊断系统。他们使用知识图谱来存储电网的各种数据，包括设备信息、运行状态、故障历史等，并利用图谱推理算法来发现故障模式和规律。例如，日本电力公司东京电力公司正在利用知识图谱来提高电网故障诊断的准确性。\n\n2. 人工智能辅助电网故障预测和处置\n\n日本的研究人员正在利用人工智能算法来辅助电网故障预测和处置。他们使用机器学习算法来分析电网的历史数据，从而预测故障的发生概率和影响范围。此外，他们还在开发智能处置算法，用于快速识别和处理电网故障。\n\n3. 电网故障应急响应系统的研究\n\n日本的研究人员正在开发电网故障应急响应系统，以提高电网故障处置的效率和准确性。他们利用知识图谱和人工智能算法来识别和处理电网故障，同时开发智能调度算法，用于调度应急响应资源。"
+    },
+    {
+        "Instruction": "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "Instruction_id": "6144a0d35f75bddb08d27272c30a867660005ec3a358e38900f58cd99b011360",
+        "histories": [
+            [
+                "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+                "夏天，阳光明媚，沙滩绵延，海风拂面。人们穿着比基尼，在海边畅游，享受海风的吹拂。冰淇淋在手中融化，带来一份清凉。这就是夏天，一个充满活力和美好的季节。"
+            ],
+            [
+                "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+                "夏天，阳光明媚，沙滩绵延，海风拂面。人们穿着比基尼，在海边畅游，享受海风的吹拂。冰淇淋在手中融化，带来一份清凉。这就是夏天，一个充满活力和美好的季节。"
+            ]
+        ],
+        "task_description": "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "夏天，阳光明媚，沙滩绵延，海风拂面。人们穿着比基尼，在海边畅游，享受海风的吹拂。冰淇淋在手中融化，带来一份清凉。这就是夏天，一个充满活力和美好的季节。"
+    },
+    {
+        "Instruction": "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+        "Instruction_id": "04a13e9406e6df1611214689bc577d349a32ad21cfbce251dc9b237fb9588d88",
+        "histories": [
+            [
+                "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+                "Title: The Ethical Issues of Technological Innovation and Networking under the Background of Informational and Networked Environments\n\nAbstract:\n\nIn the era of informational and networked environments, technological innovation and application have become increasingly prominent and ubiquitous. These technological advancements bring about significant benefits, but they also raise ethical concerns. This paper aims to explore the ethical issues associated with technological innovation and networking and propose a possible solution to address them. By integrating network ethics governance into the entire life cycle of modern technological innovation and application, we can better address network engineering ethics problems and explore the possibility of using technology to govern technology.\n\n1. Introduction\n\nWith the rapid development of information and communication technology (ICT), people's lives are becoming increasingly intertwined with technology. The widespread adoption of networking technologies such as the Internet, smartphones, and social media has revolutionized the way we communicate, access information, and conduct business. The innovative use of technology has brought numerous benefits, but it also raises significant ethical concerns.\n\n2. Ethical Issues of Technological Innovation and Networking\n\n2.1 Privacy and Data Protection\n\nWith the increased use of technology, people's personal data are being collected, analyzed, and used by various stakeholders for various purposes. This raises significant concerns about privacy and data protection. Ensuring that individuals' personal data are collected, processed, and used in a responsible and ethical manner is crucial to maintaining trust in technology.\n\n2.2 Cybersecurity and Cyberattacks\n\nWith the widespread adoption of networking technologies, cyber threats have become more prominent. Cybersecurity concerns involve not only protecting individuals' personal data but also ensuring the security of critical systems and networks. Ensuring the security of technology is essential to prevent cyberattacks and protect against their consequences.\n\n2.3 Intellectual Property and Technological Innovation\n\nTechnological innovation often involves the creation of new intellectual property (IP) rights. Ensuring that IP rights are protected and that IP is used ethically and fairly is essential to promoting innovation and fair competition.\n\n3. Integration of Network Ethics Governance into Modern Technological Innovation and Application\n\nTo address the ethical issues associated with technological innovation and networking, it is crucial to integrate network ethics governance into the entire life cycle of modern technological innovation and application. This can be achieved through the following steps:\n\n3.1 Education and Awareness Raising\n\nEducation and awareness raising are essential to promote ethical decision-making and behavior in the context of technological innovation and networking. By educating individuals and stakeholders about ethical issues related to technology, we can foster a culture of ethical technology use and create a more responsible and sustainable technological"
+            ],
+            [
+                "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+                "Title: The Ethical Issues of Technological Innovation and Networking under the Background of Informational and Networked Environments\n\nAbstract:\n\nIn the era of informational and networked environments, technological innovation and application have become increasingly prominent and ubiquitous. These technological advancements bring about significant benefits, but they also raise ethical concerns. This paper aims to explore the ethical issues associated with technological innovation and networking and propose a possible solution to address them. By integrating network ethics governance into the entire life cycle of modern technological innovation and application, we can better address network engineering ethics problems and explore the possibility of using technology to govern technology.\n\n1. Introduction\n\nWith the rapid development of information and communication technology (ICT), people's lives are becoming increasingly intertwined with technology. The widespread adoption of networking technologies such as the Internet, smartphones, and social media has revolutionized the way we communicate, access information, and conduct business. The innovative use of technology has brought numerous benefits, but it also raises significant ethical concerns.\n\n2. Ethical Issues of Technological Innovation and Networking\n\n2.1 Privacy and Data Protection\n\nWith the increased use of technology, people's personal data are being collected, analyzed, and used by various stakeholders for various purposes. This raises significant concerns about privacy and data protection. Ensuring that individuals' personal data are collected, processed, and used in a responsible and ethical manner is crucial to maintaining trust in technology.\n\n2.2 Cybersecurity and Cyberattacks\n\nWith the widespread adoption of networking technologies, cyber threats have become more prominent. Cybersecurity concerns involve not only protecting individuals' personal data but also ensuring the security of critical systems and networks. Ensuring the security of technology is essential to prevent cyberattacks and protect against their consequences.\n\n2.3 Intellectual Property and Technological Innovation\n\nTechnological innovation often involves the creation of new intellectual property (IP) rights. Ensuring that IP rights are protected and that IP is used ethically and fairly is essential to promoting innovation and fair competition.\n\n3. Integration of Network Ethics Governance into Modern Technological Innovation and Application\n\nTo address the ethical issues associated with technological innovation and networking, it is crucial to integrate network ethics governance into the entire life cycle of modern technological innovation and application. This can be achieved through the following steps:\n\n3.1 Education and Awareness Raising\n\nEducation and awareness raising are essential to promote ethical decision-making and behavior in the context of technological innovation and networking. By educating individuals and stakeholders about ethical issues related to technology, we can foster a culture of ethical technology use and create a more responsible and sustainable technological"
+            ]
+        ],
+        "task_description": "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "Title: The Ethical Issues of Technological Innovation and Networking under the Background of Informational and Networked Environments\n\nAbstract:\n\nIn the era of informational and networked environments, technological innovation and application have become increasingly prominent and ubiquitous. These technological advancements bring about significant benefits, but they also raise ethical concerns. This paper aims to explore the ethical issues associated with technological innovation and networking and propose a possible solution to address them. By integrating network ethics governance into the entire life cycle of modern technological innovation and application, we can better address network engineering ethics problems and explore the possibility of using technology to govern technology.\n\n1. Introduction\n\nWith the rapid development of information and communication technology (ICT), people's lives are becoming increasingly intertwined with technology. The widespread adoption of networking technologies such as the Internet, smartphones, and social media has revolutionized the way we communicate, access information, and conduct business. The innovative use of technology has brought numerous benefits, but it also raises significant ethical concerns.\n\n2. Ethical Issues of Technological Innovation and Networking\n\n2.1 Privacy and Data Protection\n\nWith the increased use of technology, people's personal data are being collected, analyzed, and used by various stakeholders for various purposes. This raises significant concerns about privacy and data protection. Ensuring that individuals' personal data are collected, processed, and used in a responsible and ethical manner is crucial to maintaining trust in technology.\n\n2.2 Cybersecurity and Cyberattacks\n\nWith the widespread adoption of networking technologies, cyber threats have become more prominent. Cybersecurity concerns involve not only protecting individuals' personal data but also ensuring the security of critical systems and networks. Ensuring the security of technology is essential to prevent cyberattacks and protect against their consequences.\n\n2.3 Intellectual Property and Technological Innovation\n\nTechnological innovation often involves the creation of new intellectual property (IP) rights. Ensuring that IP rights are protected and that IP is used ethically and fairly is essential to promoting innovation and fair competition.\n\n3. Integration of Network Ethics Governance into Modern Technological Innovation and Application\n\nTo address the ethical issues associated with technological innovation and networking, it is crucial to integrate network ethics governance into the entire life cycle of modern technological innovation and application. This can be achieved through the following steps:\n\n3.1 Education and Awareness Raising\n\nEducation and awareness raising are essential to promote ethical decision-making and behavior in the context of technological innovation and networking. By educating individuals and stakeholders about ethical issues related to technology, we can foster a culture of ethical technology use and create a more responsible and sustainable technological"
+    },
+    {
+        "Instruction": "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "Instruction_id": "764b89dc31a50160ddae60b2106b195eae9d64ad5f14f216d9434fb59f19f6d6",
+        "histories": [
+            [
+                "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+                "Subject: Request for Fair and Just Handling of Twitter Account Suspension\nDear Twitter Support,\nI am writing to express my concern regarding the suspension of my Twitter account. I am of the belief that my account has not violated any of Twitter's rules. The primary purpose of my account is to browse news and, as a result, I do not frequently post updates.\nIf you believe that my account has violated any of Twitter's guidelines, please provide specific reasons for the suspension. It is essential that you demonstrate a clear and fair application of Twitter's rules to avoid any perception of滥用 power.\nI respectfully request that Twitter provides me with clear and justification for the suspension of my account. I look forward to your prompt attention to this matter and appreciate your cooperation in ensuring a fair and equitable outcome.\nThank you for your time and consideration.\nSincerely,\n[Your Name]"
+            ],
+            [
+                "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+                "Subject: Request for Fair and Just Handling of Twitter Account Suspension\nDear Twitter Support,\nI am writing to express my concern regarding the suspension of my Twitter account. I am of the belief that my account has not violated any of Twitter's rules. The primary purpose of my account is to browse news and, as a result, I do not frequently post updates.\nIf you believe that my account has violated any of Twitter's guidelines, please provide specific reasons for the suspension. It is essential that you demonstrate a clear and fair application of Twitter's rules to avoid any perception of滥用 power.\nI respectfully request that Twitter provides me with clear and justification for the suspension of my account. I look forward to your prompt attention to this matter and appreciate your cooperation in ensuring a fair and equitable outcome.\nThank you for your time and consideration.\nSincerely,\n[Your Name]"
+            ]
+        ],
+        "task_description": "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "Subject: Request for Fair and Just Handling of Twitter Account Suspension\nDear Twitter Support,\nI am writing to express my concern regarding the suspension of my Twitter account. I am of the belief that my account has not violated any of Twitter's rules. The primary purpose of my account is to browse news and, as a result, I do not frequently post updates.\nIf you believe that my account has violated any of Twitter's guidelines, please provide specific reasons for the suspension. It is essential that you demonstrate a clear and fair application of Twitter's rules to avoid any perception of滥用 power.\nI respectfully request that Twitter provides me with clear and justification for the suspension of my account. I look forward to your prompt attention to this matter and appreciate your cooperation in ensuring a fair and equitable outcome.\nThank you for your time and consideration.\nSincerely,\n[Your Name]"
+    },
+    {
+        "Instruction": "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "Instruction_id": "f83f913a9b663ddaad0ac6315d3840697f8f8a0899be4617f59b76360d2b2be4",
+        "histories": [
+            [
+                "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+                "我们在这里发起了一次“复旦大学研究生会成立四十周年”故事征集活动，邀请复旦研究生、研会同学、研会老师和校友分享与研会相关的故事、印象深刻的活动和经历。无论您的故事是如何感人、有趣、温馨、激动还是深刻，只要它是真实的，我们都欢迎您分享。请在2022年6月30日之前提交您的故事。"
+            ],
+            [
+                "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+                "我们在这里发起了一次“复旦大学研究生会成立四十周年”故事征集活动，邀请复旦研究生、研会同学、研会老师和校友分享与研会相关的故事、印象深刻的活动和经历。无论您的故事是如何感人、有趣、温馨、激动还是深刻，只要它是真实的，我们都欢迎您分享。请在2022年6月30日之前提交您的故事。"
+            ]
+        ],
+        "task_description": "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "我们在这里发起了一次“复旦大学研究生会成立四十周年”故事征集活动，邀请复旦研究生、研会同学、研会老师和校友分享与研会相关的故事、印象深刻的活动和经历。无论您的故事是如何感人、有趣、温馨、激动还是深刻，只要它是真实的，我们都欢迎您分享。请在2022年6月30日之前提交您的故事。"
+    },
+    {
+        "Instruction": "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "Instruction_id": "02b84685e2e1c0655de8b91e795038dd1a0bf0fb1acf3afeb244a613ac2192f5",
+        "histories": [
+            [
+                "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+                "个人简历\n\n基本信息\n姓名：秦始皇\n出生年份：公元前259年\n出生地：秦国（今陕西省西安市临潼区）\n国籍：秦朝\n\n教育背景\n- 公元前238年，秦始皇继位，开始亲政\n- 公元前230年，秦始皇开始统一六国，先后攻占韩国、赵国、魏国、楚国、燕国和齐国\n- 公元前221年，秦始皇完成六国的统一，建立中国历史上第一个中央集权制封建王朝——秦朝\n\n工作经历\n- 公元前221年，秦始皇担任秦朝的皇帝\n- 公元前214年，秦始皇下令修建长城，抵御北方游牧民族的侵扰\n- 公元前213年，秦始皇推行一系列政治、经济、文化改革，加强中央集权\n- 公元前210年，秦始皇去世，享年50岁\n\n关键成就\n- 统一六国，结束了战国时期的纷乱局面，实现了国家的统一\n- 修建万里长城，有效地防御了北方游牧民族的侵扰，成为中国古代军事防御工程的典范\n\n其他成就\n- 推行法家思想，加强中央集权\n- 废除封建制度，实行官僚制度\n- 统一货币、度量衡、文字和法律\n- 统一度量衡，标准以秦国的度量衡为标准，促进了经济交流和贸易发展\n\n背景信息\n秦始皇出生于公元前259年，是秦朝的开国皇帝。他年幼时便展现出了过人的智慧和政治才能。公元前238年，秦始皇继位，开始亲政。在经历了数年的战争后，他于公元前221年完成了六国的统一，建立中国历史上第一个中央集权制封建王朝——秦朝。秦始皇在位期间，推行了一系列政治、经济、文化改革，加强中央集权。此外，他还修建了长城，有效地防御了北方游牧民族的侵扰。公元前210年，秦始皇去世，享年50岁。"
+            ],
+            [
+                "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+                "个人简历\n\n基本信息\n姓名：秦始皇\n出生年份：公元前259年\n出生地：秦国（今陕西省西安市临潼区）\n国籍：秦朝\n\n教育背景\n- 公元前238年，秦始皇继位，开始亲政\n- 公元前230年，秦始皇开始统一六国，先后攻占韩国、赵国、魏国、楚国、燕国和齐国\n- 公元前221年，秦始皇完成六国的统一，建立中国历史上第一个中央集权制封建王朝——秦朝\n\n工作经历\n- 公元前221年，秦始皇担任秦朝的皇帝\n- 公元前214年，秦始皇下令修建长城，抵御北方游牧民族的侵扰\n- 公元前213年，秦始皇推行一系列政治、经济、文化改革，加强中央集权\n- 公元前210年，秦始皇去世，享年50岁\n\n关键成就\n- 统一六国，结束了战国时期的纷乱局面，实现了国家的统一\n- 修建万里长城，有效地防御了北方游牧民族的侵扰，成为中国古代军事防御工程的典范\n\n其他成就\n- 推行法家思想，加强中央集权\n- 废除封建制度，实行官僚制度\n- 统一货币、度量衡、文字和法律\n- 统一度量衡，标准以秦国的度量衡为标准，促进了经济交流和贸易发展\n\n背景信息\n秦始皇出生于公元前259年，是秦朝的开国皇帝。他年幼时便展现出了过人的智慧和政治才能。公元前238年，秦始皇继位，开始亲政。在经历了数年的战争后，他于公元前221年完成了六国的统一，建立中国历史上第一个中央集权制封建王朝——秦朝。秦始皇在位期间，推行了一系列政治、经济、文化改革，加强中央集权。此外，他还修建了长城，有效地防御了北方游牧民族的侵扰。公元前210年，秦始皇去世，享年50岁。"
+            ]
+        ],
+        "task_description": "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "个人简历\n\n基本信息\n姓名：秦始皇\n出生年份：公元前259年\n出生地：秦国（今陕西省西安市临潼区）\n国籍：秦朝\n\n教育背景\n- 公元前238年，秦始皇继位，开始亲政\n- 公元前230年，秦始皇开始统一六国，先后攻占韩国、赵国、魏国、楚国、燕国和齐国\n- 公元前221年，秦始皇完成六国的统一，建立中国历史上第一个中央集权制封建王朝——秦朝\n\n工作经历\n- 公元前221年，秦始皇担任秦朝的皇帝\n- 公元前214年，秦始皇下令修建长城，抵御北方游牧民族的侵扰\n- 公元前213年，秦始皇推行一系列政治、经济、文化改革，加强中央集权\n- 公元前210年，秦始皇去世，享年50岁\n\n关键成就\n- 统一六国，结束了战国时期的纷乱局面，实现了国家的统一\n- 修建万里长城，有效地防御了北方游牧民族的侵扰，成为中国古代军事防御工程的典范\n\n其他成就\n- 推行法家思想，加强中央集权\n- 废除封建制度，实行官僚制度\n- 统一货币、度量衡、文字和法律\n- 统一度量衡，标准以秦国的度量衡为标准，促进了经济交流和贸易发展\n\n背景信息\n秦始皇出生于公元前259年，是秦朝的开国皇帝。他年幼时便展现出了过人的智慧和政治才能。公元前238年，秦始皇继位，开始亲政。在经历了数年的战争后，他于公元前221年完成了六国的统一，建立中国历史上第一个中央集权制封建王朝——秦朝。秦始皇在位期间，推行了一系列政治、经济、文化改革，加强中央集权。此外，他还修建了长城，有效地防御了北方游牧民族的侵扰。公元前210年，秦始皇去世，享年50岁。"
+    },
+    {
+        "Instruction": "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+        "Instruction_id": "d9d0df63fa8722cecb9fc88c0f00d76551f33742cbfe6a67511cbe4404e49f5b",
+        "histories": [
+            [
+                "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+                "尊敬的恺英网络一行：\n您好！欢迎贵公司来访复旦大学计算机学院。复旦大学计算机学院一直以来都非常重视与企业的交流与合作，致力于将学术研究成果与实际产业需求相结合，推动技术创新和社会发展。我们非常高兴有机会与贵公司进行深入交流和探讨，共同推动计算机领域的产学研合作，实现共赢发展。\n希望通过此次来访，双方能够进一步增进了解，加强合作，共同推动计算机领域的创新发展。同时也希望贵公司能够在复旦大学计算机学院的指导下，取得更好的发展和成果。\n再次感谢贵公司的来访，祝愿双方合作愉快！"
+            ],
+            [
+                "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+                "尊敬的恺英网络一行：\n您好！欢迎贵公司来访复旦大学计算机学院。复旦大学计算机学院一直以来都非常重视与企业的交流与合作，致力于将学术研究成果与实际产业需求相结合，推动技术创新和社会发展。我们非常高兴有机会与贵公司进行深入交流和探讨，共同推动计算机领域的产学研合作，实现共赢发展。\n希望通过此次来访，双方能够进一步增进了解，加强合作，共同推动计算机领域的创新发展。同时也希望贵公司能够在复旦大学计算机学院的指导下，取得更好的发展和成果。\n再次感谢贵公司的来访，祝愿双方合作愉快！"
+            ]
+        ],
+        "task_description": "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "尊敬的恺英网络一行：\n您好！欢迎贵公司来访复旦大学计算机学院。复旦大学计算机学院一直以来都非常重视与企业的交流与合作，致力于将学术研究成果与实际产业需求相结合，推动技术创新和社会发展。我们非常高兴有机会与贵公司进行深入交流和探讨，共同推动计算机领域的产学研合作，实现共赢发展。\n希望通过此次来访，双方能够进一步增进了解，加强合作，共同推动计算机领域的创新发展。同时也希望贵公司能够在复旦大学计算机学院的指导下，取得更好的发展和成果。\n再次感谢贵公司的来访，祝愿双方合作愉快！"
+    },
+    {
+        "Instruction": "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "Instruction_id": "327c8393815e96bc3455ee55819041b949a5f78a99bbb7e68ff646c86d77edaf",
+        "histories": [
+            [
+                "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+                "本文旨在探讨人工智能在游戏产业中的影响。首先，AGI将对游戏开发产生深远的影响，它可以帮助游戏开发者更加高效地创建复杂的游戏世界和角色。其次，AGI将带来更好的游戏体验，例如通过智能NPC和游戏助手来提高游戏的可玩性和挑战性。最后，AGI将促进游戏创新，例如开发新的游戏类型和游戏机制。总之，AGI将为游戏产业带来许多机遇和挑战，有助于推动游戏产业的发展和创新。"
+            ],
+            [
+                "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+                "本文旨在探讨人工智能在游戏产业中的影响。首先，AGI将对游戏开发产生深远的影响，它可以帮助游戏开发者更加高效地创建复杂的游戏世界和角色。其次，AGI将带来更好的游戏体验，例如通过智能NPC和游戏助手来提高游戏的可玩性和挑战性。最后，AGI将促进游戏创新，例如开发新的游戏类型和游戏机制。总之，AGI将为游戏产业带来许多机遇和挑战，有助于推动游戏产业的发展和创新。"
+            ]
+        ],
+        "task_description": "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "本文旨在探讨人工智能在游戏产业中的影响。首先，AGI将对游戏开发产生深远的影响，它可以帮助游戏开发者更加高效地创建复杂的游戏世界和角色。其次，AGI将带来更好的游戏体验，例如通过智能NPC和游戏助手来提高游戏的可玩性和挑战性。最后，AGI将促进游戏创新，例如开发新的游戏类型和游戏机制。总之，AGI将为游戏产业带来许多机遇和挑战，有助于推动游戏产业的发展和创新。"
+    },
+    {
+        "Instruction": "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+        "Instruction_id": "5eccad6ea31519c1a5125ae832ae4989512f76fe175eb1f07c4aea214ae0d471",
+        "histories": [
+            [
+                "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+                "引言：研究生培养期间，学生不仅面临着学术压力，还面临着来自家庭、社会等方面的压力。如何应对这些压力成为研究生们亟待解决的问题。\n\n压力的原因：研究生阶段需要在短时间内完成大量的研究工作，这导致了时间压力；同时，研究生们面临着论文、课题、实验等方面的任务，学术压力也较大；此外，研究生们还需要平衡家庭和社交生活，社会压力也不容忽视。\n\n应对策略：研究生们应合理安排时间，分配好学习和娱乐的时间，避免因过度劳累导致身心俱疲；在学术方面，学会合理安排任务，避免拖延，同时可以寻求导师或同学的帮助；在社交方面，保持良好的人际关系，积极参加各类活动，缓解压力。\n\n总结：研究生培养期间，压力是难以避免的，但合理应对和寻求帮助，可以缓解压力，提高生活质量。同时，研究生们应珍惜研究生阶段的时光，努力提高自己的能力，为未来的事业打下坚实的基础。"
+            ],
+            [
+                "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+                "引言：研究生培养期间，学生不仅面临着学术压力，还面临着来自家庭、社会等方面的压力。如何应对这些压力成为研究生们亟待解决的问题。\n\n压力的原因：研究生阶段需要在短时间内完成大量的研究工作，这导致了时间压力；同时，研究生们面临着论文、课题、实验等方面的任务，学术压力也较大；此外，研究生们还需要平衡家庭和社交生活，社会压力也不容忽视。\n\n应对策略：研究生们应合理安排时间，分配好学习和娱乐的时间，避免因过度劳累导致身心俱疲；在学术方面，学会合理安排任务，避免拖延，同时可以寻求导师或同学的帮助；在社交方面，保持良好的人际关系，积极参加各类活动，缓解压力。\n\n总结：研究生培养期间，压力是难以避免的，但合理应对和寻求帮助，可以缓解压力，提高生活质量。同时，研究生们应珍惜研究生阶段的时光，努力提高自己的能力，为未来的事业打下坚实的基础。"
+            ]
+        ],
+        "task_description": "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "引言：研究生培养期间，学生不仅面临着学术压力，还面临着来自家庭、社会等方面的压力。如何应对这些压力成为研究生们亟待解决的问题。\n\n压力的原因：研究生阶段需要在短时间内完成大量的研究工作，这导致了时间压力；同时，研究生们面临着论文、课题、实验等方面的任务，学术压力也较大；此外，研究生们还需要平衡家庭和社交生活，社会压力也不容忽视。\n\n应对策略：研究生们应合理安排时间，分配好学习和娱乐的时间，避免因过度劳累导致身心俱疲；在学术方面，学会合理安排任务，避免拖延，同时可以寻求导师或同学的帮助；在社交方面，保持良好的人际关系，积极参加各类活动，缓解压力。\n\n总结：研究生培养期间，压力是难以避免的，但合理应对和寻求帮助，可以缓解压力，提高生活质量。同时，研究生们应珍惜研究生阶段的时光，努力提高自己的能力，为未来的事业打下坚实的基础。"
+    },
+    {
+        "Instruction": "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+        "Instruction_id": "fddb9862fc663eb911663962382a11d0001556b0f51ac64131d33a628fcfdc41",
+        "histories": [
+            [
+                "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+                "亲爱的浦东软件园团队，\n\n我是复旦大学计算机科学与技术专业的学生，即将于2023年毕业。我对浦东软件园一直充满着浓厚的兴趣，因为贵园一直致力于推动中国软件产业的发展，为国内外企业提供了创新的技术和服务。\n\n在我的专业学习中，我掌握了软件工程、计算机网络、数据结构与算法等基础知识，并在实践中培养了良好的编程能力和解决问题的能力。我熟练使用Java、Python等编程语言，了解软件开发的各个阶段，包括需求分析、设计、实现和测试。此外，我还具备一定的数据库管理经验，熟悉MySQL、Oracle等数据库系统。\n\n我对浦东软件园的兴趣不仅来自于贵园在软件开发领域的专业声誉，更来自于贵园的企业文化和创新精神。贵园一直倡导以人为本，注重员工的个人发展和职业规划，这让我深感敬佩。同时，贵园在技术创新和业务拓展方面也一直走在行业的前沿，这让我对贵园的工作充满信心和期待。\n\n因此，我诚挚地希望能够加入浦东软件园，为贵园的发展贡献自己的力量。我相信，在贵园这个广阔的平台上，我将能够不断提升自己的专业技能和综合素质，为贵园创造更多的价值。\n\n感谢您在百忙之中阅读我的求职信。如果您对我的背景和能力感兴趣，请随时联系我，我将非常乐意与您进一步沟通。\n\n此致\n\n敬礼\n\n[您的名字]"
+            ],
+            [
+                "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+                "亲爱的浦东软件园团队，\n\n我是复旦大学计算机科学与技术专业的学生，即将于2023年毕业。我对浦东软件园一直充满着浓厚的兴趣，因为贵园一直致力于推动中国软件产业的发展，为国内外企业提供了创新的技术和服务。\n\n在我的专业学习中，我掌握了软件工程、计算机网络、数据结构与算法等基础知识，并在实践中培养了良好的编程能力和解决问题的能力。我熟练使用Java、Python等编程语言，了解软件开发的各个阶段，包括需求分析、设计、实现和测试。此外，我还具备一定的数据库管理经验，熟悉MySQL、Oracle等数据库系统。\n\n我对浦东软件园的兴趣不仅来自于贵园在软件开发领域的专业声誉，更来自于贵园的企业文化和创新精神。贵园一直倡导以人为本，注重员工的个人发展和职业规划，这让我深感敬佩。同时，贵园在技术创新和业务拓展方面也一直走在行业的前沿，这让我对贵园的工作充满信心和期待。\n\n因此，我诚挚地希望能够加入浦东软件园，为贵园的发展贡献自己的力量。我相信，在贵园这个广阔的平台上，我将能够不断提升自己的专业技能和综合素质，为贵园创造更多的价值。\n\n感谢您在百忙之中阅读我的求职信。如果您对我的背景和能力感兴趣，请随时联系我，我将非常乐意与您进一步沟通。\n\n此致\n\n敬礼\n\n[您的名字]"
+            ]
+        ],
+        "task_description": "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "亲爱的浦东软件园团队，\n\n我是复旦大学计算机科学与技术专业的学生，即将于2023年毕业。我对浦东软件园一直充满着浓厚的兴趣，因为贵园一直致力于推动中国软件产业的发展，为国内外企业提供了创新的技术和服务。\n\n在我的专业学习中，我掌握了软件工程、计算机网络、数据结构与算法等基础知识，并在实践中培养了良好的编程能力和解决问题的能力。我熟练使用Java、Python等编程语言，了解软件开发的各个阶段，包括需求分析、设计、实现和测试。此外，我还具备一定的数据库管理经验，熟悉MySQL、Oracle等数据库系统。\n\n我对浦东软件园的兴趣不仅来自于贵园在软件开发领域的专业声誉，更来自于贵园的企业文化和创新精神。贵园一直倡导以人为本，注重员工的个人发展和职业规划，这让我深感敬佩。同时，贵园在技术创新和业务拓展方面也一直走在行业的前沿，这让我对贵园的工作充满信心和期待。\n\n因此，我诚挚地希望能够加入浦东软件园，为贵园的发展贡献自己的力量。我相信，在贵园这个广阔的平台上，我将能够不断提升自己的专业技能和综合素质，为贵园创造更多的价值。\n\n感谢您在百忙之中阅读我的求职信。如果您对我的背景和能力感兴趣，请随时联系我，我将非常乐意与您进一步沟通。\n\n此致\n\n敬礼\n\n[您的名字]"
+    },
+    {
+        "Instruction": "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+        "Instruction_id": "ed9d4e209baaab0b65faa53d50dcbbb8d1855a453a1e879324c56d6361a186f1",
+        "histories": [
+            [
+                "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+                "新疆大枣，颗颗饱满，色泽鲜艳，口感甘甜。其特点鲜明，果肉厚实，营养丰富，含有多种维生素和矿物质，能够有效提高免疫力，抗氧化，抗衰老。另外，新疆大枣还具有良好的助消化、降血压、降血糖等功效，是健康饮食的不二选择。"
+            ],
+            [
+                "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+                "新疆大枣，颗颗饱满，色泽鲜艳，口感甘甜。其特点鲜明，果肉厚实，营养丰富，含有多种维生素和矿物质，能够有效提高免疫力，抗氧化，抗衰老。另外，新疆大枣还具有良好的助消化、降血压、降血糖等功效，是健康饮食的不二选择。"
+            ]
+        ],
+        "task_description": "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "新疆大枣，颗颗饱满，色泽鲜艳，口感甘甜。其特点鲜明，果肉厚实，营养丰富，含有多种维生素和矿物质，能够有效提高免疫力，抗氧化，抗衰老。另外，新疆大枣还具有良好的助消化、降血压、降血糖等功效，是健康饮食的不二选择。"
+    },
+    {
+        "Instruction": "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+        "Instruction_id": "36482ae003631e4d1139cede4865ad70b289d88fc3f25f5fb7a1726ba8b19d84",
+        "histories": [
+            [
+                "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+                "从前，有一个可爱的小女孩，她叫做小豆。有一天，小豆走进了一片神秘的森林，看到了一颗特别的红豆，它比其他红豆更红更甜，就像一颗黑色的珍珠。小豆把红豆带回家，每天细心地照顾它，最终红豆长成了一个美丽的花朵，给小豆带来了无尽的欢乐。"
+            ],
+            [
+                "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+                "从前，有一个可爱的小女孩，她叫做小豆。有一天，小豆走进了一片神秘的森林，看到了一颗特别的红豆，它比其他红豆更红更甜，就像一颗黑色的珍珠。小豆把红豆带回家，每天细心地照顾它，最终红豆长成了一个美丽的花朵，给小豆带来了无尽的欢乐。"
+            ]
+        ],
+        "task_description": "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "从前，有一个可爱的小女孩，她叫做小豆。有一天，小豆走进了一片神秘的森林，看到了一颗特别的红豆，它比其他红豆更红更甜，就像一颗黑色的珍珠。小豆把红豆带回家，每天细心地照顾它，最终红豆长成了一个美丽的花朵，给小豆带来了无尽的欢乐。"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "Instruction": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "Instruction_id": "c0061c8ed7fa0dcc5122fec5f28e9d3781158954c17dec68a01d291b38cc5988",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+                "| 问题 | 新颖/改善的方法 | 关键字 | 介绍 |  步骤 |   \n| --- | ---------- | ---- | ---- | ------ | ---\\"
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 问题 | 新颖/改善的方法 | 关键字 | 介绍 |  步骤 |   \n| --- | ---------- | ---- | ---- | ------ | ---\\"
+    },
+    {
+        "Instruction": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "Instruction_id": "40332e40c3184efbe70d16e7784ee32c24c43b9e55f6c33c7ea4f1c27cf60c5a",
+        "histories": [
+            [
+                "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+                "<?xml version=\"1.0\"?> \n<animals type=\"mammal\">  \n    <cat name=\"Tiger\" description=\"Lives in jungles and preys on other animals.\" />  \n    <dog name=\"Doberman Pinscher\" description=\"A large breed of dog with short fur, often used as guard dogs or police dogs.\" />  \n</animals>"
+            ]
+        ],
+        "task_description": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "<?xml version=\"1.0\"?> \n<animals type=\"mammal\">  \n    <cat name=\"Tiger\" description=\"Lives in jungles and preys on other animals.\" />  \n    <dog name=\"Doberman Pinscher\" description=\"A large breed of dog with short fur, often used as guard dogs or police dogs.\" />  \n</animals>"
+    },
+    {
+        "Instruction": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "Instruction_id": "05eaffafa7b0ca5e23cac047bcf3727b745bf2d48a211de95cc00315528b424d",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+                "| 方法 | Keyword   | Brief description    | Step                       |\n| --- | ------ | ------------------- | --                         |\n| 1  | Establishing consistent sleep schedule | Create and stick to a regular bedtime routine | Set your alarm clock for 7-9 hours before you want to wake up in the morning, then go to bed at this time each night. This will help create consistency between when you fall asleep and how long it takes you to do so. |\n| 2  | Avoid screens 30 minutes prior to going to bed | Turn off all electronic devices such as phones or computers 30 minutes before heading to bed. The blue light emitted by these devices can interfere with melatonin production which helps regulate our natural circadian rhythm. |\n| 3  | Exercise regularly during daylight hours | Regular exercise has been shown to improve both quality of sleep and duration of slumber. Try exercising outside during sunrise or midday if possible. |\n| 4  | Limit caffeinated beverages after noon | Cut down on coffee consumption later in the afternoon/evenings; limit alcohol intake too since they are known stimulants. |\n| 5  | Practice relaxation techniques like deep breathing or yoga poses | Find ways to de-stress yourself through activities like meditation, progressive muscle relaxation, guided imagery, stretching, etc., either alone or with friends."
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 方法 | Keyword   | Brief description    | Step                       |\n| --- | ------ | ------------------- | --                         |\n| 1  | Establishing consistent sleep schedule | Create and stick to a regular bedtime routine | Set your alarm clock for 7-9 hours before you want to wake up in the morning, then go to bed at this time each night. This will help create consistency between when you fall asleep and how long it takes you to do so. |\n| 2  | Avoid screens 30 minutes prior to going to bed | Turn off all electronic devices such as phones or computers 30 minutes before heading to bed. The blue light emitted by these devices can interfere with melatonin production which helps regulate our natural circadian rhythm. |\n| 3  | Exercise regularly during daylight hours | Regular exercise has been shown to improve both quality of sleep and duration of slumber. Try exercising outside during sunrise or midday if possible. |\n| 4  | Limit caffeinated beverages after noon | Cut down on coffee consumption later in the afternoon/evenings; limit alcohol intake too since they are known stimulants. |\n| 5  | Practice relaxation techniques like deep breathing or yoga poses | Find ways to de-stress yourself through activities like meditation, progressive muscle relaxation, guided imagery, stretching, etc., either alone or with friends."
+    },
+    {
+        "Instruction": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "Instruction_id": "ce2a57d592fbbbc5e9e67e65b556a71b43f400e163f8d83364cf322c508b3391",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+                "1. 什么是一个健康的生活方式？（1）\n2. 如何在日常生活中保持健康的生活方式？（2）\n3. 有哪些因素会影响一个人是否拥有健康的生活方式？（3）"
+            ]
+        ],
+        "task_description": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "1. 什么是一个健康的生活方式？（1）\n2. 如何在日常生活中保持健康的生活方式？（2）\n3. 有哪些因素会影响一个人是否拥有健康的生活方式？（3）"
+    },
+    {
+        "Instruction": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "Instruction_id": "dee960bbd19c3b1958463df9c5c62d6111238addbec6ea924f00cd034f474267",
+        "histories": [
+            [
+                "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+                "{ \"1\": \"跑步\", \n\"2\": \"骑自行车\", \n\"3\": \"游泳\", \n\"4\": \"爬山\", \n\"5\": \"瑜伽\" }"
+            ]
+        ],
+        "task_description": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{ \"1\": \"跑步\", \n\"2\": \"骑自行车\", \n\"3\": \"游泳\", \n\"4\": \"爬山\", \n\"5\": \"瑜伽\" }"
+    },
+    {
+        "Instruction": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "Instruction_id": "fa3707e6632ac57e21791250ee7bce619643f18d11a07d0171bca2f60e5eca47",
+        "histories": [
+            [
+                "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+                "{\n  \"name\": \"麻婆豆腐\",\n  \"steps\": [\n    {\n      \"title\": \"准备食材\",\n      \"description\": \"\",\n      \"type\": \"\"\n    },\n    {\n      \"title\": \"炒锅加油热油\",\n      \"description\": \",然后加入蒜末和花椒煸炒出香味后放入豆瓣酱翻炒均匀再倒入适量水煮开\" ,\n      \"type\": \"list_item\"\n    },\n    {\n      \"title\": \"将猪肉切丁\",\n      \"description\": \", 然后在另一个平底锅中煎熟猪肉粒,捞起沥干备用\" ,\n      \"type\": \"list_item\"\n    },\n    {\n      \"title\": \"加入蔬菜\",\n      \"description\": \", 在同一个平底锅里再次加热少量油爆香青豆芽,胡萝卜片等其他配料\" ,\n      \"type\": \"list_item\"\n    },\n    {\n      \"title\": \"加入肉类\",\n      \"description\": \", 再次把煎好的猪肉块倒进锅内并与蔬菜一起翻炒至充分融合\" ,\n      \"type\": \"list_item\"\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n  \"name\": \"麻婆豆腐\",\n  \"steps\": [\n    {\n      \"title\": \"准备食材\",\n      \"description\": \"\",\n      \"type\": \"\"\n    },\n    {\n      \"title\": \"炒锅加油热油\",\n      \"description\": \",然后加入蒜末和花椒煸炒出香味后放入豆瓣酱翻炒均匀再倒入适量水煮开\" ,\n      \"type\": \"list_item\"\n    },\n    {\n      \"title\": \"将猪肉切丁\",\n      \"description\": \", 然后在另一个平底锅中煎熟猪肉粒,捞起沥干备用\" ,\n      \"type\": \"list_item\"\n    },\n    {\n      \"title\": \"加入蔬菜\",\n      \"description\": \", 在同一个平底锅里再次加热少量油爆香青豆芽,胡萝卜片等其他配料\" ,\n      \"type\": \"list_item\"\n    },\n    {\n      \"title\": \"加入肉类\",\n      \"description\": \", 再次把煎好的猪肉块倒进锅内并与蔬菜一起翻炒至充分融合\" ,\n      \"type\": \"list_item\"\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "Instruction_id": "1efcc17e4fe5bf20bf10db1d7c51c5dc7009be5746679b499ec7674fb74fe2f2",
+        "histories": [
+            [
+                "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+                "{ \"name\": \"John\", \n\"real\": true,\n\"fictional\": false }\n\n{\"name\":\"Abraham\",\"real\":true,\"fictional\":false}\n{\"name\":\"Jack\",\"real\":false,\"fictional\":true}"
+            ]
+        ],
+        "task_description": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{ \"name\": \"John\", \n\"real\": true,\n\"fictional\": false }\n\n{\"name\":\"Abraham\",\"real\":true,\"fictional\":false}\n{\"name\":\"Jack\",\"real\":false,\"fictional\":true}"
+    },
+    {
+        "Instruction": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "Instruction_id": "da1d19c05b129e05f9621f3b63c10299f2b231f189f5169376fccef19bf99056",
+        "histories": [
+            [
+                "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+                "1. 对称密钥：使用相同密钥对两个方进行通信的安全性高；但需要额外存储大量的密钥数据量；容易被破解；易受攻击者控制。\n2. Asymmetric key（公钥-私钥）：安全可靠且不易被窃取或改变；可实现多重身份认证；成本较高；难以在网络中传输信息。\n3. Hash函数：简单高效，可以快速验证消息的真实性；但是无法保证完整性和不可逆性；容易受到恶意修改的影响。"
+            ]
+        ],
+        "task_description": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "1. 对称密钥：使用相同密钥对两个方进行通信的安全性高；但需要额外存储大量的密钥数据量；容易被破解；易受攻击者控制。\n2. Asymmetric key（公钥-私钥）：安全可靠且不易被窃取或改变；可实现多重身份认证；成本较高；难以在网络中传输信息。\n3. Hash函数：简单高效，可以快速验证消息的真实性；但是无法保证完整性和不可逆性；容易受到恶意修改的影响。"
+    },
+    {
+        "Instruction": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "Instruction_id": "598d1cf42deee4845f54778bca3a51a66058de772019b3ebecf38e9311e983e1",
+        "histories": [
+            [
+                "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+                "| 作品名称 | 作者姓名 | 时间   |\n| -------- | ---- --- | ------ |\n| 《红楼梦》    | 小说家     | 18世纪末至19世纪初期 |"
+            ]
+        ],
+        "task_description": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 作品名称 | 作者姓名 | 时间   |\n| -------- | ---- --- | ------ |\n| 《红楼梦》    | 小说家     | 18世纪末至19世纪初期 |"
+    },
+    {
+        "Instruction": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "Instruction_id": "dcb67aefd2cf290a4f168b8f3a7da88f46ab53cca64f21695a95ce9f83502205",
+        "histories": [
+            [
+                "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+                "| 人物   | 朝代    | 生平经历     |\n| ------ | ----      | -------------- |\n| 李世民        | 西汉       | 从赤壁到临安的征途 |\n| 刘邦          | 东吴         | 南北战争中的英雄 |\n| 嬴政           | 三国            | 统一六国后被杀于洛阳之战中"
+            ]
+        ],
+        "task_description": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 人物   | 朝代    | 生平经历     |\n| ------ | ----      | -------------- |\n| 李世民        | 西汉       | 从赤壁到临安的征途 |\n| 刘邦          | 东吴         | 南北战争中的英雄 |\n| 嬴政           | 三国            | 统一六国后被杀于洛阳之战中"
+    },
+    {
+        "Instruction": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "Instruction_id": "64616184aa54a7de5bb1a070219bd94a133d987f5b5e462011dfee3da5d37380",
+        "histories": [
+            [
+                "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+                "{ \"title\": \"The Shawshank Redemption\", \n\"director\": \"Frank Darabont\", \n\"cast\": [\"Tim Robbins, Morgan Freeman\"], \n\"plot\": {\n    \"synopsis\": \"Two imprisoned men bond over their shared desire to escape from prison and live free.\", \n    \"setting\": {\"location\":\"Pennsylvania\",\"time period\":\"20th century\"}, \n    \"characters\": [{\"name\":\"Andy Dufresne\", \"age\": 40}, {\"name\":\"Ellis Boyd 'Red' Redding\", \"age\": 54}] }\n}"
+            ]
+        ],
+        "task_description": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{ \"title\": \"The Shawshank Redemption\", \n\"director\": \"Frank Darabont\", \n\"cast\": [\"Tim Robbins, Morgan Freeman\"], \n\"plot\": {\n    \"synopsis\": \"Two imprisoned men bond over their shared desire to escape from prison and live free.\", \n    \"setting\": {\"location\":\"Pennsylvania\",\"time period\":\"20th century\"}, \n    \"characters\": [{\"name\":\"Andy Dufresne\", \"age\": 40}, {\"name\":\"Ellis Boyd 'Red' Redding\", \"age\": 54}] }\n}"
+    },
+    {
+        "Instruction": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "Instruction_id": "ef696afae930972707730b96ecaefe30b19033893df82a9981b2cb56e12d0169",
+        "histories": [
+            [
+                "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+                "{ \"company\": [\"Apple\", \"Facebook\", \"FedEx\"], \n\"category\": [{\"name\":\"Technology\",\"value\":\"Apple\"}, {\"name\":\"Social Networking\",\"value\":\"Facebook\"}],\n\"type\":[\"Transportation Company\"]}"
+            ]
+        ],
+        "task_description": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{ \"company\": [\"Apple\", \"Facebook\", \"FedEx\"], \n\"category\": [{\"name\":\"Technology\",\"value\":\"Apple\"}, {\"name\":\"Social Networking\",\"value\":\"Facebook\"}],\n\"type\":[\"Transportation Company\"]}"
+    },
+    {
+        "Instruction": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "Instruction_id": "90e6f88ad9ea6e03d457981c7b097c5647800ec646e5223599d7fb897523601f",
+        "histories": [
+            [
+                "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+                "1. 人工智能对未来的影响是什么？（AI, AI应用）\n2. 如何利用大数据来预测未来趋势？（Big Data分析）\n3. 在气候变化下如何应对全球变暖的挑战？（可持续发展策略）\n4. 怎样解决人口老龄化带来的社会经济压力？（社会保障政策）\n5. 新冠疫情的影响将如何改变医疗保健行业？（健康管理技术）\n6. 为什么教育系统需要改革？（教育模式变革）\n7. 我们应该如何处理能源危机？（清洁能源开发）\n8. 数字货币是否会取代传统金融体系？（加密货币）\n9. 虚拟现实技术在游戏产业中的应用前景有多大？（VR/AR技术）\n10. 社交媒体是如何影响人们沟通方式的？（网络文化研究）"
+            ]
+        ],
+        "task_description": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "1. 人工智能对未来的影响是什么？（AI, AI应用）\n2. 如何利用大数据来预测未来趋势？（Big Data分析）\n3. 在气候变化下如何应对全球变暖的挑战？（可持续发展策略）\n4. 怎样解决人口老龄化带来的社会经济压力？（社会保障政策）\n5. 新冠疫情的影响将如何改变医疗保健行业？（健康管理技术）\n6. 为什么教育系统需要改革？（教育模式变革）\n7. 我们应该如何处理能源危机？（清洁能源开发）\n8. 数字货币是否会取代传统金融体系？（加密货币）\n9. 虚拟现实技术在游戏产业中的应用前景有多大？（VR/AR技术）\n10. 社交媒体是如何影响人们沟通方式的？（网络文化研究）"
+    },
+    {
+        "Instruction": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "Instruction_id": "324871929ceff27433eb4876790c5234a9ba934ca76a32dfd1a186237147d8be",
+        "histories": [
+            [
+                "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+                "1. 太阳能电池板：使用太阳能来产生电力，可以减少对化石燃料的需求并降低碳排放量。（1）\n2. 风力发电机：利用自然力量来生产电能，从而实现清洁能源替代传统能源的目的。（2）\n3. 水轮机：将动能转化为机械功，用于驱动机器或车辆，同时为环境提供清洁的动力来源。（3）\n4. 自然光源：通过收集阳光并将其转换成可用于照明的形式，使建筑物更加节能且环保。（4）\n5. 生物质发电机：从植物中提取能量，将其转化成电能，是一种新型绿色能源技术。（5）"
+            ]
+        ],
+        "task_description": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "1. 太阳能电池板：使用太阳能来产生电力，可以减少对化石燃料的需求并降低碳排放量。（1）\n2. 风力发电机：利用自然力量来生产电能，从而实现清洁能源替代传统能源的目的。（2）\n3. 水轮机：将动能转化为机械功，用于驱动机器或车辆，同时为环境提供清洁的动力来源。（3）\n4. 自然光源：通过收集阳光并将其转换成可用于照明的形式，使建筑物更加节能且环保。（4）\n5. 生物质发电机：从植物中提取能量，将其转化成电能，是一种新型绿色能源技术。（5）"
+    },
+    {
+        "Instruction": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "Instruction_id": "289f495f31c0895f0b2c2cf46d9b6e1fdf454f7f41dfe2cf90558a50e94773b1",
+        "histories": [
+            [
+                "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+                "| 品牌 |  特点是什么？   口味是什么样的？    产地在哪里?        |\n| ------ | --------------------------      | ---------------       |\n| Starbucks | 浓缩浓郁且带有甜味口感         | 美国               |\n| Costa Coffee | 香浓可口且有轻微苦涩味道           |英国                |\n| Blue Mountain Cafe & Bakery | 酸度高但同时具有柔滑细腻的味道          |日本                 |\n| Lavazza Perfetti Espresso | 浓郁而醇厚的口感以及微妙的焦糖风味            |意大利              |\n| George Clooney's Nescafe Blend No. 7 | 深色巧克力般的口感与淡雅清新的柑橘气息             |巴西/哥伦比亚               |"
+            ]
+        ],
+        "task_description": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 品牌 |  特点是什么？   口味是什么样的？    产地在哪里?        |\n| ------ | --------------------------      | ---------------       |\n| Starbucks | 浓缩浓郁且带有甜味口感         | 美国               |\n| Costa Coffee | 香浓可口且有轻微苦涩味道           |英国                |\n| Blue Mountain Cafe & Bakery | 酸度高但同时具有柔滑细腻的味道          |日本                 |\n| Lavazza Perfetti Espresso | 浓郁而醇厚的口感以及微妙的焦糖风味            |意大利              |\n| George Clooney's Nescafe Blend No. 7 | 深色巧克力般的口感与淡雅清新的柑橘气息             |巴西/哥伦比亚               |"
+    },
+    {
+        "Instruction": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "Instruction_id": "c330e000999f62803ea0aa7271cabb849db5d68f305024f85db15891272bcbbe",
+        "histories": [
+            [
+                "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+                "| 方案 | 关键词 | 描述 |  预期结果    |\n| --- | ---- | ------ | -------------- |\n| 1. 新口味蛋糕卖点 | “新鲜出炉” | 每个新口味蛋糕都有不同的味道和口感，让顾客尝遍不同口味；提高销量 | 预期结果：销售量上升20%以上。    \n| 2. 免费送货服务 | “无忧无虑” | 当购买超过一定金额时，可以享受到免费配送服务；提升客户满意度 | 预期结果：减少退换货率30%左右。     \n| 3. 在社交媒体上举办抽奖活动 | “赢大奖！” | 通过在社交媒体上发布有关我们的产品或活动的内容，参与者有机会获得一些小礼品或者优惠券等奖励；吸引更多消费者前来消费 | 预期结果：增加品牌知名度，促进销售增长。"
+            ]
+        ],
+        "task_description": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 方案 | 关键词 | 描述 |  预期结果    |\n| --- | ---- | ------ | -------------- |\n| 1. 新口味蛋糕卖点 | “新鲜出炉” | 每个新口味蛋糕都有不同的味道和口感，让顾客尝遍不同口味；提高销量 | 预期结果：销售量上升20%以上。    \n| 2. 免费送货服务 | “无忧无虑” | 当购买超过一定金额时，可以享受到免费配送服务；提升客户满意度 | 预期结果：减少退换货率30%左右。     \n| 3. 在社交媒体上举办抽奖活动 | “赢大奖！” | 通过在社交媒体上发布有关我们的产品或活动的内容，参与者有机会获得一些小礼品或者优惠券等奖励；吸引更多消费者前来消费 | 预期结果：增加品牌知名度，促进销售增长。"
+    },
+    {
+        "Instruction": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "Instruction_id": "0a4226a6bc3fd7697b1903cc022e1772f921ea3ceed4b183be0b1ebc0ea74967",
+        "histories": [
+            [
+                "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+                "{ \n\"key\": \"Prepare for tomorrow\",  \n    description : \"Create to-do lists and plan out your day in advance, so you can start each morning with clear goals.\", \n    steps : [\"Set realistic daily objectives.\"], \n    importance : 1\n}"
+            ]
+        ],
+        "task_description": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{ \n\"key\": \"Prepare for tomorrow\",  \n    description : \"Create to-do lists and plan out your day in advance, so you can start each morning with clear goals.\", \n    steps : [\"Set realistic daily objectives.\"], \n    importance : 1\n}"
+    },
+    {
+        "Instruction": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "Instruction_id": "9fb29206dbf38c8a744f67ee82eb5e977aff48403c074f115b4aad2b1ea70698",
+        "histories": [
+            [
+                "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+                "<keywords>无人驾驶汽车</keywords> \n<description>自动驾驶技术正在快速发展。它可以改善交通拥堵和安全问题。</description>\n<advantages>1. 自动化：减少人为错误的发生。2. 2 四通八达：能够在不同的道路上行驶。3. 3 节能环保：降低碳排放量。</advantages>"
+            ]
+        ],
+        "task_description": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "<keywords>无人驾驶汽车</keywords> \n<description>自动驾驶技术正在快速发展。它可以改善交通拥堵和安全问题。</description>\n<advantages>1. 自动化：减少人为错误的发生。2. 2 四通八达：能够在不同的道路上行驶。3. 3 节能环保：降低碳排放量。</advantages>"
+    },
+    {
+        "Instruction": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "Instruction_id": "200a16619c6c54babde59851b9225fd4c30bbdce5b5f14b57f4d7ea5fe077064",
+        "histories": [
+            [
+                "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+                "<root> \n    <color1 name=\"red\">Red</color1>  \n    <color2 name=\"blue\">Blue</color2>    \n    <color3 name=\"yellow\">Yellow</color3>     \n    <color4 name=\"green\">Green</color4>      \n    <name>Purple</name>         \n    <description>A purplish flower with delicate petals and sweet fragrance.</description>"
+            ]
+        ],
+        "task_description": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "<root> \n    <color1 name=\"red\">Red</color1>  \n    <color2 name=\"blue\">Blue</color2>    \n    <color3 name=\"yellow\">Yellow</color3>     \n    <color4 name=\"green\">Green</color4>      \n    <name>Purple</name>         \n    <description>A purplish flower with delicate petals and sweet fragrance.</description>"
+    },
+    {
+        "Instruction": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "Instruction_id": "d7dbc6e1d4580911810c0f8728cdd2d9e0795e59430527295c409279e09302af",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+                "1. 什么是社交媒体对品牌忠诚度影响？（1）\n2. 如何衡量社交媒体对于品牌忠诚度的影响程度？（2）\n3. 在什么情况下使用社交媒体可以提高品牌忠诚度？（3）"
+            ]
+        ],
+        "task_description": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "1. 什么是社交媒体对品牌忠诚度影响？（1）\n2. 如何衡量社交媒体对于品牌忠诚度的影响程度？（2）\n3. 在什么情况下使用社交媒体可以提高品牌忠诚度？（3）"
+    }
+]

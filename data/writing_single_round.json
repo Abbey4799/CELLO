@@ -1,0 +1,985 @@
+[
+    {
+        "Instruction": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+        "Instruction_id": "edec79b57161fc71c38c3bb26e9bd176267d72fa07788c9e24d92c082f0a5109",
+        "histories": [],
+        "task_description": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-min",
+                "limit": 50
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "股市",
+                    "下跌",
+                    "原因",
+                    "影响",
+                    "投资者",
+                    "前景"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+        "Instruction_id": "6ae90094e8974c0373e77f67a34c55ac63f14876b49099c4df4549d7da5c0f03",
+        "histories": [],
+        "task_description": "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-min",
+                "limit": 400
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "元宇宙",
+                    "虚拟数字人",
+                    "重要性",
+                    "关系"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "Instruction_id": "1437cf4879fd07cc992e6b51de682af84d654549efe244e9524cf22ed8db3c44",
+        "histories": [],
+        "task_description": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 150
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "应用场景",
+                    "电网故障检测",
+                    "故障定位",
+                    "故障诊断",
+                    "故障处理",
+                    "转化前景",
+                    "电网故障处理效率",
+                    "维修成本",
+                    "提升供电可靠性"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "知识图谱",
+                    "电网故障",
+                    "智能辅助处置技术",
+                    "应用场景",
+                    "转化前景"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+        "Instruction_id": "31dbd92c4c825a5236d692b16c097ddeff2de095ad8643f1cc7082660dc9e438",
+        "histories": [],
+        "task_description": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "X实验室",
+                    "算力",
+                    "研究经验",
+                    "研究经费",
+                    "成果"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+        "Instruction_id": "2d5facfd776f1fb033c3723c3d62c243f436f284ada934a50c5578ddddaeff36",
+        "histories": [],
+        "task_description": "为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+        "input_text": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n",
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 200
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "https://s.weibo.com/",
+                    "知识",
+                    "启发"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "基因表达水平",
+                    "生物研究",
+                    "循环神经网络",
+                    "改进方法"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+        "Instruction_id": "733873a8e99d4759f9a3cef440b0a56ac9ebd65d3ba9e5073e73691ddd5089ac",
+        "histories": [],
+        "task_description": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 500
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "#"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "度假",
+                    "夏日",
+                    "海滩",
+                    "玩耍",
+                    "狗",
+                    "快乐",
+                    "美好"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+        "Instruction_id": "cbc73ce1edd922b99679dd6f6e985cc91c831d73de7b3cc8e231394d2925a307",
+        "histories": [],
+        "task_description": "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "#"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "关注",
+                    "点赞",
+                    "评论",
+                    "标记朋友",
+                    "奖品",
+                    "礼物",
+                    "11月1日"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "Instruction_id": "89b05cf7124871257ac4edba52726dbc76e314f810a62e3a8fb9b84142c9a87b",
+        "histories": [],
+        "task_description": "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 160
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "健身",
+                    "网站",
+                    "www.example.com"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+        "Instruction_id": "1ee5b8ea80994ab6fb0e886817aec29d1a24514d7201897e72f65e59d7bb12db",
+        "histories": [],
+        "task_description": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "数字营销",
+                        10
+                    ],
+                    [
+                        "在线课程",
+                        10
+                    ],
+                    [
+                        "限时优惠",
+                        10
+                    ],
+                    [
+                        "24小时",
+                        10
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "数字营销",
+                    "在线课程",
+                    "限时优惠",
+                    "24小时"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "Instruction_id": "2e3a353a14ec908c6434bf83b42133447bf7051f57084806128ee4d1e72d3c47",
+        "histories": [],
+        "task_description": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 1000
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "家用厨房",
+                    "创新",
+                    "实用",
+                    "美观",
+                    "功能",
+                    "材料",
+                    "外观"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+        "Instruction_id": "03fd97e1d0300996e16245447473a06c144533011653dc344b1e8900d0601c8d",
+        "histories": [],
+        "task_description": "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "知识图谱",
+                    "应用",
+                    "优势",
+                    "电网故障智能辅助处置技术",
+                    "存在问题",
+                    "需求"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+        "Instruction_id": "ec2532f3d546755c219f519e772a71ebbf61987b8605d721daf1d3f2b18563b9",
+        "histories": [],
+        "task_description": "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "美国",
+                    "日本",
+                    "知识图谱",
+                    "电网故障智能辅助处置技术"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "Instruction_id": "6144a0d35f75bddb08d27272c30a867660005ec3a358e38900f58cd99b011360",
+        "histories": [],
+        "task_description": "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "夏天",
+                    "沙滩",
+                    "冰淇淋",
+                    "游泳",
+                    "阳光",
+                    "比基尼"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+        "Instruction_id": "04a13e9406e6df1611214689bc577d349a32ad21cfbce251dc9b237fb9588d88",
+        "histories": [],
+        "task_description": "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "信息化",
+                    "网络化",
+                    "伦理问题",
+                    "网络伦理治理",
+                    "科技创新",
+                    "案例",
+                    "实际",
+                    "应用",
+                    "重要",
+                    "必要"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "Instruction_id": "764b89dc31a50160ddae60b2106b195eae9d64ad5f14f216d9434fb59f19f6d6",
+        "histories": [],
+        "task_description": "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "Twitter",
+                    "account",
+                    "violation",
+                    "rules",
+                    "response",
+                    "violation",
+                    "justice",
+                    "clarify",
+                    "reason"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "Instruction_id": "f83f913a9b663ddaad0ac6315d3840697f8f8a0899be4617f59b76360d2b2be4",
+        "histories": [],
+        "task_description": "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "复旦",
+                    "研究生会",
+                    "四十周年",
+                    "故事征集活动",
+                    "校友",
+                    "故事",
+                    "活动",
+                    "经历",
+                    "截止日期",
+                    "2022年6月30日"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "Instruction_id": "02b84685e2e1c0655de8b91e795038dd1a0bf0fb1acf3afeb244a613ac2192f5",
+        "histories": [],
+        "task_description": "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "统一六国",
+                    "万里长城",
+                    "公元前259年",
+                    "秦朝",
+                    "皇帝",
+                    "成就"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+        "Instruction_id": "d9d0df63fa8722cecb9fc88c0f00d76551f33742cbfe6a67511cbe4404e49f5b",
+        "histories": [],
+        "task_description": "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "复旦大学计算机学院",
+                    "恺英网络",
+                    "合作关系",
+                    "科研成果",
+                    "交流讨论",
+                    "目的",
+                    "交流合作",
+                    "时间",
+                    "2022年6月15日"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "Instruction_id": "327c8393815e96bc3455ee55819041b949a5f78a99bbb7e68ff646c86d77edaf",
+        "histories": [],
+        "task_description": "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "摘要",
+                    "游戏产业",
+                    "AGI",
+                    "应用",
+                    "影响",
+                    "游戏开发",
+                    "游戏体验",
+                    "游戏创新"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+        "Instruction_id": "5eccad6ea31519c1a5125ae832ae4989512f76fe175eb1f07c4aea214ae0d471",
+        "histories": [],
+        "task_description": "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 200
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "引言",
+                    "压力的原因",
+                    "应对策略",
+                    "总结",
+                    "研究生",
+                    "培养期间",
+                    "压力",
+                    "应对"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+        "Instruction_id": "fddb9862fc663eb911663962382a11d0001556b0f51ac64131d33a628fcfdc41",
+        "histories": [],
+        "task_description": "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "专业",
+                    "技能",
+                    "浦东软件园",
+                    "兴趣",
+                    "复旦计算机",
+                    "尊敬",
+                    "此致",
+                    "敬礼"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+        "Instruction_id": "ed9d4e209baaab0b65faa53d50dcbbb8d1855a453a1e879324c56d6361a186f1",
+        "histories": [],
+        "task_description": "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 200
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "特点",
+                    "好处",
+                    "新疆大枣"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+        "Instruction_id": "36482ae003631e4d1139cede4865ad70b289d88fc3f25f5fb7a1726ba8b19d84",
+        "histories": [],
+        "task_description": "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "甜",
+                    "黑",
+                    "珍珠",
+                    "红豆"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    }
+]

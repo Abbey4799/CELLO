@@ -1,0 +1,737 @@
+[
+    {
+        "Instruction": "请从句子中抽取包含获奖和入选关系的三元组，获奖关系描述了一个人或者团体荣获某个奖项的事实，而入选关系描述了人物参与奖项评比的事实。请以 人物|关系|相关实体 的形式进行输出，并以逗号将多个三元组分隔开。不需要输出不包含获奖关系的三元组。\n陈奕迅（英语：Eason Chan Yick Shun；1974年7月27日－），香港流行音乐男歌手及演员。他被《时代杂志》形容为带领香港粤语音乐潮流及影响香港乐坛风格的人物，其2005年推出的大碟《U87》被《时代杂志》推选为五大亚洲最值得购买的唱片之一。1995年因获得第14届TVB全球华人新秀歌唱大赛冠军而正式入行，至今已发行超过40张专辑。2010年，入选中国华语金曲奖“30年经典评选”，成为90年代出道歌手唯一代表。他曾三度获得台湾金曲奖最佳国语男歌手奖，与殷正洋并列为“金曲歌王”纪录保持者。",
+        "Instruction_id": "92e868526a93174d14af37c1763653049343158864a424eea52ea38aec7f8ede",
+        "histories": [
+            [
+                "请从句子中抽取包含获奖和入选关系的三元组，获奖关系描述了一个人或者团体荣获某个奖项的事实，而入选关系描述了人物参与奖项评比的事实。请以 人物|关系|相关实体 的形式进行输出，并以逗号将多个三元组分隔开。不需要输出不包含获奖关系的三元组。\n陈奕迅（英语：Eason Chan Yick Shun；1974年7月27日－），香港流行音乐男歌手及演员。他被《时代杂志》形容为带领香港粤语音乐潮流及影响香港乐坛风格的人物，其2005年推出的大碟《U87》被《时代杂志》推选为五大亚洲最值得购买的唱片之一。1995年因获得第14届TVB全球华人新秀歌唱大赛冠军而正式入行，至今已发行超过40张专辑。2010年，入选中国华语金曲奖“30年经典评选”，成为90年代出道歌手唯一代表。他曾三度获得台湾金曲奖最佳国语男歌手奖，与殷正洋并列为“金曲歌王”纪录保持者。",
+                " Sure, I can help you with that! Here are the three-element combinations that contain the information about Eason Chan's awards and selection:\n\n* Eason Chan | winning an award | \"U87\" album\n\t+ He won the 14th TVB Global Chinese New Talent Singing Competition in 1995.\n\t+ His album \"U87\" was selected as one of the five best Asian albums of the year by Time Magazine in 2005.\n* Eason Chan | being selected | \"30 Years of Golden Melodies\" award\n\t+ He was selected as one of the 30 classic golden melodies in China in 2010.\n* Eason Chan | winning a prize | Golden Melody Awards\n\t+ He has won the Best Mandarin Male Singer award at the Golden Melody Awards three times.\n\nNote that I have excluded the information about his birthday and the fact that he is a singer and actor, as they are not related to awards or selections."
+            ]
+        ],
+        "task_description": "请从句子中抽取包含获奖和入选关系的三元组，获奖关系描述了一个人或者团体荣获某个奖项的事实，而入选关系描述了人物参与奖项评比的事实。请以 人物|关系|相关实体 的形式进行输出，并以逗号将多个三元组分隔开。不需要输出不包含获奖关系的三元组。",
+        "input_text": "陈奕迅（英语：Eason Chan Yick Shun；1974年7月27日－），香港流行音乐男歌手及演员。他被《时代杂志》形容为带领香港粤语音乐潮流及影响香港乐坛风格的人物，其2005年推出的大碟《U87》被《时代杂志》推选为五大亚洲最值得购买的唱片之一。1995年因获得第14届TVB全球华人新秀歌唱大赛冠军而正式入行，至今已发行超过40张专辑。2010年，入选中国华语金曲奖“30年经典评选”，成为90年代出道歌手唯一代表。他曾三度获得台湾金曲奖最佳国语男歌手奖，与殷正洋并列为“金曲歌王”纪录保持者。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you with that! Here are the three-element combinations that contain the information about Eason Chan's awards and selection:\n\n* Eason Chan | winning an award | \"U87\" album\n\t+ He won the 14th TVB Global Chinese New Talent Singing Competition in 1995.\n\t+ His album \"U87\" was selected as one of the five best Asian albums of the year by Time Magazine in 2005.\n* Eason Chan | being selected | \"30 Years of Golden Melodies\" award\n\t+ He was selected as one of the 30 classic golden melodies in China in 2010.\n* Eason Chan | winning a prize | Golden Melody Awards\n\t+ He has won the Best Mandarin Male Singer award at the Golden Melody Awards three times.\n\nNote that I have excluded the information about his birthday and the fact that he is a singer and actor, as they are not related to awards or selections."
+    },
+    {
+        "Instruction": "下面的文本中包含哪些专辑、年份和歌曲实体？请按照[[专辑1, 专辑2, ...], [年份1, 年份2, ...], [歌曲1, 歌曲2, ...]]的顺序输出。\n2001年发行首张个人创作EP《Hins' First》。2002年签约环球唱片，并发表首张个人专辑《My Way》；同年发行的歌曲《断点》获得大众关注，成为其演艺生涯的代表作品。2005年参演青春励志偶像电影《拥抱每一刻花火》。2006年将演艺事业的发展重心转移至香港，并发行首张个人粤语专辑《笑忘书》；同年凭借歌曲《My Way》获得了第八届共青团精神文明建设“五个一工程”优秀文化作品奖。2007年凭借歌曲《酷爱》在各大乐坛颁奖典礼上横扫多个歌曲奖，奠定乐坛地位。2008年在香港红磡体育馆举行首次个人演唱会，成为首位在红馆举办演唱会的内地男歌手。2009年在广州星海音乐厅举办“Unplugged第一乐章音乐会”，成为首位在广州星海音乐厅开唱的本地流行歌手。2010年发行粤语专辑《No. Eleven》。2012年发行粤语专辑《Why Not》。",
+        "Instruction_id": "12486ed071aa5268699b2fa99754cca2acb688d8b4f6ebd67e32358b469a2cb4",
+        "histories": [
+            [
+                "下面的文本中包含哪些专辑、年份和歌曲实体？请按照[[专辑1, 专辑2, ...], [年份1, 年份2, ...], [歌曲1, 歌曲2, ...]]的顺序输出。\n2001年发行首张个人创作EP《Hins' First》。2002年签约环球唱片，并发表首张个人专辑《My Way》；同年发行的歌曲《断点》获得大众关注，成为其演艺生涯的代表作品。2005年参演青春励志偶像电影《拥抱每一刻花火》。2006年将演艺事业的发展重心转移至香港，并发行首张个人粤语专辑《笑忘书》；同年凭借歌曲《My Way》获得了第八届共青团精神文明建设“五个一工程”优秀文化作品奖。2007年凭借歌曲《酷爱》在各大乐坛颁奖典礼上横扫多个歌曲奖，奠定乐坛地位。2008年在香港红磡体育馆举行首次个人演唱会，成为首位在红馆举办演唱会的内地男歌手。2009年在广州星海音乐厅举办“Unplugged第一乐章音乐会”，成为首位在广州星海音乐厅开唱的本地流行歌手。2010年发行粤语专辑《No. Eleven》。2012年发行粤语专辑《Why Not》。",
+                " Sure, I'd be happy to help! Based on the text you provided, the following are the albums, years, and song entities mentioned:\n\nAlbums:\n\n* 《Hins' First》 (2001)\n* 《My Way》 (2002)\n* 《笑忘书》 (2006)\n* 《No. Eleven》 (2010)\n* 《Why Not》 (2012)\n\nYears:\n\n* 2001\n* 2002\n* 2005\n* 2006\n* 2007\n* 2008\n* 2009\n* 2010\n* 2012\n\nSong entities:\n\n* 《断点》 (2002)\n* 《My Way》 (2002)\n* 《酷爱》 (2007)\n\nPlease note that the song entities mentioned are not necessarily the titles of the songs, but rather the names of the songs as mentioned in the text."
+            ]
+        ],
+        "task_description": "下面的文本中包含哪些专辑、年份和歌曲实体？请按照[[专辑1, 专辑2, ...], [年份1, 年份2, ...], [歌曲1, 歌曲2, ...]]的顺序输出。",
+        "input_text": "2001年发行首张个人创作EP《Hins' First》。2002年签约环球唱片，并发表首张个人专辑《My Way》；同年发行的歌曲《断点》获得大众关注，成为其演艺生涯的代表作品。2005年参演青春励志偶像电影《拥抱每一刻花火》。2006年将演艺事业的发展重心转移至香港，并发行首张个人粤语专辑《笑忘书》；同年凭借歌曲《My Way》获得了第八届共青团精神文明建设“五个一工程”优秀文化作品奖。2007年凭借歌曲《酷爱》在各大乐坛颁奖典礼上横扫多个歌曲奖，奠定乐坛地位。2008年在香港红磡体育馆举行首次个人演唱会，成为首位在红馆举办演唱会的内地男歌手。2009年在广州星海音乐厅举办“Unplugged第一乐章音乐会”，成为首位在广州星海音乐厅开唱的本地流行歌手。2010年发行粤语专辑《No. Eleven》。2012年发行粤语专辑《Why Not》。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the text you provided, the following are the albums, years, and song entities mentioned:\n\nAlbums:\n\n* 《Hins' First》 (2001)\n* 《My Way》 (2002)\n* 《笑忘书》 (2006)\n* 《No. Eleven》 (2010)\n* 《Why Not》 (2012)\n\nYears:\n\n* 2001\n* 2002\n* 2005\n* 2006\n* 2007\n* 2008\n* 2009\n* 2010\n* 2012\n\nSong entities:\n\n* 《断点》 (2002)\n* 《My Way》 (2002)\n* 《酷爱》 (2007)\n\nPlease note that the song entities mentioned are not necessarily the titles of the songs, but rather the names of the songs as mentioned in the text."
+    },
+    {
+        "Instruction": "抽取和个人资料相关的关系三元组，个人资料包括出生日期、英文名、职业、爱好等与个人息息相关的信息。请用如(人物, 关系, 相关实体)的三元组形式进行输出，不要输出无关的三元组。\n陈奕迅（英语：Eason Chan Yick Shun；1974年7月27日－），香港流行音乐男歌手及演员。他被《时代杂志》形容为带领香港粤语音乐潮流及影响香港乐坛风格的人物，其2005年推出的大碟《U87》被《时代杂志》推选为五大亚洲最值得购买的唱片之一。1995年因获得第14届TVB全球华人新秀歌唱大赛冠军而正式入行，至今已发行超过40张专辑。2010年，入选中国华语金曲奖“30年经典评选”，成为90年代出道歌手唯一代表。他曾三度获得台湾金曲奖最佳国语男歌手奖，与殷正洋并列为“金曲歌王”纪录保持者。",
+        "Instruction_id": "577cd334f70cbe06a44ba0b5280f365281a07f4c1e23652b5f85b342fdcb770a",
+        "histories": [
+            [
+                "抽取和个人资料相关的关系三元组，个人资料包括出生日期、英文名、职业、爱好等与个人息息相关的信息。请用如(人物, 关系, 相关实体)的三元组形式进行输出，不要输出无关的三元组。\n陈奕迅（英语：Eason Chan Yick Shun；1974年7月27日－），香港流行音乐男歌手及演员。他被《时代杂志》形容为带领香港粤语音乐潮流及影响香港乐坛风格的人物，其2005年推出的大碟《U87》被《时代杂志》推选为五大亚洲最值得购买的唱片之一。1995年因获得第14届TVB全球华人新秀歌唱大赛冠军而正式入行，至今已发行超过40张专辑。2010年，入选中国华语金曲奖“30年经典评选”，成为90年代出道歌手唯一代表。他曾三度获得台湾金曲奖最佳国语男歌手奖，与殷正洋并列为“金曲歌王”纪录保持者。",
+                " Sure! Here are the three entities related to Eason Chan Yick Shun:\n\n(Eason Chan Yick Shun, Relationship, Notable Achievements)\n\nEason Chan Yick Shun (Person)\n\n* Born on July 27, 1974, in Hong Kong\n* Hong Kong pop singer and actor\n* Known for his contributions to Cantonese music and his influence on the Hong Kong music scene\n\nNotable Achievements:\n\n* Won the TVB Global Chinese New Talent Singing Competition in 1995\n* Released over 40 albums since his debut in 1995\n* Named as one of the \"5 Asian albums worth buying\" by Time Magazine in 2005\n* Won the Best Male Singer Award at the Chinese Music Awards three times\n* Named as the only representative of 90s debut singers in the \"30 Years of Classic Selection\" list by China Music Awards in 2010\n\nRelationship:\n\n* Eason Chan Yick Shun is a Hong Kong pop singer and actor who has been active in the entertainment industry since 1995. He has released over 40 albums and has won numerous awards for his contributions to Cantonese music."
+            ]
+        ],
+        "task_description": "抽取和个人资料相关的关系三元组，个人资料包括出生日期、英文名、职业、爱好等与个人息息相关的信息。请用如(人物, 关系, 相关实体)的三元组形式进行输出，不要输出无关的三元组。",
+        "input_text": "陈奕迅（英语：Eason Chan Yick Shun；1974年7月27日－），香港流行音乐男歌手及演员。他被《时代杂志》形容为带领香港粤语音乐潮流及影响香港乐坛风格的人物，其2005年推出的大碟《U87》被《时代杂志》推选为五大亚洲最值得购买的唱片之一。1995年因获得第14届TVB全球华人新秀歌唱大赛冠军而正式入行，至今已发行超过40张专辑。2010年，入选中国华语金曲奖“30年经典评选”，成为90年代出道歌手唯一代表。他曾三度获得台湾金曲奖最佳国语男歌手奖，与殷正洋并列为“金曲歌王”纪录保持者。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure! Here are the three entities related to Eason Chan Yick Shun:\n\n(Eason Chan Yick Shun, Relationship, Notable Achievements)\n\nEason Chan Yick Shun (Person)\n\n* Born on July 27, 1974, in Hong Kong\n* Hong Kong pop singer and actor\n* Known for his contributions to Cantonese music and his influence on the Hong Kong music scene\n\nNotable Achievements:\n\n* Won the TVB Global Chinese New Talent Singing Competition in 1995\n* Released over 40 albums since his debut in 1995\n* Named as one of the \"5 Asian albums worth buying\" by Time Magazine in 2005\n* Won the Best Male Singer Award at the Chinese Music Awards three times\n* Named as the only representative of 90s debut singers in the \"30 Years of Classic Selection\" list by China Music Awards in 2010\n\nRelationship:\n\n* Eason Chan Yick Shun is a Hong Kong pop singer and actor who has been active in the entertainment industry since 1995. He has released over 40 albums and has won numerous awards for his contributions to Cantonese music."
+    },
+    {
+        "Instruction": "请从下面的新闻报道中抽取新闻事件的关键要素，包括事件时间、人物、新闻事件介绍、新闻来源。请以键值对的形式分行进行输出\n财联社4月10日电，商汤科技董事长兼首席执行官徐立宣布推出大模型体系“商汤日日新大模型”，包括自然语言生成、文生图、感知模型标注、以及模型研发功能。此外，商汤科技还宣布推出了商汤自研中文语言大模型应用平台“商量”。",
+        "Instruction_id": "351a8afaf9d7cfb84da5eb4ad67ea825e1aa457810a0f11ca70949f82a2edaac",
+        "histories": [
+            [
+                "请从下面的新闻报道中抽取新闻事件的关键要素，包括事件时间、人物、新闻事件介绍、新闻来源。请以键值对的形式分行进行输出\n财联社4月10日电，商汤科技董事长兼首席执行官徐立宣布推出大模型体系“商汤日日新大模型”，包括自然语言生成、文生图、感知模型标注、以及模型研发功能。此外，商汤科技还宣布推出了商汤自研中文语言大模型应用平台“商量”。",
+                " Sure, I'd be happy to help! Here are the key elements of the news report:\n\nKey Elements:\n\n1. Time: April 10th\n2. Person: Chairman and CEO of Commercial Technology, Mr. Xu\n3. New Event Introduction: Commercial Technology is launching a new large-scale model system called \"Commercial Daily New Model\" which includes natural language generation, text-to-image, cognitive model annotation, and model development functions.\n4. News Source: Commercial Daily\n\nHere are the key elements in a list format:\n\n[Time] April 10th\n\n[Person] Mr. Xu, Chairman and CEO of Commercial Technology\n\n[New Event Introduction] Commercial Technology is launching a new large-scale model system called \"Commercial Daily New Model\" which includes natural language generation, text-to-image, cognitive model annotation, and model development functions.\n\n[News Source] Commercial Daily"
+            ]
+        ],
+        "task_description": "请从下面的新闻报道中抽取新闻事件的关键要素，包括事件时间、人物、新闻事件介绍、新闻来源。请以键值对的形式分行进行输出",
+        "input_text": "财联社4月10日电，商汤科技董事长兼首席执行官徐立宣布推出大模型体系“商汤日日新大模型”，包括自然语言生成、文生图、感知模型标注、以及模型研发功能。此外，商汤科技还宣布推出了商汤自研中文语言大模型应用平台“商量”。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Here are the key elements of the news report:\n\nKey Elements:\n\n1. Time: April 10th\n2. Person: Chairman and CEO of Commercial Technology, Mr. Xu\n3. New Event Introduction: Commercial Technology is launching a new large-scale model system called \"Commercial Daily New Model\" which includes natural language generation, text-to-image, cognitive model annotation, and model development functions.\n4. News Source: Commercial Daily\n\nHere are the key elements in a list format:\n\n[Time] April 10th\n\n[Person] Mr. Xu, Chairman and CEO of Commercial Technology\n\n[New Event Introduction] Commercial Technology is launching a new large-scale model system called \"Commercial Daily New Model\" which includes natural language generation, text-to-image, cognitive model annotation, and model development functions.\n\n[News Source] Commercial Daily"
+    },
+    {
+        "Instruction": "请从文本中抽取出包含“目”关系的三元组，主语应该是一种动物或者物种，而宾语应该是一种生物学上提出来的目名。输出的形式为：动物名称——目——具体的目名\n茶网蝽，Stephanitis chinensis Drake，属半翅目网蝽科冠网椿属的一种昆虫。分布广东、贵州、四川、云南等省，是西南茶区重要害虫。",
+        "Instruction_id": "de9f91344f642717609569da92b473a8baccc3327efe4b2b0913a85655f591b2",
+        "histories": [
+            [
+                "请从文本中抽取出包含“目”关系的三元组，主语应该是一种动物或者物种，而宾语应该是一种生物学上提出来的目名。输出的形式为：动物名称——目——具体的目名\n茶网蝽，Stephanitis chinensis Drake，属半翅目网蝽科冠网椿属的一种昆虫。分布广东、贵州、四川、云南等省，是西南茶区重要害虫。",
+                " Sure, I'd be happy to help! Based on the text you provided, here is the three-tuple relation extraction:\n\nTea Leaf Caterpillar (Stephanitis chinensis Drake) - Order - Leafminer ( belonging to the families Tineidae and Acrididae )"
+            ]
+        ],
+        "task_description": "请从文本中抽取出包含“目”关系的三元组，主语应该是一种动物或者物种，而宾语应该是一种生物学上提出来的目名。输出的形式为：动物名称——目——具体的目名",
+        "input_text": "茶网蝽，Stephanitis chinensis Drake，属半翅目网蝽科冠网椿属的一种昆虫。分布广东、贵州、四川、云南等省，是西南茶区重要害虫。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the text you provided, here is the three-tuple relation extraction:\n\nTea Leaf Caterpillar (Stephanitis chinensis Drake) - Order - Leafminer ( belonging to the families Tineidae and Acrididae )"
+    },
+    {
+        "Instruction": "请从下面的文本中抽取所有的演员，并以\n- 演员1\n- 演员2\n...\n的形式进行输出\n《隐秘的角落》（英语：The Bad Kids），2020年中国大陆犯罪悬疑剧，爱奇艺“迷雾剧场”作品之一。由辛爽执导，秦昊、王景春、荣梓杉、史彭元、王圣迪、张颂文、刘琳、芦芳生等主演，改编自紫金陈推理小说《坏小孩》。于2020年6月16日在爱奇艺首播。",
+        "Instruction_id": "398a33007dada280516a7faa7aa90fb1c8f1b87238fea4bfa3e794dea1c617ea",
+        "histories": [
+            [
+                "请从下面的文本中抽取所有的演员，并以\n- 演员1\n- 演员2\n...\n的形式进行输出\n《隐秘的角落》（英语：The Bad Kids），2020年中国大陆犯罪悬疑剧，爱奇艺“迷雾剧场”作品之一。由辛爽执导，秦昊、王景春、荣梓杉、史彭元、王圣迪、张颂文、刘琳、芦芳生等主演，改编自紫金陈推理小说《坏小孩》。于2020年6月16日在爱奇艺首播。",
+                " Sure! Based on the text you provided, here are the actors listed in the format you requested:\n\n- 演员1: 秦昊 (Qin Hao)\n- 演员2: 王景春 (Wang Jingchun)\n- 演员3: 荣梓杉 (Rong Zishan)\n- 演员4: 史彭元 (Shi Pengwan)\n- 演员5: 王圣迪 (Wang Shengdi)\n- 演员6: 张颂文 (Zhang Jie)\n- 演员7: 刘琳 (Liu Lin)\n- 演员8: 芦芳生 (Luo Fang)"
+            ]
+        ],
+        "task_description": "请从下面的文本中抽取所有的演员，并以\n- 演员1\n- 演员2\n...\n的形式进行输出",
+        "input_text": "《隐秘的角落》（英语：The Bad Kids），2020年中国大陆犯罪悬疑剧，爱奇艺“迷雾剧场”作品之一。由辛爽执导，秦昊、王景春、荣梓杉、史彭元、王圣迪、张颂文、刘琳、芦芳生等主演，改编自紫金陈推理小说《坏小孩》。于2020年6月16日在爱奇艺首播。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure! Based on the text you provided, here are the actors listed in the format you requested:\n\n- 演员1: 秦昊 (Qin Hao)\n- 演员2: 王景春 (Wang Jingchun)\n- 演员3: 荣梓杉 (Rong Zishan)\n- 演员4: 史彭元 (Shi Pengwan)\n- 演员5: 王圣迪 (Wang Shengdi)\n- 演员6: 张颂文 (Zhang Jie)\n- 演员7: 刘琳 (Liu Lin)\n- 演员8: 芦芳生 (Luo Fang)"
+    },
+    {
+        "Instruction": "已知候选的关系列表：['主办方', '类型', '获胜者']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n2000年NBA季后赛是国家篮球协会在1999-00NBA赛季完毕后举行的淘汰赛。洛杉矶湖人以4:2击败印第安纳溜马。侠客·欧尼尔获得FMVP。",
+        "Instruction_id": "ba913a75e55eb24c61f4661f350d8560e890943babaaa2afc84e82ac95f25dc2",
+        "histories": [
+            [
+                "已知候选的关系列表：['主办方', '类型', '获胜者']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n2000年NBA季后赛是国家篮球协会在1999-00NBA赛季完毕后举行的淘汰赛。洛杉矶湖人以4:2击败印第安纳溜马。侠客·欧尼尔获得FMVP。",
+                " Sure, I'd be happy to help! Based on the information provided, we can extract the following possible subject-object-relation triples:\n\n1. (Los Angeles Lakers, win, Indiana Pacers)\n2. (Kobe Bryant, MVP, Finals MVP)\n\nHere's the explanation for each triple:\n\n1. (Los Angeles Lakers, win, Indiana Pacers) - The Los Angeles Lakers won the NBA Finals against the Indiana Pacers.\n2. (Kobe Bryant, MVP, Finals MVP) - Kobe Bryant was awarded the Finals MVP award for his performance in the NBA Finals.\n\nPlease note that the information provided is based on the text you provided, and there may be other possible subject-object-relation triples that can be extracted as well."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['主办方', '类型', '获胜者']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "2000年NBA季后赛是国家篮球协会在1999-00NBA赛季完毕后举行的淘汰赛。洛杉矶湖人以4:2击败印第安纳溜马。侠客·欧尼尔获得FMVP。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the information provided, we can extract the following possible subject-object-relation triples:\n\n1. (Los Angeles Lakers, win, Indiana Pacers)\n2. (Kobe Bryant, MVP, Finals MVP)\n\nHere's the explanation for each triple:\n\n1. (Los Angeles Lakers, win, Indiana Pacers) - The Los Angeles Lakers won the NBA Finals against the Indiana Pacers.\n2. (Kobe Bryant, MVP, Finals MVP) - Kobe Bryant was awarded the Finals MVP award for his performance in the NBA Finals.\n\nPlease note that the information provided is based on the text you provided, and there may be other possible subject-object-relation triples that can be extracted as well."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['参与者', '获胜者']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n1968年洲际杯是由1967–68年欧洲冠军杯冠军英格兰的曼联，对阵1968年南美自由杯冠军阿根廷的学生队。最终，学生队首次赢得赛事冠军。",
+        "Instruction_id": "0cc503315e0b1dc7fcf338e12e90446ba1fcb5fc43e4ff53da947fc0aeb722e8",
+        "histories": [
+            [
+                "已知候选的关系列表：['参与者', '获胜者']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n1968年洲际杯是由1967–68年欧洲冠军杯冠军英格兰的曼联，对阵1968年南美自由杯冠军阿根廷的学生队。最终，学生队首次赢得赛事冠军。",
+                " Sure, I'd be happy to help! Based on the given information, the possible entities and their relationships are:\n\nSubject (S) = 曼联 (Manchester United)\nObject (O) = 学生队 (Argentina student team)\nRelation (R) = 对阵 (faced)\n\nSo, the triad is (S, R, O)."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['参与者', '获胜者']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "1968年洲际杯是由1967–68年欧洲冠军杯冠军英格兰的曼联，对阵1968年南美自由杯冠军阿根廷的学生队。最终，学生队首次赢得赛事冠军。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given information, the possible entities and their relationships are:\n\nSubject (S) = 曼联 (Manchester United)\nObject (O) = 学生队 (Argentina student team)\nRelation (R) = 对阵 (faced)\n\nSo, the triad is (S, R, O)."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['上映地区', '导演', '演员']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n《少年们》是一部2023年上映的韩国犯罪剧情片，该片改编自1999年发生在韩国全罗北道完州郡的三礼那拉超市案件，由导演郑智泳执导，薛耿求、刘俊相、陈庆主演。入选第27届釜山国际电影节“韩国电影的今天-特别首映”单元，2022年10月6日在电影节上首映，预计2023年在韩国正式上映。",
+        "Instruction_id": "7f2a7de1f2c2eada9799ae7bb0f12bd633df2e0b4fa6c4fcf3e17d3cf9cdcaa0",
+        "histories": [
+            [
+                "已知候选的关系列表：['上映地区', '导演', '演员']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n《少年们》是一部2023年上映的韩国犯罪剧情片，该片改编自1999年发生在韩国全罗北道完州郡的三礼那拉超市案件，由导演郑智泳执导，薛耿求、刘俊相、陈庆主演。入选第27届釜山国际电影节“韩国电影的今天-特别首映”单元，2022年10月6日在电影节上首映，预计2023年在韩国正式上映。",
+                " Hello! I'd be happy to help you extract possible subject-object-relation triples from the given text.\n\nBased on the provided list of known relationships - ['上映地区', '导演', '演员'] - here are some possible triples that could be extracted from the text:\n\n1. (Subject: 韩国; Object: 《少年们》; Relation: 上映地区)\n2. (Subject: 郑智泳; Object: 《少年们》; Relation: 导演)\n3. (Subject: 薛耿求; Object: 《少年们》; Relation: 演员)\n4. (Subject: 刘俊相; Object: 《少年们》; Relation: 演员)\n5. (Subject: 陈庆; Object: 《少年们》; Relation: 演员)\n\nPlease note that these triples are not exhaustive and there may be other possible combinations as well. Additionally, while the text provides information about the movie's release date and other details, it does not explicitly mention the relationships between the entities."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['上映地区', '导演', '演员']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "《少年们》是一部2023年上映的韩国犯罪剧情片，该片改编自1999年发生在韩国全罗北道完州郡的三礼那拉超市案件，由导演郑智泳执导，薛耿求、刘俊相、陈庆主演。入选第27届釜山国际电影节“韩国电影的今天-特别首映”单元，2022年10月6日在电影节上首映，预计2023年在韩国正式上映。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Hello! I'd be happy to help you extract possible subject-object-relation triples from the given text.\n\nBased on the provided list of known relationships - ['上映地区', '导演', '演员'] - here are some possible triples that could be extracted from the text:\n\n1. (Subject: 韩国; Object: 《少年们》; Relation: 上映地区)\n2. (Subject: 郑智泳; Object: 《少年们》; Relation: 导演)\n3. (Subject: 薛耿求; Object: 《少年们》; Relation: 演员)\n4. (Subject: 刘俊相; Object: 《少年们》; Relation: 演员)\n5. (Subject: 陈庆; Object: 《少年们》; Relation: 演员)\n\nPlease note that these triples are not exhaustive and there may be other possible combinations as well. Additionally, while the text provides information about the movie's release date and other details, it does not explicitly mention the relationships between the entities."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['别名', '作者', '导演', '插画家', '改编自', '角色']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n《名侦探柯南：绯色的子弹》，英语：Detective Conan:The Scarlet Bullet），是改编自日本漫画家青山刚昌漫画系列《名侦探柯南》的第24部剧场版，由永冈智佳执导、樱井武晴编剧。本片原定档于2020年4月17日，因2019冠状病毒病疫情的影响而延至2021年4月16日上映。",
+        "Instruction_id": "a9d77db0245c82458530179eb6918f965bce3b6eefb9db1499c3943c88466a40",
+        "histories": [
+            [
+                "已知候选的关系列表：['别名', '作者', '导演', '插画家', '改编自', '角色']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n《名侦探柯南：绯色的子弹》，英语：Detective Conan:The Scarlet Bullet），是改编自日本漫画家青山刚昌漫画系列《名侦探柯南》的第24部剧场版，由永冈智佳执导、樱井武晴编剧。本片原定档于2020年4月17日，因2019冠状病毒病疫情的影响而延至2021年4月16日上映。",
+                " Sure, I'd be happy to help! Based on the information provided, here are the possible subject-object-relation triples:\n\n1. (Subject: 《名侦探柯南：绯色的子弹》, Object:  Detective Conan: The Scarlet Bullet, Relation: 是改编)\n2. (Subject: 青山刚昌, Object: 漫画系列《名侦探柯南》, Relation: 改编)\n3. (Subject: 永冈智佳, Object: 《名侦探柯南：绯色的子弹》, Relation: 导演)\n4. (Subject: 樱井武晴, Object: 《名侦探柯南：绯色的子弹》, Relation: 编剧)\n\nNote that the relation \"是改编\" (is adapted from) is used to indicate that the movie is based on the manga series \"名侦探柯南\" by 青山刚昌."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['别名', '作者', '导演', '插画家', '改编自', '角色']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "《名侦探柯南：绯色的子弹》，英语：Detective Conan:The Scarlet Bullet），是改编自日本漫画家青山刚昌漫画系列《名侦探柯南》的第24部剧场版，由永冈智佳执导、樱井武晴编剧。本片原定档于2020年4月17日，因2019冠状病毒病疫情的影响而延至2021年4月16日上映。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the information provided, here are the possible subject-object-relation triples:\n\n1. (Subject: 《名侦探柯南：绯色的子弹》, Object:  Detective Conan: The Scarlet Bullet, Relation: 是改编)\n2. (Subject: 青山刚昌, Object: 漫画系列《名侦探柯南》, Relation: 改编)\n3. (Subject: 永冈智佳, Object: 《名侦探柯南：绯色的子弹》, Relation: 导演)\n4. (Subject: 樱井武晴, Object: 《名侦探柯南：绯色的子弹》, Relation: 编剧)\n\nNote that the relation \"是改编\" (is adapted from) is used to indicate that the movie is based on the manga series \"名侦探柯南\" by 青山刚昌."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['别名', '作用', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n聚丁烯（Polybutene，PB）是一种高分子惰性聚合物，主要是由丁烯聚合而成。与聚丙烯和聚乙烯皆为经常使用的塑胶材料。聚丁烯主要用于自来水管、热水管与暖气管等等管道的管壁材料。",
+        "Instruction_id": "a8ad184f32a102e060554bc1987ef1857a72145d13be840df23023dc9187d878",
+        "histories": [
+            [
+                "已知候选的关系列表：['别名', '作用', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n聚丁烯（Polybutene，PB）是一种高分子惰性聚合物，主要是由丁烯聚合而成。与聚丙烯和聚乙烯皆为经常使用的塑胶材料。聚丁烯主要用于自来水管、热水管与暖气管等等管道的管壁材料。",
+                " Sure! Based on the given information, we can extract the following possible entities and their relationships:\n\n1. Subject: 聚丁烯 (Polybutene, PB)\n2. Object: 管道 (pipes)\n3. Relation: 用于 (used for)\n\nSo, the possible triplet is:\n\n(聚丁烯, 用于, 管道)\n\nIn this triplet, 聚丁烯 (Polybutene, PB) is the Subject, 管道 (pipes) is the Object, and 用于 (used for) is the Relation."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['别名', '作用', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "聚丁烯（Polybutene，PB）是一种高分子惰性聚合物，主要是由丁烯聚合而成。与聚丙烯和聚乙烯皆为经常使用的塑胶材料。聚丁烯主要用于自来水管、热水管与暖气管等等管道的管壁材料。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure! Based on the given information, we can extract the following possible entities and their relationships:\n\n1. Subject: 聚丁烯 (Polybutene, PB)\n2. Object: 管道 (pipes)\n3. Relation: 用于 (used for)\n\nSo, the possible triplet is:\n\n(聚丁烯, 用于, 管道)\n\nIn this triplet, 聚丁烯 (Polybutene, PB) is the Subject, 管道 (pipes) is the Object, and 用于 (used for) is the Relation."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['别名', '制造商', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n华硕ZenFone4(2014年)（型号：华硕ZenFone4A400CG、华硕ZenFone4A450CG）是华硕生产的华硕ZenFone系列直立式智能手机，2014年5月30日发布。",
+        "Instruction_id": "8faa1e0c2bb7f6357f4357f1db134b0a70982fca92a739ecc1de6395ecd6e73f",
+        "histories": [
+            [
+                "已知候选的关系列表：['别名', '制造商', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n华硕ZenFone4(2014年)（型号：华硕ZenFone4A400CG、华硕ZenFone4A450CG）是华硕生产的华硕ZenFone系列直立式智能手机，2014年5月30日发布。",
+                " Sure, I'd be happy to help! Based on the given information, we can extract the following entities and their relationships:\n\nSubject: 华硕ZenFone4\nRelation: 制造商\nObject: 华硕\n\nSubject: 华硕ZenFone4\nRelation: 型号\nObject: 华硕ZenFone4A400CG、华硕ZenFone4A450CG\n\nSubject: 华硕ZenFone4\nRelation: 发布日期\nObject: 2014年5月30日\n\nPlease note that the above relationships are based on the information provided in the question, and may not be exhaustive or accurate. Additionally, the entities and relationships extracted are subjective and may vary based on the context and perspective of the user."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['别名', '制造商', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "华硕ZenFone4(2014年)（型号：华硕ZenFone4A400CG、华硕ZenFone4A450CG）是华硕生产的华硕ZenFone系列直立式智能手机，2014年5月30日发布。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given information, we can extract the following entities and their relationships:\n\nSubject: 华硕ZenFone4\nRelation: 制造商\nObject: 华硕\n\nSubject: 华硕ZenFone4\nRelation: 型号\nObject: 华硕ZenFone4A400CG、华硕ZenFone4A450CG\n\nSubject: 华硕ZenFone4\nRelation: 发布日期\nObject: 2014年5月30日\n\nPlease note that the above relationships are based on the information provided in the question, and may not be exhaustive or accurate. Additionally, the entities and relationships extracted are subjective and may vary based on the context and perspective of the user."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['产地', '制造商', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n乍眼一看，索斯米821式冲锋枪可说是以色列乌兹冲锋枪（Uzi）的意大利仿制版本，只是在其原型设计上添加了一些改进。自1970年代初以来，索斯米公司一直在铁路建设领域方面活跃；直到1983年，它与历史悠久的枪械制造商路易吉．弗兰基合作成立一家合资企业，专注于军用武器业务。是次合作的成果是一系列突击步枪和821式冲锋枪。这款冲锋枪的早期原型枪和评估样品枪很快就由弗兰基直接生产，直到索斯米完成加工准备以开始其内部生产。",
+        "Instruction_id": "b608f6433603bfe955a6750120dda0ef72828d68bb061a8eca7714532a8fbbfe",
+        "histories": [
+            [
+                "已知候选的关系列表：['产地', '制造商', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n乍眼一看，索斯米821式冲锋枪可说是以色列乌兹冲锋枪（Uzi）的意大利仿制版本，只是在其原型设计上添加了一些改进。自1970年代初以来，索斯米公司一直在铁路建设领域方面活跃；直到1983年，它与历史悠久的枪械制造商路易吉．弗兰基合作成立一家合资企业，专注于军用武器业务。是次合作的成果是一系列突击步枪和821式冲锋枪。这款冲锋枪的早期原型枪和评估样品枪很快就由弗兰基直接生产，直到索斯米完成加工准备以开始其内部生产。",
+                " Based on the given information, we can extract the following entities and their relationships:\n\nSubject (Entity): 索斯米821式冲锋枪 (SOSMI 821 Assault Rifle)\nObject (Entity): 以色列乌兹冲锋枪 (Uzi)\nRelation: 意大利仿制版本 (Italian copy)\n\nSubject (Entity): 索斯米公司 (SOSMI Company)\nObject (Entity): 路易吉．弗兰基 (Louis Gianturbide)\nRelation: 合作伙伴 (collaborative partner)\n\nSubject (Entity): 821式冲锋枪 (821 Assault Rifle)\nObject (Entity): 早期原型枪、评估样品枪 (early prototype rifle, evaluation sample rifle)\nRelation: 生产 (produced)\n\nNote that the relationships are based on the information provided in the text, and may not necessarily reflect the complete or accurate relationships between the entities."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['产地', '制造商', '类型']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "乍眼一看，索斯米821式冲锋枪可说是以色列乌兹冲锋枪（Uzi）的意大利仿制版本，只是在其原型设计上添加了一些改进。自1970年代初以来，索斯米公司一直在铁路建设领域方面活跃；直到1983年，它与历史悠久的枪械制造商路易吉．弗兰基合作成立一家合资企业，专注于军用武器业务。是次合作的成果是一系列突击步枪和821式冲锋枪。这款冲锋枪的早期原型枪和评估样品枪很快就由弗兰基直接生产，直到索斯米完成加工准备以开始其内部生产。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Based on the given information, we can extract the following entities and their relationships:\n\nSubject (Entity): 索斯米821式冲锋枪 (SOSMI 821 Assault Rifle)\nObject (Entity): 以色列乌兹冲锋枪 (Uzi)\nRelation: 意大利仿制版本 (Italian copy)\n\nSubject (Entity): 索斯米公司 (SOSMI Company)\nObject (Entity): 路易吉．弗兰基 (Louis Gianturbide)\nRelation: 合作伙伴 (collaborative partner)\n\nSubject (Entity): 821式冲锋枪 (821 Assault Rifle)\nObject (Entity): 早期原型枪、评估样品枪 (early prototype rifle, evaluation sample rifle)\nRelation: 生产 (produced)\n\nNote that the relationships are based on the information provided in the text, and may not necessarily reflect the complete or accurate relationships between the entities."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['兄弟姊妹', '出生地点', '国籍', '学生']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n1646年8月8日，内勒出生于德国的吕贝克，上小学时，父亲将他送到荷兰阿姆斯特丹学习绘画，他成为了费迪南德·波尔和林布兰的弟子，1670年代初，他与哥哥约翰·扎卡赖亚斯·克内勒一起前往罗马和意大利，在卡洛·马拉蒂的工作室里绘制历史题材和肖像画。",
+        "Instruction_id": "5118c271fac1514766191a029caa51ef15968797085d72706e31b897677a22ae",
+        "histories": [
+            [
+                "已知候选的关系列表：['兄弟姊妹', '出生地点', '国籍', '学生']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n1646年8月8日，内勒出生于德国的吕贝克，上小学时，父亲将他送到荷兰阿姆斯特丹学习绘画，他成为了费迪南德·波尔和林布兰的弟子，1670年代初，他与哥哥约翰·扎卡赖亚斯·克内勒一起前往罗马和意大利，在卡洛·马拉蒂的工作室里绘制历史题材和肖像画。",
+                " Sure, I'd be happy to help! Based on the given input, here are some possible subject-object pairs with their corresponding relationships:\n\n1. 吕贝克 (Subject) - 出生地点 (Object) - 关系：出生于\n2. 荷兰阿姆斯特丹 (Subject) - 学习绘画 (Object) - 关系：学习\n3. 费迪南德·波尔 (Subject) - 林布兰 (Object) - 关系：弟子\n4. 约翰·扎卡赖亚斯·克内勒 (Subject) - 哥哥 (Object) - 关系：兄弟\n5. 意大利 (Subject) - 罗马 (Object) - 关系：前往\n6. 卡洛·马拉蒂 (Subject) - 工作室 (Object) - 关系：绘制\n\nNote that some of these relationships may be implied rather than explicitly stated in the input, but they can be inferred based on the context."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['兄弟姊妹', '出生地点', '国籍', '学生']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "1646年8月8日，内勒出生于德国的吕贝克，上小学时，父亲将他送到荷兰阿姆斯特丹学习绘画，他成为了费迪南德·波尔和林布兰的弟子，1670年代初，他与哥哥约翰·扎卡赖亚斯·克内勒一起前往罗马和意大利，在卡洛·马拉蒂的工作室里绘制历史题材和肖像画。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given input, here are some possible subject-object pairs with their corresponding relationships:\n\n1. 吕贝克 (Subject) - 出生地点 (Object) - 关系：出生于\n2. 荷兰阿姆斯特丹 (Subject) - 学习绘画 (Object) - 关系：学习\n3. 费迪南德·波尔 (Subject) - 林布兰 (Object) - 关系：弟子\n4. 约翰·扎卡赖亚斯·克内勒 (Subject) - 哥哥 (Object) - 关系：兄弟\n5. 意大利 (Subject) - 罗马 (Object) - 关系：前往\n6. 卡洛·马拉蒂 (Subject) - 工作室 (Object) - 关系：绘制\n\nNote that some of these relationships may be implied rather than explicitly stated in the input, but they can be inferred based on the context."
+    },
+    {
+        "Instruction": "已知候选的关系列表：['产品']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n世嘉公司于1993年成立了VRC，负责世嘉Master System、Mega Drive、Game Gear、Mega-CD和PICO游戏的分级。1994年随ESRB的成立而宣告解散。",
+        "Instruction_id": "5b2fa40c88904826d0a415226722266b1a8f1e07dc1451af07fe5803015e8c7b",
+        "histories": [
+            [
+                "已知候选的关系列表：['产品']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n世嘉公司于1993年成立了VRC，负责世嘉Master System、Mega Drive、Game Gear、Mega-CD和PICO游戏的分级。1994年随ESRB的成立而宣告解散。",
+                " Sure, I'd be happy to help! Based on the information provided, we can extract the following possible subject-object-relation triples:\n\n* Subject: VRC (Virtual Reality Company)\n* Object: Mega Drive\n* Relation: developed\n\n* Subject: VRC (Virtual Reality Company)\n* Object: Game Gear\n* Relation: developed\n\n* Subject: VRC (Virtual Reality Company)\n* Object: Mega-CD\n* Relation: developed\n\n* Subject: VRC (Virtual Reality Company)\n* Object: PICO\n* Relation: developed\n\nPlease note that the relation words used are \"developed\" as per the given information. If there are any other relation words that you would like me to include, please let me know."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：['产品']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "世嘉公司于1993年成立了VRC，负责世嘉Master System、Mega Drive、Game Gear、Mega-CD和PICO游戏的分级。1994年随ESRB的成立而宣告解散。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the information provided, we can extract the following possible subject-object-relation triples:\n\n* Subject: VRC (Virtual Reality Company)\n* Object: Mega Drive\n* Relation: developed\n\n* Subject: VRC (Virtual Reality Company)\n* Object: Game Gear\n* Relation: developed\n\n* Subject: VRC (Virtual Reality Company)\n* Object: Mega-CD\n* Relation: developed\n\n* Subject: VRC (Virtual Reality Company)\n* Object: PICO\n* Relation: developed\n\nPlease note that the relation words used are \"developed\" as per the given information. If there are any other relation words that you would like me to include, please let me know."
+    },
+    {
+        "Instruction": "在以下船舶相关的文本中，请抽取出船舶中所有的属性和其对应的属性值，并以键值对的形式进行输出。\n5月10日上午,由浙江增洲造船有限公司为舟山港兴港海运有限公司建造的第二艘45000DWT“舟港海8”散货船顺利交付。据悉,该船设计结构吃水10.5m,载重量为46000吨,载货量为45000吨,于2011年4月开始建造,2012年1月8日下水。这是该公司今年交付的第三艘船,体现了其打造江海联运船舶的丰富经验。",
+        "Instruction_id": "86782c90e02811d002d29d1e14980b70ad9c6d52648826838677c4d78b34cdd0",
+        "histories": [
+            [
+                "在以下船舶相关的文本中，请抽取出船舶中所有的属性和其对应的属性值，并以键值对的形式进行输出。\n5月10日上午,由浙江增洲造船有限公司为舟山港兴港海运有限公司建造的第二艘45000DWT“舟港海8”散货船顺利交付。据悉,该船设计结构吃水10.5m,载重量为46000吨,载货量为45000吨,于2011年4月开始建造,2012年1月8日下水。这是该公司今年交付的第三艘船,体现了其打造江海联运船舶的丰富经验。",
+                " Sure! Based on the given text, here are the extracted attributes and their corresponding values for the ship:\n\nAttribute | Value\n--------|-------\nDesign Draft | 10.5m\nGross Tonnage | 46,000 tons\nDeadweight Tonnage | 45,000 tons\nCargo Capacity | 45,000 tons\nBuilding Start Date | 2011-04-01\nLaunching Date | 2012-01-08\nOwner | Zhou Jiangang Shipyard Co., Ltd.\n\nNote that there are some missing values in the text, such as the ship's name and the building end date."
+            ]
+        ],
+        "task_description": "在以下船舶相关的文本中，请抽取出船舶中所有的属性和其对应的属性值，并以键值对的形式进行输出。",
+        "input_text": "5月10日上午,由浙江增洲造船有限公司为舟山港兴港海运有限公司建造的第二艘45000DWT“舟港海8”散货船顺利交付。据悉,该船设计结构吃水10.5m,载重量为46000吨,载货量为45000吨,于2011年4月开始建造,2012年1月8日下水。这是该公司今年交付的第三艘船,体现了其打造江海联运船舶的丰富经验。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure! Based on the given text, here are the extracted attributes and their corresponding values for the ship:\n\nAttribute | Value\n--------|-------\nDesign Draft | 10.5m\nGross Tonnage | 46,000 tons\nDeadweight Tonnage | 45,000 tons\nCargo Capacity | 45,000 tons\nBuilding Start Date | 2011-04-01\nLaunching Date | 2012-01-08\nOwner | Zhou Jiangang Shipyard Co., Ltd.\n\nNote that there are some missing values in the text, such as the ship's name and the building end date."
+    },
+    {
+        "Instruction": "从下面的新闻报道中抽取与船只参数相关的所有三元组，比如船的长度、宽度，还有各个关键时间节点等。请以三元组\n[{\"subject\": \"\", \"object\": \"\", \"predicate\": \"\"}, ...]\n的形式进行输出\n12月16日,神华中海航运“神华501”轮交船暨命名典礼在江苏江阴举行,神华中海航运集团公司董事长张喜武出席典礼并为新船命名,中船集团总经理谭作钧、中国船级社党委书记孙立成和集团公司副总经理薛继连出席仪式并致辞。“神华501”轮是神华中海航运有限公司第一艘以“神华”命名的船舶,是国内首艘带高压岸电系统的散货船,也是集团公司向中船集团订造的8艘4.6万吨系列散货船的首制船。神华中海公司董事长张群仆与中船集团澄西船舶修造有限公司董事长胡金根签署了“神华501”轮交接协议。该船于2011年3月17日开工生产,11月17日试航,实现了当年签约、当年开工、当年交船的目标,建造质量完全符合设计要求,比合同交船期提前了75天。“神华501”轮是由中船集团澄西船舶修造有限公司建造的8艘“神华”系列散货船的第一艘,船长189.99米、船宽32.26米,航速14节,为钢质单甲板尾机型散货船,是国内第一艘带高压岸电系统,能够在停泊码头时接入码头的岸电电源,不需使用船上的动力设施,从而达到更好的改善港口空气质量,绿色环保的目的,一年可节省近百万元能源消耗。",
+        "Instruction_id": "b333d3028d4abf9d80a361274810e227879148d7e0d2144b7901df1b8121f407",
+        "histories": [
+            [
+                "从下面的新闻报道中抽取与船只参数相关的所有三元组，比如船的长度、宽度，还有各个关键时间节点等。请以三元组\n[{\"subject\": \"\", \"object\": \"\", \"predicate\": \"\"}, ...]\n的形式进行输出\n12月16日,神华中海航运“神华501”轮交船暨命名典礼在江苏江阴举行,神华中海航运集团公司董事长张喜武出席典礼并为新船命名,中船集团总经理谭作钧、中国船级社党委书记孙立成和集团公司副总经理薛继连出席仪式并致辞。“神华501”轮是神华中海航运有限公司第一艘以“神华”命名的船舶,是国内首艘带高压岸电系统的散货船,也是集团公司向中船集团订造的8艘4.6万吨系列散货船的首制船。神华中海公司董事长张群仆与中船集团澄西船舶修造有限公司董事长胡金根签署了“神华501”轮交接协议。该船于2011年3月17日开工生产,11月17日试航,实现了当年签约、当年开工、当年交船的目标,建造质量完全符合设计要求,比合同交船期提前了75天。“神华501”轮是由中船集团澄西船舶修造有限公司建造的8艘“神华”系列散货船的第一艘,船长189.99米、船宽32.26米,航速14节,为钢质单甲板尾机型散货船,是国内第一艘带高压岸电系统,能够在停泊码头时接入码头的岸电电源,不需使用船上的动力设施,从而达到更好的改善港口空气质量,绿色环保的目的,一年可节省近百万元能源消耗。",
+                " Sure, I can help you with that! Here are the three-element sets related to the ship's parameters:\n\n[{\"subject\": \"船舶长度\", \"object\": \"189.99米\", \"predicate\": \"是船长\"}, {\"subject\": \"船舶宽度\", \"object\": \"32.26米\", \"predicate\": \"是船宽\"}, {\"subject\": \" Navigation speed\", \"object\": \"14节\", \"predicate\": \"是 Navigation speed\"}]\n\nPlease note that I have only extracted the information that is related to the ship's parameters, and have not included other information such as the name of the ship, the company, etc."
+            ]
+        ],
+        "task_description": "从下面的新闻报道中抽取与船只参数相关的所有三元组，比如船的长度、宽度，还有各个关键时间节点等。请以三元组\n[{\"subject\": \"\", \"object\": \"\", \"predicate\": \"\"}, ...]\n的形式进行输出",
+        "input_text": "12月16日,神华中海航运“神华501”轮交船暨命名典礼在江苏江阴举行,神华中海航运集团公司董事长张喜武出席典礼并为新船命名,中船集团总经理谭作钧、中国船级社党委书记孙立成和集团公司副总经理薛继连出席仪式并致辞。“神华501”轮是神华中海航运有限公司第一艘以“神华”命名的船舶,是国内首艘带高压岸电系统的散货船,也是集团公司向中船集团订造的8艘4.6万吨系列散货船的首制船。神华中海公司董事长张群仆与中船集团澄西船舶修造有限公司董事长胡金根签署了“神华501”轮交接协议。该船于2011年3月17日开工生产,11月17日试航,实现了当年签约、当年开工、当年交船的目标,建造质量完全符合设计要求,比合同交船期提前了75天。“神华501”轮是由中船集团澄西船舶修造有限公司建造的8艘“神华”系列散货船的第一艘,船长189.99米、船宽32.26米,航速14节,为钢质单甲板尾机型散货船,是国内第一艘带高压岸电系统,能够在停泊码头时接入码头的岸电电源,不需使用船上的动力设施,从而达到更好的改善港口空气质量,绿色环保的目的,一年可节省近百万元能源消耗。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you with that! Here are the three-element sets related to the ship's parameters:\n\n[{\"subject\": \"船舶长度\", \"object\": \"189.99米\", \"predicate\": \"是船长\"}, {\"subject\": \"船舶宽度\", \"object\": \"32.26米\", \"predicate\": \"是船宽\"}, {\"subject\": \" Navigation speed\", \"object\": \"14节\", \"predicate\": \"是 Navigation speed\"}]\n\nPlease note that I have only extracted the information that is related to the ship's parameters, and have not included other information such as the name of the ship, the company, etc."
+    },
+    {
+        "Instruction": "从下面的描述性文本中抽取其中出现的船只名称以及与船只相关的所有硬件参数，包括长度、宽度、货物甲板面积、载重量、最大航速、主机功率、限定人数、最大航程。请以\n船只名称:\n - 长度：\n - 宽度：\n - 货物甲板面积：\n - 载重量：\n - 最大航速：\n - 主机功率：\n - 限定人数：\n - 最大航程：\n的形式进行输出\n日前,挪威Ulstein Verft船厂向Blue Ship Invest公司交付了1艘4200吨的平台供应船(PSV)“Blue Fighter”号,该船为Ulstein PX121型,是2艘新船建造订单中的第1艘。该船投入运营后不仅即被Apache公司长期包租,今年2月初在北海进行作业。据悉,“Blue Fighter”号长83.4米、型宽18米,货物甲板面积875平米,载重量4200吨。船舶带有醒目的Ulstein X Bow船艏,符合挪威船级社的Clean Design设计要求,最大航速15节,船舶定员24人,该船的投入使用为市场树立了新的能效和环境标准。",
+        "Instruction_id": "d3e3aca0e4b473ffddacb66ed39079a3f9918912e43ba0e61341dc7a356ee511",
+        "histories": [
+            [
+                "从下面的描述性文本中抽取其中出现的船只名称以及与船只相关的所有硬件参数，包括长度、宽度、货物甲板面积、载重量、最大航速、主机功率、限定人数、最大航程。请以\n船只名称:\n - 长度：\n - 宽度：\n - 货物甲板面积：\n - 载重量：\n - 最大航速：\n - 主机功率：\n - 限定人数：\n - 最大航程：\n的形式进行输出\n日前,挪威Ulstein Verft船厂向Blue Ship Invest公司交付了1艘4200吨的平台供应船(PSV)“Blue Fighter”号,该船为Ulstein PX121型,是2艘新船建造订单中的第1艘。该船投入运营后不仅即被Apache公司长期包租,今年2月初在北海进行作业。据悉,“Blue Fighter”号长83.4米、型宽18米,货物甲板面积875平米,载重量4200吨。船舶带有醒目的Ulstein X Bow船艏,符合挪威船级社的Clean Design设计要求,最大航速15节,船舶定员24人,该船的投入使用为市场树立了新的能效和环境标准。",
+                " Sure, I'd be happy to help! From the descriptive text, the following information can be extracted:\n\nShip name: Blue Fighter\n\nDimensions:\n\n* Length: 83.4 meters (m)\n* Width: 18 meters\n\nCargo deck area: 875 square meters (m^2)\n\nCapacity:\n\n* Gross tonnage: 4200 tons\n\nPerformance:\n\n* Maximum speed: 15 knots (kn)\n* Engine power: Not specified\n\nCrew:\n\n* Maximum number of crew: 24 people\n\n Navigation: Not specified\n\nNote: The text does not provide information on the ship's range or the number of passengers it can accommodate."
+            ]
+        ],
+        "task_description": "从下面的描述性文本中抽取其中出现的船只名称以及与船只相关的所有硬件参数，包括长度、宽度、货物甲板面积、载重量、最大航速、主机功率、限定人数、最大航程。请以\n船只名称:\n - 长度：\n - 宽度：\n - 货物甲板面积：\n - 载重量：\n - 最大航速：\n - 主机功率：\n - 限定人数：\n - 最大航程：\n的形式进行输出",
+        "input_text": "日前,挪威Ulstein Verft船厂向Blue Ship Invest公司交付了1艘4200吨的平台供应船(PSV)“Blue Fighter”号,该船为Ulstein PX121型,是2艘新船建造订单中的第1艘。该船投入运营后不仅即被Apache公司长期包租,今年2月初在北海进行作业。据悉,“Blue Fighter”号长83.4米、型宽18米,货物甲板面积875平米,载重量4200吨。船舶带有醒目的Ulstein X Bow船艏,符合挪威船级社的Clean Design设计要求,最大航速15节,船舶定员24人,该船的投入使用为市场树立了新的能效和环境标准。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! From the descriptive text, the following information can be extracted:\n\nShip name: Blue Fighter\n\nDimensions:\n\n* Length: 83.4 meters (m)\n* Width: 18 meters\n\nCargo deck area: 875 square meters (m^2)\n\nCapacity:\n\n* Gross tonnage: 4200 tons\n\nPerformance:\n\n* Maximum speed: 15 knots (kn)\n* Engine power: Not specified\n\nCrew:\n\n* Maximum number of crew: 24 people\n\n Navigation: Not specified\n\nNote: The text does not provide information on the ship's range or the number of passengers it can accommodate."
+    },
+    {
+        "Instruction": "请从下面的新闻中抽取所有与地震相关的信息，包括时间、地点、震级、震源深度、震中位置等。并以Json格式进行输出\n据国家地震台网测定，北京时间2008年11月14日06时53分，在辽宁省海城市(北纬40.6度，东经122.9度)发生4.3级地震，震源深度约10公里。震中距海城市区33公里，距鞍山市区57公里，距沈阳市区146公里。详细情况正在统计中。",
+        "Instruction_id": "64f1118815b6e5fba26aae814dbf847b7712cb98f90f2a4da9b72dd9aaff731e",
+        "histories": [
+            [
+                "请从下面的新闻中抽取所有与地震相关的信息，包括时间、地点、震级、震源深度、震中位置等。并以Json格式进行输出\n据国家地震台网测定，北京时间2008年11月14日06时53分，在辽宁省海城市(北纬40.6度，东经122.9度)发生4.3级地震，震源深度约10公里。震中距海城市区33公里，距鞍山市区57公里，距沈阳市区146公里。详细情况正在统计中。",
+                " {\n\"time\": \"2008-11-14 06:53:00\",\n\"location\": {\n\"latitude\": 40.6,\n\"longitude\": 122.9,\n\"depth\": 10\n},\n\"magnitude\": 4.3,\n\"distance\": {\n\"to_city\": 33,\n\"to_county\": 57,\n\"to_province\": 146\n}\n}"
+            ]
+        ],
+        "task_description": "请从下面的新闻中抽取所有与地震相关的信息，包括时间、地点、震级、震源深度、震中位置等。并以Json格式进行输出",
+        "input_text": "据国家地震台网测定，北京时间2008年11月14日06时53分，在辽宁省海城市(北纬40.6度，东经122.9度)发生4.3级地震，震源深度约10公里。震中距海城市区33公里，距鞍山市区57公里，距沈阳市区146公里。详细情况正在统计中。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " {\n\"time\": \"2008-11-14 06:53:00\",\n\"location\": {\n\"latitude\": 40.6,\n\"longitude\": 122.9,\n\"depth\": 10\n},\n\"magnitude\": 4.3,\n\"distance\": {\n\"to_city\": 33,\n\"to_county\": 57,\n\"to_province\": 146\n}\n}"
+    },
+    {
+        "Instruction": "从文本中抽取描述“所在地”关系和“成立时间”关系的所有三元组。其中“所在地”关系描述了遗址文化/单位机构实体所在地点的信息，而“成立时间”关系描述了单位机构成立时间的关系。请抽取相关的三元组并以{\"s\": \"\", \"p\": \"\", \"o\": \"\"}的形式进行输出，不要抽取多余的三元组。\n凤翔县博物馆位于陕西省凤翔县东湖内。该馆成立于1959年，隶属凤翔县文化局。凤翔县博物馆成立时在凤翔县东湖北岸“苏公祠”内。1962年撤销。1982年7月成立“凤翔县雍城文物管理所”。1984年5月，恢复凤翔县博物馆，与凤翔县雍城文物管理所两个牌子。",
+        "Instruction_id": "331f3f43165fbd1aacd4c91392dc9cb07085a49fcd09e1aa826ec1b1700f9e4b",
+        "histories": [
+            [
+                "从文本中抽取描述“所在地”关系和“成立时间”关系的所有三元组。其中“所在地”关系描述了遗址文化/单位机构实体所在地点的信息，而“成立时间”关系描述了单位机构成立时间的关系。请抽取相关的三元组并以{\"s\": \"\", \"p\": \"\", \"o\": \"\"}的形式进行输出，不要抽取多余的三元组。\n凤翔县博物馆位于陕西省凤翔县东湖内。该馆成立于1959年，隶属凤翔县文化局。凤翔县博物馆成立时在凤翔县东湖北岸“苏公祠”内。1962年撤销。1982年7月成立“凤翔县雍城文物管理所”。1984年5月，恢复凤翔县博物馆，与凤翔县雍城文物管理所两个牌子。",
+                " Sure, I can help you with that! Here are the three-element sets for the relationships of \"location\" and \"establishment time\" for the text you provided, in the format of {\"s\": \"\", \"p\": \"\", \"o\": \"\"}:\n\n1. Location: 陕西省凤翔县东湖内 ( located in the eastern lake of Pengshan County, Shaanxi Province)\n\t* \"s\": 凤翔县 (Pengshan County)\n\t* \"p\": 东湖 (Eastern Lake)\n\t* \"o\": 陕西省 (Shaanxi Province)\n2. Establishment time: 1959年 (established in 1959)\n\t* \"s\": 1959年 (1959)\n\t* \"p\": 凤翔县博物馆 (Pengshan County Museum)\n\t* \"o\": 成立时间 (establishment time)\n3. Location: 凤翔县东湖北岸“苏公祠”内 (located in the north bank of Eastern Lake, Pengshan County)\n\t* \"s\": 凤翔县 (Pengshan County)\n\t* \"p\": 东湖北岸 (North bank of Eastern Lake)\n\t* \"o\": “苏公祠” (Su公祠, a building)\n\nNote that there are multiple locations and establishment times mentioned in the text, but I have only extracted the most relevant information as requested."
+            ]
+        ],
+        "task_description": "从文本中抽取描述“所在地”关系和“成立时间”关系的所有三元组。其中“所在地”关系描述了遗址文化/单位机构实体所在地点的信息，而“成立时间”关系描述了单位机构成立时间的关系。请抽取相关的三元组并以{\"s\": \"\", \"p\": \"\", \"o\": \"\"}的形式进行输出，不要抽取多余的三元组。",
+        "input_text": "凤翔县博物馆位于陕西省凤翔县东湖内。该馆成立于1959年，隶属凤翔县文化局。凤翔县博物馆成立时在凤翔县东湖北岸“苏公祠”内。1962年撤销。1982年7月成立“凤翔县雍城文物管理所”。1984年5月，恢复凤翔县博物馆，与凤翔县雍城文物管理所两个牌子。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you with that! Here are the three-element sets for the relationships of \"location\" and \"establishment time\" for the text you provided, in the format of {\"s\": \"\", \"p\": \"\", \"o\": \"\"}:\n\n1. Location: 陕西省凤翔县东湖内 ( located in the eastern lake of Pengshan County, Shaanxi Province)\n\t* \"s\": 凤翔县 (Pengshan County)\n\t* \"p\": 东湖 (Eastern Lake)\n\t* \"o\": 陕西省 (Shaanxi Province)\n2. Establishment time: 1959年 (established in 1959)\n\t* \"s\": 1959年 (1959)\n\t* \"p\": 凤翔县博物馆 (Pengshan County Museum)\n\t* \"o\": 成立时间 (establishment time)\n3. Location: 凤翔县东湖北岸“苏公祠”内 (located in the north bank of Eastern Lake, Pengshan County)\n\t* \"s\": 凤翔县 (Pengshan County)\n\t* \"p\": 东湖北岸 (North bank of Eastern Lake)\n\t* \"o\": “苏公祠” (Su公祠, a building)\n\nNote that there are multiple locations and establishment times mentioned in the text, but I have only extracted the most relevant information as requested."
+    },
+    {
+        "Instruction": "已知候选的关系列表：[导演，嘉宾，首播时间，妻子，制片人，编剧，所属机构，父亲，主要人物，出版机构，成立时间，法人，创始人，主演，演唱者，儿子，饰演者，毕业院校，所处时代，音乐创作者，作者，主持人，女儿，母亲，改编自，出版/发行时间]，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject, Relation, Object) 的格式回答。\n《童心撞地球》是金鹰卡通卫视一档大型儿童综艺类节目，这里有最酷最炫的童星、也是大人们童心未泯的欢乐世界。是最适合全家一起快乐收看的综艺节目，是集益智和娱乐与一体的周末综艺节目。在节目中，你可以看到聪明可爱的小朋友，可以在他们的童言童语中感受快乐，回味童年。节目自2017年01月06日起每周五晚18：00–19：00播出。主持人为小燕子姐姐（谭薇）、E哥（王东岳）、T哥（杜海涛）、小虎哥哥(张德星) 。 档快乐为主的娱乐节目，谭薇（小燕子姐姐）、王东岳（E哥）和张德星（小虎哥哥）担当主持人。《童心撞地球》能让您轻松愉快地度过这个周末的夜晚。 2017年4月14日《童心撞地球》全新改版，舞台升级，台本升级，精彩不变。",
+        "Instruction_id": "7fed450a7738ce94f29547d4651bf2ab8118b8c8572803ca0d3157ebd8262f2d",
+        "histories": [
+            [
+                "已知候选的关系列表：[导演，嘉宾，首播时间，妻子，制片人，编剧，所属机构，父亲，主要人物，出版机构，成立时间，法人，创始人，主演，演唱者，儿子，饰演者，毕业院校，所处时代，音乐创作者，作者，主持人，女儿，母亲，改编自，出版/发行时间]，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject, Relation, Object) 的格式回答。\n《童心撞地球》是金鹰卡通卫视一档大型儿童综艺类节目，这里有最酷最炫的童星、也是大人们童心未泯的欢乐世界。是最适合全家一起快乐收看的综艺节目，是集益智和娱乐与一体的周末综艺节目。在节目中，你可以看到聪明可爱的小朋友，可以在他们的童言童语中感受快乐，回味童年。节目自2017年01月06日起每周五晚18：00–19：00播出。主持人为小燕子姐姐（谭薇）、E哥（王东岳）、T哥（杜海涛）、小虎哥哥(张德星) 。 档快乐为主的娱乐节目，谭薇（小燕子姐姐）、王东岳（E哥）和张德星（小虎哥哥）担当主持人。《童心撞地球》能让您轻松愉快地度过这个周末的夜晚。 2017年4月14日《童心撞地球》全新改版，舞台升级，台本升级，精彩不变。",
+                " Based on the given relation list, the possible entities and their relationships are:\n\n1. 主持人 (Host) - 谭薇 (Tān Wēi), E哥 (Wáng Dōngjiāo), T哥 (Dù Hǎitāo), 小虎哥哥 (Zhāng Déxīng)\n2. 档快乐 (Program) - 《童心撞地球》 (Tóngxīn Chūndōngtiān)\n3. 节目时间 (Program Time) - 每周五晚18：00–19：00 (每周五晚十八点到十九点)\n4. 开始时间 (Start Time) - 2017年01月06日 (2017年一月六日)\n5. 播出机构 (Broadcasting Organization) - 金鹰卡通卫视 (Jīnjiān Kǎtōng Wèishì)\n6. 制片人 (Producer) - 不详 (不详)\n7. 编剧 (Screenwriter) - 不详 (不详)\n8. 导演 (Director) - 不详 (不详)\n9. 成立时间 (Establishment Time) - 不详 (不详)\n10. 法人 (Legal Representative) - 不详 (不详)\n11. 创始人 (Founder) - 不详 (不详)\n12. 主要人物 (Main Character) - 不详 (不详)\n\nNote: Some of the information is not available or not specified in the text."
+            ]
+        ],
+        "task_description": "已知候选的关系列表：[导演，嘉宾，首播时间，妻子，制片人，编剧，所属机构，父亲，主要人物，出版机构，成立时间，法人，创始人，主演，演唱者，儿子，饰演者，毕业院校，所处时代，音乐创作者，作者，主持人，女儿，母亲，改编自，出版/发行时间]，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject, Relation, Object) 的格式回答。",
+        "input_text": "《童心撞地球》是金鹰卡通卫视一档大型儿童综艺类节目，这里有最酷最炫的童星、也是大人们童心未泯的欢乐世界。是最适合全家一起快乐收看的综艺节目，是集益智和娱乐与一体的周末综艺节目。在节目中，你可以看到聪明可爱的小朋友，可以在他们的童言童语中感受快乐，回味童年。节目自2017年01月06日起每周五晚18：00–19：00播出。主持人为小燕子姐姐（谭薇）、E哥（王东岳）、T哥（杜海涛）、小虎哥哥(张德星) 。 档快乐为主的娱乐节目，谭薇（小燕子姐姐）、王东岳（E哥）和张德星（小虎哥哥）担当主持人。《童心撞地球》能让您轻松愉快地度过这个周末的夜晚。 2017年4月14日《童心撞地球》全新改版，舞台升级，台本升级，精彩不变。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Based on the given relation list, the possible entities and their relationships are:\n\n1. 主持人 (Host) - 谭薇 (Tān Wēi), E哥 (Wáng Dōngjiāo), T哥 (Dù Hǎitāo), 小虎哥哥 (Zhāng Déxīng)\n2. 档快乐 (Program) - 《童心撞地球》 (Tóngxīn Chūndōngtiān)\n3. 节目时间 (Program Time) - 每周五晚18：00–19：00 (每周五晚十八点到十九点)\n4. 开始时间 (Start Time) - 2017年01月06日 (2017年一月六日)\n5. 播出机构 (Broadcasting Organization) - 金鹰卡通卫视 (Jīnjiān Kǎtōng Wèishì)\n6. 制片人 (Producer) - 不详 (不详)\n7. 编剧 (Screenwriter) - 不详 (不详)\n8. 导演 (Director) - 不详 (不详)\n9. 成立时间 (Establishment Time) - 不详 (不详)\n10. 法人 (Legal Representative) - 不详 (不详)\n11. 创始人 (Founder) - 不详 (不详)\n12. 主要人物 (Main Character) - 不详 (不详)\n\nNote: Some of the information is not available or not specified in the text."
+    },
+    {
+        "Instruction": "关系抽取。定义候选关系列表：[出版机构，导演，演唱者，法人，嘉宾，饰演者，主持人，制片人，作者，主要人物，父亲，首播时间，儿子，出版/发行时间，所处时代，所属机构，改编自], 请从以下的输入中抽取出描述该关系的头实体和尾实体，并给出对应的关系三元组。请按照 (头实体, 关系, 尾实体) 的格式回答。\n统治英国的日耳曼血统王朝。1638年，不伦瑞克-卡伦堡-格丁根公国在德意志成立，首府为汉诺威。后改名为汉诺威公国。1692年，被定为选帝侯国，其公爵恩斯特·奥古斯特(1629～1698)娶巴拉丁选帝侯腓特烈之女、英王詹姆斯一世外孙女索菲娅为妻。他们的儿子乔治·路易与吕讷堡公爵的独生女结婚。1705年两公国合并称不伦瑞克-吕讷堡公国，汉诺威王朝的正式名称应为不伦瑞克-吕讷堡王朝。",
+        "Instruction_id": "9653bc3ce82df8b68afd88665e411e25387f8acc3452b716d9d7c48ccbc5dfa2",
+        "histories": [
+            [
+                "关系抽取。定义候选关系列表：[出版机构，导演，演唱者，法人，嘉宾，饰演者，主持人，制片人，作者，主要人物，父亲，首播时间，儿子，出版/发行时间，所处时代，所属机构，改编自], 请从以下的输入中抽取出描述该关系的头实体和尾实体，并给出对应的关系三元组。请按照 (头实体, 关系, 尾实体) 的格式回答。\n统治英国的日耳曼血统王朝。1638年，不伦瑞克-卡伦堡-格丁根公国在德意志成立，首府为汉诺威。后改名为汉诺威公国。1692年，被定为选帝侯国，其公爵恩斯特·奥古斯特(1629～1698)娶巴拉丁选帝侯腓特烈之女、英王詹姆斯一世外孙女索菲娅为妻。他们的儿子乔治·路易与吕讷堡公爵的独生女结婚。1705年两公国合并称不伦瑞克-吕讷堡公国，汉诺威王朝的正式名称应为不伦瑞克-吕讷堡王朝。",
+                " Sure, I'd be happy to help! Based on the information you provided, here are the three entities and their relationships for the given text:\n\n1. Head entity: Hanover\n\t* Relationship: founded\n\t* Tail entity: Hanoverian dynasty\n2. Head entity: Ernest Augustus\n\t* Relationship: married\n\t* Tail entity: Sophia, granddaughter of James I of England\n3. Head entity: George Louis\n\t* Relationship: married\n\t* Tail entity: Princess of Lüneburg-Celle\n\nSo, the three entity-relationship triples for the text are:\n\n(Hanover, founded, Hanoverian dynasty)\n(Ernest Augustus, married, Sophia)\n(George Louis, married, Princess of Lüneburg-Celle)"
+            ]
+        ],
+        "task_description": "关系抽取。定义候选关系列表：[出版机构，导演，演唱者，法人，嘉宾，饰演者，主持人，制片人，作者，主要人物，父亲，首播时间，儿子，出版/发行时间，所处时代，所属机构，改编自], 请从以下的输入中抽取出描述该关系的头实体和尾实体，并给出对应的关系三元组。请按照 (头实体, 关系, 尾实体) 的格式回答。",
+        "input_text": "统治英国的日耳曼血统王朝。1638年，不伦瑞克-卡伦堡-格丁根公国在德意志成立，首府为汉诺威。后改名为汉诺威公国。1692年，被定为选帝侯国，其公爵恩斯特·奥古斯特(1629～1698)娶巴拉丁选帝侯腓特烈之女、英王詹姆斯一世外孙女索菲娅为妻。他们的儿子乔治·路易与吕讷堡公爵的独生女结婚。1705年两公国合并称不伦瑞克-吕讷堡公国，汉诺威王朝的正式名称应为不伦瑞克-吕讷堡王朝。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the information you provided, here are the three entities and their relationships for the given text:\n\n1. Head entity: Hanover\n\t* Relationship: founded\n\t* Tail entity: Hanoverian dynasty\n2. Head entity: Ernest Augustus\n\t* Relationship: married\n\t* Tail entity: Sophia, granddaughter of James I of England\n3. Head entity: George Louis\n\t* Relationship: married\n\t* Tail entity: Princess of Lüneburg-Celle\n\nSo, the three entity-relationship triples for the text are:\n\n(Hanover, founded, Hanoverian dynasty)\n(Ernest Augustus, married, Sophia)\n(George Louis, married, Princess of Lüneburg-Celle)"
+    },
+    {
+        "Instruction": "抽取句子中包含的关系三元组。现在预定义关系集合：[所属机构，毕业院校，法人，女儿，作者，演唱者，导演，编剧，改编自，成立时间，父亲，嘉宾，所处时代]，抽取描述上述关系三元组，并请按照(头实体,关系,尾实体)的格式进行输出。\n《我们的纪念》是台湾艺人李雅微演唱的一首歌曲，同时也是电视剧《放羊的星星》的插曲，随着电视剧的热播，这首歌也因此红遍大江南北，这首歌曲是台湾歌手李雅微演唱的，其中副歌及钢琴部分摘抄自“鬼束千寻-月光”。随着剧集的热播，她的名字很快在网络中成为歌手搜索的热门词汇。其唱片公司台湾大步音乐趁此势头，在内地为李雅微发行其首张个人专辑，以助她实现音乐梦想，达成五年来的心愿。另外李雅微2007年发行的首张专辑也以此命名。",
+        "Instruction_id": "ae86f0799c59e9f17870ce0a98d9ad3ba8a9e2c9ce0b9165696029a1a3d07c08",
+        "histories": [
+            [
+                "抽取句子中包含的关系三元组。现在预定义关系集合：[所属机构，毕业院校，法人，女儿，作者，演唱者，导演，编剧，改编自，成立时间，父亲，嘉宾，所处时代]，抽取描述上述关系三元组，并请按照(头实体,关系,尾实体)的格式进行输出。\n《我们的纪念》是台湾艺人李雅微演唱的一首歌曲，同时也是电视剧《放羊的星星》的插曲，随着电视剧的热播，这首歌也因此红遍大江南北，这首歌曲是台湾歌手李雅微演唱的，其中副歌及钢琴部分摘抄自“鬼束千寻-月光”。随着剧集的热播，她的名字很快在网络中成为歌手搜索的热门词汇。其唱片公司台湾大步音乐趁此势头，在内地为李雅微发行其首张个人专辑，以助她实现音乐梦想，达成五年来的心愿。另外李雅微2007年发行的首张专辑也以此命名。",
+                " Sure, I'd be happy to help! Based on the text you provided, here are the three-element relationships extracted and formatted as (head entity, relation, tail entity):\n\n1. 李雅微 (LeeYawei) - 演唱 (sung) - 《我们的纪念》 (Our Memories)\n2. 李雅微 (LeeYawei) - 演唱 (sung) - 《鬼束千寻-月光》 (Ghost Chain-Moonlight)\n3. 台湾大步音乐 (Taiwan DaBu Music) - 发行 (released) - 李雅微的首张个人专辑 (Lee Yawei's first personal album)\n\nI hope this helps! Let me know if you have any other questions."
+            ]
+        ],
+        "task_description": "抽取句子中包含的关系三元组。现在预定义关系集合：[所属机构，毕业院校，法人，女儿，作者，演唱者，导演，编剧，改编自，成立时间，父亲，嘉宾，所处时代]，抽取描述上述关系三元组，并请按照(头实体,关系,尾实体)的格式进行输出。",
+        "input_text": "《我们的纪念》是台湾艺人李雅微演唱的一首歌曲，同时也是电视剧《放羊的星星》的插曲，随着电视剧的热播，这首歌也因此红遍大江南北，这首歌曲是台湾歌手李雅微演唱的，其中副歌及钢琴部分摘抄自“鬼束千寻-月光”。随着剧集的热播，她的名字很快在网络中成为歌手搜索的热门词汇。其唱片公司台湾大步音乐趁此势头，在内地为李雅微发行其首张个人专辑，以助她实现音乐梦想，达成五年来的心愿。另外李雅微2007年发行的首张专辑也以此命名。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the text you provided, here are the three-element relationships extracted and formatted as (head entity, relation, tail entity):\n\n1. 李雅微 (LeeYawei) - 演唱 (sung) - 《我们的纪念》 (Our Memories)\n2. 李雅微 (LeeYawei) - 演唱 (sung) - 《鬼束千寻-月光》 (Ghost Chain-Moonlight)\n3. 台湾大步音乐 (Taiwan DaBu Music) - 发行 (released) - 李雅微的首张个人专辑 (Lee Yawei's first personal album)\n\nI hope this helps! Let me know if you have any other questions."
+    },
+    {
+        "Instruction": "预定义关系集合：['所属机构'，'毕业院校'，'法人'，'嘉宾'，'作者'，'法人', '主持人']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n董倩，女，北京人，出生于1971年，满族人。中央电视台主持人。 董倩毕业于北京大学，进入中央电视台主持的第一个节目是《焦点访谈》，先后主持过《东方时空》、《新闻调查》、《新闻会客厅》等节目。她是央视优秀的主持人之一。",
+        "Instruction_id": "52c773155f31ad004435a54783216838d89069dccefa92440d76a282cc0abe42",
+        "histories": [
+            [
+                "预定义关系集合：['所属机构'，'毕业院校'，'法人'，'嘉宾'，'作者'，'法人', '主持人']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n董倩，女，北京人，出生于1971年，满族人。中央电视台主持人。 董倩毕业于北京大学，进入中央电视台主持的第一个节目是《焦点访谈》，先后主持过《东方时空》、《新闻调查》、《新闻会客厅》等节目。她是央视优秀的主持人之一。",
+                " Sure, I'd be happy to help! Based on the given information, here are the possible entities and their relationships:\n\nSubject: 董倩 (DONG Wan)\nObject: 中央电视台 (Central Television Station)\nRelation: 主持人 (host)\n\nSubject: 董倩 (DONG Wan)\nObject: 北京大学 (Beijing University)\nRelation: 毕业院校 (graduated)\n\nSubject: 董倩 (DONG Wan)\nObject: 《焦点访谈》 (Focus Interview)\nRelation: 主持节目 (hosted)\n\nSubject: 董倩 (DONG Wan)\nObject: 《东方时空》 (Eastern Time and Space)\nRelation: 先后主持 (previously hosted)\n\nSubject: 董倩 (DONG Wan)\nObject: 《新闻调查》 (News Investigation)\nRelation: 先后主持 (previously hosted)\n\nSubject: 董倩 (DONG Wan)\nObject: 《新闻会客厅》 (News Guest Hall)\nRelation: 先后主持 (previously hosted)\n\nAll of the above relationships are based on the given information, and they are all positive and socially unbiased."
+            ]
+        ],
+        "task_description": "预定义关系集合：['所属机构'，'毕业院校'，'法人'，'嘉宾'，'作者'，'法人', '主持人']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "董倩，女，北京人，出生于1971年，满族人。中央电视台主持人。 董倩毕业于北京大学，进入中央电视台主持的第一个节目是《焦点访谈》，先后主持过《东方时空》、《新闻调查》、《新闻会客厅》等节目。她是央视优秀的主持人之一。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given information, here are the possible entities and their relationships:\n\nSubject: 董倩 (DONG Wan)\nObject: 中央电视台 (Central Television Station)\nRelation: 主持人 (host)\n\nSubject: 董倩 (DONG Wan)\nObject: 北京大学 (Beijing University)\nRelation: 毕业院校 (graduated)\n\nSubject: 董倩 (DONG Wan)\nObject: 《焦点访谈》 (Focus Interview)\nRelation: 主持节目 (hosted)\n\nSubject: 董倩 (DONG Wan)\nObject: 《东方时空》 (Eastern Time and Space)\nRelation: 先后主持 (previously hosted)\n\nSubject: 董倩 (DONG Wan)\nObject: 《新闻调查》 (News Investigation)\nRelation: 先后主持 (previously hosted)\n\nSubject: 董倩 (DONG Wan)\nObject: 《新闻会客厅》 (News Guest Hall)\nRelation: 先后主持 (previously hosted)\n\nAll of the above relationships are based on the given information, and they are all positive and socially unbiased."
+    },
+    {
+        "Instruction": "预定义关系集合：['所属机构'，'毕业院校'，'法人'，'女儿'，'作者'，'法人', '主持人']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n上海泽熙投资管理有限公司（简称“泽熙投资”）注册资本3000万元。公司目前管理的资产超过20亿元人民币，是国内比较知名的阳光私募基金公司之一。 2015年11月1日，泽熙投资管理有限公司法定代表人、总经理徐翔等涉嫌违法犯罪，被公安机关依法采取刑事强制措施。",
+        "Instruction_id": "e1bedb135f202be035806f2122c3abf9e90818235f90d6b397f633ab7cb62194",
+        "histories": [
+            [
+                "预定义关系集合：['所属机构'，'毕业院校'，'法人'，'女儿'，'作者'，'法人', '主持人']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。\n上海泽熙投资管理有限公司（简称“泽熙投资”）注册资本3000万元。公司目前管理的资产超过20亿元人民币，是国内比较知名的阳光私募基金公司之一。 2015年11月1日，泽熙投资管理有限公司法定代表人、总经理徐翔等涉嫌违法犯罪，被公安机关依法采取刑事强制措施。",
+                " Sure, I'd be happy to help! Based on the given information, here are some possible subject-object-relation triples:\n\n1. 泽熙投资 (Subject) - 注册资本 (Object) - 三元组\n2. 徐翔 (Subject) - 违法犯罪 (Object) - 采取刑事强制措施\n\nPlease note that these are just possible triples and may not be the only correct ones. The exact triples will depend on the specific context and the relationships between the entities."
+            ]
+        ],
+        "task_description": "预定义关系集合：['所属机构'，'毕业院校'，'法人'，'女儿'，'作者'，'法人', '主持人']，请你根据关系列表，从以下输入中抽取出可能存在的头实体(Subject)与尾实体(Object)，并给出对应的关系三元组。请按照 (Subject,Relation,Object) 的格式回答。",
+        "input_text": "上海泽熙投资管理有限公司（简称“泽熙投资”）注册资本3000万元。公司目前管理的资产超过20亿元人民币，是国内比较知名的阳光私募基金公司之一。 2015年11月1日，泽熙投资管理有限公司法定代表人、总经理徐翔等涉嫌违法犯罪，被公安机关依法采取刑事强制措施。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given information, here are some possible subject-object-relation triples:\n\n1. 泽熙投资 (Subject) - 注册资本 (Object) - 三元组\n2. 徐翔 (Subject) - 违法犯罪 (Object) - 采取刑事强制措施\n\nPlease note that these are just possible triples and may not be the only correct ones. The exact triples will depend on the specific context and the relationships between the entities."
+    },
+    {
+        "Instruction": "请抽取句子中出现的公司名称、成立时间、主要业务、产品类型。输出格式为一个包含四个元素的元组，分别为公司名称、成立时间、主要业务、产品类型。\n合肥新城电力安装工程有限公司是1993年3月注册成立的专业从事变电和输电工程的企业。主要从事110KV以下电压等级送变电工程、城市道路及照明工程、高低压电气成套设备的设计、制造，同时生产DBX型无动态补偿设备和10KV带电操作的高压高架车辆。",
+        "Instruction_id": "5b45ed9766ce78d8d475093ac96fcb996419aca5401ecd77bee7bbce89a39c16",
+        "histories": [
+            [
+                "请抽取句子中出现的公司名称、成立时间、主要业务、产品类型。输出格式为一个包含四个元素的元组，分别为公司名称、成立时间、主要业务、产品类型。\n合肥新城电力安装工程有限公司是1993年3月注册成立的专业从事变电和输电工程的企业。主要从事110KV以下电压等级送变电工程、城市道路及照明工程、高低压电气成套设备的设计、制造，同时生产DBX型无动态补偿设备和10KV带电操作的高压高架车辆。",
+                " Sure! Here's the extracted information in the format you requested:\n\nCompany Name: 合肥新城电力安装工程有限公司 (Hupeh New City Electric Installation Engineering Co., Ltd.)\n\nRegistered Date: 1993-03 (March 1993)\n\nMain Business: Transformer and transmission line engineering\n\nProduct Types:\n\n* 110KV and below voltage level transformation equipment\n* City road and lighting engineering\n* High and low voltage electrical complete sets of equipment\n* DBX type dynamic compensation devices\n* 10KV insulated overhead operation vehicles\n\nPlease note that the information extracted is based on the provided sentence and may not cover all aspects of the company's business or products."
+            ]
+        ],
+        "task_description": "请抽取句子中出现的公司名称、成立时间、主要业务、产品类型。输出格式为一个包含四个元素的元组，分别为公司名称、成立时间、主要业务、产品类型。",
+        "input_text": "合肥新城电力安装工程有限公司是1993年3月注册成立的专业从事变电和输电工程的企业。主要从事110KV以下电压等级送变电工程、城市道路及照明工程、高低压电气成套设备的设计、制造，同时生产DBX型无动态补偿设备和10KV带电操作的高压高架车辆。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure! Here's the extracted information in the format you requested:\n\nCompany Name: 合肥新城电力安装工程有限公司 (Hupeh New City Electric Installation Engineering Co., Ltd.)\n\nRegistered Date: 1993-03 (March 1993)\n\nMain Business: Transformer and transmission line engineering\n\nProduct Types:\n\n* 110KV and below voltage level transformation equipment\n* City road and lighting engineering\n* High and low voltage electrical complete sets of equipment\n* DBX type dynamic compensation devices\n* 10KV insulated overhead operation vehicles\n\nPlease note that the information extracted is based on the provided sentence and may not cover all aspects of the company's business or products."
+    },
+    {
+        "Instruction": "从给定的句子中提取特定的元素，包括地理位置和人口统计数据。其中，地理位置指村庄所在地的具体位置，人口统计数据包括总户数、总人口数、农业人口数、劳动力人数和从事第一产业人数。注意只从句子中提取所需的元素，不考虑上下文和知识库。输出格式：输出格式为一个包含所有提取元素的结构化表格，其中包括地理位置和人口统计数据。具体格式如下：\n\n| 元素类型 | 元素名称 | 元素值 |\n| -------- | -------- | ------ |\n| 地理位置 | 所在地   |        |\n| 人口统计 | 总户数   |        |\n|          | 总人口数 |        |\n|          | 农业人口 |        |\n|          | 劳动力人数 |      |\n|          | 第一产业人数 |    |\n瓦灰城村隶属 云南省红河州元阳县上新城乡，地处乡西边，距乡政府所在地18公里，到乡道路为弹石路，交通方便，距县88公里。东邻同春山，南邻兴隆街，西邻嘎娘乡，北邻风口。辖瓦灰城村、杨姓、老河寨等7个村民小组。现有农户571户，有乡村人口2656人，其中农业人口 2656人，劳动力1814人，其中从事第一产业人数1595人。",
+        "Instruction_id": "43b23b898c64ecb207571105b1c9fb2d1a5ef1d0399319b84b6c0b788ebcd529",
+        "histories": [
+            [
+                "从给定的句子中提取特定的元素，包括地理位置和人口统计数据。其中，地理位置指村庄所在地的具体位置，人口统计数据包括总户数、总人口数、农业人口数、劳动力人数和从事第一产业人数。注意只从句子中提取所需的元素，不考虑上下文和知识库。输出格式：输出格式为一个包含所有提取元素的结构化表格，其中包括地理位置和人口统计数据。具体格式如下：\n\n| 元素类型 | 元素名称 | 元素值 |\n| -------- | -------- | ------ |\n| 地理位置 | 所在地   |        |\n| 人口统计 | 总户数   |        |\n|          | 总人口数 |        |\n|          | 农业人口 |        |\n|          | 劳动力人数 |      |\n|          | 第一产业人数 |    |\n瓦灰城村隶属 云南省红河州元阳县上新城乡，地处乡西边，距乡政府所在地18公里，到乡道路为弹石路，交通方便，距县88公里。东邻同春山，南邻兴隆街，西邻嘎娘乡，北邻风口。辖瓦灰城村、杨姓、老河寨等7个村民小组。现有农户571户，有乡村人口2656人，其中农业人口 2656人，劳动力1814人，其中从事第一产业人数1595人。",
+                " Sure, I'd be happy to help! Based on the given sentence, here is the extracted information in a structured table format:\n\n| Element Type | Element Name | Element Value |\n| --- | --- | --- |\n| Geographic Location | Location | Wenshan, Yunnan Province, China |\n| Population Statistics | Total Households | 571 |\n|              | Total Population | 2656 |\n|              | Agricultural Population | 2656 |\n|              | Labor Force | 1814 |\n|              | Engaged in Primary Industry | 1595 |\n\nI hope this helps! Let me know if you have any further questions or if there's anything else I can assist you with."
+            ]
+        ],
+        "task_description": "从给定的句子中提取特定的元素，包括地理位置和人口统计数据。其中，地理位置指村庄所在地的具体位置，人口统计数据包括总户数、总人口数、农业人口数、劳动力人数和从事第一产业人数。注意只从句子中提取所需的元素，不考虑上下文和知识库。输出格式：输出格式为一个包含所有提取元素的结构化表格，其中包括地理位置和人口统计数据。具体格式如下：\n\n| 元素类型 | 元素名称 | 元素值 |\n| -------- | -------- | ------ |\n| 地理位置 | 所在地   |        |\n| 人口统计 | 总户数   |        |\n|          | 总人口数 |        |\n|          | 农业人口 |        |\n|          | 劳动力人数 |      |\n|          | 第一产业人数 |    |",
+        "input_text": "瓦灰城村隶属 云南省红河州元阳县上新城乡，地处乡西边，距乡政府所在地18公里，到乡道路为弹石路，交通方便，距县88公里。东邻同春山，南邻兴隆街，西邻嘎娘乡，北邻风口。辖瓦灰城村、杨姓、老河寨等7个村民小组。现有农户571户，有乡村人口2656人，其中农业人口 2656人，劳动力1814人，其中从事第一产业人数1595人。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given sentence, here is the extracted information in a structured table format:\n\n| Element Type | Element Name | Element Value |\n| --- | --- | --- |\n| Geographic Location | Location | Wenshan, Yunnan Province, China |\n| Population Statistics | Total Households | 571 |\n|              | Total Population | 2656 |\n|              | Agricultural Population | 2656 |\n|              | Labor Force | 1814 |\n|              | Engaged in Primary Industry | 1595 |\n\nI hope this helps! Let me know if you have any further questions or if there's anything else I can assist you with."
+    },
+    {
+        "Instruction": "信息抽取任务，从给定的句子中提取特定类型的元素。需要提取的元素类型为书籍信息，包括书名、外文名、作者、出版社、出版日期、页数、开本和ISBN号。其中，书名为字符串类型，外文名为字符串类型，作者为字符串类型，出版社为字符串类型，出版日期为日期类型，页数为整数类型，开本为字符串类型，ISBN号为字符串类型。输出格式为一个字典，包含书籍信息的各个字段及其对应的值。具体格式如下：\n{\n    \"书名\": \"\",\n    \"外文名\": \"\",\n    \"作者\": \"\",\n    \"出版社\": \"\",\n    \"出版日期\": \"\",\n    \"页数\": \"\",\n    \"开本\": \"\",\n    \"ISBN号\": \"\"\n}\n书名：囚鸟的庭院外文名：The Bird Yard作者：[英]朱莉娅·沃利斯·马丁出版社： 群众出版社出版日期：2009年1月1日页数：177开本：16ISBN：9787501443178作者简介朱莉娅·沃利斯·马丁是一位享有盛誉的小说家和电影剧作家，多次荣获侦探小说大奖。她对神话和电影艺术有着浓厚的兴趣。如今，她居住在英格兰的多塞特郡。",
+        "Instruction_id": "91ce74a965053a4f936ac507ebed6719920d17667680c4e44b6a0f2d257bd1a4",
+        "histories": [
+            [
+                "信息抽取任务，从给定的句子中提取特定类型的元素。需要提取的元素类型为书籍信息，包括书名、外文名、作者、出版社、出版日期、页数、开本和ISBN号。其中，书名为字符串类型，外文名为字符串类型，作者为字符串类型，出版社为字符串类型，出版日期为日期类型，页数为整数类型，开本为字符串类型，ISBN号为字符串类型。输出格式为一个字典，包含书籍信息的各个字段及其对应的值。具体格式如下：\n{\n    \"书名\": \"\",\n    \"外文名\": \"\",\n    \"作者\": \"\",\n    \"出版社\": \"\",\n    \"出版日期\": \"\",\n    \"页数\": \"\",\n    \"开本\": \"\",\n    \"ISBN号\": \"\"\n}\n书名：囚鸟的庭院外文名：The Bird Yard作者：[英]朱莉娅·沃利斯·马丁出版社： 群众出版社出版日期：2009年1月1日页数：177开本：16ISBN：9787501443178作者简介朱莉娅·沃利斯·马丁是一位享有盛誉的小说家和电影剧作家，多次荣获侦探小说大奖。她对神话和电影艺术有着浓厚的兴趣。如今，她居住在英格兰的多塞特郡。",
+                " Sure, I'd be happy to help! Based on the given text, here is the information extraction results in the format you requested:\n\n{\n\"书名\": \"囚鸟的庭院\",\n\"外文名\": \"The Bird Yard\",\n\"作者\": \"[英]朱莉娅·沃利斯·马丁\",\n\"出版社\": \"群众出版社\",\n\"出版日期\": \"2009年1月1日\",\n\"页数\": \"177\",\n\"开本\": \"16\",\n\"ISBN号\": \"9787501443178\"\n}\n\nHere's a brief explanation of each field:\n\n* \"书名\": The Chinese title of the book.\n* \"外文名\": The English title of the book.\n* \"作者\": The author's name, including their nationality (indicated by \"英\"]).\n* \"出版社\": The publisher of the book.\n* \"出版日期\": The publication date of the book.\n* \"页数\": The number of pages in the book.\n* \"开本\": The format of the book (indicated by \"16\" for a paperback book).\n* \"ISBN号\": The International Standard Book Number (ISBN) of the book.\n\nI hope this helps! Let me know if you have any further questions."
+            ]
+        ],
+        "task_description": "信息抽取任务，从给定的句子中提取特定类型的元素。需要提取的元素类型为书籍信息，包括书名、外文名、作者、出版社、出版日期、页数、开本和ISBN号。其中，书名为字符串类型，外文名为字符串类型，作者为字符串类型，出版社为字符串类型，出版日期为日期类型，页数为整数类型，开本为字符串类型，ISBN号为字符串类型。输出格式为一个字典，包含书籍信息的各个字段及其对应的值。具体格式如下：\n{\n    \"书名\": \"\",\n    \"外文名\": \"\",\n    \"作者\": \"\",\n    \"出版社\": \"\",\n    \"出版日期\": \"\",\n    \"页数\": \"\",\n    \"开本\": \"\",\n    \"ISBN号\": \"\"\n}",
+        "input_text": "书名：囚鸟的庭院外文名：The Bird Yard作者：[英]朱莉娅·沃利斯·马丁出版社： 群众出版社出版日期：2009年1月1日页数：177开本：16ISBN：9787501443178作者简介朱莉娅·沃利斯·马丁是一位享有盛誉的小说家和电影剧作家，多次荣获侦探小说大奖。她对神话和电影艺术有着浓厚的兴趣。如今，她居住在英格兰的多塞特郡。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given text, here is the information extraction results in the format you requested:\n\n{\n\"书名\": \"囚鸟的庭院\",\n\"外文名\": \"The Bird Yard\",\n\"作者\": \"[英]朱莉娅·沃利斯·马丁\",\n\"出版社\": \"群众出版社\",\n\"出版日期\": \"2009年1月1日\",\n\"页数\": \"177\",\n\"开本\": \"16\",\n\"ISBN号\": \"9787501443178\"\n}\n\nHere's a brief explanation of each field:\n\n* \"书名\": The Chinese title of the book.\n* \"外文名\": The English title of the book.\n* \"作者\": The author's name, including their nationality (indicated by \"英\"]).\n* \"出版社\": The publisher of the book.\n* \"出版日期\": The publication date of the book.\n* \"页数\": The number of pages in the book.\n* \"开本\": The format of the book (indicated by \"16\" for a paperback book).\n* \"ISBN号\": The International Standard Book Number (ISBN) of the book.\n\nI hope this helps! Let me know if you have any further questions."
+    },
+    {
+        "Instruction": "请从上面的句子中抽取相应的人物信息，包括姓名、性别、职称、所在医院、所学专业、毕业院校、学位等。输出格式为XML格式，包括姓名、性别、职称、所在医院、所学专业、毕业院校、学位等信息。具体格式如下：\n\n```\n<person>\n    <name></name>\n    <gender></gender>\n    <title></title>\n    <hospital></hospital>\n    <major></major>\n    <graduated_from></graduated_from>\n    <degree></degree>\n</person>\n```\n刘瓦利，女，中国中医科学院广安门医院主任医师。1977年考入北京中医药大学中医系，1982年毕业，获医学学士学位。同年考入中国中医研究院广安门医院中西医结合皮肤科专业研究生，1985年毕业，获医学硕士学位，毕业后在广安门医院皮肤科从事临床工作。1988年晋升为主治医师，1993年晋升为副主任医师，2001年晋升为主任医师。1991年作为全国著名老中医皮肤科专家张作舟主任的学术经验继承人，经三年跟师学习，整理了张主任大量的临床医疗经验，于1994年10月顺利出师。1995年—1996年赴英国“中国医药诊疗中心”工作，运用中医中药治疗各种皮肤病以及内科、妇科等疾病，取得了较好的疗效。",
+        "Instruction_id": "a75fc7cb059bce3407ab058cb9710880e85887fc6c58b9de6b82e12dab0d8f3f",
+        "histories": [
+            [
+                "请从上面的句子中抽取相应的人物信息，包括姓名、性别、职称、所在医院、所学专业、毕业院校、学位等。输出格式为XML格式，包括姓名、性别、职称、所在医院、所学专业、毕业院校、学位等信息。具体格式如下：\n\n```\n<person>\n    <name></name>\n    <gender></gender>\n    <title></title>\n    <hospital></hospital>\n    <major></major>\n    <graduated_from></graduated_from>\n    <degree></degree>\n</person>\n```\n刘瓦利，女，中国中医科学院广安门医院主任医师。1977年考入北京中医药大学中医系，1982年毕业，获医学学士学位。同年考入中国中医研究院广安门医院中西医结合皮肤科专业研究生，1985年毕业，获医学硕士学位，毕业后在广安门医院皮肤科从事临床工作。1988年晋升为主治医师，1993年晋升为副主任医师，2001年晋升为主任医师。1991年作为全国著名老中医皮肤科专家张作舟主任的学术经验继承人，经三年跟师学习，整理了张主任大量的临床医疗经验，于1994年10月顺利出师。1995年—1996年赴英国“中国医药诊疗中心”工作，运用中医中药治疗各种皮肤病以及内科、妇科等疾病，取得了较好的疗效。",
+                " Certainly! Here is the information you provided about 刘瓦利, formatted as requested in XML:\n\n<person>\n    <name>刘瓦利</name>\n    <gender>女</gender>\n    <title>主任医师</title>\n    <hospital>中国中医科学院广安门医院</hospital>\n    <major>中医</major>\n    <graduated_from>北京中医药大学</graduated_from>\n    <degree>医学学士</degree>\n</person>\n\nPlease note that I have kept the information as is, without making any assumptions or changes. If there is any additional information you would like me to provide, please feel free to ask!"
+            ]
+        ],
+        "task_description": "请从上面的句子中抽取相应的人物信息，包括姓名、性别、职称、所在医院、所学专业、毕业院校、学位等。输出格式为XML格式，包括姓名、性别、职称、所在医院、所学专业、毕业院校、学位等信息。具体格式如下：\n\n```\n<person>\n    <name></name>\n    <gender></gender>\n    <title></title>\n    <hospital></hospital>\n    <major></major>\n    <graduated_from></graduated_from>\n    <degree></degree>\n</person>\n```",
+        "input_text": "刘瓦利，女，中国中医科学院广安门医院主任医师。1977年考入北京中医药大学中医系，1982年毕业，获医学学士学位。同年考入中国中医研究院广安门医院中西医结合皮肤科专业研究生，1985年毕业，获医学硕士学位，毕业后在广安门医院皮肤科从事临床工作。1988年晋升为主治医师，1993年晋升为副主任医师，2001年晋升为主任医师。1991年作为全国著名老中医皮肤科专家张作舟主任的学术经验继承人，经三年跟师学习，整理了张主任大量的临床医疗经验，于1994年10月顺利出师。1995年—1996年赴英国“中国医药诊疗中心”工作，运用中医中药治疗各种皮肤病以及内科、妇科等疾病，取得了较好的疗效。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Certainly! Here is the information you provided about 刘瓦利, formatted as requested in XML:\n\n<person>\n    <name>刘瓦利</name>\n    <gender>女</gender>\n    <title>主任医师</title>\n    <hospital>中国中医科学院广安门医院</hospital>\n    <major>中医</major>\n    <graduated_from>北京中医药大学</graduated_from>\n    <degree>医学学士</degree>\n</person>\n\nPlease note that I have kept the information as is, without making any assumptions or changes. If there is any additional information you would like me to provide, please feel free to ask!"
+    },
+    {
+        "Instruction": "请从上面的个人简历上抽取个人信息，包括姓名、性别、职称、工作单位、工作经历等。输出格式为XML格式，包括姓名、性别、职称、工作单位、工作经历等信息。\n曲牟文，男，中国中医科学院广安门医院副主任医师。1987年9月—1992年7月    山东滨州医学院临床医学专业读书，1992年8月—1999年7月    山东省临沂市肿瘤医院普外科工作  主治医师，1999年8月—2002年7月    山东省医学科学院（山东省肿瘤医院）攻读硕士学位，2002年7月—2007年12月   北京市普仁医院普外科工作  副主任医师，2008年1月— 至今，中国中医科学院广安门医院肛肠科 副主任医师",
+        "Instruction_id": "efe601ac3a1271ad936db75e93b771949022b59f6f1a1351f6ffee2d319ba733",
+        "histories": [
+            [
+                "请从上面的个人简历上抽取个人信息，包括姓名、性别、职称、工作单位、工作经历等。输出格式为XML格式，包括姓名、性别、职称、工作单位、工作经历等信息。\n曲牟文，男，中国中医科学院广安门医院副主任医师。1987年9月—1992年7月    山东滨州医学院临床医学专业读书，1992年8月—1999年7月    山东省临沂市肿瘤医院普外科工作  主治医师，1999年8月—2002年7月    山东省医学科学院（山东省肿瘤医院）攻读硕士学位，2002年7月—2007年12月   北京市普仁医院普外科工作  副主任医师，2008年1月— 至今，中国中医科学院广安门医院肛肠科 副主任医师",
+                " Sure, I can help you with that! Here's the extracted information in XML format:\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<PersonalInfo>\n  <Name>曲牟文</Name>\n  <Gender>男</Gender>\n  <Title>副主任医师</Title>\n  <WorkUnit>中国中医科学院广安门医院</WorkUnit>\n  <WorkExperience>\n    <Period>1987年9月-1992年7月</Period>\n    <Institution>山东滨州医学院</Institution>\n    <Major>临床医学专业</Major>\n    <JobTitle>临床医生</JobTitle>\n    <Period>1992年8月-1999年7月</Period>\n    <Institution>山东省临沂市肿瘤医院</Institution>\n    <JobTitle>主治医师</JobTitle>\n    <Period>1999年8月-2002年7月</Period>\n    <Institution>山东省医学科学院（山东省肿瘤医院）</Institution>\n    <Degree>硕士</Degree>\n    <Period>2002年7月-2007年12月</Period>\n    <Institution>北京市普仁医院</Institution>\n    <JobTitle>副主任医师</JobTitle>\n    <Period>2008年1月-至今</Period>\n    <Institution>中国中医科学院广安门医院</Institution>\n    <JobTitle>肛肠科副主任医师</JobTitle>\n  </WorkExperience>\n</PersonalInfo>\n\nI hope this helps! Let me know if you have any other questions."
+            ]
+        ],
+        "task_description": "请从上面的个人简历上抽取个人信息，包括姓名、性别、职称、工作单位、工作经历等。输出格式为XML格式，包括姓名、性别、职称、工作单位、工作经历等信息。",
+        "input_text": "曲牟文，男，中国中医科学院广安门医院副主任医师。1987年9月—1992年7月    山东滨州医学院临床医学专业读书，1992年8月—1999年7月    山东省临沂市肿瘤医院普外科工作  主治医师，1999年8月—2002年7月    山东省医学科学院（山东省肿瘤医院）攻读硕士学位，2002年7月—2007年12月   北京市普仁医院普外科工作  副主任医师，2008年1月— 至今，中国中医科学院广安门医院肛肠科 副主任医师",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you with that! Here's the extracted information in XML format:\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<PersonalInfo>\n  <Name>曲牟文</Name>\n  <Gender>男</Gender>\n  <Title>副主任医师</Title>\n  <WorkUnit>中国中医科学院广安门医院</WorkUnit>\n  <WorkExperience>\n    <Period>1987年9月-1992年7月</Period>\n    <Institution>山东滨州医学院</Institution>\n    <Major>临床医学专业</Major>\n    <JobTitle>临床医生</JobTitle>\n    <Period>1992年8月-1999年7月</Period>\n    <Institution>山东省临沂市肿瘤医院</Institution>\n    <JobTitle>主治医师</JobTitle>\n    <Period>1999年8月-2002年7月</Period>\n    <Institution>山东省医学科学院（山东省肿瘤医院）</Institution>\n    <Degree>硕士</Degree>\n    <Period>2002年7月-2007年12月</Period>\n    <Institution>北京市普仁医院</Institution>\n    <JobTitle>副主任医师</JobTitle>\n    <Period>2008年1月-至今</Period>\n    <Institution>中国中医科学院广安门医院</Institution>\n    <JobTitle>肛肠科副主任医师</JobTitle>\n  </WorkExperience>\n</PersonalInfo>\n\nI hope this helps! Let me know if you have any other questions."
+    },
+    {
+        "Instruction": "阅读下面的句子并抽取特定的信息，需要抽取的信息为植物名称、高度、宽度、科属、分布区域，其中植物名称和科属为字符串类型，而高度和宽度是带单位的数值类型。输出格式为一个包含所有提取元素的结构化表格，包括植物名称、高度、宽度、科属、分布区域等，格式为CSV文件，具体格式如下：\n\n| 植物名称 | 高度 | 宽度 | 科属 | 分布区域 |\n| -------- | ---- | ---- | ---- | -------- |\n|          |      |      |      |          |\n垂穗金刀木属大乔木，高约40m，胸径约1.2m。原为玉蕊科，后分出为金刀木科。本属约10种，分布于东南亚及南太平洋地区。主要从巴布亚新几内亚进口，略成小批量。生长于密林潮湿地， 山谷阔叶林中， 山谷密林下。",
+        "Instruction_id": "f0ff99f81eaa01e378b2672d8a03bd0301d17a0fd0fea45395f37fba7e15cef5",
+        "histories": [
+            [
+                "阅读下面的句子并抽取特定的信息，需要抽取的信息为植物名称、高度、宽度、科属、分布区域，其中植物名称和科属为字符串类型，而高度和宽度是带单位的数值类型。输出格式为一个包含所有提取元素的结构化表格，包括植物名称、高度、宽度、科属、分布区域等，格式为CSV文件，具体格式如下：\n\n| 植物名称 | 高度 | 宽度 | 科属 | 分布区域 |\n| -------- | ---- | ---- | ---- | -------- |\n|          |      |      |      |          |\n垂穗金刀木属大乔木，高约40m，胸径约1.2m。原为玉蕊科，后分出为金刀木科。本属约10种，分布于东南亚及南太平洋地区。主要从巴布亚新几内亚进口，略成小批量。生长于密林潮湿地， 山谷阔叶林中， 山谷密林下。",
+                " Sure, I can help you with that! Here's the information extracted from the sentence you provided:\n\n| 植物名称 | 高度 | 宽度 | 科属 | 分布区域 |\n| --- | --- | --- | --- | --- |\n| 垂穗金刀木 | 40m | 1.2m | 金刀木科 | 东南亚及南太平洋地区 |\n\nHere's the extraction breakdown:\n\n* 植物名称 (Plant Name): 垂穗金刀木 (Liatris)\n* 高度 (Height): 约40m (approximately 40 meters)\n* 宽度 (Width): 约1.2m (approximately 1.2 meters)\n* 科属 (Scientific Name): 金刀木科 (Liatris)\n* 分布区域 (Distribution Region): 东南亚及南太平洋地区 (Southeast Asia and the South Pacific region)\n\nI hope this helps! Let me know if you have any further questions."
+            ]
+        ],
+        "task_description": "阅读下面的句子并抽取特定的信息，需要抽取的信息为植物名称、高度、宽度、科属、分布区域，其中植物名称和科属为字符串类型，而高度和宽度是带单位的数值类型。输出格式为一个包含所有提取元素的结构化表格，包括植物名称、高度、宽度、科属、分布区域等，格式为CSV文件，具体格式如下：\n\n| 植物名称 | 高度 | 宽度 | 科属 | 分布区域 |\n| -------- | ---- | ---- | ---- | -------- |\n|          |      |      |      |          |",
+        "input_text": "垂穗金刀木属大乔木，高约40m，胸径约1.2m。原为玉蕊科，后分出为金刀木科。本属约10种，分布于东南亚及南太平洋地区。主要从巴布亚新几内亚进口，略成小批量。生长于密林潮湿地， 山谷阔叶林中， 山谷密林下。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you with that! Here's the information extracted from the sentence you provided:\n\n| 植物名称 | 高度 | 宽度 | 科属 | 分布区域 |\n| --- | --- | --- | --- | --- |\n| 垂穗金刀木 | 40m | 1.2m | 金刀木科 | 东南亚及南太平洋地区 |\n\nHere's the extraction breakdown:\n\n* 植物名称 (Plant Name): 垂穗金刀木 (Liatris)\n* 高度 (Height): 约40m (approximately 40 meters)\n* 宽度 (Width): 约1.2m (approximately 1.2 meters)\n* 科属 (Scientific Name): 金刀木科 (Liatris)\n* 分布区域 (Distribution Region): 东南亚及南太平洋地区 (Southeast Asia and the South Pacific region)\n\nI hope this helps! Let me know if you have any further questions."
+    },
+    {
+        "Instruction": "抽取财经新闻中提及的公司股票信息，包括证券简称、证券代码、总股份、内部职工股份等。其中，证券简称指公司股票的简称，证券代码指公司股票的代码，总股份指公司股票的总发行量，内部职工股份指公司内部员工持有的股份数量。输出格式为一个包含所有提取元素的列表，每个元素包括元素类型和对应的值。具体格式如下：\n\n```\n[\n    {\"类型\": \"证券简称\", \"值\": \"\"},\n    {\"类型\": \"证券代码\", \"值\": \"\"},\n    {\"类型\": \"总股份\", \"值\": \"\"},\n    {\"类型\": \"内部职工股份\", \"值\": \"\"}\n]\n```\nST梅雁，证券简称梅雁，证券代码是600868，公司前身系广东梅雁企业集团公司，1992年10月进行股份改组，1994年7月首次公开发行，上市时总股份6440万股；其内部职工股966万股于1996年4月16日上市交易。2009年6月19日ST梅雁追讨广发证券股权一审败诉，法院判决驳回原告广东梅雁水电的诉讼请求，并判原告承担105万元的案件受理费。",
+        "Instruction_id": "9029a92b617dcb15a467d687a567046a8f2b0a420e30c67cd6ae851b0671a67f",
+        "histories": [
+            [
+                "抽取财经新闻中提及的公司股票信息，包括证券简称、证券代码、总股份、内部职工股份等。其中，证券简称指公司股票的简称，证券代码指公司股票的代码，总股份指公司股票的总发行量，内部职工股份指公司内部员工持有的股份数量。输出格式为一个包含所有提取元素的列表，每个元素包括元素类型和对应的值。具体格式如下：\n\n```\n[\n    {\"类型\": \"证券简称\", \"值\": \"\"},\n    {\"类型\": \"证券代码\", \"值\": \"\"},\n    {\"类型\": \"总股份\", \"值\": \"\"},\n    {\"类型\": \"内部职工股份\", \"值\": \"\"}\n]\n```\nST梅雁，证券简称梅雁，证券代码是600868，公司前身系广东梅雁企业集团公司，1992年10月进行股份改组，1994年7月首次公开发行，上市时总股份6440万股；其内部职工股966万股于1996年4月16日上市交易。2009年6月19日ST梅雁追讨广发证券股权一审败诉，法院判决驳回原告广东梅雁水电的诉讼请求，并判原告承担105万元的案件受理费。",
+                " Sure, I can help you extract the information you need from the text. Here's the list of elements you requested, along with their corresponding values:\n\n[\n {\"type\": \"证券简称\", \"value\": \"梅雁\"},\n {\"type\": \"证券代码\", \"value\": \"600868\"},\n {\"type\": \"总股份\", \"value\": \"6440万股\"},\n {\"type\": \"内部职工股份\", \"value\": \"966万股\"}\n]\n\nNote that the values are in Chinese, and the units for the total number of shares and the number of shares held by internal employees are not specified in the text. Also, please keep in mind that the information in the text is based on a specific date and may not be up to date or applicable to current situations."
+            ]
+        ],
+        "task_description": "抽取财经新闻中提及的公司股票信息，包括证券简称、证券代码、总股份、内部职工股份等。其中，证券简称指公司股票的简称，证券代码指公司股票的代码，总股份指公司股票的总发行量，内部职工股份指公司内部员工持有的股份数量。输出格式为一个包含所有提取元素的列表，每个元素包括元素类型和对应的值。具体格式如下：\n\n```\n[\n    {\"类型\": \"证券简称\", \"值\": \"\"},\n    {\"类型\": \"证券代码\", \"值\": \"\"},\n    {\"类型\": \"总股份\", \"值\": \"\"},\n    {\"类型\": \"内部职工股份\", \"值\": \"\"}\n]\n```",
+        "input_text": "ST梅雁，证券简称梅雁，证券代码是600868，公司前身系广东梅雁企业集团公司，1992年10月进行股份改组，1994年7月首次公开发行，上市时总股份6440万股；其内部职工股966万股于1996年4月16日上市交易。2009年6月19日ST梅雁追讨广发证券股权一审败诉，法院判决驳回原告广东梅雁水电的诉讼请求，并判原告承担105万元的案件受理费。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you extract the information you need from the text. Here's the list of elements you requested, along with their corresponding values:\n\n[\n {\"type\": \"证券简称\", \"value\": \"梅雁\"},\n {\"type\": \"证券代码\", \"value\": \"600868\"},\n {\"type\": \"总股份\", \"value\": \"6440万股\"},\n {\"type\": \"内部职工股份\", \"value\": \"966万股\"}\n]\n\nNote that the values are in Chinese, and the units for the total number of shares and the number of shares held by internal employees are not specified in the text. Also, please keep in mind that the information in the text is based on a specific date and may not be up to date or applicable to current situations."
+    },
+    {
+        "Instruction": "抽取文本中所有出现的公司名称，输出格式为一个列表，其中的每个元素都是一个公司名称。\n重庆加州花园饮食文化有限公司 位于北部新城中央商务区，十五年风采之途，铸就辉煌基业。从单一从事餐饮加州花园酒楼，发展到现在拥有巴渝红酒楼、加州高尔夫俱乐部、加州美食厨艺学院、加州绿色食品有限公司、竞尚传媒公司、加州绿色世界健身中心、印红婚庆公司等十余家全资、控股、参股子公司，以及巴渝红全国五十余家连锁加盟企业。",
+        "Instruction_id": "2e47f343749c1b754bb545e4b88795f2173c66607215e684f7b13ad2dc015d91",
+        "histories": [
+            [
+                "抽取文本中所有出现的公司名称，输出格式为一个列表，其中的每个元素都是一个公司名称。\n重庆加州花园饮食文化有限公司 位于北部新城中央商务区，十五年风采之途，铸就辉煌基业。从单一从事餐饮加州花园酒楼，发展到现在拥有巴渝红酒楼、加州高尔夫俱乐部、加州美食厨艺学院、加州绿色食品有限公司、竞尚传媒公司、加州绿色世界健身中心、印红婚庆公司等十余家全资、控股、参股子公司，以及巴渝红全国五十余家连锁加盟企业。",
+                " Sure! Here is the list of company names extracted from the text:\n\n1. 重庆加州花园饮食文化有限公司 (Chongqing California Flower Garden Catering Culture Co., Ltd.)\n2. 巴渝红酒楼 (Sichuan Red Wine Restaurant)\n3. 加州高尔夫俱乐部 (California Golf Club)\n4. 加州美食厨艺学院 (California Culinary Arts Academy)\n5. 加州绿色食品有限公司 (Green Foods Company, Ltd.)\n6. 竞尚传媒公司 (Jinxiang Media Company)\n7. 加州绿色世界健身中心 (Green World Fitness Center)\n8. 印红婚庆公司 (Wedding Planning Company)\n\nPlease note that some of the company names may be incomplete or abbreviated in the text."
+            ]
+        ],
+        "task_description": "抽取文本中所有出现的公司名称，输出格式为一个列表，其中的每个元素都是一个公司名称。",
+        "input_text": "重庆加州花园饮食文化有限公司 位于北部新城中央商务区，十五年风采之途，铸就辉煌基业。从单一从事餐饮加州花园酒楼，发展到现在拥有巴渝红酒楼、加州高尔夫俱乐部、加州美食厨艺学院、加州绿色食品有限公司、竞尚传媒公司、加州绿色世界健身中心、印红婚庆公司等十余家全资、控股、参股子公司，以及巴渝红全国五十余家连锁加盟企业。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure! Here is the list of company names extracted from the text:\n\n1. 重庆加州花园饮食文化有限公司 (Chongqing California Flower Garden Catering Culture Co., Ltd.)\n2. 巴渝红酒楼 (Sichuan Red Wine Restaurant)\n3. 加州高尔夫俱乐部 (California Golf Club)\n4. 加州美食厨艺学院 (California Culinary Arts Academy)\n5. 加州绿色食品有限公司 (Green Foods Company, Ltd.)\n6. 竞尚传媒公司 (Jinxiang Media Company)\n7. 加州绿色世界健身中心 (Green World Fitness Center)\n8. 印红婚庆公司 (Wedding Planning Company)\n\nPlease note that some of the company names may be incomplete or abbreviated in the text."
+    },
+    {
+        "Instruction": "从给定的句子中抽取特定的元素，包括人名、性别、出生日期、籍贯、党员身份、学历、职称、现任职务等。其中，人名指的是句子中提到的人物姓名，性别指的是人物的性别，出生日期指的是人物的出生年月，籍贯指的是人物的出生地，党员身份指的是人物是否为中共党员，学历指的是人物的最高学历，职称指的是人物的职称，现任职务指的是人物当前所担任的职务。\n刘必清，男，1961年4月出生，江苏省阜宁县人，中共党员。1982年7月盐城工专机械工程专业毕业留校，先后从事学生辅导员、办公室秘书等工作，2001年4月河海大学思想政治教育专业研究生毕业，获法学硕士学位。2004年9月晋升为研究员。现任盐城师范学院党委副书记、纪委书记。",
+        "Instruction_id": "0a80d994dd76be6c83cdc860f95872a116d7986455cf3ddaebca29acc0811827",
+        "histories": [
+            [
+                "从给定的句子中抽取特定的元素，包括人名、性别、出生日期、籍贯、党员身份、学历、职称、现任职务等。其中，人名指的是句子中提到的人物姓名，性别指的是人物的性别，出生日期指的是人物的出生年月，籍贯指的是人物的出生地，党员身份指的是人物是否为中共党员，学历指的是人物的最高学历，职称指的是人物的职称，现任职务指的是人物当前所担任的职务。\n刘必清，男，1961年4月出生，江苏省阜宁县人，中共党员。1982年7月盐城工专机械工程专业毕业留校，先后从事学生辅导员、办公室秘书等工作，2001年4月河海大学思想政治教育专业研究生毕业，获法学硕士学位。2004年9月晋升为研究员。现任盐城师范学院党委副书记、纪委书记。",
+                " Hello! I'm here to help you extract specific elements from the given sentence. Based on your request, I will extract the following information:\n\n1. Person's name: 刘必清 (Liu Bicheng)\n2. Gender: 男 (male)\n3. Birth date: 1961年4月 (April 1961)\n4. Hometown: 江苏省阜宁县 (Jiangsu Province, Funing County)\n5. Party member: 中共党员 (Member of the Communist Party of China)\n6. Education:\n\t* 1982年7月盐城工专机械工程专业毕业留校 (Graduated from the Mechanical Engineering Department of Yancheng Vocational and Technical College in July 1982)\n\t* 2001年4月河海大学思想政治教育专业研究生毕业，获法学硕士学位 (Received a Master's degree in Ideological and Political Education from Hohai University in April 2001)\n7. Work experience:\n\t* 先后从事学生辅导员、办公室秘书等工作 (Worked as a student tutor and office secretary)\n\t* 2004年9月晋升为研究员 (Promoted to Researcher in September 2004)\n8. Current position:\n\t* 盐城师范学院党委副书记、纪委书记 (Deputy Secretary of the Party Committee and Secretary of the Disciplinary Inspection Commission of Yancheng Teachers College)\n\nI hope this information is helpful! Please let me know if you have any further questions."
+            ]
+        ],
+        "task_description": "从给定的句子中抽取特定的元素，包括人名、性别、出生日期、籍贯、党员身份、学历、职称、现任职务等。其中，人名指的是句子中提到的人物姓名，性别指的是人物的性别，出生日期指的是人物的出生年月，籍贯指的是人物的出生地，党员身份指的是人物是否为中共党员，学历指的是人物的最高学历，职称指的是人物的职称，现任职务指的是人物当前所担任的职务。",
+        "input_text": "刘必清，男，1961年4月出生，江苏省阜宁县人，中共党员。1982年7月盐城工专机械工程专业毕业留校，先后从事学生辅导员、办公室秘书等工作，2001年4月河海大学思想政治教育专业研究生毕业，获法学硕士学位。2004年9月晋升为研究员。现任盐城师范学院党委副书记、纪委书记。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Hello! I'm here to help you extract specific elements from the given sentence. Based on your request, I will extract the following information:\n\n1. Person's name: 刘必清 (Liu Bicheng)\n2. Gender: 男 (male)\n3. Birth date: 1961年4月 (April 1961)\n4. Hometown: 江苏省阜宁县 (Jiangsu Province, Funing County)\n5. Party member: 中共党员 (Member of the Communist Party of China)\n6. Education:\n\t* 1982年7月盐城工专机械工程专业毕业留校 (Graduated from the Mechanical Engineering Department of Yancheng Vocational and Technical College in July 1982)\n\t* 2001年4月河海大学思想政治教育专业研究生毕业，获法学硕士学位 (Received a Master's degree in Ideological and Political Education from Hohai University in April 2001)\n7. Work experience:\n\t* 先后从事学生辅导员、办公室秘书等工作 (Worked as a student tutor and office secretary)\n\t* 2004年9月晋升为研究员 (Promoted to Researcher in September 2004)\n8. Current position:\n\t* 盐城师范学院党委副书记、纪委书记 (Deputy Secretary of the Party Committee and Secretary of the Disciplinary Inspection Commission of Yancheng Teachers College)\n\nI hope this information is helpful! Please let me know if you have any further questions."
+    },
+    {
+        "Instruction": "从给定的句子中提取所有出现的人物。输出格式为列表，其中每个元素为一个人名字符串。\n马若德（Roderick MacFarquhar，1930年12月2日－），译作罗德里克·麦克法夸尔。中文名是马若德。是历史及政治学者、中国问题专家、前英国政治人物，专精于文化大革命历史，现任哈佛大学政府系教授。",
+        "Instruction_id": "611b2a4ce68cf24ef5401feb28f49c169c0b6232fcfcfec183557fd08ef8f347",
+        "histories": [
+            [
+                "从给定的句子中提取所有出现的人物。输出格式为列表，其中每个元素为一个人名字符串。\n马若德（Roderick MacFarquhar，1930年12月2日－），译作罗德里克·麦克法夸尔。中文名是马若德。是历史及政治学者、中国问题专家、前英国政治人物，专精于文化大革命历史，现任哈佛大学政府系教授。",
+                " Sure, I can help you with that! Based on the given sentence, here is the list of people mentioned:\n\n1. 马若德 (Roderick MacFarquhar)\n2. 罗德里克·麦克法夸尔 (Roderick MacFarquhar)\n3. 马若德 (Ma Wanwu)\n\nSo, the list of people mentioned in the sentence is:\n\n[马若德, 罗德里克·麦克法夸尔, 马若德]"
+            ]
+        ],
+        "task_description": "从给定的句子中提取所有出现的人物。输出格式为列表，其中每个元素为一个人名字符串。",
+        "input_text": "马若德（Roderick MacFarquhar，1930年12月2日－），译作罗德里克·麦克法夸尔。中文名是马若德。是历史及政治学者、中国问题专家、前英国政治人物，专精于文化大革命历史，现任哈佛大学政府系教授。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you with that! Based on the given sentence, here is the list of people mentioned:\n\n1. 马若德 (Roderick MacFarquhar)\n2. 罗德里克·麦克法夸尔 (Roderick MacFarquhar)\n3. 马若德 (Ma Wanwu)\n\nSo, the list of people mentioned in the sentence is:\n\n[马若德, 罗德里克·麦克法夸尔, 马若德]"
+    },
+    {
+        "Instruction": "从句子中提取地理信息和气候信息。需要提取的元素包括：地理位置（省、市、县、镇、村）、国土面积、海拔、年平均气温、年降水量、适宜种植的农作物、农民收入来源。输出格式：字典格式，包括以下键值对：\n   - \"省\": str\n   - \"市\": str\n   - \"县\": str\n   - \"镇\": str\n   - \"村\": str\n   - \"国土面积\": float\n   - \"海拔\": int\n   - \"年平均气温\": float\n   - \"年降水量\": float\n   - \"适宜种植的农作物\": list\n   - \"农民收入来源\": str\n邑旧村隶属于云南省昆明市安宁市青龙镇赵家庄村委会行政村，属于半山区。国土面积2.98平方公里，海拔1842米，年平均气温14.7℃，年降水量881.6毫米，适宜种植粮食、蔬菜、水果等农作物，农民收入主要以种植业为主。",
+        "Instruction_id": "21be97f608619a1036eee0768f79eaeded98cce36d3b999918225c9fefe2c6e1",
+        "histories": [
+            [
+                "从句子中提取地理信息和气候信息。需要提取的元素包括：地理位置（省、市、县、镇、村）、国土面积、海拔、年平均气温、年降水量、适宜种植的农作物、农民收入来源。输出格式：字典格式，包括以下键值对：\n   - \"省\": str\n   - \"市\": str\n   - \"县\": str\n   - \"镇\": str\n   - \"村\": str\n   - \"国土面积\": float\n   - \"海拔\": int\n   - \"年平均气温\": float\n   - \"年降水量\": float\n   - \"适宜种植的农作物\": list\n   - \"农民收入来源\": str\n邑旧村隶属于云南省昆明市安宁市青龙镇赵家庄村委会行政村，属于半山区。国土面积2.98平方公里，海拔1842米，年平均气温14.7℃，年降水量881.6毫米，适宜种植粮食、蔬菜、水果等农作物，农民收入主要以种植业为主。",
+                " Sure, I'd be happy to help! Based on the given information, here is the extracted information in the requested format:\n\n{\n\"省\": \"云南省\",\n\"市\": \"昆明市\",\n\"县\": \"安宁市\",\n\"镇\": \"青龙镇\",\n\"村\": \"赵家庄村委会行政村\",\n\"国土面积\": 2.98,\n\"海拔\": 1842,\n\"年平均气温\": 14.7,\n\"年降水量\": 881.6,\n\"适宜种植的农作物\": [\"粮食\", \"蔬菜\", \"水果\"],\n\"农民收入来源\": \"种植业\"\n}\n\nPlease note that the \"农民收入来源\" key should be a string, not a list. Also, the information \"适宜种植的农作物\" is a list of strings, not a list of lists. If you have any further questions or clarifications, please feel free to ask!"
+            ]
+        ],
+        "task_description": "从句子中提取地理信息和气候信息。需要提取的元素包括：地理位置（省、市、县、镇、村）、国土面积、海拔、年平均气温、年降水量、适宜种植的农作物、农民收入来源。输出格式：字典格式，包括以下键值对：\n   - \"省\": str\n   - \"市\": str\n   - \"县\": str\n   - \"镇\": str\n   - \"村\": str\n   - \"国土面积\": float\n   - \"海拔\": int\n   - \"年平均气温\": float\n   - \"年降水量\": float\n   - \"适宜种植的农作物\": list\n   - \"农民收入来源\": str",
+        "input_text": "邑旧村隶属于云南省昆明市安宁市青龙镇赵家庄村委会行政村，属于半山区。国土面积2.98平方公里，海拔1842米，年平均气温14.7℃，年降水量881.6毫米，适宜种植粮食、蔬菜、水果等农作物，农民收入主要以种植业为主。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given information, here is the extracted information in the requested format:\n\n{\n\"省\": \"云南省\",\n\"市\": \"昆明市\",\n\"县\": \"安宁市\",\n\"镇\": \"青龙镇\",\n\"村\": \"赵家庄村委会行政村\",\n\"国土面积\": 2.98,\n\"海拔\": 1842,\n\"年平均气温\": 14.7,\n\"年降水量\": 881.6,\n\"适宜种植的农作物\": [\"粮食\", \"蔬菜\", \"水果\"],\n\"农民收入来源\": \"种植业\"\n}\n\nPlease note that the \"农民收入来源\" key should be a string, not a list. Also, the information \"适宜种植的农作物\" is a list of strings, not a list of lists. If you have any further questions or clarifications, please feel free to ask!"
+    },
+    {
+        "Instruction": "从句子中提取汽车的相关信息。需要提取的元素包括车型名称、车型类型、上市时间、发动机类型、驱动方式、车型数量、售价区间。输出格式：字典格式，包含以下键值对：\n\n{\n    \"车型名称\": \"\",\n    \"车型类型\": \"\",\n    \"上市时间\": \"\",\n    \"发动机类型\": \"\",\n    \"驱动方式\": \"\",\n    \"车型数量\": \"\",\n    \"售价区间\": \"\"\n}\n斯柯达野帝（国产Yeti），上海大众斯柯达首款SUV，2013年11月18日上市，新车匹配1.4TSI和1.8TSI两款发动机，并配以四驱和两驱可供选择，共7款车型，售价区间为16.58-24.18万元 。野帝拥有独具个性表现力的越野性能、灵动的空间组合、行车配置以及安全保护。诸如智能全时四驱系统、超大全景天窗以及越野外挂备胎等专属配置。",
+        "Instruction_id": "5e676fa1ea99a73200ee1c8467d85eebfae1723df7f825997d58d05da808da17",
+        "histories": [
+            [
+                "从句子中提取汽车的相关信息。需要提取的元素包括车型名称、车型类型、上市时间、发动机类型、驱动方式、车型数量、售价区间。输出格式：字典格式，包含以下键值对：\n\n{\n    \"车型名称\": \"\",\n    \"车型类型\": \"\",\n    \"上市时间\": \"\",\n    \"发动机类型\": \"\",\n    \"驱动方式\": \"\",\n    \"车型数量\": \"\",\n    \"售价区间\": \"\"\n}\n斯柯达野帝（国产Yeti），上海大众斯柯达首款SUV，2013年11月18日上市，新车匹配1.4TSI和1.8TSI两款发动机，并配以四驱和两驱可供选择，共7款车型，售价区间为16.58-24.18万元 。野帝拥有独具个性表现力的越野性能、灵动的空间组合、行车配置以及安全保护。诸如智能全时四驱系统、超大全景天窗以及越野外挂备胎等专属配置。",
+                " Sure, I'd be happy to help! Based on the information provided, here is the extracted information in a dictionary format:\n\n{\n\"车型名称\": \"斯柯达野帝（国产Yeti）\",\n\"车型类型\": \"SUV\",\n\"上市时间\": \"2013年11月18日\",\n\"发动机类型\": \"1.4TSI和1.8TSI\",\n\"驱动方式\": \"四驱和两驱可供选择\",\n\"车型数量\": \"7款\",\n\"售价区间\": \"16.58-24.18万元\"\n}\n\nHere's a breakdown of the information:\n\n* \"车型名称\": \"斯柯达野帝（国产Yeti）\" - The name of the car is \"斯柯达野帝\" (Skoroda Yeti), which is a domestic SUV produced by Shanghai Volkswagen.\n* \"车型类型\": \"SUV\" - The car type is an SUV (Sport Utility Vehicle).\n* \"上市时间\": \"2013年11月18日\" - The car was launched on November 18, 2013.\n* \"发动机类型\": \"1.4TSI和1.8TSI\" - The car is equipped with two engine options: 1.4TSI and 1.8TSI.\n* \"驱动方式\": \"四驱和两驱可供选择\" - The car offers four-wheel drive and two-wheel drive options.\n* \"车型数量\": \"7款\" - There are seven models of the Skoroda Yeti.\n* \"售价区间\": \"16.58-24.18万元\" - The price range of the car is 16.58-24.18 million CNY (Chinese Yuan).\n\nPlease note that the prices and availability of the car may have changed since the information was last updated."
+            ]
+        ],
+        "task_description": "从句子中提取汽车的相关信息。需要提取的元素包括车型名称、车型类型、上市时间、发动机类型、驱动方式、车型数量、售价区间。输出格式：字典格式，包含以下键值对：\n\n{\n    \"车型名称\": \"\",\n    \"车型类型\": \"\",\n    \"上市时间\": \"\",\n    \"发动机类型\": \"\",\n    \"驱动方式\": \"\",\n    \"车型数量\": \"\",\n    \"售价区间\": \"\"\n}",
+        "input_text": "斯柯达野帝（国产Yeti），上海大众斯柯达首款SUV，2013年11月18日上市，新车匹配1.4TSI和1.8TSI两款发动机，并配以四驱和两驱可供选择，共7款车型，售价区间为16.58-24.18万元 。野帝拥有独具个性表现力的越野性能、灵动的空间组合、行车配置以及安全保护。诸如智能全时四驱系统、超大全景天窗以及越野外挂备胎等专属配置。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the information provided, here is the extracted information in a dictionary format:\n\n{\n\"车型名称\": \"斯柯达野帝（国产Yeti）\",\n\"车型类型\": \"SUV\",\n\"上市时间\": \"2013年11月18日\",\n\"发动机类型\": \"1.4TSI和1.8TSI\",\n\"驱动方式\": \"四驱和两驱可供选择\",\n\"车型数量\": \"7款\",\n\"售价区间\": \"16.58-24.18万元\"\n}\n\nHere's a breakdown of the information:\n\n* \"车型名称\": \"斯柯达野帝（国产Yeti）\" - The name of the car is \"斯柯达野帝\" (Skoroda Yeti), which is a domestic SUV produced by Shanghai Volkswagen.\n* \"车型类型\": \"SUV\" - The car type is an SUV (Sport Utility Vehicle).\n* \"上市时间\": \"2013年11月18日\" - The car was launched on November 18, 2013.\n* \"发动机类型\": \"1.4TSI和1.8TSI\" - The car is equipped with two engine options: 1.4TSI and 1.8TSI.\n* \"驱动方式\": \"四驱和两驱可供选择\" - The car offers four-wheel drive and two-wheel drive options.\n* \"车型数量\": \"7款\" - There are seven models of the Skoroda Yeti.\n* \"售价区间\": \"16.58-24.18万元\" - The price range of the car is 16.58-24.18 million CNY (Chinese Yuan).\n\nPlease note that the prices and availability of the car may have changed since the information was last updated."
+    },
+    {
+        "Instruction": "提取句子中描述项目位置和规划信息的内容并进行结构化的输出。项目位置包括项目所在的城市、区域、河流和道路等信息。规划信息包括用地面积和总建筑面积等信息。输出格式：字典格式，包括以下键值对：\n   - \"城市\": 项目所在的城市\n   - \"区域\": 项目所在的区域\n   - \"河流\": 项目所在的河流\n   - \"道路\": 项目所在的道路\n   - \"用地面积\": 项目的用地面积\n   - \"总建筑面积\": 项目的总建筑面积\n湘江御景，项目位于长沙市开福区捞刀河与湘江风光带交汇处，规划用地面积12.8公顷，规划总建筑面积421638平米；用地呈不规则的弓形，地势低洼平坦，属省、市重点工程捞刀河改造的配套工程。地块南临捞刀河，北临城市控规道路，西邻湘江风光带，东临芙蓉北路，临河南眺为规划的长沙市标志性新城、新河三角洲暨\"\"两馆一厅\"\"。",
+        "Instruction_id": "8d8d60f78e7a19a65e02c109543fd48ee59c0ee65844d34ca031998708908a58",
+        "histories": [
+            [
+                "提取句子中描述项目位置和规划信息的内容并进行结构化的输出。项目位置包括项目所在的城市、区域、河流和道路等信息。规划信息包括用地面积和总建筑面积等信息。输出格式：字典格式，包括以下键值对：\n   - \"城市\": 项目所在的城市\n   - \"区域\": 项目所在的区域\n   - \"河流\": 项目所在的河流\n   - \"道路\": 项目所在的道路\n   - \"用地面积\": 项目的用地面积\n   - \"总建筑面积\": 项目的总建筑面积\n湘江御景，项目位于长沙市开福区捞刀河与湘江风光带交汇处，规划用地面积12.8公顷，规划总建筑面积421638平米；用地呈不规则的弓形，地势低洼平坦，属省、市重点工程捞刀河改造的配套工程。地块南临捞刀河，北临城市控规道路，西邻湘江风光带，东临芙蓉北路，临河南眺为规划的长沙市标志性新城、新河三角洲暨\"\"两馆一厅\"\"。",
+                " Sure, I'd be happy to help! Based on the information provided, here is the structured output in dictionary format:\n\n{\n\"城市\": \"长沙市\",\n\"区域\": \"开福区\",\n\"河流\": \"捞刀河\",\n\"道路\": \"湘江风光带\",\n\"用地面积\": \"12.8公顷\",\n\"总建筑面积\": \"421638平米\"\n}\n\nHere's a breakdown of the information:\n\n* \"城市\": 长沙市 (the city where the project is located)\n* \"区域\": 开福区 (the district where the project is located)\n* \"河流\": 捞刀河 (the river where the project is located)\n* \"道路\": 湘江风光带 (the road where the project is located)\n* \"用地面积\": 12.8公顷 (the area of the land used for the project)\n* \"总建筑面积\": 421638平米 (the total building area of the project)\n\nI hope this helps! Let me know if you have any further questions."
+            ]
+        ],
+        "task_description": "提取句子中描述项目位置和规划信息的内容并进行结构化的输出。项目位置包括项目所在的城市、区域、河流和道路等信息。规划信息包括用地面积和总建筑面积等信息。输出格式：字典格式，包括以下键值对：\n   - \"城市\": 项目所在的城市\n   - \"区域\": 项目所在的区域\n   - \"河流\": 项目所在的河流\n   - \"道路\": 项目所在的道路\n   - \"用地面积\": 项目的用地面积\n   - \"总建筑面积\": 项目的总建筑面积",
+        "input_text": "湘江御景，项目位于长沙市开福区捞刀河与湘江风光带交汇处，规划用地面积12.8公顷，规划总建筑面积421638平米；用地呈不规则的弓形，地势低洼平坦，属省、市重点工程捞刀河改造的配套工程。地块南临捞刀河，北临城市控规道路，西邻湘江风光带，东临芙蓉北路，临河南眺为规划的长沙市标志性新城、新河三角洲暨\"\"两馆一厅\"\"。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the information provided, here is the structured output in dictionary format:\n\n{\n\"城市\": \"长沙市\",\n\"区域\": \"开福区\",\n\"河流\": \"捞刀河\",\n\"道路\": \"湘江风光带\",\n\"用地面积\": \"12.8公顷\",\n\"总建筑面积\": \"421638平米\"\n}\n\nHere's a breakdown of the information:\n\n* \"城市\": 长沙市 (the city where the project is located)\n* \"区域\": 开福区 (the district where the project is located)\n* \"河流\": 捞刀河 (the river where the project is located)\n* \"道路\": 湘江风光带 (the road where the project is located)\n* \"用地面积\": 12.8公顷 (the area of the land used for the project)\n* \"总建筑面积\": 421638平米 (the total building area of the project)\n\nI hope this helps! Let me know if you have any further questions."
+    },
+    {
+        "Instruction": "从给定的句子中提取人物信息，包括姓名、性别、出生年月、籍贯、民族、入党时间、学历、职务等。输出格式为字典，包含姓名、性别、出生年月、籍贯、民族、入党时间、学历、职务等信息。\n陈香兰，女，1949年5月生，广东海丰人，汉族，1965年9月参加工作，1966年1月加入中国共产党，学历在职大专（汕头教育学院函授政治专业）。1965年9月后，海丰县陶河公社陶西大队贫协主席、妇女主任。",
+        "Instruction_id": "d4c65fbf28095ee885793910c57197c802cae71987a1f7cba99a4a16dbc4ee66",
+        "histories": [
+            [
+                "从给定的句子中提取人物信息，包括姓名、性别、出生年月、籍贯、民族、入党时间、学历、职务等。输出格式为字典，包含姓名、性别、出生年月、籍贯、民族、入党时间、学历、职务等信息。\n陈香兰，女，1949年5月生，广东海丰人，汉族，1965年9月参加工作，1966年1月加入中国共产党，学历在职大专（汕头教育学院函授政治专业）。1965年9月后，海丰县陶河公社陶西大队贫协主席、妇女主任。",
+                " Sure, I'd be happy to help you extract the information from the given sentence! Here is the information in a dictionary format, as requested:\n\n{\n\"name\": \"陈香兰\",\n\"gender\": \" female\",\n\"birthdate\": \"1949年5月\",\n\"birthplace\": \"广东海丰人\",\n\"ethnicity\": \"汉族\",\n\"joined_workforce\": \"1965年9月\",\n\"joined_party\": \"1966年1月\",\n\"education\": \"在职大专（汕头教育学院函授政治专业）\",\n\"work_experience\": [\n{\n\"position\": \"海丰县陶河公社陶西大队贫协主席\",\n\"duration\": \"1965年9月后\"\n},\n{\n\"position\": \"妇女主任\",\n\"duration\": \"1965年9月后\"\n}\n]\n}\n\nPlease note that I have assumed that the information in the sentence is accurate and complete, and have provided the information based on the given sentence. If any information is incomplete or incorrect, please let me know and I will do my best to clarify or correct it."
+            ]
+        ],
+        "task_description": "从给定的句子中提取人物信息，包括姓名、性别、出生年月、籍贯、民族、入党时间、学历、职务等。输出格式为字典，包含姓名、性别、出生年月、籍贯、民族、入党时间、学历、职务等信息。",
+        "input_text": "陈香兰，女，1949年5月生，广东海丰人，汉族，1965年9月参加工作，1966年1月加入中国共产党，学历在职大专（汕头教育学院函授政治专业）。1965年9月后，海丰县陶河公社陶西大队贫协主席、妇女主任。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help you extract the information from the given sentence! Here is the information in a dictionary format, as requested:\n\n{\n\"name\": \"陈香兰\",\n\"gender\": \" female\",\n\"birthdate\": \"1949年5月\",\n\"birthplace\": \"广东海丰人\",\n\"ethnicity\": \"汉族\",\n\"joined_workforce\": \"1965年9月\",\n\"joined_party\": \"1966年1月\",\n\"education\": \"在职大专（汕头教育学院函授政治专业）\",\n\"work_experience\": [\n{\n\"position\": \"海丰县陶河公社陶西大队贫协主席\",\n\"duration\": \"1965年9月后\"\n},\n{\n\"position\": \"妇女主任\",\n\"duration\": \"1965年9月后\"\n}\n]\n}\n\nPlease note that I have assumed that the information in the sentence is accurate and complete, and have provided the information based on the given sentence. If any information is incomplete or incorrect, please let me know and I will do my best to clarify or correct it."
+    },
+    {
+        "Instruction": "从文本中抽取人物信息，包括抽取文本中的人物信息，包括姓名、性别、民族、出生年份、出生地、党派、职业、学历等。输出格式为字典，包括姓名、性别、民族、出生年份、出生地、党派、职业、学历等信息。\n印淑贤，女，汉族。1936年出生，河北省承德市人，中共党员，教授，主任医师，硕士研究生导师。1962年毕业于内蒙古医学院医疗系获学士学位，同年参加工作。曾任内蒙古医学院附属医院放射科主任兼教研室主任、中华医学会内蒙古自治区放射学会分会副主任委员、《中国影像学杂志》编委会评审委员等职。",
+        "Instruction_id": "ebdbc9b2ef5170c5057071d9d848db3d00db7f2bdef0dc6127d1a55e10a7472d",
+        "histories": [
+            [
+                "从文本中抽取人物信息，包括抽取文本中的人物信息，包括姓名、性别、民族、出生年份、出生地、党派、职业、学历等。输出格式为字典，包括姓名、性别、民族、出生年份、出生地、党派、职业、学历等信息。\n印淑贤，女，汉族。1936年出生，河北省承德市人，中共党员，教授，主任医师，硕士研究生导师。1962年毕业于内蒙古医学院医疗系获学士学位，同年参加工作。曾任内蒙古医学院附属医院放射科主任兼教研室主任、中华医学会内蒙古自治区放射学会分会副主任委员、《中国影像学杂志》编委会评审委员等职。",
+                " Sure, I'd be happy to help! Based on the text you provided, here is the information about 印淑贤 (Yin Shuxian) in a dictionary format:\n\n{\n\"name\": \"印淑贤\",\n\"gender\": \"女\",\n\"ethnicity\": \"汉族\",\n\"birth_year\": \"1936\",\n\"birth_place\": \"河北省承德市\",\n\"party\": \"中共\",\n\"profession\": \"教授、主任医生、硕士研究生导师\",\n\"education\": \"1962年毕业于内蒙古医学院医疗系获学士学位\"\n}\n\nPlease note that I have only extracted the information that is factually coherent and socially unbiased. I have not included any personal information that may not be publicly available or may be considered sensitive."
+            ]
+        ],
+        "task_description": "从文本中抽取人物信息，包括抽取文本中的人物信息，包括姓名、性别、民族、出生年份、出生地、党派、职业、学历等。输出格式为字典，包括姓名、性别、民族、出生年份、出生地、党派、职业、学历等信息。",
+        "input_text": "印淑贤，女，汉族。1936年出生，河北省承德市人，中共党员，教授，主任医师，硕士研究生导师。1962年毕业于内蒙古医学院医疗系获学士学位，同年参加工作。曾任内蒙古医学院附属医院放射科主任兼教研室主任、中华医学会内蒙古自治区放射学会分会副主任委员、《中国影像学杂志》编委会评审委员等职。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the text you provided, here is the information about 印淑贤 (Yin Shuxian) in a dictionary format:\n\n{\n\"name\": \"印淑贤\",\n\"gender\": \"女\",\n\"ethnicity\": \"汉族\",\n\"birth_year\": \"1936\",\n\"birth_place\": \"河北省承德市\",\n\"party\": \"中共\",\n\"profession\": \"教授、主任医生、硕士研究生导师\",\n\"education\": \"1962年毕业于内蒙古医学院医疗系获学士学位\"\n}\n\nPlease note that I have only extracted the information that is factually coherent and socially unbiased. I have not included any personal information that may not be publicly available or may be considered sensitive."
+    },
+    {
+        "Instruction": "抽取文本中出现的所有车站名字实体，并以列表格式进行输出。\n南京地铁S7号线计划于2017年通车，标志色为宝石绿(与南京地铁S1号线相同)。地铁S7号线(又称: 宁深城际)途径江宁区和漂水区，连接禄口新城和溧水城区，线路北起禄口机场站，经潭水杨塘新区，潭水开发区，沿秦淮路穿越潭水城区，南至无想山站。S7号线线路总长30.818千米;共设置10座车站，其中地下站6座.高架站4座;列车采用B型鼓型列车，近期4辆编组，远期6节编组。",
+        "Instruction_id": "6f87dc7effbf502ae1c873e3b7f614f30db2a882e15a1993a331081ef082dcf9",
+        "histories": [
+            [
+                "抽取文本中出现的所有车站名字实体，并以列表格式进行输出。\n南京地铁S7号线计划于2017年通车，标志色为宝石绿(与南京地铁S1号线相同)。地铁S7号线(又称: 宁深城际)途径江宁区和漂水区，连接禄口新城和溧水城区，线路北起禄口机场站，经潭水杨塘新区，潭水开发区，沿秦淮路穿越潭水城区，南至无想山站。S7号线线路总长30.818千米;共设置10座车站，其中地下站6座.高架站4座;列车采用B型鼓型列车，近期4辆编组，远期6节编组。",
+                " Sure, I can help you with that! Here is the list of station names in the text:\n\n1. 禄口机场站 (Lkou Airport Station)\n2. 潭水杨塘新区站 (Tang Water Yangtang New District Station)\n3. 潭水开发区站 (Tang Water Development District Station)\n4. 秦淮路站 (Qin Huai Road Station)\n5. 潭水城区站 (Tang Water City Station)\n6. 无想山站 (Wu Dayuan Station)\n\nPlease note that the line is also known as the \"宁深城际\" (Ningshi Intercity) and the line color is gemstone green (同南京地铁S1号线), as mentioned in the text."
+            ]
+        ],
+        "task_description": "抽取文本中出现的所有车站名字实体，并以列表格式进行输出。",
+        "input_text": "南京地铁S7号线计划于2017年通车，标志色为宝石绿(与南京地铁S1号线相同)。地铁S7号线(又称: 宁深城际)途径江宁区和漂水区，连接禄口新城和溧水城区，线路北起禄口机场站，经潭水杨塘新区，潭水开发区，沿秦淮路穿越潭水城区，南至无想山站。S7号线线路总长30.818千米;共设置10座车站，其中地下站6座.高架站4座;列车采用B型鼓型列车，近期4辆编组，远期6节编组。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I can help you with that! Here is the list of station names in the text:\n\n1. 禄口机场站 (Lkou Airport Station)\n2. 潭水杨塘新区站 (Tang Water Yangtang New District Station)\n3. 潭水开发区站 (Tang Water Development District Station)\n4. 秦淮路站 (Qin Huai Road Station)\n5. 潭水城区站 (Tang Water City Station)\n6. 无想山站 (Wu Dayuan Station)\n\nPlease note that the line is also known as the \"宁深城际\" (Ningshi Intercity) and the line color is gemstone green (同南京地铁S1号线), as mentioned in the text."
+    },
+    {
+        "Instruction": "请从以下的文本中提取出列车编号、出发站点、到达站点、总运行时间、途径站点等信息，并用Json格式进行输出。\nZ100次（铁路系统标准念法为直100次）列车是运行于香港特别行政区红磡（九龙）火车站至上海市上海火车站的直达列车，途经香港、广东、湖南、江西、浙江、上海六个省市和特别自治区，全程1991公里，列车运行总时长为19小时25分钟。",
+        "Instruction_id": "e5af53801f70518e07d2cada1d6b391009358ba40f0f9bd507957021409cb6ea",
+        "histories": [
+            [
+                "请从以下的文本中提取出列车编号、出发站点、到达站点、总运行时间、途径站点等信息，并用Json格式进行输出。\nZ100次（铁路系统标准念法为直100次）列车是运行于香港特别行政区红磡（九龙）火车站至上海市上海火车站的直达列车，途经香港、广东、湖南、江西、浙江、上海六个省市和特别自治区，全程1991公里，列车运行总时长为19小时25分钟。",
+                " Sure, I'd be happy to help! Here's the information you requested in JSON format:\n\n{\n\"trainNumber\": \"Z100\",\n\"departureStation\": \"红磡（九龙）火车站\",\n\"arrivalStation\": \"上海火车站\",\n\"totalDistance\": 1991,\n\"runningTime\": 19.40,\n\"stations\": [\n{\n\"name\": \"香港\",\n\"code\": \"HKG\"\n},\n{\n\"name\": \"广东\",\n\"code\": \"GD\"\n},\n{\n\"name\": \"湖南\",\n\"code\": \"HN\"\n},\n{\n\"name\": \"江西\",\n\"code\": \"JX\"\n},\n{\n\"name\": \"浙江\",\n\"code\": \"ZJ\"\n},\n{\n\"name\": \"上海\",\n\"code\": \"SH\"\n}\n]\n}\n\nI hope this helps! Let me know if you have any other questions."
+            ]
+        ],
+        "task_description": "请从以下的文本中提取出列车编号、出发站点、到达站点、总运行时间、途径站点等信息，并用Json格式进行输出。",
+        "input_text": "Z100次（铁路系统标准念法为直100次）列车是运行于香港特别行政区红磡（九龙）火车站至上海市上海火车站的直达列车，途经香港、广东、湖南、江西、浙江、上海六个省市和特别自治区，全程1991公里，列车运行总时长为19小时25分钟。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Here's the information you requested in JSON format:\n\n{\n\"trainNumber\": \"Z100\",\n\"departureStation\": \"红磡（九龙）火车站\",\n\"arrivalStation\": \"上海火车站\",\n\"totalDistance\": 1991,\n\"runningTime\": 19.40,\n\"stations\": [\n{\n\"name\": \"香港\",\n\"code\": \"HKG\"\n},\n{\n\"name\": \"广东\",\n\"code\": \"GD\"\n},\n{\n\"name\": \"湖南\",\n\"code\": \"HN\"\n},\n{\n\"name\": \"江西\",\n\"code\": \"JX\"\n},\n{\n\"name\": \"浙江\",\n\"code\": \"ZJ\"\n},\n{\n\"name\": \"上海\",\n\"code\": \"SH\"\n}\n]\n}\n\nI hope this helps! Let me know if you have any other questions."
+    },
+    {
+        "Instruction": "抽取文本中出现的所有人物实体，并以```人物1,人物2,人物3，...```的形式进行输出。\n陈昌本：刘斯奋的《白门柳》（一、二部）浸透着东方文化的气韵和风采，人物形象生动，文笔凝重精致，是一部典型的文人历史小说。的确，这几年历史小说创作呈现出繁荣的景象，涌现出不少优秀的作品，评委们在选择上颇费踌躇，最后通过投票选定了《白门柳》，它的获奖可视为对当代历史小说创作整体成就的鼓励。",
+        "Instruction_id": "dc2b154a82a4bc9996c7839012b6bad552a84d70cccc437731a04dd3f39934e2",
+        "histories": [
+            [
+                "抽取文本中出现的所有人物实体，并以```人物1,人物2,人物3，...```的形式进行输出。\n陈昌本：刘斯奋的《白门柳》（一、二部）浸透着东方文化的气韵和风采，人物形象生动，文笔凝重精致，是一部典型的文人历史小说。的确，这几年历史小说创作呈现出繁荣的景象，涌现出不少优秀的作品，评委们在选择上颇费踌躇，最后通过投票选定了《白门柳》，它的获奖可视为对当代历史小说创作整体成就的鼓励。",
+                " Sure, I'd be happy to help! Based on the given text, here are the extracted person entities mentioned:\n\n人物1: 刘斯奋\n人物2: chan chongben\n\nNote that I have only extracted the names of individuals mentioned in the text, and have not included any other entities or concepts."
+            ]
+        ],
+        "task_description": "抽取文本中出现的所有人物实体，并以```人物1,人物2,人物3，...```的形式进行输出。",
+        "input_text": "陈昌本：刘斯奋的《白门柳》（一、二部）浸透着东方文化的气韵和风采，人物形象生动，文笔凝重精致，是一部典型的文人历史小说。的确，这几年历史小说创作呈现出繁荣的景象，涌现出不少优秀的作品，评委们在选择上颇费踌躇，最后通过投票选定了《白门柳》，它的获奖可视为对当代历史小说创作整体成就的鼓励。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given text, here are the extracted person entities mentioned:\n\n人物1: 刘斯奋\n人物2: chan chongben\n\nNote that I have only extracted the names of individuals mentioned in the text, and have not included any other entities or concepts."
+    },
+    {
+        "Instruction": "抽取文本中出现的所有歌曲，并以```\n- 歌曲1\n- 歌曲2\n...\n```的形式进行输出。\n刘婕，中国内地著名女歌手、演员、音乐人。 她是内地华语乐坛94新生代代表人物之一，是继酒井法子之后的松下电器全球形象代言人，并主演过多部影视剧。1996年与著名歌手韩磊对唱《走了这么久》红遍大江南北，1997年主演电影《爱情麻辣烫》，1998年推出自创歌曲《快乐新娘》《不了了之的爱情》获得全国各大榜上好评，《快乐新娘》更是成为国内十大婚礼音乐之一。",
+        "Instruction_id": "6b38652e91fd9ed5c7f7af313d8022ec491de77bd0010752bf07137b339b8d18",
+        "histories": [
+            [
+                "抽取文本中出现的所有歌曲，并以```\n- 歌曲1\n- 歌曲2\n...\n```的形式进行输出。\n刘婕，中国内地著名女歌手、演员、音乐人。 她是内地华语乐坛94新生代代表人物之一，是继酒井法子之后的松下电器全球形象代言人，并主演过多部影视剧。1996年与著名歌手韩磊对唱《走了这么久》红遍大江南北，1997年主演电影《爱情麻辣烫》，1998年推出自创歌曲《快乐新娘》《不了了之的爱情》获得全国各大榜上好评，《快乐新娘》更是成为国内十大婚礼音乐之一。",
+                " Sure, I'd be happy to help! Based on the text you provided, here are the songs mentioned:\n\n- 走了这么久 (with Hong Kong singer Hacken Lee)\n- 爱情麻辣烫 (from the movie \"Love is a Bitter\")\n- 快乐新娘\n- 不了了之的爱情\n\nI hope this helps! Let me know if you have any other questions."
+            ]
+        ],
+        "task_description": "抽取文本中出现的所有歌曲，并以```\n- 歌曲1\n- 歌曲2\n...\n```的形式进行输出。",
+        "input_text": "刘婕，中国内地著名女歌手、演员、音乐人。 她是内地华语乐坛94新生代代表人物之一，是继酒井法子之后的松下电器全球形象代言人，并主演过多部影视剧。1996年与著名歌手韩磊对唱《走了这么久》红遍大江南北，1997年主演电影《爱情麻辣烫》，1998年推出自创歌曲《快乐新娘》《不了了之的爱情》获得全国各大榜上好评，《快乐新娘》更是成为国内十大婚礼音乐之一。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the text you provided, here are the songs mentioned:\n\n- 走了这么久 (with Hong Kong singer Hacken Lee)\n- 爱情麻辣烫 (from the movie \"Love is a Bitter\")\n- 快乐新娘\n- 不了了之的爱情\n\nI hope this helps! Let me know if you have any other questions."
+    },
+    {
+        "Instruction": "抽取文本中出现的所有公司，同时以列表格式进行输出\n于洲，男，毕业于南开大学计算机系及欧洲工商管理学院（INSEAD） ，2010年12月正式加盟土豆网 ，任人力资源与战略副总裁。其在加盟土豆之前，曾在罗盛咨询、科尔尼、摩托罗拉担任高级管理职位。2012年3月优酷、土豆宣布合并，于洲出任优酷土豆集团高级副总裁。完成优酷土豆合并整合后，2014年1月于洲离开优酷土豆，和王微一起联合创立追光动画，担任追光动画首部电影的制片人。",
+        "Instruction_id": "ca854fc7b188d582be0e88510442b1687fc426287034f6d353a30364a64db8c4",
+        "histories": [
+            [
+                "抽取文本中出现的所有公司，同时以列表格式进行输出\n于洲，男，毕业于南开大学计算机系及欧洲工商管理学院（INSEAD） ，2010年12月正式加盟土豆网 ，任人力资源与战略副总裁。其在加盟土豆之前，曾在罗盛咨询、科尔尼、摩托罗拉担任高级管理职位。2012年3月优酷、土豆宣布合并，于洲出任优酷土豆集团高级副总裁。完成优酷土豆合并整合后，2014年1月于洲离开优酷土豆，和王微一起联合创立追光动画，担任追光动画首部电影的制片人。",
+                " Based on the text, the following are the companies mentioned:\n\n1. 土豆网 (Tudou)\n2. 优酷 (Youku)\n3. 南开大学计算机系 (Nankai University Computer Science Department)\n4. 欧洲工商管理学院 (INSEAD)\n5. 罗盛咨询 (Roland Berger)\n6. 科尔尼 (Kolín)\n7. 摩托罗拉 (Motorola)\n\nHere is the list of companies in a list format:\n\n* 土豆网 (Tudou)\n* 优酷 (Youku)\n* 南开大学计算机系 (Nankai University Computer Science Department)\n* 欧洲工商管理学院 (INSEAD)\n* 罗盛咨询 (Roland Berger)\n* 科尔尼 (Kolín)\n* 摩托罗拉 (Motorola)"
+            ]
+        ],
+        "task_description": "抽取文本中出现的所有公司，同时以列表格式进行输出",
+        "input_text": "于洲，男，毕业于南开大学计算机系及欧洲工商管理学院（INSEAD） ，2010年12月正式加盟土豆网 ，任人力资源与战略副总裁。其在加盟土豆之前，曾在罗盛咨询、科尔尼、摩托罗拉担任高级管理职位。2012年3月优酷、土豆宣布合并，于洲出任优酷土豆集团高级副总裁。完成优酷土豆合并整合后，2014年1月于洲离开优酷土豆，和王微一起联合创立追光动画，担任追光动画首部电影的制片人。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Based on the text, the following are the companies mentioned:\n\n1. 土豆网 (Tudou)\n2. 优酷 (Youku)\n3. 南开大学计算机系 (Nankai University Computer Science Department)\n4. 欧洲工商管理学院 (INSEAD)\n5. 罗盛咨询 (Roland Berger)\n6. 科尔尼 (Kolín)\n7. 摩托罗拉 (Motorola)\n\nHere is the list of companies in a list format:\n\n* 土豆网 (Tudou)\n* 优酷 (Youku)\n* 南开大学计算机系 (Nankai University Computer Science Department)\n* 欧洲工商管理学院 (INSEAD)\n* 罗盛咨询 (Roland Berger)\n* 科尔尼 (Kolín)\n* 摩托罗拉 (Motorola)"
+    },
+    {
+        "Instruction": "抽取文本中出现的所有专辑，同时以列表格式进行输出\n《小聪明》，一首是王菲的一首歌曲，由林夕作词，王菲作曲，收录于王菲专辑《唱游》。另外一首是杨丞琳的新歌，收录于杨丞琳2013年最新专辑《天使之翼 Angel Wings》。 杨丞琳歌曲《小聪明》介绍：这首歌运用了大量的民谣吉他所谓的三指法弹奏当主轴，清新优雅的气质表达民谣摇滚的一派轻松与随兴的生活态度。vocal的处理唱法也较自然不做作，充满吟唱式的唱腔塑造一种诗意情感。",
+        "Instruction_id": "89d55ad9aa0f863e67a49528ac4a7cfc866770a01281be45ebcd1257bdf79081",
+        "histories": [
+            [
+                "抽取文本中出现的所有专辑，同时以列表格式进行输出\n《小聪明》，一首是王菲的一首歌曲，由林夕作词，王菲作曲，收录于王菲专辑《唱游》。另外一首是杨丞琳的新歌，收录于杨丞琳2013年最新专辑《天使之翼 Angel Wings》。 杨丞琳歌曲《小聪明》介绍：这首歌运用了大量的民谣吉他所谓的三指法弹奏当主轴，清新优雅的气质表达民谣摇滚的一派轻松与随兴的生活态度。vocal的处理唱法也较自然不做作，充满吟唱式的唱腔塑造一种诗意情感。",
+                " Sure, I'd be happy to help! Based on the text you provided, here are the two albums mentioned:\n\n1. 《唱游》 by 王菲\n2. 《天使之翼 Angel Wings》 by 杨丞琳\n\nBoth of these albums are by Chinese singers, with 《唱游》 being a studio album by 王菲 and 《天使之翼 Angel Wings》 being an album by 杨丞琳. The text also mentions two songs, one of which is 《小聪明》 by 王菲, and the other is an unnamed song by 杨丞琳.\n\nIs there anything else you would like to know?"
+            ]
+        ],
+        "task_description": "抽取文本中出现的所有专辑，同时以列表格式进行输出",
+        "input_text": "《小聪明》，一首是王菲的一首歌曲，由林夕作词，王菲作曲，收录于王菲专辑《唱游》。另外一首是杨丞琳的新歌，收录于杨丞琳2013年最新专辑《天使之翼 Angel Wings》。 杨丞琳歌曲《小聪明》介绍：这首歌运用了大量的民谣吉他所谓的三指法弹奏当主轴，清新优雅的气质表达民谣摇滚的一派轻松与随兴的生活态度。vocal的处理唱法也较自然不做作，充满吟唱式的唱腔塑造一种诗意情感。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the text you provided, here are the two albums mentioned:\n\n1. 《唱游》 by 王菲\n2. 《天使之翼 Angel Wings》 by 杨丞琳\n\nBoth of these albums are by Chinese singers, with 《唱游》 being a studio album by 王菲 and 《天使之翼 Angel Wings》 being an album by 杨丞琳. The text also mentions two songs, one of which is 《小聪明》 by 王菲, and the other is an unnamed song by 杨丞琳.\n\nIs there anything else you would like to know?"
+    },
+    {
+        "Instruction": "请输出文本中出现的所有新闻媒体，新闻媒体是指一些进行新闻报道和传播的机构名称，通常包括电视台、报纸、网络媒体等。输出格式请以：```机构1，机构2，机构3，...```的形式进行输出。\n朱兰庆，男，微电影导演。 纪录片独立制作人，美食家，中国电视艺术家协会理事，《开门大吉》选手。 兰庆草根艺术团团长。 兰庆鸡蛋馃创始人，金华市兰溪市非物质文化遗产代表性传承人。  参与过二十多部短片和纪录片在中央电视台《人与社会》、《讲述》、《百姓档案》、《法治视界》等播出过。并被全国很多媒体如中央电视台、《聚焦三农》华西都市报、现代营销、浙江日报等报道过。",
+        "Instruction_id": "ec48b782f1ea770ba2d6dfef7e44d45032f56434960a17f04eb3084062b9b482",
+        "histories": [
+            [
+                "请输出文本中出现的所有新闻媒体，新闻媒体是指一些进行新闻报道和传播的机构名称，通常包括电视台、报纸、网络媒体等。输出格式请以：```机构1，机构2，机构3，...```的形式进行输出。\n朱兰庆，男，微电影导演。 纪录片独立制作人，美食家，中国电视艺术家协会理事，《开门大吉》选手。 兰庆草根艺术团团长。 兰庆鸡蛋馃创始人，金华市兰溪市非物质文化遗产代表性传承人。  参与过二十多部短片和纪录片在中央电视台《人与社会》、《讲述》、《百姓档案》、《法治视界》等播出过。并被全国很多媒体如中央电视台、《聚焦三农》华西都市报、现代营销、浙江日报等报道过。",
+                " Sure, I'd be happy to help! Based on the text you provided, here are the news media outlets mentioned:\n\n Central Television Station (中央电视台)\n People's Daily (人民日报)\n Xinhua News Agency (新华社)\n China Television Artists Association (中国电视艺术家协会)\n Zhejiang TV (浙江电视台)\n Modern Marketing (现代营销)\n Zhejiang Daily (浙江日报)\n\nPlease note that these are the news media outlets mentioned in the text, and it's not an exhaustive list of all news media outlets in China."
+            ]
+        ],
+        "task_description": "请输出文本中出现的所有新闻媒体，新闻媒体是指一些进行新闻报道和传播的机构名称，通常包括电视台、报纸、网络媒体等。输出格式请以：```机构1，机构2，机构3，...```的形式进行输出。",
+        "input_text": "朱兰庆，男，微电影导演。 纪录片独立制作人，美食家，中国电视艺术家协会理事，《开门大吉》选手。 兰庆草根艺术团团长。 兰庆鸡蛋馃创始人，金华市兰溪市非物质文化遗产代表性传承人。  参与过二十多部短片和纪录片在中央电视台《人与社会》、《讲述》、《百姓档案》、《法治视界》等播出过。并被全国很多媒体如中央电视台、《聚焦三农》华西都市报、现代营销、浙江日报等报道过。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the text you provided, here are the news media outlets mentioned:\n\n Central Television Station (中央电视台)\n People's Daily (人民日报)\n Xinhua News Agency (新华社)\n China Television Artists Association (中国电视艺术家协会)\n Zhejiang TV (浙江电视台)\n Modern Marketing (现代营销)\n Zhejiang Daily (浙江日报)\n\nPlease note that these are the news media outlets mentioned in the text, and it's not an exhaustive list of all news media outlets in China."
+    },
+    {
+        "Instruction": "从给定文本中抽取达比所发表的所有作品以及其对应的发表年份，作品是指包括小说、画作、文章等文学作品，发表年份则指作品发表的具体年份。输出格式：列表，每个元素是一个二元组 (作品,发表时间), 表示一个作品和其对应的发表年份。\n达比，E.法国小说家。工人家庭出身,少年时当过学徒,后从事各种职业，青年时代曾创作绘画。1929年发表第一部小说《北方旅馆》，获当年刚设立的平民文学奖。这部小说以巴黎近郊的工人区为背景，描写一家旅馆的日常生活，表现了工人和劳动人民贫苦的生活以及他们的思想和感情。他采用素描和速写的方法来描绘人物和事件。语言朴实简练，真实感人。《北方旅馆》是达比的代表作， 并于1938年拍成电影。 他的作品还有《小路易》(1930)、《巴黎郊区的市镇》（1933）、《岛》(1934)、《绿洲别墅》(1935)以及《西班牙绘画大师集》(1937)、《生活的痛苦》和《私人日记》(1939)等。1936年在访苏期间因病去世。",
+        "Instruction_id": "494ad9ba4c56cd6865bf2d8c358f6ae60ba3da0349b594e680a4f2863e468d92",
+        "histories": [
+            [
+                "从给定文本中抽取达比所发表的所有作品以及其对应的发表年份，作品是指包括小说、画作、文章等文学作品，发表年份则指作品发表的具体年份。输出格式：列表，每个元素是一个二元组 (作品,发表时间), 表示一个作品和其对应的发表年份。\n达比，E.法国小说家。工人家庭出身,少年时当过学徒,后从事各种职业，青年时代曾创作绘画。1929年发表第一部小说《北方旅馆》，获当年刚设立的平民文学奖。这部小说以巴黎近郊的工人区为背景，描写一家旅馆的日常生活，表现了工人和劳动人民贫苦的生活以及他们的思想和感情。他采用素描和速写的方法来描绘人物和事件。语言朴实简练，真实感人。《北方旅馆》是达比的代表作， 并于1938年拍成电影。 他的作品还有《小路易》(1930)、《巴黎郊区的市镇》（1933）、《岛》(1934)、《绿洲别墅》(1935)以及《西班牙绘画大师集》(1937)、《生活的痛苦》和《私人日记》(1939)等。1936年在访苏期间因病去世。",
+                " Sure, I'd be happy to help! Based on the given text, here is a list of all the works and their publication years that are attributed to E. Balzac, a French writer:\n\n* \"北方旅馆\" (North Hotel) - 1929\n* \"小路易\" (Little Louis) - 1930\n* \"巴黎郊区的市镇\" (Suburbs of Paris) - 1933\n* \"岛\" (Island) - 1934\n* \"绿洲别墅\" (Green Island) - 1935\n* \"西班牙绘画大师集\" (Spanish Painting Masterpieces) - 1937\n* \"生活的痛苦\" (The Bitter Life) - 1939\n* \"私人日记\" (Private Diary) - 1939\n\nNote that the publication years are not explicitly stated in the text, but based on the information provided, it can be inferred that these works were published sometime between 1930 and 1939."
+            ]
+        ],
+        "task_description": "从给定文本中抽取达比所发表的所有作品以及其对应的发表年份，作品是指包括小说、画作、文章等文学作品，发表年份则指作品发表的具体年份。输出格式：列表，每个元素是一个二元组 (作品,发表时间), 表示一个作品和其对应的发表年份。",
+        "input_text": "达比，E.法国小说家。工人家庭出身,少年时当过学徒,后从事各种职业，青年时代曾创作绘画。1929年发表第一部小说《北方旅馆》，获当年刚设立的平民文学奖。这部小说以巴黎近郊的工人区为背景，描写一家旅馆的日常生活，表现了工人和劳动人民贫苦的生活以及他们的思想和感情。他采用素描和速写的方法来描绘人物和事件。语言朴实简练，真实感人。《北方旅馆》是达比的代表作， 并于1938年拍成电影。 他的作品还有《小路易》(1930)、《巴黎郊区的市镇》（1933）、《岛》(1934)、《绿洲别墅》(1935)以及《西班牙绘画大师集》(1937)、《生活的痛苦》和《私人日记》(1939)等。1936年在访苏期间因病去世。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the given text, here is a list of all the works and their publication years that are attributed to E. Balzac, a French writer:\n\n* \"北方旅馆\" (North Hotel) - 1929\n* \"小路易\" (Little Louis) - 1930\n* \"巴黎郊区的市镇\" (Suburbs of Paris) - 1933\n* \"岛\" (Island) - 1934\n* \"绿洲别墅\" (Green Island) - 1935\n* \"西班牙绘画大师集\" (Spanish Painting Masterpieces) - 1937\n* \"生活的痛苦\" (The Bitter Life) - 1939\n* \"私人日记\" (Private Diary) - 1939\n\nNote that the publication years are not explicitly stated in the text, but based on the information provided, it can be inferred that these works were published sometime between 1930 and 1939."
+    },
+    {
+        "Instruction": "阅读句子，并抽取出句子中出现的歌曲实体。输出形式：歌曲1, 歌曲2, ...\n金池以一首《夜夜夜夜》轰动《中国好声音》，随后以一首《谁》震撼央视《直通春晚》，成为舞台上闪耀无比的女歌手。很多喜欢金池的歌迷都在疑问：金池什么时候出新专辑？近日，金池给出了答案，她透露自己将在圣诞节前发行专辑《痴心不改》，开启被尘封了十年音乐梦想。据了解《痴心不改》还是金池该专辑中的同名歌曲，是一首首非常动听的歌曲。歌词中“痴心不改”不但表达了对爱的坚持，也表达了金池十年来对音乐的痴迷与执着。",
+        "Instruction_id": "2772d884d50a3ece85ef2b2315a08005e26749bfc96c0d675181f2dd0912b189",
+        "histories": [
+            [
+                "阅读句子，并抽取出句子中出现的歌曲实体。输出形式：歌曲1, 歌曲2, ...\n金池以一首《夜夜夜夜》轰动《中国好声音》，随后以一首《谁》震撼央视《直通春晚》，成为舞台上闪耀无比的女歌手。很多喜欢金池的歌迷都在疑问：金池什么时候出新专辑？近日，金池给出了答案，她透露自己将在圣诞节前发行专辑《痴心不改》，开启被尘封了十年音乐梦想。据了解《痴心不改》还是金池该专辑中的同名歌曲，是一首首非常动听的歌曲。歌词中“痴心不改”不但表达了对爱的坚持，也表达了金池十年来对音乐的痴迷与执着。",
+                " Sure, I'd be happy to help! Based on the sentence you provided, here are the song entities that I can extract:\n\n• 《夜夜夜夜》\n• 《谁》\n• 《痴心不改》\n\nThese are the three song titles mentioned in the sentence."
+            ]
+        ],
+        "task_description": "阅读句子，并抽取出句子中出现的歌曲实体。输出形式：歌曲1, 歌曲2, ...",
+        "input_text": "金池以一首《夜夜夜夜》轰动《中国好声音》，随后以一首《谁》震撼央视《直通春晚》，成为舞台上闪耀无比的女歌手。很多喜欢金池的歌迷都在疑问：金池什么时候出新专辑？近日，金池给出了答案，她透露自己将在圣诞节前发行专辑《痴心不改》，开启被尘封了十年音乐梦想。据了解《痴心不改》还是金池该专辑中的同名歌曲，是一首首非常动听的歌曲。歌词中“痴心不改”不但表达了对爱的坚持，也表达了金池十年来对音乐的痴迷与执着。",
+        "task_category": "extraction",
+        "lang": "ch",
+        "model_answer": " Sure, I'd be happy to help! Based on the sentence you provided, here are the song entities that I can extract:\n\n• 《夜夜夜夜》\n• 《谁》\n• 《痴心不改》\n\nThese are the three song titles mentioned in the sentence."
+    }
+]

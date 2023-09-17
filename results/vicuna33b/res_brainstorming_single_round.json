@@ -1,0 +1,302 @@
+[
+    {
+        "Instruction": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "Instruction_id": "c0061c8ed7fa0dcc5122fec5f28e9d3781158954c17dec68a01d291b38cc5988",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+                "以下是关于解决日常生活问题的五个创新或改进方法的Markdown表格：\n\n| 关键词 | 简介 | 步骤 |\n| --- | --- | --- |\n| 智能农业 | 利用物联网、大数据和人工智能技术，提高农业生产效率和环境保护能力。 | 1. 设立物联网监测系统<br>2. 数据分析和智能决策<br>3. 引入节物生产方法<br>4. 跨界合作 |\n| 无人驾驶汽车 | 利用自动驾驶技术改进汽车，提高交通安全和效率。 | 1. 发展自动驾驶技术<br>2. 软件优化和硬件升级<br>3. 法规和标准制定<br>4. 推广普及 |\n| 智能家居 | 利用智能技术为家居环境提供智能化解决方案，实现舒适和节能。 | 1. 家居自动化设备<br>2. 能源管理系统<br>3. 智能安全保护<br>4. 数据分析与优化 |\n| 人工智能教育 | 运用人工智能技术改进教育体系，提高教学效果和学生发展。 | 1. 个性化学习平台<br>2. 教学辅助系统<br>3. AI教育评估<br>4. 教师培训 |\n| 医疗资源优化 | 利用人工智能和大数据分析优化医疗资源，提高医疗服务质量和效率。 | 1. 数据收集和整合<br>2. 病情分析和预测<br>3. 医疗资源优化<br>4. 监管与推广 |\n\n英文翻译：\n\n| Keyword | Description | Steps |\n| --- | --- | --- |\n| Smart Agriculture | Utilize the Internet of Things, big data, and artificial intelligence technologies to improve agricultural production efficiency and environmental protection capabilities. | 1. Establish a IoT monitoring system<br>2. Data analysis and intelligent decision-making<br>3. Introduction of plant factory production<br>4. Cross-industry cooperation |\n| Autonomous Driving | Improve automobiles by using autonomous driving technology, enhancing traffic safety and efficiency. | 1. Develop autonomous driving technology<br>2. Software optimization and hardware upgrade<br>3. Legislation and standard setting<br>4. Promotion and popularization |\n| Smart Home | Use smart technology to provide intelligent solutions for home environments, achieving comfort and energy saving. | 1. Smart home automation equipment<br>2. Energy management system<br>3. Smart home security<br>4. Data analysis and optimization |\n| AI Education | Use artificial intelligence technology to improve the education system, enhance teaching effectiveness and student development. | 1. Personalized learning platform<br>2. Teaching assistance system<br>3. AI education evaluation<br> |"
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是关于解决日常生活问题的五个创新或改进方法的Markdown表格：\n\n| 关键词 | 简介 | 步骤 |\n| --- | --- | --- |\n| 智能农业 | 利用物联网、大数据和人工智能技术，提高农业生产效率和环境保护能力。 | 1. 设立物联网监测系统<br>2. 数据分析和智能决策<br>3. 引入节物生产方法<br>4. 跨界合作 |\n| 无人驾驶汽车 | 利用自动驾驶技术改进汽车，提高交通安全和效率。 | 1. 发展自动驾驶技术<br>2. 软件优化和硬件升级<br>3. 法规和标准制定<br>4. 推广普及 |\n| 智能家居 | 利用智能技术为家居环境提供智能化解决方案，实现舒适和节能。 | 1. 家居自动化设备<br>2. 能源管理系统<br>3. 智能安全保护<br>4. 数据分析与优化 |\n| 人工智能教育 | 运用人工智能技术改进教育体系，提高教学效果和学生发展。 | 1. 个性化学习平台<br>2. 教学辅助系统<br>3. AI教育评估<br>4. 教师培训 |\n| 医疗资源优化 | 利用人工智能和大数据分析优化医疗资源，提高医疗服务质量和效率。 | 1. 数据收集和整合<br>2. 病情分析和预测<br>3. 医疗资源优化<br>4. 监管与推广 |\n\n英文翻译：\n\n| Keyword | Description | Steps |\n| --- | --- | --- |\n| Smart Agriculture | Utilize the Internet of Things, big data, and artificial intelligence technologies to improve agricultural production efficiency and environmental protection capabilities. | 1. Establish a IoT monitoring system<br>2. Data analysis and intelligent decision-making<br>3. Introduction of plant factory production<br>4. Cross-industry cooperation |\n| Autonomous Driving | Improve automobiles by using autonomous driving technology, enhancing traffic safety and efficiency. | 1. Develop autonomous driving technology<br>2. Software optimization and hardware upgrade<br>3. Legislation and standard setting<br>4. Promotion and popularization |\n| Smart Home | Use smart technology to provide intelligent solutions for home environments, achieving comfort and energy saving. | 1. Smart home automation equipment<br>2. Energy management system<br>3. Smart home security<br>4. Data analysis and optimization |\n| AI Education | Use artificial intelligence technology to improve the education system, enhance teaching effectiveness and student development. | 1. Personalized learning platform<br>2. Teaching assistance system<br>3. AI education evaluation<br> |"
+    },
+    {
+        "Instruction": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "Instruction_id": "40332e40c3184efbe70d16e7784ee32c24c43b9e55f6c33c7ea4f1c27cf60c5a",
+        "histories": [
+            [
+                "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+                "<animal_types>\n<type>蛛猴</type>\n<name>蛛猴</name>\n<description>蛛猴是一种猴类动物，具有丰富的种类，分布在摩纳哥、非洲和欧美等地区。蛛猴有独特的生态习性，主要以吃叶为主。它们通常在树林中生活，善于跳跃，而且还具有高度的社会性。</description>\n</animal_types>\n<animal_types>\n<type>熊猫</type>\n<name>熊猫</name>\n<description>熊猫是一种猫类动物，分布在亚洲、北美和欧洲等地区。熊猫有强大的体力和吼声，以肉类作为主食。熊猫在森林中生活，通常作为孤独生活的动物而著名。</description>\n</animal_types>\n<animal_types>\n<type>鸟类</type>\n<name>鸟类</name>\n<description>鸟类是一种各样性格的动物，分布在全球。鸟类以飞翔为主，主要以种类丰富的食物进食。有些鸟类是单亲，有些是团体生活者，而且还有些是隙离生活者。</description>\n</animal_types>\n<animal_types>\n<type>蝴蝶</type>\n<name>蝴蝶</name>\n<description>蝴蝶是一种昆虫类动物，具有丰富的种类，分布在全球。蝴蝶以其美丽的颜色和翔翔得天花了人心，是很多人喜爱的动物之一。蝴蝶主要以花芽为食物，也是重要的净化者。</description>\n</animal_types>"
+            ]
+        ],
+        "task_description": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "<animal_types>\n<type>蛛猴</type>\n<name>蛛猴</name>\n<description>蛛猴是一种猴类动物，具有丰富的种类，分布在摩纳哥、非洲和欧美等地区。蛛猴有独特的生态习性，主要以吃叶为主。它们通常在树林中生活，善于跳跃，而且还具有高度的社会性。</description>\n</animal_types>\n<animal_types>\n<type>熊猫</type>\n<name>熊猫</name>\n<description>熊猫是一种猫类动物，分布在亚洲、北美和欧洲等地区。熊猫有强大的体力和吼声，以肉类作为主食。熊猫在森林中生活，通常作为孤独生活的动物而著名。</description>\n</animal_types>\n<animal_types>\n<type>鸟类</type>\n<name>鸟类</name>\n<description>鸟类是一种各样性格的动物，分布在全球。鸟类以飞翔为主，主要以种类丰富的食物进食。有些鸟类是单亲，有些是团体生活者，而且还有些是隙离生活者。</description>\n</animal_types>\n<animal_types>\n<type>蝴蝶</type>\n<name>蝴蝶</name>\n<description>蝴蝶是一种昆虫类动物，具有丰富的种类，分布在全球。蝴蝶以其美丽的颜色和翔翔得天花了人心，是很多人喜爱的动物之一。蝴蝶主要以花芽为食物，也是重要的净化者。</description>\n</animal_types>"
+    },
+    {
+        "Instruction": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "Instruction_id": "05eaffafa7b0ca5e23cac047bcf3727b745bf2d48a211de95cc00315528b424d",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+                "| 关键词 | 简要描述 | 具体步骤 |\n| --- | --- | --- |\n| 定时床前睡 | 燃烧两缕指，让身体知道睡前时间，帮助身体内部系统进行舒缓和适应 | 在午夜睡前，燃烧两缕指，保持照亮睡前环境 |\n| 保持规律作息 | 保持规律的作息和睡眠模式，有助于身体进行自然循环舒缓和调节 | 设定每天的作息时间，保持规律的睡眠时间和周期 |\n| 创建舒适睡眠环境 | 创建舒适的睡眠环境有助于放松身心，提高睡眠质量 | 确保睡眠环境安静、黑暗、凉爽，保持适当的温度和湿度 |\n| 减轻压力 | 减轻生活和工作的压力，有助于缓解睡眠中的短期冲击和长期焦虑 | 进行深呼吸、瑜伽、冥想等放松活动，学会在压力下调节心态和情绪 |\n| 控制电子产品使用 | 控制电子产品（如手机、电视、电脑）的使用，避免过度刺激眼睛和质抱。 | 1小时前睡之前关闭手机、电视等屏幕设备，避免睡前使用刺激眼睛的设备 |"
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 关键词 | 简要描述 | 具体步骤 |\n| --- | --- | --- |\n| 定时床前睡 | 燃烧两缕指，让身体知道睡前时间，帮助身体内部系统进行舒缓和适应 | 在午夜睡前，燃烧两缕指，保持照亮睡前环境 |\n| 保持规律作息 | 保持规律的作息和睡眠模式，有助于身体进行自然循环舒缓和调节 | 设定每天的作息时间，保持规律的睡眠时间和周期 |\n| 创建舒适睡眠环境 | 创建舒适的睡眠环境有助于放松身心，提高睡眠质量 | 确保睡眠环境安静、黑暗、凉爽，保持适当的温度和湿度 |\n| 减轻压力 | 减轻生活和工作的压力，有助于缓解睡眠中的短期冲击和长期焦虑 | 进行深呼吸、瑜伽、冥想等放松活动，学会在压力下调节心态和情绪 |\n| 控制电子产品使用 | 控制电子产品（如手机、电视、电脑）的使用，避免过度刺激眼睛和质抱。 | 1小时前睡之前关闭手机、电视等屏幕设备，避免睡前使用刺激眼睛的设备 |"
+    },
+    {
+        "Instruction": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "Instruction_id": "ce2a57d592fbbbc5e9e67e65b556a71b43f400e163f8d83364cf322c508b3391",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+                "| 编号 | 问题描述 |\n| --- | --- |\n| 1 | 如何保持健康的生活方式？ |\n| 2 | 健康生活方式对我们的生活质量有何影响？ |\n| 3 | 如何在日常生活中实践健康的生活方式？ |\n| 4 | 饮食对健康的影响是什么？ |\n| 5 | 运动对健康的重要性是什么？ |"
+            ]
+        ],
+        "task_description": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 编号 | 问题描述 |\n| --- | --- |\n| 1 | 如何保持健康的生活方式？ |\n| 2 | 健康生活方式对我们的生活质量有何影响？ |\n| 3 | 如何在日常生活中实践健康的生活方式？ |\n| 4 | 饮食对健康的影响是什么？ |\n| 5 | 运动对健康的重要性是什么？ |"
+    },
+    {
+        "Instruction": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "Instruction_id": "dee960bbd19c3b1958463df9c5c62d6111238addbec6ea924f00cd034f474267",
+        "histories": [
+            [
+                "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+                "[\n{\n\"exercise\\_id\": 1,\n\"name\": \"快走\",\n\"short\\_description\": \"快速跑步，有利于提高心肺功能和耐力\",\n\"difficulty\": \"初级\"\n},\n{\n\"exercise\\_id\": 2,\n\"name\": \"跳绳\",\n\"short\\_description\": \"通过双腿固定并跳起来，有助于增强腿部肌肉\",\n\"difficulty\": \"中级\"\n},\n{\n\"exercise\\_id\": 3,\n\"name\": \"假蹲\",\n\"short\\_description\": \"假蹲着，双手支撑腹部，可以帮助增强腹部肌肉\",\n\"difficulty\": \"初级\"\n},\n{\n\"exercise\\_id\": 4,\n\"name\": \"抬重\",\n\"short\\_description\": \"使用手柄或腹部带抬重，有助于增强肩部和腹部肌肉\",\n\"difficulty\": \"中级\"\n},\n{\n\"exercise\\_id\": 5,\n\"name\": \"仰卧起坐\",\n\"short\\_description\": \"仰卧起坐，可以帮助增强腹部、臀部和腿后侧肌肉\",\n\"difficulty\": \"初级\"\n}\n]"
+            ]
+        ],
+        "task_description": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "[\n{\n\"exercise\\_id\": 1,\n\"name\": \"快走\",\n\"short\\_description\": \"快速跑步，有利于提高心肺功能和耐力\",\n\"difficulty\": \"初级\"\n},\n{\n\"exercise\\_id\": 2,\n\"name\": \"跳绳\",\n\"short\\_description\": \"通过双腿固定并跳起来，有助于增强腿部肌肉\",\n\"difficulty\": \"中级\"\n},\n{\n\"exercise\\_id\": 3,\n\"name\": \"假蹲\",\n\"short\\_description\": \"假蹲着，双手支撑腹部，可以帮助增强腹部肌肉\",\n\"difficulty\": \"初级\"\n},\n{\n\"exercise\\_id\": 4,\n\"name\": \"抬重\",\n\"short\\_description\": \"使用手柄或腹部带抬重，有助于增强肩部和腹部肌肉\",\n\"difficulty\": \"中级\"\n},\n{\n\"exercise\\_id\": 5,\n\"name\": \"仰卧起坐\",\n\"short\\_description\": \"仰卧起坐，可以帮助增强腹部、臀部和腿后侧肌肉\",\n\"difficulty\": \"初级\"\n}\n]"
+    },
+    {
+        "Instruction": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "Instruction_id": "fa3707e6632ac57e21791250ee7bce619643f18d11a07d0171bca2f60e5eca47",
+        "histories": [
+            [
+                "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+                "{\n\"name\": \"麻婆豆腐鱼香肉丝\",\n\"description\": \"一道美味的本地菜肴，由麻婆豆腐和鱼香肉丝配方，味道鲜美，口感魅力，满足爱好者的味蕾。\",\n\"ingredients\": [\n{\n\"name\": \"麻婆豆腐\",\n\"amount\": \"200克\"\n},\n{\n\"name\": \"鱼香肉丝\",\n\"amount\": \"300克\"\n},\n{\n\"name\": \"大豆粥\",\n\"amount\": \"100克\"\n},\n{\n\"name\": \"生抽\",\n\"amount\": \"1汤匙\"\n},\n{\n\"name\": \"盐\",\n\"amount\": \"1汤匙\"\n},\n{\n\"name\": \"植物油\",\n\"amount\": \"2汤匙\"\n},\n{\n\"name\": \"玉米淀粉\",\n\"amount\": \"2汤匙\"\n},\n{\n\"name\": \"水\",\n\"amount\": \"3汤匙\"\n}\n],\n\"instructions\": [\n{\n\"step\": \"1\",\n\"name\": \"准备工作\",\n\"description\": \"将麻婆豆腐切碎成小块，大豆粥和玉米淀粉先准备。\"\n},\n{\n\"step\": \"2\",\n\"name\": \"炒麻婆豆腐\",\n\"description\": \"在蒸锅中，加入生抽，盐和植物油，炒麻婆豆腐，让它变得柔软。\"\n},\n{\n\"step\": \"3\",\n\"name\": \"炒鱼香肉丝\",\n\"description\": \"在另一个蒸锅中，加入鱼香肉丝，炒至肉丝变得柔软。\"\n},\n{\n\"step\": \"4\",\n\"name\": \"准备粥\",\n\"description\": \"将大豆粥和玉米淀粉混合，加入水，浇入蒸锅中，搅拌均匀。\"\n},\n{\n\"step\": \"5\",\n\"name\": \"搭配\",\n\"description\": \"将炒好的麻婆豆腐和鱼香肉丝倒入粥中，匀匀搭配。\"\n}\n],\n\"cook_time\": \"30分钟\"\n}"
+            ]
+        ],
+        "task_description": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"name\": \"麻婆豆腐鱼香肉丝\",\n\"description\": \"一道美味的本地菜肴，由麻婆豆腐和鱼香肉丝配方，味道鲜美，口感魅力，满足爱好者的味蕾。\",\n\"ingredients\": [\n{\n\"name\": \"麻婆豆腐\",\n\"amount\": \"200克\"\n},\n{\n\"name\": \"鱼香肉丝\",\n\"amount\": \"300克\"\n},\n{\n\"name\": \"大豆粥\",\n\"amount\": \"100克\"\n},\n{\n\"name\": \"生抽\",\n\"amount\": \"1汤匙\"\n},\n{\n\"name\": \"盐\",\n\"amount\": \"1汤匙\"\n},\n{\n\"name\": \"植物油\",\n\"amount\": \"2汤匙\"\n},\n{\n\"name\": \"玉米淀粉\",\n\"amount\": \"2汤匙\"\n},\n{\n\"name\": \"水\",\n\"amount\": \"3汤匙\"\n}\n],\n\"instructions\": [\n{\n\"step\": \"1\",\n\"name\": \"准备工作\",\n\"description\": \"将麻婆豆腐切碎成小块，大豆粥和玉米淀粉先准备。\"\n},\n{\n\"step\": \"2\",\n\"name\": \"炒麻婆豆腐\",\n\"description\": \"在蒸锅中，加入生抽，盐和植物油，炒麻婆豆腐，让它变得柔软。\"\n},\n{\n\"step\": \"3\",\n\"name\": \"炒鱼香肉丝\",\n\"description\": \"在另一个蒸锅中，加入鱼香肉丝，炒至肉丝变得柔软。\"\n},\n{\n\"step\": \"4\",\n\"name\": \"准备粥\",\n\"description\": \"将大豆粥和玉米淀粉混合，加入水，浇入蒸锅中，搅拌均匀。\"\n},\n{\n\"step\": \"5\",\n\"name\": \"搭配\",\n\"description\": \"将炒好的麻婆豆腐和鱼香肉丝倒入粥中，匀匀搭配。\"\n}\n],\n\"cook_time\": \"30分钟\"\n}"
+    },
+    {
+        "Instruction": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "Instruction_id": "1efcc17e4fe5bf20bf10db1d7c51c5dc7009be5746679b499ec7674fb74fe2f2",
+        "histories": [
+            [
+                "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+                "{\n\"persons\": [\n{\n\"name\": \"Leonardo da Vinci\",\n\"real\\_person\": True\n},\n{\n\"name\": \"Nostradamus\",\n\"real\\_person\": True\n},\n{\n\"name\": \"Zeus\",\n\"real\\_person\": False\n}\n],\n\n\"description\": {\n\"leonardo\\_da\\_vinci\": {\n\"background\": \"Leonardo da Vinci was a polymath from the Renaissance era, born in 1452 in Vinci, Republic of Florence (now Italy). He was an artist, inventor, scientist, mathematician, engineer, and writer. His artistic works include the Mona Lisa and The Last Supper, while his inventions range from flying machines to advanced military weaponry. Leonardo is known for his keen observational skills, which allowed him to create detailed anatomical drawings and scientific diagrams. His notebooks, known as the Codex, contain thousands of pages of writing and illustrations, revealing his diverse interests and intellectual curiosity. Leonardo's approach to art and science was highly innovative, as he sought to understand natural phenomena through experimentation and observation, laying the groundwork for modern scientific methods.\",\n\"specialty\": \"Renaissance polymath\",\n\"fields\": [\"Art\", \"Science\", \"Invention\", \"Engineering\", \"Writing\"]\n}\n}\n}"
+            ]
+        ],
+        "task_description": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"persons\": [\n{\n\"name\": \"Leonardo da Vinci\",\n\"real\\_person\": True\n},\n{\n\"name\": \"Nostradamus\",\n\"real\\_person\": True\n},\n{\n\"name\": \"Zeus\",\n\"real\\_person\": False\n}\n],\n\n\"description\": {\n\"leonardo\\_da\\_vinci\": {\n\"background\": \"Leonardo da Vinci was a polymath from the Renaissance era, born in 1452 in Vinci, Republic of Florence (now Italy). He was an artist, inventor, scientist, mathematician, engineer, and writer. His artistic works include the Mona Lisa and The Last Supper, while his inventions range from flying machines to advanced military weaponry. Leonardo is known for his keen observational skills, which allowed him to create detailed anatomical drawings and scientific diagrams. His notebooks, known as the Codex, contain thousands of pages of writing and illustrations, revealing his diverse interests and intellectual curiosity. Leonardo's approach to art and science was highly innovative, as he sought to understand natural phenomena through experimentation and observation, laying the groundwork for modern scientific methods.\",\n\"specialty\": \"Renaissance polymath\",\n\"fields\": [\"Art\", \"Science\", \"Invention\", \"Engineering\", \"Writing\"]\n}\n}\n}"
+    },
+    {
+        "Instruction": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "Instruction_id": "da1d19c05b129e05f9621f3b63c10299f2b231f189f5169376fccef19bf99056",
+        "histories": [
+            [
+                "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+                "{\n\"加密方法\": [\n{\n\"名称\": \"AES\",\n\"优点\": [\n\"强大的安全性\",\n\"高度散列\",\n\"快速的加密和解密速度\"\n],\n\"缺点\": [\n\"需要额外的填充数据以支持后续解密\",\n\"对碰撞区域敏感\"\n]\n},\n{\n\"名称\": \"RSA\",\n\"优点\": [\n\"广泛适用的公共钥加密学算法\",\n\"安全性强大\",\n\"可靠的签名方法\"\n],\n\"缺点\": [\n\"密钥较大，解密速度较慢\",\n\"相对较高的计算开销\",\n\"适用范围相对有限\"\n]\n}\n]\n}"
+            ]
+        ],
+        "task_description": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"加密方法\": [\n{\n\"名称\": \"AES\",\n\"优点\": [\n\"强大的安全性\",\n\"高度散列\",\n\"快速的加密和解密速度\"\n],\n\"缺点\": [\n\"需要额外的填充数据以支持后续解密\",\n\"对碰撞区域敏感\"\n]\n},\n{\n\"名称\": \"RSA\",\n\"优点\": [\n\"广泛适用的公共钥加密学算法\",\n\"安全性强大\",\n\"可靠的签名方法\"\n],\n\"缺点\": [\n\"密钥较大，解密速度较慢\",\n\"相对较高的计算开销\",\n\"适用范围相对有限\"\n]\n}\n]\n}"
+    },
+    {
+        "Instruction": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "Instruction_id": "598d1cf42deee4845f54778bca3a51a66058de772019b3ebecf38e9311e983e1",
+        "histories": [
+            [
+                "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+                "以下是五本中国古典小说的表格，包含作品名、作者名以及作品的时间：\n\n| 作品名 | 作者名 | 作品时间 |\n| --- | --- | --- |\n| 《水浒传》 | 施耐庵 | 14th-18th centuries |\n|  |  |  |"
+            ]
+        ],
+        "task_description": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是五本中国古典小说的表格，包含作品名、作者名以及作品的时间：\n\n| 作品名 | 作者名 | 作品时间 |\n| --- | --- | --- |\n| 《水浒传》 | 施耐庵 | 14th-18th centuries |\n|  |  |  |"
+    },
+    {
+        "Instruction": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "Instruction_id": "dcb67aefd2cf290a4f168b8f3a7da88f46ab53cca64f21695a95ce9f83502205",
+        "histories": [
+            [
+                "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+                "| 人物 | 朝代 | 生平经历 |\n| --- | --- | --- |\n| 岳飞 | 明朝 | 1328年－1393年，明朝政治家，担任丞相、宰相等职位，指导了明朝经济、文化、军事等方面的发展，但在罗贯胜后被逮捕，后期因为被废除了其所有职位和封赖。 |\n| 岳飞（废） | 明朝 | 罗贯胜之后被逮捕，废除职位和封赖，后期生活不见。 |\n| 秦始皇 | 秦朝 | 公元前259年－前210年，秦朝的初皇，历经曾经被辱逼，逐渐崛起，最终废除秦国之封，建立了秦朝。 |"
+            ]
+        ],
+        "task_description": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 人物 | 朝代 | 生平经历 |\n| --- | --- | --- |\n| 岳飞 | 明朝 | 1328年－1393年，明朝政治家，担任丞相、宰相等职位，指导了明朝经济、文化、军事等方面的发展，但在罗贯胜后被逮捕，后期因为被废除了其所有职位和封赖。 |\n| 岳飞（废） | 明朝 | 罗贯胜之后被逮捕，废除职位和封赖，后期生活不见。 |\n| 秦始皇 | 秦朝 | 公元前259年－前210年，秦朝的初皇，历经曾经被辱逼，逐渐崛起，最终废除秦国之封，建立了秦朝。 |"
+    },
+    {
+        "Instruction": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "Instruction_id": "64616184aa54a7de5bb1a070219bd94a133d987f5b5e462011dfee3da5d37380",
+        "histories": [
+            [
+                "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+                "{\n\"导演\": \"乌尔善\",\n\"演员\": [\n{\n\"名字\": \"李克强\",\n\"角色\": \"张大爷\"\n},\n{\n\"名字\": \"陈偉钧\",\n\"角色\": \"李叔叔\"\n},\n{\n\"名字\": \"刘秋云\",\n\"角色\": \"张阿姨\"\n},\n{\n\"名字\": \"杨晨\",\n\"角色\": \"女孩\"\n}\n],\n\"故事情节\": {\n\"梗概\": \"一部关于乡村生活、友谊与爱情的戏剧。故事讲述了张大爷、李叔叔、张阿姨和女孩在一个小村庄上相识、成长和经历了许多感人的插曲。\",\n\"主要情节\": [\n{\n\"时间\": \"第一半部分\",\n\"描述\": \"张大爷和李叔叔在小村庄上相识，成为好朋友。他们共同经历了许多荒诞的乡村生活，互相扶持。\",\n\"魅力\": \"友谊的堅强与互相支持\"\n},\n{\n\"时间\": \"第二半部分\",\n\"描述\": \"张大爷的家庭经历了困境，李叔叔和张阿姨决定帮助他。在帮助中，李叔叔和张阿姨逐渐产生了爱情。\",\n\"魅力\": \"人性的无私奉献和爱情的勇敢表白\"\n},\n{\n\"时间\": \"结尾部分\",\n\"描述\": \"经历了一段时间的成长，张大爷和李叔叔的友谊变得更加坚固。同时，李叔叔和张阿姨也决定拥抱着一起的未来。\",\n\"魅力\": \"友谊与爱情的见证，温暖人心\"\n}\n]\n}"
+            ]
+        ],
+        "task_description": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"导演\": \"乌尔善\",\n\"演员\": [\n{\n\"名字\": \"李克强\",\n\"角色\": \"张大爷\"\n},\n{\n\"名字\": \"陈偉钧\",\n\"角色\": \"李叔叔\"\n},\n{\n\"名字\": \"刘秋云\",\n\"角色\": \"张阿姨\"\n},\n{\n\"名字\": \"杨晨\",\n\"角色\": \"女孩\"\n}\n],\n\"故事情节\": {\n\"梗概\": \"一部关于乡村生活、友谊与爱情的戏剧。故事讲述了张大爷、李叔叔、张阿姨和女孩在一个小村庄上相识、成长和经历了许多感人的插曲。\",\n\"主要情节\": [\n{\n\"时间\": \"第一半部分\",\n\"描述\": \"张大爷和李叔叔在小村庄上相识，成为好朋友。他们共同经历了许多荒诞的乡村生活，互相扶持。\",\n\"魅力\": \"友谊的堅强与互相支持\"\n},\n{\n\"时间\": \"第二半部分\",\n\"描述\": \"张大爷的家庭经历了困境，李叔叔和张阿姨决定帮助他。在帮助中，李叔叔和张阿姨逐渐产生了爱情。\",\n\"魅力\": \"人性的无私奉献和爱情的勇敢表白\"\n},\n{\n\"时间\": \"结尾部分\",\n\"描述\": \"经历了一段时间的成长，张大爷和李叔叔的友谊变得更加坚固。同时，李叔叔和张阿姨也决定拥抱着一起的未来。\",\n\"魅力\": \"友谊与爱情的见证，温暖人心\"\n}\n]\n}"
+    },
+    {
+        "Instruction": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "Instruction_id": "ef696afae930972707730b96ecaefe30b19033893df82a9981b2cb56e12d0169",
+        "histories": [
+            [
+                "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+                "以下是要求以 JSON 格式输出的公司分类信息：\n\n[\n  {\n    \"公司名称\": \"Apple\",\n    \"行业类别\": \"电子产品\"\n  },\n  {\n    \"公司名称\": \"Facebook\",\n    \"行业类别\": \"互联网科技\"\n  },\n  {\n    \"公司名称\": \"Fedex\",\n    \"行业类别\": \"物流与递件服务\"\n  }\n]"
+            ]
+        ],
+        "task_description": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是要求以 JSON 格式输出的公司分类信息：\n\n[\n  {\n    \"公司名称\": \"Apple\",\n    \"行业类别\": \"电子产品\"\n  },\n  {\n    \"公司名称\": \"Facebook\",\n    \"行业类别\": \"互联网科技\"\n  },\n  {\n    \"公司名称\": \"Fedex\",\n    \"行业类别\": \"物流与递件服务\"\n  }\n]"
+    },
+    {
+        "Instruction": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "Instruction_id": "90e6f88ad9ea6e03d457981c7b097c5647800ec646e5223599d7fb897523601f",
+        "histories": [
+            [
+                "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+                "[\n{\n\"question\\_id\": 1,\n\"question\": \"未来科技发展将为哪些行业带来最大的变革？\",\n\"possible\\_answer\": [\n\"AI、机器学习、5G通信、人工智能、生物技术、太阳能能源、电动汽车、无人驾驶、虚拟现实、云计算等\"\n],\n\"keywords\": [\n\"行业变革\",\n\"科技发展\"\n],\n\"category\": \"未来技术\"\n},\n{\n\"question\\_id\": 2,\n\"question\": \"未来医疗技术将如何改进我们的生活质量？\",\n\"possible\\_answer\": [\n\"预防和治疗疾病、个性化医疗、生物Marker检测、基因编辑、远程护理、远程手术、机器学习诊断等\"\n],\n\"keywords\": [\n\"医疗技术\",\n\"生活质量\"\n],\n\"category\": \"未来医疗\"\n},\n{\n\"question\\_id\": 3,\n\"question\": \"未来教育如何利用技术进行改革？\",\n\"possible\\_answer\": [\n\"在线教育、虚拟课堂、个性化学习、AI教练、远程实验室、虚拟实验室、增强现实教育、Blockchain证书等\"\n],\n\"keywords\": [\n\"教育改革\",\n\"技术应用\"\n],\n\"category\": \"未来教育\"\n},\n{\n\"question\\_id\": 4,\n\"question\": \"未来城市如何利用技术实现更有效的管理？\",\n\"possible\\_answer\": [\n\"智慧城市、自动驾驶车辆、无人机储存、垃圾收集机器人、监控摄像头、能源管理系统、人口分布估计、灾害预警等\"\n],\n\"keywords\": [\n\"城市管理\",\n\"技术应用\"\n],\n\"category\": \"未来城市\"\n},\n{\n\"question\\_id\": 5,\n\"question\": \"未来金融领域将如何利用区块链技术？\",\n\"possible\\_answer\": [\n\"资产证券化、去中心化交易所、去中心化金融、加密货币支付、去中心化资本市场、供应链金融、互联网债券等\"\n],\n\"keywords\": [\n\"区块链\",\n\"金融领域\"\n],\n\"category\": \"未来金融\"\n},\n{\n\"question\\_id\": 6,\n\"question\": \"未来农业如何利用技术提高生产效率？\",\n\"possible\\_answer\": [\n\"智能农业、农业robot器、土壤和水资源监测、种子涂膜施肥、农作物病虫害防治、气候变化适应、植物遗传编辑等\"\n],\n\"keywords\": [\n\"农业技术\",\n\"生产效率\"\n],\n\"category\": \"未来农业\""
+            ]
+        ],
+        "task_description": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "[\n{\n\"question\\_id\": 1,\n\"question\": \"未来科技发展将为哪些行业带来最大的变革？\",\n\"possible\\_answer\": [\n\"AI、机器学习、5G通信、人工智能、生物技术、太阳能能源、电动汽车、无人驾驶、虚拟现实、云计算等\"\n],\n\"keywords\": [\n\"行业变革\",\n\"科技发展\"\n],\n\"category\": \"未来技术\"\n},\n{\n\"question\\_id\": 2,\n\"question\": \"未来医疗技术将如何改进我们的生活质量？\",\n\"possible\\_answer\": [\n\"预防和治疗疾病、个性化医疗、生物Marker检测、基因编辑、远程护理、远程手术、机器学习诊断等\"\n],\n\"keywords\": [\n\"医疗技术\",\n\"生活质量\"\n],\n\"category\": \"未来医疗\"\n},\n{\n\"question\\_id\": 3,\n\"question\": \"未来教育如何利用技术进行改革？\",\n\"possible\\_answer\": [\n\"在线教育、虚拟课堂、个性化学习、AI教练、远程实验室、虚拟实验室、增强现实教育、Blockchain证书等\"\n],\n\"keywords\": [\n\"教育改革\",\n\"技术应用\"\n],\n\"category\": \"未来教育\"\n},\n{\n\"question\\_id\": 4,\n\"question\": \"未来城市如何利用技术实现更有效的管理？\",\n\"possible\\_answer\": [\n\"智慧城市、自动驾驶车辆、无人机储存、垃圾收集机器人、监控摄像头、能源管理系统、人口分布估计、灾害预警等\"\n],\n\"keywords\": [\n\"城市管理\",\n\"技术应用\"\n],\n\"category\": \"未来城市\"\n},\n{\n\"question\\_id\": 5,\n\"question\": \"未来金融领域将如何利用区块链技术？\",\n\"possible\\_answer\": [\n\"资产证券化、去中心化交易所、去中心化金融、加密货币支付、去中心化资本市场、供应链金融、互联网债券等\"\n],\n\"keywords\": [\n\"区块链\",\n\"金融领域\"\n],\n\"category\": \"未来金融\"\n},\n{\n\"question\\_id\": 6,\n\"question\": \"未来农业如何利用技术提高生产效率？\",\n\"possible\\_answer\": [\n\"智能农业、农业robot器、土壤和水资源监测、种子涂膜施肥、农作物病虫害防治、气候变化适应、植物遗传编辑等\"\n],\n\"keywords\": [\n\"农业技术\",\n\"生产效率\"\n],\n\"category\": \"未来农业\""
+    },
+    {
+        "Instruction": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "Instruction_id": "324871929ceff27433eb4876790c5234a9ba934ca76a32dfd1a186237147d8be",
+        "histories": [
+            [
+                "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+                "[\n{\n\"projectId\": 1,\n\"title\": \"太阳能电池充电站\",\n\"description\": \"设立太阳能电池充电站，提供免费充电服务，减少汽车排放。\",\n\"keywords\": [\"太阳能\", \"电池\", \"充电\", \"可持续\"],\n\"implementationCost\": 200000\n},\n{\n\"projectId\": 2,\n\"title\": \"风能电站\",\n\"description\": \"建立风能电站，利用清晨风能产生电力，减少对化石能源的依赖。\",\n\"keywords\": [\"风能\", \"电站\", \"可持续\", \"清晨\"],\n\"implementationCost\": 150000\n},\n{\n\"projectId\": 3,\n\"title\": \"地热利用项目\",\n\"description\": \"利用地热能为企业和居民提供室内暖化，减少化石燃料消耗。\",\n\"keywords\": [\"地热\", \"利用\", \"可持续\", \"暖化\"],\n\"implementationCost\": 180000\n},\n{\n\"projectId\": 4,\n\"title\": \"落叶收集与生物质利用\",\n\"description\": \"开展落叶收集项目，转化为生物质能源，减少垃圾燃烧。\",\n\"keywords\": [\"落叶\", \"收集\", \"生物质\", \"可持续\"],\n\"implementationCost\": 10000\n},\n{\n\"projectId\": 5,\n\"title\": \"电动共享单车\",\n\"description\": \"推广电动共享单车，降低碳排放，减少交通堆裂。\",\n\"keywords\": [\"电动\", \"共享单车\", \"可持续\", \"碳排放\"],\n\"implementationCost\": 30000\n}\n]"
+            ]
+        ],
+        "task_description": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "[\n{\n\"projectId\": 1,\n\"title\": \"太阳能电池充电站\",\n\"description\": \"设立太阳能电池充电站，提供免费充电服务，减少汽车排放。\",\n\"keywords\": [\"太阳能\", \"电池\", \"充电\", \"可持续\"],\n\"implementationCost\": 200000\n},\n{\n\"projectId\": 2,\n\"title\": \"风能电站\",\n\"description\": \"建立风能电站，利用清晨风能产生电力，减少对化石能源的依赖。\",\n\"keywords\": [\"风能\", \"电站\", \"可持续\", \"清晨\"],\n\"implementationCost\": 150000\n},\n{\n\"projectId\": 3,\n\"title\": \"地热利用项目\",\n\"description\": \"利用地热能为企业和居民提供室内暖化，减少化石燃料消耗。\",\n\"keywords\": [\"地热\", \"利用\", \"可持续\", \"暖化\"],\n\"implementationCost\": 180000\n},\n{\n\"projectId\": 4,\n\"title\": \"落叶收集与生物质利用\",\n\"description\": \"开展落叶收集项目，转化为生物质能源，减少垃圾燃烧。\",\n\"keywords\": [\"落叶\", \"收集\", \"生物质\", \"可持续\"],\n\"implementationCost\": 10000\n},\n{\n\"projectId\": 5,\n\"title\": \"电动共享单车\",\n\"description\": \"推广电动共享单车，降低碳排放，减少交通堆裂。\",\n\"keywords\": [\"电动\", \"共享单车\", \"可持续\", \"碳排放\"],\n\"implementationCost\": 30000\n}\n]"
+    },
+    {
+        "Instruction": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "Instruction_id": "289f495f31c0895f0b2c2cf46d9b6e1fdf454f7f41dfe2cf90558a50e94773b1",
+        "histories": [
+            [
+                "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+                "以下是一个包含产地信息的CSV表格，列出了五种不同品牌的咖啡，以及它们的特点、口味和产地：\n\n| 品牌 | 特点 | 口味 | 产地 |\n| --- | --- | --- | --- |\n| 品牌A | 独特的口感，适合各种咖啡肉 | 浓郁、焦糖脆皮 | 哥伦比亚 |\n| 品牌B | 经过酒精蒸馏而成，味道浓郁 | 酒精蒸馏味，饱满口感 | 印度 |\n| 品牌C | 经过滑萃过程，口感柔滑 | 柔滑、香浓、低酸度 | 巴西 |\n| 品牌D | 由全球各地豆浄选，口感鲜明 | 多样化、浓郁、清新 | 世界各地 |\n| 品牌E | 经过精细烘焙，味道浓烈 | 热气强、馏脆、低芳香 | 叙利亚 |\n\n以下是关于以上表格中的第三种咖啡的详细描述：\n\n1. 品牌C：这款咖啡来自巴西，采用了精选的高山arabica豆。经过滑萃过程，它的口感非常柔滑。口味上，这款咖啡呈现出柔和的香浓和低酸度，适合一些口感虔诚的消费者。产地为巴西，这意味着这款咖啡可能具有独特的新鲜果香和浓郁的烘焙味。"
+            ]
+        ],
+        "task_description": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是一个包含产地信息的CSV表格，列出了五种不同品牌的咖啡，以及它们的特点、口味和产地：\n\n| 品牌 | 特点 | 口味 | 产地 |\n| --- | --- | --- | --- |\n| 品牌A | 独特的口感，适合各种咖啡肉 | 浓郁、焦糖脆皮 | 哥伦比亚 |\n| 品牌B | 经过酒精蒸馏而成，味道浓郁 | 酒精蒸馏味，饱满口感 | 印度 |\n| 品牌C | 经过滑萃过程，口感柔滑 | 柔滑、香浓、低酸度 | 巴西 |\n| 品牌D | 由全球各地豆浄选，口感鲜明 | 多样化、浓郁、清新 | 世界各地 |\n| 品牌E | 经过精细烘焙，味道浓烈 | 热气强、馏脆、低芳香 | 叙利亚 |\n\n以下是关于以上表格中的第三种咖啡的详细描述：\n\n1. 品牌C：这款咖啡来自巴西，采用了精选的高山arabica豆。经过滑萃过程，它的口感非常柔滑。口味上，这款咖啡呈现出柔和的香浓和低酸度，适合一些口感虔诚的消费者。产地为巴西，这意味着这款咖啡可能具有独特的新鲜果香和浓郁的烘焙味。"
+    },
+    {
+        "Instruction": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "Instruction_id": "c330e000999f62803ea0aa7271cabb849db5d68f305024f85db15891272bcbbe",
+        "histories": [
+            [
+                "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+                "| 解决方案 | 关键词 | 描述 | 实施步骤 | 预计效果 | 详细描述（第一个解决方案） |\n| --- | --- | --- | --- | --- | --- |\n| 创意促销活动 | 促销活动 | 设计一系列吸引人的促销活动，如限时折扣、买一赠一等，以吸引更多消费者购买面包。 | 1. 设计活动方案<br>2. 宣传活动<br>3. 跟踪和评估 | 提高销售额，吸引新客户，增加品牌知名度 | 首先，分析客户需求和市场趋势，设计吸引人的促销活动，如限时折扣、买一赠一等。然后，通过社交媒体、宣传广告等渠道宣传活动，吸引消费者关注。最后，跟踪和评估活动效果，根据结果调整后续活动策略。 |"
+            ]
+        ],
+        "task_description": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 解决方案 | 关键词 | 描述 | 实施步骤 | 预计效果 | 详细描述（第一个解决方案） |\n| --- | --- | --- | --- | --- | --- |\n| 创意促销活动 | 促销活动 | 设计一系列吸引人的促销活动，如限时折扣、买一赠一等，以吸引更多消费者购买面包。 | 1. 设计活动方案<br>2. 宣传活动<br>3. 跟踪和评估 | 提高销售额，吸引新客户，增加品牌知名度 | 首先，分析客户需求和市场趋势，设计吸引人的促销活动，如限时折扣、买一赠一等。然后，通过社交媒体、宣传广告等渠道宣传活动，吸引消费者关注。最后，跟踪和评估活动效果，根据结果调整后续活动策略。 |"
+    },
+    {
+        "Instruction": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "Instruction_id": "0a4226a6bc3fd7697b1903cc022e1772f921ea3ceed4b183be0b1ebc0ea74967",
+        "histories": [
+            [
+                "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+                "以下是关于时间管理技巧的10个JSON格式化的建议，按照重要性进行排序：\n\n[\n{\n\"关键词\": \"短期计划\",\n\"描述\": \"将每日任务分解为短期计划，有助于更好地实现目标并保持高效工作。\",\n\"实施步骤\": [\"确定当日的主要任务\", \"将任务划分为可完成的小步骤\", \"按照预定的时间节点完成任务\"]\n},\n{\n\"关键词\": \"时间管理工具\",\n\"描述\": \"使用时间管理工具，如日程表、待办事项列表等，有助于更好地安排和跟踪时间。\",\n\"实施步骤\": [\"选择适合的时间管理工具\", \"记录每日任务和时间限制\", \"定期复习和调整计划\"]\n},\n{\n\"关键词\": \"设定优先级\",\n\"描述\": \"根据任务的重要性和紧迫性为每个任务设定优先级，有助于合理分配时间资源。\",\n\"实施步骤\": [\"评估任务优先级\", \"为每个任务设定优先级\", \"按照优先级进行任务分配\"]\n},\n{\n\"关键词\": \"时间限制\",\n\"描述\": \"为每个任务设定时间限制，有助于提高工作效率并避免拖延。\",\n\"实施步骤\": [\"确定任务所需的时间\", \"设定具体的时间限制\", \"努力在规定时间内完成任务\"]\n},\n{\n\"关键词\": \"拖延提醒\",\n\"描述\": \"将重要且紧迫的任务提醒自己，以提高工作积极性和避免拖延。\",\n\"实施步骤\": [\"炼选需要提醒的任务\", \"设置提醒时间\", \"当提醒时，立即开始完成任务\"]\n},\n{\n\"关键词\": \"休息与放松\",\n\"描述\": \"合理安排休息与放松时间，有助于恢复精力，提高工作效率。\",\n\"实施步骤\": [\"根据工作压力设置休息时间\", \"使用休息时间进行放松活动\", \"适时回return to work\"]\n},\n{\n\"关键词\": \"培养良好习惯\",\n\"描述\": \"培养良好的时间管理习惯，如按时完成任务、保持工作秩序等，有助于提高工作效率和生活质量。\",\n\"实施步骤\": [\"确定目标习惯\", \"养成每日"
+            ]
+        ],
+        "task_description": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是关于时间管理技巧的10个JSON格式化的建议，按照重要性进行排序：\n\n[\n{\n\"关键词\": \"短期计划\",\n\"描述\": \"将每日任务分解为短期计划，有助于更好地实现目标并保持高效工作。\",\n\"实施步骤\": [\"确定当日的主要任务\", \"将任务划分为可完成的小步骤\", \"按照预定的时间节点完成任务\"]\n},\n{\n\"关键词\": \"时间管理工具\",\n\"描述\": \"使用时间管理工具，如日程表、待办事项列表等，有助于更好地安排和跟踪时间。\",\n\"实施步骤\": [\"选择适合的时间管理工具\", \"记录每日任务和时间限制\", \"定期复习和调整计划\"]\n},\n{\n\"关键词\": \"设定优先级\",\n\"描述\": \"根据任务的重要性和紧迫性为每个任务设定优先级，有助于合理分配时间资源。\",\n\"实施步骤\": [\"评估任务优先级\", \"为每个任务设定优先级\", \"按照优先级进行任务分配\"]\n},\n{\n\"关键词\": \"时间限制\",\n\"描述\": \"为每个任务设定时间限制，有助于提高工作效率并避免拖延。\",\n\"实施步骤\": [\"确定任务所需的时间\", \"设定具体的时间限制\", \"努力在规定时间内完成任务\"]\n},\n{\n\"关键词\": \"拖延提醒\",\n\"描述\": \"将重要且紧迫的任务提醒自己，以提高工作积极性和避免拖延。\",\n\"实施步骤\": [\"炼选需要提醒的任务\", \"设置提醒时间\", \"当提醒时，立即开始完成任务\"]\n},\n{\n\"关键词\": \"休息与放松\",\n\"描述\": \"合理安排休息与放松时间，有助于恢复精力，提高工作效率。\",\n\"实施步骤\": [\"根据工作压力设置休息时间\", \"使用休息时间进行放松活动\", \"适时回return to work\"]\n},\n{\n\"关键词\": \"培养良好习惯\",\n\"描述\": \"培养良好的时间管理习惯，如按时完成任务、保持工作秩序等，有助于提高工作效率和生活质量。\",\n\"实施步骤\": [\"确定目标习惯\", \"养成每日"
+    },
+    {
+        "Instruction": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "Instruction_id": "9fb29206dbf38c8a744f67ee82eb5e977aff48403c074f115b4aad2b1ea70698",
+        "histories": [
+            [
+                "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+                "以下是五个有趣的无人驾驶车辆应用场景，以XML格式表示：\n```xml\n< scenarios>\n    < scenario key=\"1\" >\n        < keyword >无人驾驶快递车</keyword>\n        < description >无人驾驶快递车将帮助快递公司提高送货效率，同时降低运输成本。</description>\n        < advantage >提高送货效率，降低成本，减少人为错误。</advantage>\n    </ scenario >\n    < scenario key=\"2\" >\n        < keyword >无人驾驶药店配送车</keyword>\n        < description >无人驾驶药店配送车可以减少配送费用，提高配送效率，同时确保药品的及时送达。</description>\n        < advantage >降低成本，提高效率，保证药品送达稳定。</advantage>\n    </ scenario >\n    < scenario key=\"3\" >\n        < keyword >无人驾驶环保堆放车</keyword>\n        < description >无人驾驶环保堆放车可以实现高效、环保的堆放，同时减少人为堆放的风险。</description>\n        < advantage >提高堆放效率，减少人为堆放风险，环保。</advantage>\n    </ scenario >\n    < scenario key=\"4\" >\n        < keyword >无人驾驶自助拾车</keyword>\n        < description >无人驾驶自助拾车可以提供更便捷的拾车服务，减少人工成本。</description>\n        < advantage >提高拾车效率，降低成本，提升用户体验。</advantage>\n    </ scenario >\n    < scenario key=\"5\" >\n        < keyword >无人驾驶智能监控车辆</keyword>\n        < description >无人驾驶智能监控车辆可以实时监测车辆状态，提高运营安全性。</description>\n        < advantage >提高运营安全性，降低故障发生的概率，减少意外后果。</advantage>\n    </ scenario >\n</ scenarios>\n```\n以下是它们的英文翻译：\n```xml\n< scenarios>\n    < scenario key=\"1\" >\n        < keyword >Autonomous delivery vehicles</keyword>\n        < description >Autonomous delivery vehicles will help logistics companies improve delivery efficiency and reduce transportation costs.</description>\n        < advantage >Improve delivery efficiency, reduce costs, reduce human errors.</advantage>\n    </ scenario >\n    < scenario key=\"2\" >\n        < keyword >Autonomous pharmacy delivery vehicles</keyword>\n        < description >Autonomous pharmacy delivery vehicles can reduce delivery fees, improve delivery efficiency, and ensure timely delivery of drugs.</description>\n        < advantage >Reduce costs, improve efficiency, ensure stable drug delivery.</advantage>\n    </ scenario >\n    < scenario key=\"3\" >\n        < keyword >Autonomous\n```"
+            ]
+        ],
+        "task_description": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是五个有趣的无人驾驶车辆应用场景，以XML格式表示：\n```xml\n< scenarios>\n    < scenario key=\"1\" >\n        < keyword >无人驾驶快递车</keyword>\n        < description >无人驾驶快递车将帮助快递公司提高送货效率，同时降低运输成本。</description>\n        < advantage >提高送货效率，降低成本，减少人为错误。</advantage>\n    </ scenario >\n    < scenario key=\"2\" >\n        < keyword >无人驾驶药店配送车</keyword>\n        < description >无人驾驶药店配送车可以减少配送费用，提高配送效率，同时确保药品的及时送达。</description>\n        < advantage >降低成本，提高效率，保证药品送达稳定。</advantage>\n    </ scenario >\n    < scenario key=\"3\" >\n        < keyword >无人驾驶环保堆放车</keyword>\n        < description >无人驾驶环保堆放车可以实现高效、环保的堆放，同时减少人为堆放的风险。</description>\n        < advantage >提高堆放效率，减少人为堆放风险，环保。</advantage>\n    </ scenario >\n    < scenario key=\"4\" >\n        < keyword >无人驾驶自助拾车</keyword>\n        < description >无人驾驶自助拾车可以提供更便捷的拾车服务，减少人工成本。</description>\n        < advantage >提高拾车效率，降低成本，提升用户体验。</advantage>\n    </ scenario >\n    < scenario key=\"5\" >\n        < keyword >无人驾驶智能监控车辆</keyword>\n        < description >无人驾驶智能监控车辆可以实时监测车辆状态，提高运营安全性。</description>\n        < advantage >提高运营安全性，降低故障发生的概率，减少意外后果。</advantage>\n    </ scenario >\n</ scenarios>\n```\n以下是它们的英文翻译：\n```xml\n< scenarios>\n    < scenario key=\"1\" >\n        < keyword >Autonomous delivery vehicles</keyword>\n        < description >Autonomous delivery vehicles will help logistics companies improve delivery efficiency and reduce transportation costs.</description>\n        < advantage >Improve delivery efficiency, reduce costs, reduce human errors.</advantage>\n    </ scenario >\n    < scenario key=\"2\" >\n        < keyword >Autonomous pharmacy delivery vehicles</keyword>\n        < description >Autonomous pharmacy delivery vehicles can reduce delivery fees, improve delivery efficiency, and ensure timely delivery of drugs.</description>\n        < advantage >Reduce costs, improve efficiency, ensure stable drug delivery.</advantage>\n    </ scenario >\n    < scenario key=\"3\" >\n        < keyword >Autonomous\n```"
+    },
+    {
+        "Instruction": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "Instruction_id": "200a16619c6c54babde59851b9225fd4c30bbdce5b5f14b57f4d7ea5fe077064",
+        "histories": [
+            [
+                "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+                "以下是五种不同颜色的花卉及其xml格式的表示：\n\n1. 玫瑰（Rosa）\n\t* 玫瑰的颜色：红色、白色、浅�ink 色等\n\t* 玫瑰的特点：玫瑰是世界上最受欢迎的花卉，有许多种和颜色。\n\t* 玫瑰的养殖方法：玫瑰喜欢阳光充足的环境，溫度适中。水分需较丰，但不要过多。土壤应疏松、酸性。春夏严耕、秋节种植。\n2. 降帆丹（Bouvardia）\n\t* 降帆丹的颜色：红色、白色\n\t* 降帆丹的特点：降帆丹是一种植物，花色鲜艳，香气清新。\n\t* 降帆丹的养殖方法：降帆丹需要阳光充足，但要避免阳光过强。水分要适中，不要过多。土壤应疏松、中等氧性。春夏严耕、秋节种植。\n3. 虎杖（Tigridia）\n\t* 虎杖的颜色：红色、黄色、蓝色\n\t* 虎杖的特点：虎杖是一种有趣的花卉，花瓣颜色丰富。\n\t* 虎杖的养殖方法：虎杖喜欢温暖的气候，阳光充足。水分需丰富，但不要浓厚。土壤应疏松、中等氧性。春夏严耕、秋节种植。\n4. 鸟枫（Magnolia）\n\t* 鸟枫的颜色：白色、粉色、红色\n\t* 鸟枫的特点：鸟枫是世界上一种最古老的植物，花瓣宽敞、香气清新。\n\t* 鸟枫的养殖方法：鸟枫需要适中温度、阳光充足的环境。水分需丰富，但不要过多。土壤应疏松、中等氧性。春夏严耕、秋节种植。\n5. 百合（Iris）\n\t* 百合的颜色：蓝色、"
+            ]
+        ],
+        "task_description": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是五种不同颜色的花卉及其xml格式的表示：\n\n1. 玫瑰（Rosa）\n\t* 玫瑰的颜色：红色、白色、浅�ink 色等\n\t* 玫瑰的特点：玫瑰是世界上最受欢迎的花卉，有许多种和颜色。\n\t* 玫瑰的养殖方法：玫瑰喜欢阳光充足的环境，溫度适中。水分需较丰，但不要过多。土壤应疏松、酸性。春夏严耕、秋节种植。\n2. 降帆丹（Bouvardia）\n\t* 降帆丹的颜色：红色、白色\n\t* 降帆丹的特点：降帆丹是一种植物，花色鲜艳，香气清新。\n\t* 降帆丹的养殖方法：降帆丹需要阳光充足，但要避免阳光过强。水分要适中，不要过多。土壤应疏松、中等氧性。春夏严耕、秋节种植。\n3. 虎杖（Tigridia）\n\t* 虎杖的颜色：红色、黄色、蓝色\n\t* 虎杖的特点：虎杖是一种有趣的花卉，花瓣颜色丰富。\n\t* 虎杖的养殖方法：虎杖喜欢温暖的气候，阳光充足。水分需丰富，但不要浓厚。土壤应疏松、中等氧性。春夏严耕、秋节种植。\n4. 鸟枫（Magnolia）\n\t* 鸟枫的颜色：白色、粉色、红色\n\t* 鸟枫的特点：鸟枫是世界上一种最古老的植物，花瓣宽敞、香气清新。\n\t* 鸟枫的养殖方法：鸟枫需要适中温度、阳光充足的环境。水分需丰富，但不要过多。土壤应疏松、中等氧性。春夏严耕、秋节种植。\n5. 百合（Iris）\n\t* 百合的颜色：蓝色、"
+    },
+    {
+        "Instruction": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "Instruction_id": "d7dbc6e1d4580911810c0f8728cdd2d9e0795e59430527295c409279e09302af",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+                "{\n\"questions\": [\n{\n\"question\\_id\": 1,\n\"question\": \"如何评估社交媒体对品牌忠诚度的影响？\",\n\"description\": \"分析社交媒体平台上的品牌互动与消费者的忠诚度之间的关系。\",\n\"keywords\": [\"品牌忠诚度\", \"社交媒体\", \"互动\", \"消费者\"]\n},\n{\n\"question\\_id\": 2,\n\"question\": \"社交媒体如何影响消费者购买决策？\",\n\"description\": \"研究社交媒体平台中的营销活动与消费者购买决策之间的关联。\",\n\"keywords\": [\"购买决策\", \"社交媒体\", \"营销活动\", \"消费者\"]\n},\n{\n\"question\\_id\": 3,\n\"question\": \"社交媒体对用户行为的影响如何？\",\n\"description\": \"分析社交媒体平台对用户信息泄露、传播行为和信息传播的影响。\",\n\"keywords\": [\"用户行为\", \"社交媒体\", \"信息泄露\", \"信息传播\"]\n},\n{\n\"question\\_id\": 4,\n\"question\": \"社交媒体对消费者的购买决策和品牌忠诚度的影响是如何相互影响的？\",\n\"description\": \"研究社交媒体对消费者购买决策和品牌忠诚度的相互影响。\",\n\"keywords\": [\"购买决策\", \"品牌忠诚度\", \"社交媒体\", \"相互影响\"]\n},\n{\n\"question\\_id\": 5,\n\"question\": \"社交媒体如何促进消费者与品牌之间的互动？\",\n\"description\": \"探讨社交媒体平台如何设计互动式营销活动，提高消费者与品牌之间的互动。\",\n\"keywords\": [\"互动\", \"消费者\", \"品牌\", \"社交媒体\"]\n}\n]\n}"
+            ]
+        ],
+        "task_description": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"questions\": [\n{\n\"question\\_id\": 1,\n\"question\": \"如何评估社交媒体对品牌忠诚度的影响？\",\n\"description\": \"分析社交媒体平台上的品牌互动与消费者的忠诚度之间的关系。\",\n\"keywords\": [\"品牌忠诚度\", \"社交媒体\", \"互动\", \"消费者\"]\n},\n{\n\"question\\_id\": 2,\n\"question\": \"社交媒体如何影响消费者购买决策？\",\n\"description\": \"研究社交媒体平台中的营销活动与消费者购买决策之间的关联。\",\n\"keywords\": [\"购买决策\", \"社交媒体\", \"营销活动\", \"消费者\"]\n},\n{\n\"question\\_id\": 3,\n\"question\": \"社交媒体对用户行为的影响如何？\",\n\"description\": \"分析社交媒体平台对用户信息泄露、传播行为和信息传播的影响。\",\n\"keywords\": [\"用户行为\", \"社交媒体\", \"信息泄露\", \"信息传播\"]\n},\n{\n\"question\\_id\": 4,\n\"question\": \"社交媒体对消费者的购买决策和品牌忠诚度的影响是如何相互影响的？\",\n\"description\": \"研究社交媒体对消费者购买决策和品牌忠诚度的相互影响。\",\n\"keywords\": [\"购买决策\", \"品牌忠诚度\", \"社交媒体\", \"相互影响\"]\n},\n{\n\"question\\_id\": 5,\n\"question\": \"社交媒体如何促进消费者与品牌之间的互动？\",\n\"description\": \"探讨社交媒体平台如何设计互动式营销活动，提高消费者与品牌之间的互动。\",\n\"keywords\": [\"互动\", \"消费者\", \"品牌\", \"社交媒体\"]\n}\n]\n}"
+    }
+]

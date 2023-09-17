@@ -1,0 +1,12 @@
+﻿model_name,format_score,input_score,task_score,count_limit_score,Average
+Baize-V2-7b,0.409,0.3,0.246,0.466,0.298
+Llama2-FlagAlpha,0.499,0.218,0.221,0.468,0.309
+Baize-V2-13b,0.53,0.247,0.302,0.444,0.318
+Chinese-Alpaca-V1-13b,0.603,0.207,0.259,0.458,0.332
+Chinese-Alpaca-V1-7b,0.663,0.224,0.256,0.512,0.352
+Llama2-Linly,0.411,0.347,0.374,0.49,0.381
+Chinese-Alpaca-V1-33b,0.655,0.353,0.357,0.576,0.426
+BELLE,0.556,0.408,0.484,0.498,0.469
+CuteGPT,0.64,0.548,0.576,0.514,0.553
+Llama2-LinkSoul,0.662,0.623,0.662,0.603,0.629
+Llama2-OpenBuddy,0.734,0.627,0.704,0.638,0.67

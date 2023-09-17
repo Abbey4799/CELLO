@@ -1,0 +1,302 @@
+[
+    {
+        "Instruction": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "Instruction_id": "c0061c8ed7fa0dcc5122fec5f28e9d3781158954c17dec68a01d291b38cc5988",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+                "以下是五个关于日常生活问题的创新或改进方法，用Markdown表格格式输出，并翻译为英文。\n\n| 关键词 | 简介 | 步骤 |\n| --- | --- | --- |\n| 快速餐 | 提高餐具有趣味和充满营养的食物的生产力，使餐时间更快 | 1. 选择具有高营养和趣味的食材；2. 采用高效的食肠工艺；3. 优化食物的配置，使餐具有美味和充满营养的感；4. 采用机器人或自动化设备进行餐具的生产，提高生产效率。 |\n| 早起、健身和宁静 | 创建一个自动化的早起和健身计划，以便在日常生活中保持身体健康和静心 | 1. 选择适合您的身体状况和兴趣的早起模式；2. 设置健身计划，包括晒太阳、吃饭、运动等；3. 使用健身应用程序或其他相关的软件，以便更好地管理自己的健身计划；4. 在日常生活中避免冲突，保持宁静和放松的心态。 |\n| 早餐 | 提高早餐的营养价值，使早餐更有意识 | 1. 选择健康产品、高营养的食材；2. 采用高效的食肠工艺；3. 优化食物的配置，使早餐具有美味和营养价值的感；4. 使用早餐应用程序或其他相关的软件，以便更好地管理早餐的日常生活。 |\n| 旅行 | 提高旅行的便捷性，使旅行更快乐 | 1. 选择便捷的旅行带和用品；2. 使用旅行软件或应用程序，以便更好地管理旅行日程；3. 在旅行中避免冲突，保持宁静和放松的心态；4. 在旅行中使用旅行产品，以便更好地管理旅行的日常生活。 |\n| 工作和学习 | 提高工作和学习的效率，使日常生活更有效 | 1. 选择适合您的兴趣和兴趣的工作或学习方法；2. 使用工作或学习软件或其他相关的软件，以便更好地管理工作和学习的日常生活；3. 在工作和学习中避免冲突，保持宁静和放松的心态；4. 在工作和学习中使用工作和学�"
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是五个关于日常生活问题的创新或改进方法，用Markdown表格格式输出，并翻译为英文。\n\n| 关键词 | 简介 | 步骤 |\n| --- | --- | --- |\n| 快速餐 | 提高餐具有趣味和充满营养的食物的生产力，使餐时间更快 | 1. 选择具有高营养和趣味的食材；2. 采用高效的食肠工艺；3. 优化食物的配置，使餐具有美味和充满营养的感；4. 采用机器人或自动化设备进行餐具的生产，提高生产效率。 |\n| 早起、健身和宁静 | 创建一个自动化的早起和健身计划，以便在日常生活中保持身体健康和静心 | 1. 选择适合您的身体状况和兴趣的早起模式；2. 设置健身计划，包括晒太阳、吃饭、运动等；3. 使用健身应用程序或其他相关的软件，以便更好地管理自己的健身计划；4. 在日常生活中避免冲突，保持宁静和放松的心态。 |\n| 早餐 | 提高早餐的营养价值，使早餐更有意识 | 1. 选择健康产品、高营养的食材；2. 采用高效的食肠工艺；3. 优化食物的配置，使早餐具有美味和营养价值的感；4. 使用早餐应用程序或其他相关的软件，以便更好地管理早餐的日常生活。 |\n| 旅行 | 提高旅行的便捷性，使旅行更快乐 | 1. 选择便捷的旅行带和用品；2. 使用旅行软件或应用程序，以便更好地管理旅行日程；3. 在旅行中避免冲突，保持宁静和放松的心态；4. 在旅行中使用旅行产品，以便更好地管理旅行的日常生活。 |\n| 工作和学习 | 提高工作和学习的效率，使日常生活更有效 | 1. 选择适合您的兴趣和兴趣的工作或学习方法；2. 使用工作或学习软件或其他相关的软件，以便更好地管理工作和学习的日常生活；3. 在工作和学习中避免冲突，保持宁静和放松的心态；4. 在工作和学习中使用工作和学�"
+    },
+    {
+        "Instruction": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "Instruction_id": "40332e40c3184efbe70d16e7784ee32c24c43b9e55f6c33c7ea4f1c27cf60c5a",
+        "histories": [
+            [
+                "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+                "以下是一个包含三个不同类型的动物的XML格式输出，并在第二个动物中进行了深入研究：\n```xml\n<animals>\n  <type>mammal</type>\n  <name>熊猫</name>\n  <description>\n    The panda bear, also known as the giant panda, is a bear native to China. It is the only mammal that eats a diet of bamboo. The panda bear has a distinctive black and white fur pattern, with a round face and a flat, broad body. It has a short tail and a strong jaw for chewing bamboo. The panda bear is an endangered species due to habitat loss and poaching.\n  </description>\n</animals>\n```\n在这个XML输出中，第一个动物是虎，第二个动物是熊猫，第三个动物是鹿。这些动物都属于不同类别，但它们都是受欢迎的动植物。"
+            ]
+        ],
+        "task_description": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是一个包含三个不同类型的动物的XML格式输出，并在第二个动物中进行了深入研究：\n```xml\n<animals>\n  <type>mammal</type>\n  <name>熊猫</name>\n  <description>\n    The panda bear, also known as the giant panda, is a bear native to China. It is the only mammal that eats a diet of bamboo. The panda bear has a distinctive black and white fur pattern, with a round face and a flat, broad body. It has a short tail and a strong jaw for chewing bamboo. The panda bear is an endangered species due to habitat loss and poaching.\n  </description>\n</animals>\n```\n在这个XML输出中，第一个动物是虎，第二个动物是熊猫，第三个动物是鹿。这些动物都属于不同类别，但它们都是受欢迎的动植物。"
+    },
+    {
+        "Instruction": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "Instruction_id": "05eaffafa7b0ca5e23cac047bcf3727b745bf2d48a211de95cc00315528b424d",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+                "以下是5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。\n\n| 关键词 | 简要描述 | 具体步骤 |\n| --- | --- | --- |\n| 宁静心灵 | 采用宁静心灵技术来帮助你放松身心，从焦虑中解脱，从睡眠中观察自己的进步。 | 1. 准备一个静的地方，停止思考。2. 呼吸循环，注意深呼吸。3. 凸念空间，把想象的空间放在空中。4. 宁静心灵，把自己的问题和担忧放在空中。5. 逐渐放松，把身体放松，感觉自己变得轻松。 |\n| 减少味蕾 | 减少味蕾的食物和饮料可以帮助你睡眠更好。 | 1. 选择味蕾少含的食物，如蔬菜和水果。2. 避免味蕾加入饮料，如咖啡和茶。3. 尝量味蕾少含的饮料，如减轻味的酒和饮料。4. 减少味蕾的食物和饮料，以帮助你睡眠更好。 |\n| 减少肥胖 | 减少肥胖可以帮助你睡眠更好。 | 1. 采取健身活动，如跑步、摸泳和洒漏。2. 减少饮食，以减少肥胖。3. 选择更健康的饮食，如水果和蔬菜。4. 减少肥胖，以帮助你睡眠更好。 |\n| 减少热量 | 减少热量可以帮助你睡眠更好。 | 1. 采取冷静的决定，减少热量感觉。2. 选择冷静的食物，如蔬菜和水果。3. 减少热量，以帮助你睡眠更好。 |\n| 减少药物 | 减少药物可以帮助你睡眠更好。 | 1. 减少药物，如睡眠辅助剂和阻着癌症药物。2. 选择更健康的食物，如水果和蔬菜。3. 减少药物，以帮助你睡眠更好。 |"
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。\n\n| 关键词 | 简要描述 | 具体步骤 |\n| --- | --- | --- |\n| 宁静心灵 | 采用宁静心灵技术来帮助你放松身心，从焦虑中解脱，从睡眠中观察自己的进步。 | 1. 准备一个静的地方，停止思考。2. 呼吸循环，注意深呼吸。3. 凸念空间，把想象的空间放在空中。4. 宁静心灵，把自己的问题和担忧放在空中。5. 逐渐放松，把身体放松，感觉自己变得轻松。 |\n| 减少味蕾 | 减少味蕾的食物和饮料可以帮助你睡眠更好。 | 1. 选择味蕾少含的食物，如蔬菜和水果。2. 避免味蕾加入饮料，如咖啡和茶。3. 尝量味蕾少含的饮料，如减轻味的酒和饮料。4. 减少味蕾的食物和饮料，以帮助你睡眠更好。 |\n| 减少肥胖 | 减少肥胖可以帮助你睡眠更好。 | 1. 采取健身活动，如跑步、摸泳和洒漏。2. 减少饮食，以减少肥胖。3. 选择更健康的饮食，如水果和蔬菜。4. 减少肥胖，以帮助你睡眠更好。 |\n| 减少热量 | 减少热量可以帮助你睡眠更好。 | 1. 采取冷静的决定，减少热量感觉。2. 选择冷静的食物，如蔬菜和水果。3. 减少热量，以帮助你睡眠更好。 |\n| 减少药物 | 减少药物可以帮助你睡眠更好。 | 1. 减少药物，如睡眠辅助剂和阻着癌症药物。2. 选择更健康的食物，如水果和蔬菜。3. 减少药物，以帮助你睡眠更好。 |"
+    },
+    {
+        "Instruction": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "Instruction_id": "ce2a57d592fbbbc5e9e67e65b556a71b43f400e163f8d83364cf322c508b3391",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+                "以下是提出的3个问题，以及一个新的问题：\n\n| 编号 | 问题描述 |\n| --- | --- |\n| 1 | 描述一下你认为是健康的生活方式。 |\n| 2 | 运动对健康的重要性是什么？ |\n| 3 | 饮食对健康的影响是什么？ |\n| 4 | 在你的生活中，运动和饮食是什么程度的重要性？ |"
+            ]
+        ],
+        "task_description": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是提出的3个问题，以及一个新的问题：\n\n| 编号 | 问题描述 |\n| --- | --- |\n| 1 | 描述一下你认为是健康的生活方式。 |\n| 2 | 运动对健康的重要性是什么？ |\n| 3 | 饮食对健康的影响是什么？ |\n| 4 | 在你的生活中，运动和饮食是什么程度的重要性？ |"
+    },
+    {
+        "Instruction": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "Instruction_id": "dee960bbd19c3b1958463df9c5c62d6111238addbec6ea924f00cd034f474267",
+        "histories": [
+            [
+                "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+                "[{\"id\": 1, \"name\": \"沿距离运动\", \"introduction\": \"沿距离运动是一种锻炼的运动，主要涉及到距离运动的推理和计算。\"}, {\"id\": 2, \"name\": \"跳跃运动\", \"introduction\": \"跳跃运动是一种锻炼的运动，主要涉及到跳跃运动的推理和计算。\"}, {\"id\": 3, \"name\": \"平行竞赛\", \"introduction\": \"平行竞赛是一种锻炼的运动，主要涉及到平行竞赛的推理和计算。\"}, {\"id\": 4, \"name\": \"均衡运动\", \"introduction\": \"均衡运动是一种锻炼的运动，主要涉及到均衡运动的推理和计算。\"}, {\"id\": 5, \"name\": \"竞速运动\", \"introduction\": \"竞速运动是一种锻炼的运动，主要涉及到竞速运动的推理和计算。\"}]"
+            ]
+        ],
+        "task_description": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "[{\"id\": 1, \"name\": \"沿距离运动\", \"introduction\": \"沿距离运动是一种锻炼的运动，主要涉及到距离运动的推理和计算。\"}, {\"id\": 2, \"name\": \"跳跃运动\", \"introduction\": \"跳跃运动是一种锻炼的运动，主要涉及到跳跃运动的推理和计算。\"}, {\"id\": 3, \"name\": \"平行竞赛\", \"introduction\": \"平行竞赛是一种锻炼的运动，主要涉及到平行竞赛的推理和计算。\"}, {\"id\": 4, \"name\": \"均衡运动\", \"introduction\": \"均衡运动是一种锻炼的运动，主要涉及到均衡运动的推理和计算。\"}, {\"id\": 5, \"name\": \"竞速运动\", \"introduction\": \"竞速运动是一种锻炼的运动，主要涉及到竞速运动的推理和计算。\"}]"
+    },
+    {
+        "Instruction": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "Instruction_id": "fa3707e6632ac57e21791250ee7bce619643f18d11a07d0171bca2f60e5eca47",
+        "histories": [
+            [
+                "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+                "以下是一个可能的JSON格式的步骤列表，用于制作一个名为\"麻婆豆腐鱼香肉丝\"的本地菜肴。\n```json\n{\n  \"recipe\": [\n    {\n      \"name\": \"麻婆豆腐\",\n      \"ingredients\": [\n        \"豆腐\",\n        \"麻婆粉\",\n        \"泡打粉\",\n        \"油\",\n        \"盐\"\n      ],\n      \"instructions\": [\n        \"豆腐粉燃，添加水，混合，厚化，填入麻婆粉裏，即凝製。\"\n      ]\n    },\n    {\n      \"name\": \"鱼香肉丝\",\n      \"ingredients\": [\n        \"肉\",\n        \"鱼香精\",\n        \"粉糖\",\n        \"油\",\n        \"盐\"\n      ],\n      \"instructions\": [\n        \"肉燃，添加鱼香精，粉糖，油，盐，搅拌，凝製。\"\n      ]\n    }\n  ],\n  \"putting_together\": [\n    {\n      \"step\": \"将麻婆豆腐凝製放入鱼香肉丝中，搅拌一下，即凝製完成。\"\n    }\n  ]\n}\n```\n这个JSON格式的步骤列表描述了如何制作\"麻婆豆腐鱼香肉丝\"的本地菜肴。首先，需要制作两个单独的材料：麻婆豆腐和鱼香肉丝。然后，将两个材料凝製成整个菜肴的时候，将麻婆豆腐放入鱼香肉丝中，搅拌一下，完成了本地菜肴。"
+            ]
+        ],
+        "task_description": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是一个可能的JSON格式的步骤列表，用于制作一个名为\"麻婆豆腐鱼香肉丝\"的本地菜肴。\n```json\n{\n  \"recipe\": [\n    {\n      \"name\": \"麻婆豆腐\",\n      \"ingredients\": [\n        \"豆腐\",\n        \"麻婆粉\",\n        \"泡打粉\",\n        \"油\",\n        \"盐\"\n      ],\n      \"instructions\": [\n        \"豆腐粉燃，添加水，混合，厚化，填入麻婆粉裏，即凝製。\"\n      ]\n    },\n    {\n      \"name\": \"鱼香肉丝\",\n      \"ingredients\": [\n        \"肉\",\n        \"鱼香精\",\n        \"粉糖\",\n        \"油\",\n        \"盐\"\n      ],\n      \"instructions\": [\n        \"肉燃，添加鱼香精，粉糖，油，盐，搅拌，凝製。\"\n      ]\n    }\n  ],\n  \"putting_together\": [\n    {\n      \"step\": \"将麻婆豆腐凝製放入鱼香肉丝中，搅拌一下，即凝製完成。\"\n    }\n  ]\n}\n```\n这个JSON格式的步骤列表描述了如何制作\"麻婆豆腐鱼香肉丝\"的本地菜肴。首先，需要制作两个单独的材料：麻婆豆腐和鱼香肉丝。然后，将两个材料凝製成整个菜肴的时候，将麻婆豆腐放入鱼香肉丝中，搅拌一下，完成了本地菜肴。"
+    },
+    {
+        "Instruction": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "Instruction_id": "1efcc17e4fe5bf20bf10db1d7c51c5dc7009be5746679b499ec7674fb74fe2f2",
+        "histories": [
+            [
+                "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+                "[\n{\n\"name\": \"Abraham Lincoln\",\n\"real\": true,\n\"background\": \"Abraham Lincoln was the 16th President of the United States, serving from March 1861 to April 1865. He is considered one of the most important presidents in American history, as he led the country through the Civil War and helped to abolish slavery. Lincoln was born in a log cabin in Kentucky and had very humble beginnings. He was self-educated and worked as a farmer, storekeeper, and postmaster before entering politics. He was elected to the Illinois House of Representatives in 1834 and the U.S. House of Representatives in 1846. Lincoln lost the 1858 Senate race to Stephen A. Douglas but gained national attention for his debates with Douglas. He was later elected as the 16th President of the United States, defeating Douglas in the 1860 election. Lincoln is remembered for his leadership during the Civil War, his emancipation of slaves, and his Gettysburg Address, among other accomplishments.\"\n},\n{\n\"name\": \"Marie Curie\",\n\"real\": true,\n\"background\": \"Marie Curie was a French-Polish physicist and chemist who made groundbreaking discoveries in radioactivity. She was the first woman to win a Nobel Prize, and she shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie, and Henri Becquerel. Marie Curie discovered the radioactive elements radium and polonium, and she also developed the theory of radioactivity. She was born in Warsaw, Poland, and her family moved to France when she was a child. Curie faced many obstacles as a woman in a male-dominated field, but she persevered and made significant contributions to science. She died in 1934, after a long and productive life.\"\n},\n{\n\"name\": \"Abraham Lincoln\",\n\"real\": true,\n\"background\": \"Abraham Lincoln was the 16th President of the United States, serving from March 1861 to April 1865. He is considered one of the most important presidents in American history, as he led the country through the Civil War and helped to abolish slavery. Lincoln was born in a log cabin in Kentucky and had very humble beginnings. He was self-educated and worked as a farmer, storekeeper, and postmaster before entering politics. He was elected to the Illinois House of Representatives in 1834 and the U.S. House of Representatives in 1846. Lincoln lost the 1858 Senate race to Stephen A. Douglas but gained national attention for his debates with Douglas. He was later elected as the 16th President of the United States, defeating Douglas in the 1860 election. Lincoln is remembered for his leadership during the Civil War, his emancipation of slaves, and his Gettysburg Address, among other accomplishments.\"\n}\n]"
+            ]
+        ],
+        "task_description": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "[\n{\n\"name\": \"Abraham Lincoln\",\n\"real\": true,\n\"background\": \"Abraham Lincoln was the 16th President of the United States, serving from March 1861 to April 1865. He is considered one of the most important presidents in American history, as he led the country through the Civil War and helped to abolish slavery. Lincoln was born in a log cabin in Kentucky and had very humble beginnings. He was self-educated and worked as a farmer, storekeeper, and postmaster before entering politics. He was elected to the Illinois House of Representatives in 1834 and the U.S. House of Representatives in 1846. Lincoln lost the 1858 Senate race to Stephen A. Douglas but gained national attention for his debates with Douglas. He was later elected as the 16th President of the United States, defeating Douglas in the 1860 election. Lincoln is remembered for his leadership during the Civil War, his emancipation of slaves, and his Gettysburg Address, among other accomplishments.\"\n},\n{\n\"name\": \"Marie Curie\",\n\"real\": true,\n\"background\": \"Marie Curie was a French-Polish physicist and chemist who made groundbreaking discoveries in radioactivity. She was the first woman to win a Nobel Prize, and she shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie, and Henri Becquerel. Marie Curie discovered the radioactive elements radium and polonium, and she also developed the theory of radioactivity. She was born in Warsaw, Poland, and her family moved to France when she was a child. Curie faced many obstacles as a woman in a male-dominated field, but she persevered and made significant contributions to science. She died in 1934, after a long and productive life.\"\n},\n{\n\"name\": \"Abraham Lincoln\",\n\"real\": true,\n\"background\": \"Abraham Lincoln was the 16th President of the United States, serving from March 1861 to April 1865. He is considered one of the most important presidents in American history, as he led the country through the Civil War and helped to abolish slavery. Lincoln was born in a log cabin in Kentucky and had very humble beginnings. He was self-educated and worked as a farmer, storekeeper, and postmaster before entering politics. He was elected to the Illinois House of Representatives in 1834 and the U.S. House of Representatives in 1846. Lincoln lost the 1858 Senate race to Stephen A. Douglas but gained national attention for his debates with Douglas. He was later elected as the 16th President of the United States, defeating Douglas in the 1860 election. Lincoln is remembered for his leadership during the Civil War, his emancipation of slaves, and his Gettysburg Address, among other accomplishments.\"\n}\n]"
+    },
+    {
+        "Instruction": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "Instruction_id": "da1d19c05b129e05f9621f3b63c10299f2b231f189f5169376fccef19bf99056",
+        "histories": [
+            [
+                "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+                "以下是三个加密方法及其优缺点，以json格式输出：\n```json\n{\n  \"encryption_methods\": [\n    {\n      \"name\": \"AES\",\n      \"strengths\": [\"强\"],\n      \"weaknesses\": [\"可能没有对称性\"]\n    },\n    {\n      \"name\": \"Blowfish\",\n      \"strengths\": [\"强\"],\n      \"weaknesses\": [\"可能没有对称性\"]\n    },\n    {\n      \"name\": \"DES\",\n      \"strengths\": [\"强\"],\n      \"weaknesses\": [\"可能没有对称性\"]\n    }\n  ]\n}\n```\n现在，我们将继续描述第二个加密方法，这是异步加密方法。\n\n异步加密方法是一种在数据加密过程中，使用不同的密钥对数据进行加密。这种方法通常被用于增强数据的安全性，因为使用不同的密钥可以防止一个密钥被破坏后的数据被泄漏。\n\n异步加密方法的优点包括：\n\n1. 增强数据的安全性：使用不同的密钥对数据进行加密，可以防止一个密钥被破坏后的数据被泄漏。\n2. 可适用于大量数据：异步加密方法可以处理大量数据，因为加密过程中的时间复杂度较低。\n3. 可以隐藏数据：异步加密方法可以使用密钥匹配，使得数据在加密过程中隐藏。\n\n异步加密方法的缺点包括：\n\n1. 复杂性：异步加密方法的实现可能需要更复杂的算法和算法实现，比如使用迭代哈希算法。\n2. 性能耗费：异步加密方法的性能可能较低，因为需要对多个数据进行加密。\n3. 安全性风险：异步加密方法可能存在安全风险，如密钥被破坏后被泄漏。\n\n总之，异步加密方法是一种增强数据的安全性，可以处理大量数据，但是复杂性较高，性能较低，可能存在安全风险。"
+            ]
+        ],
+        "task_description": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是三个加密方法及其优缺点，以json格式输出：\n```json\n{\n  \"encryption_methods\": [\n    {\n      \"name\": \"AES\",\n      \"strengths\": [\"强\"],\n      \"weaknesses\": [\"可能没有对称性\"]\n    },\n    {\n      \"name\": \"Blowfish\",\n      \"strengths\": [\"强\"],\n      \"weaknesses\": [\"可能没有对称性\"]\n    },\n    {\n      \"name\": \"DES\",\n      \"strengths\": [\"强\"],\n      \"weaknesses\": [\"可能没有对称性\"]\n    }\n  ]\n}\n```\n现在，我们将继续描述第二个加密方法，这是异步加密方法。\n\n异步加密方法是一种在数据加密过程中，使用不同的密钥对数据进行加密。这种方法通常被用于增强数据的安全性，因为使用不同的密钥可以防止一个密钥被破坏后的数据被泄漏。\n\n异步加密方法的优点包括：\n\n1. 增强数据的安全性：使用不同的密钥对数据进行加密，可以防止一个密钥被破坏后的数据被泄漏。\n2. 可适用于大量数据：异步加密方法可以处理大量数据，因为加密过程中的时间复杂度较低。\n3. 可以隐藏数据：异步加密方法可以使用密钥匹配，使得数据在加密过程中隐藏。\n\n异步加密方法的缺点包括：\n\n1. 复杂性：异步加密方法的实现可能需要更复杂的算法和算法实现，比如使用迭代哈希算法。\n2. 性能耗费：异步加密方法的性能可能较低，因为需要对多个数据进行加密。\n3. 安全性风险：异步加密方法可能存在安全风险，如密钥被破坏后被泄漏。\n\n总之，异步加密方法是一种增强数据的安全性，可以处理大量数据，但是复杂性较高，性能较低，可能存在安全风险。"
+    },
+    {
+        "Instruction": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "Instruction_id": "598d1cf42deee4845f54778bca3a51a66058de772019b3ebecf38e9311e983e1",
+        "histories": [
+            [
+                "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+                "以下是五本中国古典小说，包括作品名、作者名和时间。请注意，这里的时间是固定的，但具体的作品出版年份可能有所不同。\n\n| 作品名 | 作者名 | 时间 |\n| --- | --- | --- |\n| 西游记 | 韩洛 | 西游记 |  |\n| 水浒传 | 孙权 | 水浒传 |  |\n| 红楼梦 | 吴逸 | 红楼梦 |  |\n| 三国演义 | 梁强 | 三国演义 |  |\n| 梁子梁 | 梁强 | 梁子梁 |  |\n| 欢欣风车 | 狗渴 | 欢欣风车 |  |\n| 诗释书 | 杨渺 | 诗释书 |  |\n| 吟风吟水 | 诗泽 | 吟风吟水 |  |\n| 梁爱梁 | 梁强 | 梁爱梁 |  |\n| 狗吟夜晚 | 吴逸 | 狗吟夜晚 |  |\n| 宋代绣绣 | 杨渺 | 宋代绣绣 |  |\n| 诗人术 | 杨渺 | 诗人术 |  |\n| 风起宙吟 | 吴逸 | 风起宙吟 |  |\n| 梁离走 | 梁强 | 梁离走 |  |\n| 欢欣风车 | 狗渴 | 欢欣风车 |  |\n| 诗释书 | 杨渺 | 诗释书 |  |\n| 吟风吟水 | 诗泽 | 吟风吟水 |  |\n| 梁爱梁 | 梁强 | 梁爱梁 |  |\n| 狗吟夜晚 | 吴逸 | 狗吟夜晚 |  |\n| 宋代绣绣 | 杨渺 | 宋代绣绣 |  |\n| 诗人术 | 杨渺 | 诗人术 |  |\n| 风起宙吟 | 吴逸 | 风起宙吟 |  |\n| 梁离走 | 梁强 | 梁离走 |  |\n| 欢欣风车 | 狗渴 | 欢欣风车 |  |\n| 诗释书 | 杨渺 | 诗释书 |  |\n| 吟风吟水 | 诗泽 | 吟风吟水 |  |\n| 梁爱梁 | 梁强 | 梁爱梁 |  |\n| 狗吟夜晚 | 吴逸 | 狗��"
+            ]
+        ],
+        "task_description": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是五本中国古典小说，包括作品名、作者名和时间。请注意，这里的时间是固定的，但具体的作品出版年份可能有所不同。\n\n| 作品名 | 作者名 | 时间 |\n| --- | --- | --- |\n| 西游记 | 韩洛 | 西游记 |  |\n| 水浒传 | 孙权 | 水浒传 |  |\n| 红楼梦 | 吴逸 | 红楼梦 |  |\n| 三国演义 | 梁强 | 三国演义 |  |\n| 梁子梁 | 梁强 | 梁子梁 |  |\n| 欢欣风车 | 狗渴 | 欢欣风车 |  |\n| 诗释书 | 杨渺 | 诗释书 |  |\n| 吟风吟水 | 诗泽 | 吟风吟水 |  |\n| 梁爱梁 | 梁强 | 梁爱梁 |  |\n| 狗吟夜晚 | 吴逸 | 狗吟夜晚 |  |\n| 宋代绣绣 | 杨渺 | 宋代绣绣 |  |\n| 诗人术 | 杨渺 | 诗人术 |  |\n| 风起宙吟 | 吴逸 | 风起宙吟 |  |\n| 梁离走 | 梁强 | 梁离走 |  |\n| 欢欣风车 | 狗渴 | 欢欣风车 |  |\n| 诗释书 | 杨渺 | 诗释书 |  |\n| 吟风吟水 | 诗泽 | 吟风吟水 |  |\n| 梁爱梁 | 梁强 | 梁爱梁 |  |\n| 狗吟夜晚 | 吴逸 | 狗吟夜晚 |  |\n| 宋代绣绣 | 杨渺 | 宋代绣绣 |  |\n| 诗人术 | 杨渺 | 诗人术 |  |\n| 风起宙吟 | 吴逸 | 风起宙吟 |  |\n| 梁离走 | 梁强 | 梁离走 |  |\n| 欢欣风车 | 狗渴 | 欢欣风车 |  |\n| 诗释书 | 杨渺 | 诗释书 |  |\n| 吟风吟水 | 诗泽 | 吟风吟水 |  |\n| 梁爱梁 | 梁强 | 梁爱梁 |  |\n| 狗吟夜晚 | 吴逸 | 狗��"
+    },
+    {
+        "Instruction": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "Instruction_id": "dcb67aefd2cf290a4f168b8f3a7da88f46ab53cca64f21695a95ce9f83502205",
+        "histories": [
+            [
+                "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+                "| 人物 | 朝代 | 生平经历 |\n| --- | --- | --- |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西"
+            ]
+        ],
+        "task_description": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "| 人物 | 朝代 | 生平经历 |\n| --- | --- | --- |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西周 | 秦始皇 |\n| 珍珠 | 西周 | 孙悟 |\n| 秦始皇 | 西"
+    },
+    {
+        "Instruction": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "Instruction_id": "64616184aa54a7de5bb1a070219bd94a133d987f5b5e462011dfee3da5d37380",
+        "histories": [
+            [
+                "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+                "{\n\"电影\": {\n\"导演\": \"乌尔善\",\n\"演员\": [\n{\n\"名字\": \"阿凡达\",\n\"角色\": \"阿凡达\"\n},\n{\n\"名字\": \"卡梅隆\",\n\"角色\": \"卡梅隆\"\n},\n{\n\"名字\": \"弗劳斯特\",\n\"角色\": \"弗劳斯特\"\n}\n],\n\"故事\": [\n{\n\"名字\": \"晨曦\",\n\"描述\": \"一个年轻的女孩寻找自己的生命意义，在一个奇妙的城市中发现自己的目的。\"\n},\n{\n\"名字\": \"绝望\",\n\"描述\": \"一位失去了希望的年轻人在一个绝望的世界中寻找新的目的，并发现了爱情和友情。\"\n},\n{\n\"名字\": \"冲突\",\n\"描述\": \"一个人在冲突中发现自己的真实性，并在这个冲突中成长。\"\n}\n]\n}"
+            ]
+        ],
+        "task_description": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"电影\": {\n\"导演\": \"乌尔善\",\n\"演员\": [\n{\n\"名字\": \"阿凡达\",\n\"角色\": \"阿凡达\"\n},\n{\n\"名字\": \"卡梅隆\",\n\"角色\": \"卡梅隆\"\n},\n{\n\"名字\": \"弗劳斯特\",\n\"角色\": \"弗劳斯特\"\n}\n],\n\"故事\": [\n{\n\"名字\": \"晨曦\",\n\"描述\": \"一个年轻的女孩寻找自己的生命意义，在一个奇妙的城市中发现自己的目的。\"\n},\n{\n\"名字\": \"绝望\",\n\"描述\": \"一位失去了希望的年轻人在一个绝望的世界中寻找新的目的，并发现了爱情和友情。\"\n},\n{\n\"名字\": \"冲突\",\n\"描述\": \"一个人在冲突中发现自己的真实性，并在这个冲突中成长。\"\n}\n]\n}"
+    },
+    {
+        "Instruction": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "Instruction_id": "ef696afae930972707730b96ecaefe30b19033893df82a9981b2cb56e12d0169",
+        "histories": [
+            [
+                "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+                "[\n{\n\"company\": \"Apple\",\n\"category\": \"Technology\"\n},\n{\n\"company\": \"Facebook\",\n\"category\": \"Social Media\"\n},\n{\n\"company\": \"Fedex\",\n\"category\": \"Logistics\"\n}\n]"
+            ]
+        ],
+        "task_description": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "[\n{\n\"company\": \"Apple\",\n\"category\": \"Technology\"\n},\n{\n\"company\": \"Facebook\",\n\"category\": \"Social Media\"\n},\n{\n\"company\": \"Fedex\",\n\"category\": \"Logistics\"\n}\n]"
+    },
+    {
+        "Instruction": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "Instruction_id": "90e6f88ad9ea6e03d457981c7b097c5647800ec646e5223599d7fb897523601f",
+        "histories": [
+            [
+                "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+                "{\n\"questions\": [\n{\n\"question\\_number\": 1,\n\"question\": \"What will be the primary energy source in the future?\",\n\"possible\\_answers\": [\n\"Renewable energy\",\n\"Nuclear power\",\n\"Fossil fuels\",\n\"Solar power\",\n\"Wind power\",\n\"Hydroelectric power\",\n\"Geothermal power\"\n],\n\"keywords\": [\"energy\", \"future\", \"renewable\", \"nuclear\", \"fossil\", \"solar\", \"wind\", \"hydroelectric\", \"geothermal\"],\n\"category\": \"Energy\"\n},\n{\n\"question\\_number\": 2,\n\"question\": \"How will transportation change in the future?\",\n\"possible\\_answers\": [\n\"Electric vehicles\",\n\"Autonomous vehicles\",\n\"High-speed rail\",\n\"Drones for transportation\",\n\"Space travel\",\n\"Underwater transportation\",\n\"Air travel\"\n],\n\"keywords\": [\"transportation\", \"future\", \"electric\", \"autonomous\", \"high-speed rail\", \"drones\", \"space travel\", \"underwater\", \"air travel\"],\n\"category\": \"Transportation\"\n},\n{\n\"question\\_number\": 3,\n\"question\": \"How will the global economy change in the future?\",\n\"possible\\_answers\": [\n\"Decentralization\",\n\"Automation\",\n\"Digital currencies\",\n\"Sustainable development\",\n\"Global collaboration\",\n\"Artificial intelligence\"\n],\n\"keywords\": [\"global economy\", \"future\", \"decentralization\", \"automation\", \"digital currencies\", \"sustainable development\", \"global collaboration\", \"artificial intelligence\"],\n\"category\": \"Economy\"\n},\n{\n\"question\\_number\": 4,\n\"question\": \"How will the workforce change in the future?\",\n\"possible\\_answers\": [\n\"Remote work\",\n\"Freelancing\",\n\"AI-driven jobs\",\n\"Job sharing\",\n\"Human-robot collaboration\",\n\"Lifelong learning\"\n],\n\"keywords\": [\"workforce\", \"future\", \"remote work\", \"freelancing\", \"AI-driven jobs\", \"job sharing\", \"human-robot collaboration\", \"lifelong learning\"],\n\"category\": \"Workforce\"\n},\n{\n\"question\\_number\": 5,\n\"question\": \"How will the healthcare industry change in the future?\",\n\"possible\\_answers\": [\n\"Personalized medicine\",\n\"Telemedicine\",\n\"Artificial intelligence in healthcare\",\n\"Aging population\",\n\"Genetic engineering\",\n\"Virtual reality in healthcare\"\n],\n\"keywords\": [\"healthcare industry\", \"future\", \"personalized medicine\", \"telemedicine\", \"artificial intelligence\", \"aging population\", \"genetic engineering\", \"virtual reality\"],\n\"category\": \"Healthcare\"\n},\n{\n\"question\\_number\": 6,\n\"question\": \"How will the education system change in the future?\",\n\"possible\\_answers\": [\n\"Online learning\",\n\"AI-assisted learning\",\n\"Lifelong learning\",\n\"Personalized learning\",\n\"Blended learning\",\n\"Virtual reality in education\"\n],\n\"keywords\": [\"education system\", \"future\", \"online learning\", \"AI-assisted learning\", \"lifelong learning\", \"personalized learning\", \"blended learning\", \"virtual reality\"],\n\"category\": \"Education\"\n},\n{\n\"question\\_number\": 7,\n\"question\": \"How will the climate change in the future?\",\n\"possible\\_answers\": [\n\"Global warming\",\n\"Climate change\",\n\"Extreme weather events\",\n\"Rising sea levels\",\n\"Polar ice melting\",\n\"Deforestation\"\n],\n\"keywords\": [\"climate change\", \"future\", \"global warming\", \"climate change\", \"extreme weather events\", \"rising sea levels\", \"polar ice melting\", \"deforestation\"],\n\"category\": \"Climate\"\n},\n{\n\"question\\_number\": 8,\n\"question\": \"How will the political landscape change in the future?\",\n\"possible\\_answers\": [\n\"Decentralization\",\n\"Democratization\",\n\"Pop"
+            ]
+        ],
+        "task_description": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"questions\": [\n{\n\"question\\_number\": 1,\n\"question\": \"What will be the primary energy source in the future?\",\n\"possible\\_answers\": [\n\"Renewable energy\",\n\"Nuclear power\",\n\"Fossil fuels\",\n\"Solar power\",\n\"Wind power\",\n\"Hydroelectric power\",\n\"Geothermal power\"\n],\n\"keywords\": [\"energy\", \"future\", \"renewable\", \"nuclear\", \"fossil\", \"solar\", \"wind\", \"hydroelectric\", \"geothermal\"],\n\"category\": \"Energy\"\n},\n{\n\"question\\_number\": 2,\n\"question\": \"How will transportation change in the future?\",\n\"possible\\_answers\": [\n\"Electric vehicles\",\n\"Autonomous vehicles\",\n\"High-speed rail\",\n\"Drones for transportation\",\n\"Space travel\",\n\"Underwater transportation\",\n\"Air travel\"\n],\n\"keywords\": [\"transportation\", \"future\", \"electric\", \"autonomous\", \"high-speed rail\", \"drones\", \"space travel\", \"underwater\", \"air travel\"],\n\"category\": \"Transportation\"\n},\n{\n\"question\\_number\": 3,\n\"question\": \"How will the global economy change in the future?\",\n\"possible\\_answers\": [\n\"Decentralization\",\n\"Automation\",\n\"Digital currencies\",\n\"Sustainable development\",\n\"Global collaboration\",\n\"Artificial intelligence\"\n],\n\"keywords\": [\"global economy\", \"future\", \"decentralization\", \"automation\", \"digital currencies\", \"sustainable development\", \"global collaboration\", \"artificial intelligence\"],\n\"category\": \"Economy\"\n},\n{\n\"question\\_number\": 4,\n\"question\": \"How will the workforce change in the future?\",\n\"possible\\_answers\": [\n\"Remote work\",\n\"Freelancing\",\n\"AI-driven jobs\",\n\"Job sharing\",\n\"Human-robot collaboration\",\n\"Lifelong learning\"\n],\n\"keywords\": [\"workforce\", \"future\", \"remote work\", \"freelancing\", \"AI-driven jobs\", \"job sharing\", \"human-robot collaboration\", \"lifelong learning\"],\n\"category\": \"Workforce\"\n},\n{\n\"question\\_number\": 5,\n\"question\": \"How will the healthcare industry change in the future?\",\n\"possible\\_answers\": [\n\"Personalized medicine\",\n\"Telemedicine\",\n\"Artificial intelligence in healthcare\",\n\"Aging population\",\n\"Genetic engineering\",\n\"Virtual reality in healthcare\"\n],\n\"keywords\": [\"healthcare industry\", \"future\", \"personalized medicine\", \"telemedicine\", \"artificial intelligence\", \"aging population\", \"genetic engineering\", \"virtual reality\"],\n\"category\": \"Healthcare\"\n},\n{\n\"question\\_number\": 6,\n\"question\": \"How will the education system change in the future?\",\n\"possible\\_answers\": [\n\"Online learning\",\n\"AI-assisted learning\",\n\"Lifelong learning\",\n\"Personalized learning\",\n\"Blended learning\",\n\"Virtual reality in education\"\n],\n\"keywords\": [\"education system\", \"future\", \"online learning\", \"AI-assisted learning\", \"lifelong learning\", \"personalized learning\", \"blended learning\", \"virtual reality\"],\n\"category\": \"Education\"\n},\n{\n\"question\\_number\": 7,\n\"question\": \"How will the climate change in the future?\",\n\"possible\\_answers\": [\n\"Global warming\",\n\"Climate change\",\n\"Extreme weather events\",\n\"Rising sea levels\",\n\"Polar ice melting\",\n\"Deforestation\"\n],\n\"keywords\": [\"climate change\", \"future\", \"global warming\", \"climate change\", \"extreme weather events\", \"rising sea levels\", \"polar ice melting\", \"deforestation\"],\n\"category\": \"Climate\"\n},\n{\n\"question\\_number\": 8,\n\"question\": \"How will the political landscape change in the future?\",\n\"possible\\_answers\": [\n\"Decentralization\",\n\"Democratization\",\n\"Pop"
+    },
+    {
+        "Instruction": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "Instruction_id": "324871929ceff27433eb4876790c5234a9ba934ca76a32dfd1a186237147d8be",
+        "histories": [
+            [
+                "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+                "[{\"id\": 1, \"title\": \"Solar Panel Installation\", \"description\": \"Install solar panels on rooftops to harness renewable energy from the sun.\", \"keywords\": [\"solar\", \"panel\", \"installation\", \"roof\", \"renewable\", \"energy\"], \"cost\": 5000}, {\"id\": 2, \"title\": \"Wind Turbine Project\", \"description\": \"Construct a wind turbine to generate electricity from wind.\", \"keywords\": [\"wind\", \"turbine\", \"project\", \"electricity\", \"renewable\", \"energy\"], \"cost\": 10000}, {\"id\": 3, \"title\": \"Electric Vehicle Charging Stations\", \"description\": \"Install electric vehicle charging stations in public areas to encourage the use of electric cars.\", \"keywords\": [\"electric\", \"vehicle\", \"charging\", \"station\", \"public\", \"area\", \"renewable\", \"energy\"], \"cost\": 7500}, {\"id\": 4, \"title\": \"Sustainable Agriculture Program\", \"description\": \"Implement sustainable agriculture practices to reduce the environmental impact of farming.\", \"keywords\": [\"sustainable\", \"agriculture\", \"practices\", \"farming\", \"environment\", \"impact\", \"renewable\", \"energy\"], \"cost\": 3000}, {\"id\": 5, \"title\": \"Green Building Initiative\", \"description\": \"Promote the construction of green buildings using eco-friendly materials and energy-efficient designs.\", \"keywords\": [\"green\", \"building\", \"initiative\", \"eco-friendly\", \"materials\", \"energy-efficient\", \"renewable\", \"energy\"], \"cost\": 2500}]"
+            ]
+        ],
+        "task_description": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "[{\"id\": 1, \"title\": \"Solar Panel Installation\", \"description\": \"Install solar panels on rooftops to harness renewable energy from the sun.\", \"keywords\": [\"solar\", \"panel\", \"installation\", \"roof\", \"renewable\", \"energy\"], \"cost\": 5000}, {\"id\": 2, \"title\": \"Wind Turbine Project\", \"description\": \"Construct a wind turbine to generate electricity from wind.\", \"keywords\": [\"wind\", \"turbine\", \"project\", \"electricity\", \"renewable\", \"energy\"], \"cost\": 10000}, {\"id\": 3, \"title\": \"Electric Vehicle Charging Stations\", \"description\": \"Install electric vehicle charging stations in public areas to encourage the use of electric cars.\", \"keywords\": [\"electric\", \"vehicle\", \"charging\", \"station\", \"public\", \"area\", \"renewable\", \"energy\"], \"cost\": 7500}, {\"id\": 4, \"title\": \"Sustainable Agriculture Program\", \"description\": \"Implement sustainable agriculture practices to reduce the environmental impact of farming.\", \"keywords\": [\"sustainable\", \"agriculture\", \"practices\", \"farming\", \"environment\", \"impact\", \"renewable\", \"energy\"], \"cost\": 3000}, {\"id\": 5, \"title\": \"Green Building Initiative\", \"description\": \"Promote the construction of green buildings using eco-friendly materials and energy-efficient designs.\", \"keywords\": [\"green\", \"building\", \"initiative\", \"eco-friendly\", \"materials\", \"energy-efficient\", \"renewable\", \"energy\"], \"cost\": 2500}]"
+    },
+    {
+        "Instruction": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "Instruction_id": "289f495f31c0895f0b2c2cf46d9b6e1fdf454f7f41dfe2cf90558a50e94773b1",
+        "histories": [
+            [
+                "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+                "以下是五种不同品牌的咖啡，包括特点和口味：\n\n| 品牌 | 特点 | 口味 | 产地 |\n| --- | --- | --- | --- |\n| 1. 卡爾 | 高质量、丰富的味道 | 浓热咖啡 | 哥伦比亚 |\n| 2. 奥兹 | 简单、快速做法 | 咖啡汁 | 奥兹地区 |\n| 3. 威廉 | 高激动力、充沛充的味道 | 咖啡汁 | 威廉地区 |\n| 4. 尼克斯 | 独特的味道、丰富的甜味 | 咖啡汁 | 尼克斯地区 |\n| 5. 威廉 | 高激动力、充沛充的味道 | 咖啡汁 | 威廉地区 |\n\n第三种咖啡的特点是高激动力和充沛充的味道。它是威廉地区的特色，具有强大的激动力和味道，因此威廉咖啡被誉为“激动力咖啡”。"
+            ]
+        ],
+        "task_description": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是五种不同品牌的咖啡，包括特点和口味：\n\n| 品牌 | 特点 | 口味 | 产地 |\n| --- | --- | --- | --- |\n| 1. 卡爾 | 高质量、丰富的味道 | 浓热咖啡 | 哥伦比亚 |\n| 2. 奥兹 | 简单、快速做法 | 咖啡汁 | 奥兹地区 |\n| 3. 威廉 | 高激动力、充沛充的味道 | 咖啡汁 | 威廉地区 |\n| 4. 尼克斯 | 独特的味道、丰富的甜味 | 咖啡汁 | 尼克斯地区 |\n| 5. 威廉 | 高激动力、充沛充的味道 | 咖啡汁 | 威廉地区 |\n\n第三种咖啡的特点是高激动力和充沛充的味道。它是威廉地区的特色，具有强大的激动力和味道，因此威廉咖啡被誉为“激动力咖啡”。"
+    },
+    {
+        "Instruction": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "Instruction_id": "c330e000999f62803ea0aa7271cabb849db5d68f305024f85db15891272bcbbe",
+        "histories": [
+            [
+                "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+                "解决方案1：“美食之夜”特价活动\n\n关键词：美食之夜、特价、活动\n\n描述：为了销售面包店的面包，我们可以为一晚（例如周五或周六）设置特价，允许客户在特定时间内购买面包。这样可以吸引客户的注意力，提高销售率。\n\n实施步骤：\n\n1. 选择一个特定的日期（例如周五或周六），将其定义为“美食之夜”。\n2. 在特定的时间内（例如6:00 pm - 12:00 am），为所有面包产品设置特价（例如50%折扣）。\n3. 在市场上、广告中、和社交媒体平台上推广这个特价活动，以吸引客户。\n4. 在特定的日期内，对面包店进行推广活动，以吸引更多客户。\n\n预计效果：\n\n1. 通过设置特价，可以吸引客户的注意力，提高销售率。\n2. 特价活动可能会引起竞争，其他面包店也可能会竞争相争，提高市场竞争力。\n3. 这个活动可能会增加客户忠诚度，因为他们会感受到优惠。\n\n第二个解决方案：“美食之夜”即日预订活动\n\n关键词：美食之夜、即日预订、活动\n\n描述：为了销售面包店的面包，我们可以为客户提供即日预订服务，允许他们在特定时间内购买面包。这样可以提高销售率，并且减少购物压力。\n\n实施步骤：\n\n1. 为客户提供即日预订服务，允许他们在特定时间内购买面包。\n2. 在市场上、广告中、和社交媒体平台上推广这个即日预订服务，以吸引客户。\n3. 为客户提供即日预订表格，以便他们在特定时间内购买面包。\n\n预计效果：\n\n1. 通过提供即日预订服务，可以减少购物压力，提高客户满意度。\n2. 这个活动可能会增加客户忠诚度，因为他们会感受到优惠。\n3. 即日预订服务可能会增加销售率，因为客户可以在特定时间内购买面包。"
+            ]
+        ],
+        "task_description": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "解决方案1：“美食之夜”特价活动\n\n关键词：美食之夜、特价、活动\n\n描述：为了销售面包店的面包，我们可以为一晚（例如周五或周六）设置特价，允许客户在特定时间内购买面包。这样可以吸引客户的注意力，提高销售率。\n\n实施步骤：\n\n1. 选择一个特定的日期（例如周五或周六），将其定义为“美食之夜”。\n2. 在特定的时间内（例如6:00 pm - 12:00 am），为所有面包产品设置特价（例如50%折扣）。\n3. 在市场上、广告中、和社交媒体平台上推广这个特价活动，以吸引客户。\n4. 在特定的日期内，对面包店进行推广活动，以吸引更多客户。\n\n预计效果：\n\n1. 通过设置特价，可以吸引客户的注意力，提高销售率。\n2. 特价活动可能会引起竞争，其他面包店也可能会竞争相争，提高市场竞争力。\n3. 这个活动可能会增加客户忠诚度，因为他们会感受到优惠。\n\n第二个解决方案：“美食之夜”即日预订活动\n\n关键词：美食之夜、即日预订、活动\n\n描述：为了销售面包店的面包，我们可以为客户提供即日预订服务，允许他们在特定时间内购买面包。这样可以提高销售率，并且减少购物压力。\n\n实施步骤：\n\n1. 为客户提供即日预订服务，允许他们在特定时间内购买面包。\n2. 在市场上、广告中、和社交媒体平台上推广这个即日预订服务，以吸引客户。\n3. 为客户提供即日预订表格，以便他们在特定时间内购买面包。\n\n预计效果：\n\n1. 通过提供即日预订服务，可以减少购物压力，提高客户满意度。\n2. 这个活动可能会增加客户忠诚度，因为他们会感受到优惠。\n3. 即日预订服务可能会增加销售率，因为客户可以在特定时间内购买面包。"
+    },
+    {
+        "Instruction": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "Instruction_id": "0a4226a6bc3fd7697b1903cc022e1772f921ea3ceed4b183be0b1ebc0ea74967",
+        "histories": [
+            [
+                "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+                "以下是我认为是十个有效的时间管理技巧，排序后输出以json格式。\n\n[\n{\n\"key\": \"1. Prioritize tasks\",\n\"description\": \"Identify the most important tasks and tackle them first.\",\n\"implementation\": \"Create a to-do list and prioritize tasks based on their importance.\"\n},\n{\n\"key\": \"2. Break tasks into smaller steps\",\n\"description\": \"Break large tasks into smaller, manageable steps.\",\n\"implementation\": \"Divide large tasks into smaller tasks and create a step-by-step plan to complete them.\"\n},\n{\n\"key\": \"3. Set specific deadlines\",\n\"description\": \"Assign a specific deadline to each task.\",\n\"implementation\": \"Set a deadline for each task and create a schedule to ensure that they are completed on time.\"\n},\n{\n\"key\": \"4. Use a calendar or planner\",\n\"description\": \"Use a physical or digital calendar to plan and organize your time.\",\n\"implementation\": \"Create a calendar or use a planner app to schedule tasks and events.\"\n},\n{\n\"key\": \"5. Limit distractions\",\n\"description\": \"Eliminate or reduce distractions to maintain focus on tasks.\",\n\"implementation\": \"Find a quiet workspace, use noise-canceling headphones, or use apps to block distracting websites.\"\n},\n{\n\"key\": \"6. Take breaks\",\n\"description\": \"Take regular breaks to rest and recharge.\",\n\"implementation\": \"Schedule short breaks throughout the day to rest and rejuvenate.\"\n},\n{\n\"key\": \"7. Delegate tasks\",\n\"description\": \"Delegate tasks to others when necessary.\",\n\"implementation\": \"Identify tasks that can be delegated and assign them to team members or family members.\"\n},\n{\n\"key\": \"8. Review and adjust\",\n\"description\": \"Regularly review and adjust your schedule to ensure efficiency.\",\n\"implementation\": \"Review your schedule weekly or monthly and make adjustments as needed.\"\n},\n{\n\"key\": \"9. Use time-tracking software\",\n\"description\": \"Use time-tracking software to monitor and analyze how you spend your time.\",\n\"implementation\": \"Use time-tracking software to track your time spent on tasks and identify areas for improvement.\"\n},\n{\n\"key\": \"10. Practice self-discipline\",\n\"description\": \"Develop self-discipline to maintain focus and avoid procrastination.\",\n\"implementation\": \"Set goals and develop a routine to maintain focus and avoid distractions.\"\n}\n]"
+            ]
+        ],
+        "task_description": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是我认为是十个有效的时间管理技巧，排序后输出以json格式。\n\n[\n{\n\"key\": \"1. Prioritize tasks\",\n\"description\": \"Identify the most important tasks and tackle them first.\",\n\"implementation\": \"Create a to-do list and prioritize tasks based on their importance.\"\n},\n{\n\"key\": \"2. Break tasks into smaller steps\",\n\"description\": \"Break large tasks into smaller, manageable steps.\",\n\"implementation\": \"Divide large tasks into smaller tasks and create a step-by-step plan to complete them.\"\n},\n{\n\"key\": \"3. Set specific deadlines\",\n\"description\": \"Assign a specific deadline to each task.\",\n\"implementation\": \"Set a deadline for each task and create a schedule to ensure that they are completed on time.\"\n},\n{\n\"key\": \"4. Use a calendar or planner\",\n\"description\": \"Use a physical or digital calendar to plan and organize your time.\",\n\"implementation\": \"Create a calendar or use a planner app to schedule tasks and events.\"\n},\n{\n\"key\": \"5. Limit distractions\",\n\"description\": \"Eliminate or reduce distractions to maintain focus on tasks.\",\n\"implementation\": \"Find a quiet workspace, use noise-canceling headphones, or use apps to block distracting websites.\"\n},\n{\n\"key\": \"6. Take breaks\",\n\"description\": \"Take regular breaks to rest and recharge.\",\n\"implementation\": \"Schedule short breaks throughout the day to rest and rejuvenate.\"\n},\n{\n\"key\": \"7. Delegate tasks\",\n\"description\": \"Delegate tasks to others when necessary.\",\n\"implementation\": \"Identify tasks that can be delegated and assign them to team members or family members.\"\n},\n{\n\"key\": \"8. Review and adjust\",\n\"description\": \"Regularly review and adjust your schedule to ensure efficiency.\",\n\"implementation\": \"Review your schedule weekly or monthly and make adjustments as needed.\"\n},\n{\n\"key\": \"9. Use time-tracking software\",\n\"description\": \"Use time-tracking software to monitor and analyze how you spend your time.\",\n\"implementation\": \"Use time-tracking software to track your time spent on tasks and identify areas for improvement.\"\n},\n{\n\"key\": \"10. Practice self-discipline\",\n\"description\": \"Develop self-discipline to maintain focus and avoid procrastination.\",\n\"implementation\": \"Set goals and develop a routine to maintain focus and avoid distractions.\"\n}\n]"
+    },
+    {
+        "Instruction": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "Instruction_id": "9fb29206dbf38c8a744f67ee82eb5e977aff48403c074f115b4aad2b1ea70698",
+        "histories": [
+            [
+                "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+                "以下是5个我认为有趣的无人驾驶车辆应用场景，以xml格式输出，包括关键词、描述以及优势，并翻译成英文：\n\n<interesting_applications>\n <application>\n <keywords>autonomous truck, mining, transportation, efficiency, safety</keywords>\n <description>Autonomous trucks can be used in mining operations to transport materials from the mine to the processing facility. They can operate 24/7, reducing the need for human labor and increasing efficiency. The use of autonomous trucks can also improve safety by reducing the risk of accidents caused by human error.</description>\n <benefits>\n <benefit>increased efficiency</benefit>\n <benefit>improved safety</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>increased productivity</benefit>\n </benefits>\n </application>\n <application>\n <keywords>delivery, logistics, last-mile, urban, environment</keywords>\n <description>Autonomous trucks can be used for last-mile delivery in urban environments, reducing the need for human labor and lowering the environmental impact of delivery. They can operate in designated areas, improving traffic flow and reducing congestion.</description>\n <benefits>\n <benefit>reduced traffic congestion</benefit>\n <benefit>improved traffic flow</benefit>\n <benefit>increased efficiency</benefit>\n <benefit>reduced emissions</benefit>\n </benefits>\n </application>\n <application>\n <keywords>farming, agriculture, precision agriculture, autonomous, tractors</keywords>\n <description>Autonomous tractors can be used in precision agriculture to optimize farming operations. They can be programmed to follow specific patterns and apply fertilizers and pesticides accurately, reducing waste and increasing crop yields. Autonomous tractors can also be used for other tasks such as soil cultivation and irrigation, improving efficiency and reducing labor costs.</description>\n <benefits>\n <benefit>increased efficiency</benefit>\n <benefit>improved crop yields</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>increased accuracy</benefit>\n </benefits>\n </application>\n <application>\n <keywords>construction, infrastructure, autonomous, excavators, bulldozers</keywords>\n <description>Autonomous excavators and bulldozers can be used in construction and infrastructure projects to improve efficiency and reduce labor costs. They can be programmed to follow specific patterns and operate 24/7, reducing the need for human labor. Autonomous machines can also improve safety by reducing the risk of accidents caused by human error.</description>\n <benefits>\n <benefit>increased efficiency</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>improved safety</benefit>\n <benefit>increased productivity</benefit>\n </benefits>\n </application>\n <application>\n <keywords>emergency response, disaster relief, autonomous, rescue, drones</keywords>\n <description>Autonomous drones can be used in emergency response and disaster relief operations to deliver supplies and assess damage. They can be programmed to fly over disaster areas and drop off supplies, or to assess damage and communicate with emergency responders. Autonomous drones can also be used for search and rescue operations, improving efficiency and reducing the risk of accidents caused by human error.</description>\n <benefits>\n <benefit>improved efficiency</benefit>\n <benefit>increased safety</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>increased productivity</benefit>\n </benefits>\n </application>\n</interesting_applications>"
+            ]
+        ],
+        "task_description": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是5个我认为有趣的无人驾驶车辆应用场景，以xml格式输出，包括关键词、描述以及优势，并翻译成英文：\n\n<interesting_applications>\n <application>\n <keywords>autonomous truck, mining, transportation, efficiency, safety</keywords>\n <description>Autonomous trucks can be used in mining operations to transport materials from the mine to the processing facility. They can operate 24/7, reducing the need for human labor and increasing efficiency. The use of autonomous trucks can also improve safety by reducing the risk of accidents caused by human error.</description>\n <benefits>\n <benefit>increased efficiency</benefit>\n <benefit>improved safety</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>increased productivity</benefit>\n </benefits>\n </application>\n <application>\n <keywords>delivery, logistics, last-mile, urban, environment</keywords>\n <description>Autonomous trucks can be used for last-mile delivery in urban environments, reducing the need for human labor and lowering the environmental impact of delivery. They can operate in designated areas, improving traffic flow and reducing congestion.</description>\n <benefits>\n <benefit>reduced traffic congestion</benefit>\n <benefit>improved traffic flow</benefit>\n <benefit>increased efficiency</benefit>\n <benefit>reduced emissions</benefit>\n </benefits>\n </application>\n <application>\n <keywords>farming, agriculture, precision agriculture, autonomous, tractors</keywords>\n <description>Autonomous tractors can be used in precision agriculture to optimize farming operations. They can be programmed to follow specific patterns and apply fertilizers and pesticides accurately, reducing waste and increasing crop yields. Autonomous tractors can also be used for other tasks such as soil cultivation and irrigation, improving efficiency and reducing labor costs.</description>\n <benefits>\n <benefit>increased efficiency</benefit>\n <benefit>improved crop yields</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>increased accuracy</benefit>\n </benefits>\n </application>\n <application>\n <keywords>construction, infrastructure, autonomous, excavators, bulldozers</keywords>\n <description>Autonomous excavators and bulldozers can be used in construction and infrastructure projects to improve efficiency and reduce labor costs. They can be programmed to follow specific patterns and operate 24/7, reducing the need for human labor. Autonomous machines can also improve safety by reducing the risk of accidents caused by human error.</description>\n <benefits>\n <benefit>increased efficiency</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>improved safety</benefit>\n <benefit>increased productivity</benefit>\n </benefits>\n </application>\n <application>\n <keywords>emergency response, disaster relief, autonomous, rescue, drones</keywords>\n <description>Autonomous drones can be used in emergency response and disaster relief operations to deliver supplies and assess damage. They can be programmed to fly over disaster areas and drop off supplies, or to assess damage and communicate with emergency responders. Autonomous drones can also be used for search and rescue operations, improving efficiency and reducing the risk of accidents caused by human error.</description>\n <benefits>\n <benefit>improved efficiency</benefit>\n <benefit>increased safety</benefit>\n <benefit>reduced labor costs</benefit>\n <benefit>increased productivity</benefit>\n </benefits>\n </application>\n</interesting_applications>"
+    },
+    {
+        "Instruction": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "Instruction_id": "200a16619c6c54babde59851b9225fd4c30bbdce5b5f14b57f4d7ea5fe077064",
+        "histories": [
+            [
+                "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+                "以下是一个包含五种不同颜色的花卉的XML代码示例：\n```xml\n<flower_colors>\n    <color name=\"red\">\n        <description>Blooming red</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"pink\">\n        <description>Blooming pink</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"yellow\">\n        <description>Blooming yellow</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"orange\">\n        <description>Blooming orange</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"purple\">\n        <description>Blooming purple</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n</flower_colors>\n```\n这个XML代码包含了五种不同颜色的花卉的名称，包括红色、粉红色、橙色、橙红色和腌色。每种花卉都具有相同的栽培方法和照射条件，这是一个简单的示例。\n\n现在，我们将深入研究第三种花卉，探讨其特点和养殖方法。\n\n第三种花卉的特点：\n\n1. 具有粉红色的颜色，宽敞的痕迹，受到广大人群喜爱。\n2. 受到良好的栽培和照射条件，充沛拥有充沛的生力，容易扩散。\n3. 在园地上栽培，适宜宽敞的地块或筐。\n4. 在栽培过程中，需要注意的是防止土壤蒸馏，防止土壤蒸馏的方法是使用适当的颜料或者使用宽敞的土块来保护栽培地。\n\n第三种花卉的养殖方法：\n\n1. 选择粉红色的花卉种类，如橙色、橙红色或腌色。\n2. 选择适当的园地，如宽敞的地块或筐。\n3. 在园地上栽培花卉，使用适当的颜料或者使用宽敞的土块来保护栽培地。\n4. 注意防止土壤蒸馏，使用适当的颜料或者使用宽敞的土块来保护栽培地。\n5. 在��"
+            ]
+        ],
+        "task_description": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "以下是一个包含五种不同颜色的花卉的XML代码示例：\n```xml\n<flower_colors>\n    <color name=\"red\">\n        <description>Blooming red</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"pink\">\n        <description>Blooming pink</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"yellow\">\n        <description>Blooming yellow</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"orange\">\n        <description>Blooming orange</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n    <color name=\"purple\">\n        <description>Blooming purple</description>\n        <cultivation>Easy to grow</cultivation>\n        <soil>Well-drained soil</soil>\n        <sunlight>Sunny location</sunlight>\n    </color>\n</flower_colors>\n```\n这个XML代码包含了五种不同颜色的花卉的名称，包括红色、粉红色、橙色、橙红色和腌色。每种花卉都具有相同的栽培方法和照射条件，这是一个简单的示例。\n\n现在，我们将深入研究第三种花卉，探讨其特点和养殖方法。\n\n第三种花卉的特点：\n\n1. 具有粉红色的颜色，宽敞的痕迹，受到广大人群喜爱。\n2. 受到良好的栽培和照射条件，充沛拥有充沛的生力，容易扩散。\n3. 在园地上栽培，适宜宽敞的地块或筐。\n4. 在栽培过程中，需要注意的是防止土壤蒸馏，防止土壤蒸馏的方法是使用适当的颜料或者使用宽敞的土块来保护栽培地。\n\n第三种花卉的养殖方法：\n\n1. 选择粉红色的花卉种类，如橙色、橙红色或腌色。\n2. 选择适当的园地，如宽敞的地块或筐。\n3. 在园地上栽培花卉，使用适当的颜料或者使用宽敞的土块来保护栽培地。\n4. 注意防止土壤蒸馏，使用适当的颜料或者使用宽敞的土块来保护栽培地。\n5. 在��"
+    },
+    {
+        "Instruction": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "Instruction_id": "d7dbc6e1d4580911810c0f8728cdd2d9e0795e59430527295c409279e09302af",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+                "{\n\"question\\_number\": 1,\n\"question\\_description\": \"How does social media influence brand loyalty?\",\n\"keywords\": [\"brand loyalty\", \"social media\", \"influence\", \"consumer behavior\", \"purchase decision\"]\n}\n\n{\n\"question\\_number\": 2,\n\"question\\_description\": \"What is the impact of social media on user behavior?\",\n\"keywords\": [\"user behavior\", \"social media\", \"influence\", \"consumer behavior\", \"purchase decision\"]\n}\n\n{\n\"question\\_number\": 3,\n\"question\\_description\": \"How does social media affect consumer decision-making in the marketing context?\",\n\"keywords\": [\"consumer decision-making\", \"marketing context\", \"social media\", \"influence\", \"brand loyalty\"]\n}"
+            ]
+        ],
+        "task_description": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": "{\n\"question\\_number\": 1,\n\"question\\_description\": \"How does social media influence brand loyalty?\",\n\"keywords\": [\"brand loyalty\", \"social media\", \"influence\", \"consumer behavior\", \"purchase decision\"]\n}\n\n{\n\"question\\_number\": 2,\n\"question\\_description\": \"What is the impact of social media on user behavior?\",\n\"keywords\": [\"user behavior\", \"social media\", \"influence\", \"consumer behavior\", \"purchase decision\"]\n}\n\n{\n\"question\\_number\": 3,\n\"question\\_description\": \"How does social media affect consumer decision-making in the marketing context?\",\n\"keywords\": [\"consumer decision-making\", \"marketing context\", \"social media\", \"influence\", \"brand loyalty\"]\n}"
+    }
+]

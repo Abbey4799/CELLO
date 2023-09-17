@@ -1,0 +1,2675 @@
+[
+    {
+        "Instruction": "给定一篇文章，创建一个摘要，限制长度为三句话，要求保留信息：野花、夏天。\n 文章：根据新闻报道，随着气温的升高，草地上的野花开始陆续绽放，缤纷的色彩让人心情愉悦。微风吹拂，花瓣轻轻摇曳，飘散出迷人的芬芳。这时，草地变成了一个绚烂多彩的世界，吸引了许多人前来欣赏这美丽的景象。特别是小孩子们，他们在花丛中尽情嬉戏打闹，捧着鲜花玩耍，充满着童趣和活力。他们的欢笑声在草地上回荡，将整个夏天的氛围变得更加欢快。这样的美好景象预示着即将到来的夏天将会充满无限的希望和美好。草地上的野花将持续绽放，让人们感受到大自然的美妙和生命的蓬勃。",
+        "Instruction_id": "98739bc71303f5be0972012c5f8167c8e9df2dbf4ccda2fd0093ca5fc2932c89",
+        "histories": [],
+        "task_description": "给定一篇文章，创建一个摘要，限制长度为三句话，要求保留信息：野花、夏天。\n",
+        "input_text": "文章：根据新闻报道，随着气温的升高，草地上的野花开始陆续绽放，缤纷的色彩让人心情愉悦。微风吹拂，花瓣轻轻摇曳，飘散出迷人的芬芳。这时，草地变成了一个绚烂多彩的世界，吸引了许多人前来欣赏这美丽的景象。特别是小孩子们，他们在花丛中尽情嬉戏打闹，捧着鲜花玩耍，充满着童趣和活力。他们的欢笑声在草地上回荡，将整个夏天的氛围变得更加欢快。这样的美好景象预示着即将到来的夏天将会充满无限的希望和美好。草地上的野花将持续绽放，让人们感受到大自然的美妙和生命的蓬勃。",
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sentence-exact",
+                "limit": 3
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "花",
+                    "草",
+                    "孩",
+                    "夏"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "让回答更有文采一些",
+        "Instruction_id": "64d9ba1ca4f7c7f0b544a8b681fd998b90e73c68bbc911515f2ead23699f276e",
+        "histories": [
+            [
+                "给定一篇文章，创建一个摘要，限制长度为三句话，要求保留信息：野花、夏天。\n 文章：根据新闻报道，随着气温的升高，草地上的野花开始陆续绽放，缤纷的色彩让人心情愉悦。微风吹拂，花瓣轻轻摇曳，飘散出迷人的芬芳。这时，草地变成了一个绚烂多彩的世界，吸引了许多人前来欣赏这美丽的景象。特别是小孩子们，他们在花丛中尽情嬉戏打闹，捧着鲜花玩耍，充满着童趣和活力。他们的欢笑声在草地上回荡，将整个夏天的氛围变得更加欢快。这样的美好景象预示着即将到来的夏天将会充满无限的希望和美好。草地上的野花将持续绽放，让人们感受到大自然的美妙和生命的蓬勃。",
+                "夏天来临，草地上的野花绽放，色彩缤纷，吸引了许多人前来欣赏。小孩子们在花丛中嬉戏打闹，充满童趣和活力，为夏天增添了欢快的氛围。这美好景象预示着即将到来的夏天将充满希望和美好。"
+            ]
+        ],
+        "task_description": "让回答更有文采一些",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sentence-exact",
+                "limit": 3
+            },
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "花",
+                    "草",
+                    "孩",
+                    "夏"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词",
+        "Instruction_id": "d844c67e7a4f24687ae082a123106fbf0b97a6cc98d9b056cdcb160d38812b54",
+        "histories": [],
+        "task_description": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-min",
+                "limit": 50
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "股市",
+                    "下跌",
+                    "投资者",
+                    "前景"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "增加关于股市下跌的原因和影响的描述",
+        "Instruction_id": "2f01e0c18b0c1ee93765ca7c700b54f75e6691d52ddda84f25a5174de3225983",
+        "histories": [
+            [
+                "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词",
+                "本周，全球股市遭遇了大幅下跌，引发了投资者对全球经济前景的担忧。这一下跌趋势在各大股市中普遍存在，包括美国、欧洲和亚洲市场。投资者对于全球经济增长的不确定性以及新冠疫情的再次爆发感到担忧，导致了股市的大幅下滑。专家表示，全球经济的复苏可能会受到新冠疫情的影响，投资者需要保持警惕并采取相应的风险管理措施。"
+            ]
+        ],
+        "task_description": "增加关于股市下跌的原因和影响的描述",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-min",
+                "limit": 50
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "股市",
+                    "下跌",
+                    "原因",
+                    "影响"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "股市",
+                    "下跌",
+                    "投资者",
+                    "前景"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "给定以下文本，将这段文本压缩成一句话，长度不能超过100个字符。在这座城市的中心地带，我们发现了一家新开业的烘焙店。当我们走进店内时，热腾腾的香气扑鼻而来，使得我们的胃口顿时大开。烤炉里刚刚出炉的面包和蛋糕散发出诱人的香味，让我们感觉好像置身于一个甜蜜的梦境中。店内的菜单上展示着各种口味的面包和糕点，包括柔软的法式面包，酥脆的可颂面包，还有诱人的蓝莓饼干和香草松饼等。在这里，我们可以享受到最新鲜的烘焙美食，让人垂涎欲滴。",
+        "Instruction_id": "65a8f4e1548aa30d3260f6160d29084a535c2a218ab9be2a2c1a2438eaf43443",
+        "histories": [],
+        "task_description": "给定以下文本，将这段文本压缩成一句话，长度不能超过100个字符。",
+        "input_text": "在这座城市的中心地带，我们发现了一家新开业的烘焙店。当我们走进店内时，热腾腾的香气扑鼻而来，使得我们的胃口顿时大开。烤炉里刚刚出炉的面包和蛋糕散发出诱人的香味，让我们感觉好像置身于一个甜蜜的梦境中。店内的菜单上展示着各种口味的面包和糕点，包括柔软的法式面包，酥脆的可颂面包，还有诱人的蓝莓饼干和香草松饼等。在这里，我们可以享受到最新鲜的烘焙美食，让人垂涎欲滴。",
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            },
+            {
+                "criterion": "sentence-exact",
+                "limit": 1
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "城市",
+                    "中心",
+                    "烘焙"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "可不可以再简洁一点",
+        "Instruction_id": "86dc6bf191f6eb30e7ae57390fa308e2b06a092e2327080e0d7facb6fb4ca110",
+        "histories": [
+            [
+                "给定以下文本，将这段文本压缩成一句话，长度不能超过100个字符。在这座城市的中心地带，我们发现了一家新开业的烘焙店。当我们走进店内时，热腾腾的香气扑鼻而来，使得我们的胃口顿时大开。烤炉里刚刚出炉的面包和蛋糕散发出诱人的香味，让我们感觉好像置身于一个甜蜜的梦境中。店内的菜单上展示着各种口味的面包和糕点，包括柔软的法式面包，酥脆的可颂面包，还有诱人的蓝莓饼干和香草松饼等。在这里，我们可以享受到最新鲜的烘焙美食，让人垂涎欲滴。",
+                "在这座城市的中心地带，一家新开业的烘焙店散发着诱人的香味，提供各种口味的面包和糕点，让人垂涎欲滴。"
+            ]
+        ],
+        "task_description": "可不可以再简洁一点",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "shorter"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "城市",
+                    "中心",
+                    "烘焙"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "我想要一篇400字的短文章，既要详细介绍元宇宙，又要强调虚拟数字人的重要性",
+        "Instruction_id": "1c5cf6a638294547860d1e5777596c5d1836ff8ed1626ce892de41c066508454",
+        "histories": [],
+        "task_description": "我想要一篇400字的短文章，既要详细介绍元宇宙，又要强调虚拟数字人的重要性",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-min",
+                "limit": 400
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "元宇宙",
+                    "虚拟数字人",
+                    "重要性"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系",
+        "Instruction_id": "487bae7e8f9f3538124d2c3678166928c4a41ecde40e479bf69bcc591f62a67d",
+        "histories": [
+            [
+                "我想要一篇400字的短文章，既要详细介绍元宇宙，又要强调虚拟数字人的重要性",
+                "元宇宙是一个虚拟的数字世界，它是由计算机技术和人工智能技术构建而成的。在元宇宙中，人们可以通过虚拟现实技术进入一个全新的数字世界，与其他用户进行交互和沟通。\n\n元宇宙的概念最早由美国作家尼尔·斯蒂芬森在他的科幻小说《雪崩》中提出。随着科技的不断发展，元宇宙的概念逐渐成为现实。它不仅仅是一个虚拟的游戏世界，更是一个可以模拟现实世界的数字化空间。\n\n在元宇宙中，虚拟数字人扮演着重要的角色。虚拟数字人是通过人工智能技术生成的虚拟角色，它们具有独立的思维和行为能力。虚拟数字人可以与用户进行实时的交互和对话，甚至可以模拟人类的情感和行为。\n\n虚拟数字人的重要性在于它们可以为用户提供更加个性化和定制化的服务。在元宇宙中，用户可以通过与虚拟数字人的互动来获取各种信息和服务，比如购物、娱乐、教育等。虚拟数字人可以根据用户的需求和喜好，为他们提供个性化的推荐和建议。\n\n此外，虚拟数字人还可以成为用户的朋友和伙伴。在元宇宙中，用户可以与虚拟数字人进行交流和互动，分享彼此的喜好和兴趣。虚拟数字人可以陪伴用户度过孤独的时刻，给予他们情感上的支持和安慰。\n\n虚拟数字人的重要性还在于它们可以成为人类的代理人。在现实世界中，人们可能因为各种原因无法亲自参与某些活动或任务，而虚拟数字人可以代替他们完成这些任务。比如，在医疗领域，虚拟数字人可以代替医生进行诊断和治疗，为患者提供医疗服务。\n\n总之，元宇宙是一个虚拟的数字世界，虚拟数字人在其中扮演着重要的角色。它们不仅可以为用户提供个性化和定制化的服务，还可以成为用户的朋友和伙伴，甚至可以成为人类的代理人。随着科技的不断进步，元宇宙和虚拟数字人的重要性将会越来越凸显。"
+            ]
+        ],
+        "task_description": "文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-min",
+                "limit": 400
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "元宇宙",
+                    "虚拟数字人",
+                    "关系"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "重要"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "'你的目的群众是小学生，以上句子都太长太复杂了。考虑将其分成多个较短的简单句。",
+        "Instruction_id": "560190e549d5b9163c6c94eb1b17595ff73665cc88cc02c141c2a6487dd42a49",
+        "histories": [
+            [
+                "我想要一篇400字的短文章，既要详细介绍元宇宙，又要强调虚拟数字人的重要性",
+                "元宇宙是一个虚拟的数字世界，它是由计算机技术和人工智能技术构建而成的。在元宇宙中，人们可以通过虚拟现实技术进入一个全新的数字世界，与其他用户进行交互和沟通。\n\n元宇宙的概念最早由美国作家尼尔·斯蒂芬森在他的科幻小说《雪崩》中提出。随着科技的不断发展，元宇宙的概念逐渐成为现实。它不仅仅是一个虚拟的游戏世界，更是一个可以模拟现实世界的数字化空间。\n\n在元宇宙中，虚拟数字人扮演着重要的角色。虚拟数字人是通过人工智能技术生成的虚拟角色，它们具有独立的思维和行为能力。虚拟数字人可以与用户进行实时的交互和对话，甚至可以模拟人类的情感和行为。\n\n虚拟数字人的重要性在于它们可以为用户提供更加个性化和定制化的服务。在元宇宙中，用户可以通过与虚拟数字人的互动来获取各种信息和服务，比如购物、娱乐、教育等。虚拟数字人可以根据用户的需求和喜好，为他们提供个性化的推荐和建议。\n\n此外，虚拟数字人还可以成为用户的朋友和伙伴。在元宇宙中，用户可以与虚拟数字人进行交流和互动，分享彼此的喜好和兴趣。虚拟数字人可以陪伴用户度过孤独的时刻，给予他们情感上的支持和安慰。\n\n虚拟数字人的重要性还在于它们可以成为人类的代理人。在现实世界中，人们可能因为各种原因无法亲自参与某些活动或任务，而虚拟数字人可以代替他们完成这些任务。比如，在医疗领域，虚拟数字人可以代替医生进行诊断和治疗，为患者提供医疗服务。\n\n总之，元宇宙是一个虚拟的数字世界，虚拟数字人在其中扮演着重要的角色。它们不仅可以为用户提供个性化和定制化的服务，还可以成为用户的朋友和伙伴，甚至可以成为人类的代理人。随着科技的不断进步，元宇宙和虚拟数字人的重要性将会越来越凸显。"
+            ],
+            [
+                "文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系",
+                "元宇宙是一个虚拟的数字世界，它是由计算机技术和人工智能技术构建而成的。在元宇宙中，人们可以通过虚拟现实技术进入一个全新的数字世界，与其他用户进行交互和沟通。元宇宙可以模拟现实世界的各种场景和情境，让用户在虚拟的环境中体验到与现实世界相似的感觉。\n\n虚拟数字人是在元宇宙中生成的虚拟角色，它们是通过人工智能技术创建的。虚拟数字人具有独立的思维和行为能力，可以与用户进行实时的交互和对话。它们可以模拟人类的情感和行为，甚至可以根据用户的需求和喜好提供个性化的服务。\n\n元宇宙和虚拟数字人之间存在着密切的关系。元宇宙是一个虚拟的数字世界，而虚拟数字人则是在这个世界中扮演角色的虚拟实体。虚拟数字人是元宇宙中的居民，它们可以与其他用户进行交互和沟通，共同创造出一个充满活力和生机的虚拟社区。\n\n虚拟数字人在元宇宙中的重要性不可忽视。它们可以为用户提供个性化和定制化的服务，满足用户的各种需求和喜好。虚拟数字人可以根据用户的指令和要求执行各种任务，比如购物、娱乐、教育等。它们可以为用户提供实时的推荐和建议，帮助用户更好地享受元宇宙的体验。\n\n此外，虚拟数字人还可以成为用户的朋友和伙伴。在元宇宙中，用户可以与虚拟数字人进行交流和互动，分享彼此的喜好和兴趣。虚拟数字人可以陪伴用户度过孤独的时刻，给予他们情感上的支持和安慰。\n\n总之，元宇宙是一个虚拟的数字世界，虚拟数字人是在其中生成的虚拟角色。它们之间存在着密切的关系，虚拟数字人是元宇宙中的居民，可以为用户提供个性化和定制化的服务，成为用户的朋友和伙伴。随着科技的不断进步，元宇宙和虚拟数字人的关系将会越来越紧密，为用户带来更加丰富和多样化的体验。"
+            ]
+        ],
+        "task_description": "'你的目的群众是小学生，以上句子都太长太复杂了。考虑将其分成多个较短的简单句。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "shorter"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "元宇宙",
+                    "虚拟数字人",
+                    "关系",
+                    "重要性"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "请将下面的文本总结成两句话。ChatGPT代码解释器测试版开放后，用户即使不是程序员，也可以用自然语言向ChatGPT下达指令完成复杂编程任务，这可能会产生两个重大影响：消灭语言鸿沟；重塑产业形态。\n \n · 未来大模型快速迭代将有两个趋势：第一，ChatGPT一定会朝着更大规模、更多样的数据学习，同时结合私域专业性更强的数据，旨在开展更有宽度的学习；第二，它会加大数据解析程度，一定程度上可以认为是在开展更有深度的学习。\n ",
+        "Instruction_id": "cda556b11845d4c2571ab8028d21391098779f5c4f5d4ea9a3235687b1bc35ec",
+        "histories": [],
+        "task_description": "请将下面的文本总结成两句话。",
+        "input_text": "ChatGPT代码解释器测试版开放后，用户即使不是程序员，也可以用自然语言向ChatGPT下达指令完成复杂编程任务，这可能会产生两个重大影响：消灭语言鸿沟；重塑产业形态。\n \n · 未来大模型快速迭代将有两个趋势：第一，ChatGPT一定会朝着更大规模、更多样的数据学习，同时结合私域专业性更强的数据，旨在开展更有宽度的学习；第二，它会加大数据解析程度，一定程度上可以认为是在开展更有深度的学习。\n ",
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sentence-exact",
+                "limit": 2
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "ChatGPT",
+                    "代码解释器",
+                    "测试版",
+                    "自然语言",
+                    "未来",
+                    "大规模",
+                    "多样",
+                    "私域专业",
+                    "大数据",
+                    "解析"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "回答可能太简单了，需要更多细节。请增加关于ChatGPT的详细信息。",
+        "Instruction_id": "5b819eb9dc78de2b692c566fa8989bba8da695d92591010e0c855a844d8ed63b",
+        "histories": [
+            [
+                "请将下面的文本总结成两句话。ChatGPT代码解释器测试版开放后，用户即使不是程序员，也可以用自然语言向ChatGPT下达指令完成复杂编程任务，这可能会产生两个重大影响：消灭语言鸿沟；重塑产业形态。\n \n · 未来大模型快速迭代将有两个趋势：第一，ChatGPT一定会朝着更大规模、更多样的数据学习，同时结合私域专业性更强的数据，旨在开展更有宽度的学习；第二，它会加大数据解析程度，一定程度上可以认为是在开展更有深度的学习。\n ",
+                "ChatGPT代码解释器测试版开放后，非程序员用户也能用自然语言完成复杂编程任务，可能消除语言障碍并改变产业形态。未来，ChatGPT将趋向更大规模、多样化的数据学习，并结合私域专业数据，以实现更广泛和深入的学习。"
+            ]
+        ],
+        "task_description": "回答可能太简单了，需要更多细节。请增加关于ChatGPT的详细信息。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "ChatGPT",
+                    "代码解释器",
+                    "测试版",
+                    "开放",
+                    "非程序员",
+                    "自然语言",
+                    "复杂编程任务",
+                    "语言障碍",
+                    "产业形态",
+                    "未来",
+                    "大规模",
+                    "多样化",
+                    "私域专业数据"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。 限制字数为100字以内。",
+        "Instruction_id": "31ab92e756c7c0e230292390079c79026f028d531b12d1aaf4abd0bebea26fe3",
+        "histories": [],
+        "task_description": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。 限制字数为100字以内。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "股市",
+                    "下跌",
+                    "投资者",
+                    "前景"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "添加更多关于股市下跌的细节和投资者的担忧",
+        "Instruction_id": "2c775c8b1eb90c7662a62515646fdfa1e6e2d264c4314f1bf4f453ef8a879da2",
+        "histories": [
+            [
+                "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。 限制字数为100字以内。",
+                "本周，股市大幅下跌，投资者担忧全球经济前景。由于新冠疫情的不确定性和全球贸易紧张局势的加剧，投资者情绪低迷。道琼斯指数下跌超过500点，标普500指数和纳斯达克指数也出现了明显下滑。分析师指出，全球经济增长放缓、企业盈利下降以及政治不确定性等因素是导致股市下跌的主要原因。投资者呼吁政府采取措施稳定市场，以避免经济进一步受损。"
+            ]
+        ],
+        "task_description": "添加更多关于股市下跌的细节和投资者的担忧",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "股市",
+                    "下跌",
+                    "投资者",
+                    "担忧"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "前景"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内",
+        "Instruction_id": "611c7b1ab3bdf29595ffae821b56afeeddec529c0747ae701fdcd99e021c5057",
+        "histories": [],
+        "task_description": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 150
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "知识图谱",
+                    "电网故障",
+                    "智能",
+                    "应用",
+                    "化"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "使用简洁明了的语言，避免过多的专业术语",
+        "Instruction_id": "0e75a469cc665163cd700eef6935c86e1f25b3394c1ac03591e69e1cdbe14b54",
+        "histories": [
+            [
+                "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内",
+                "基于知识图谱的电网故障智能辅助处置技术可以应用于电力系统的故障诊断、故障定位和故障处理过程中。通过构建电力系统的知识图谱，将电网设备、故障类型、故障处理方法等信息进行关联和整合，实现对故障的智能分析和决策支持。该技术可以帮助电力工程师快速准确地诊断故障原因、定位故障位置，并提供相应的处理方案。此外，该技术还可以与监控系统、维修系统等进行集成，实现故障信息的实时更新和共享，提高故障处理的效率和准确性。基于知识图谱的电网故障智能辅助处置技术具有广阔的应用前景，可以在电力系统运维、故障处理和设备维修等领域发挥重要作用，提高电网的可靠性和安全性。"
+            ]
+        ],
+        "task_description": "使用简洁明了的语言，避免过多的专业术语",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "shorter"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "知识图谱",
+                    "电网故障",
+                    "智能",
+                    "应用",
+                    "化"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "Instruction_id": "bb0d7a69367880ce6961f96a2d27bb3a630f9ae41b3f91341488fbdafa93228b",
+        "histories": [
+            [
+                "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内",
+                "基于知识图谱的电网故障智能辅助处置技术可以应用于电力系统的故障诊断、故障定位和故障处理过程中。通过构建电力系统的知识图谱，将电网设备、故障类型、故障处理方法等信息进行关联和整合，实现对故障的智能分析和决策支持。该技术可以帮助电力工程师快速准确地诊断故障原因、定位故障位置，并提供相应的处理方案。此外，该技术还可以与监控系统、维修系统等进行集成，实现故障信息的实时更新和共享，提高故障处理的效率和准确性。基于知识图谱的电网故障智能辅助处置技术具有广阔的应用前景，可以在电力系统运维、故障处理和设备维修等领域发挥重要作用，提高电网的可靠性和安全性。"
+            ],
+            [
+                "使用简洁明了的语言，避免过多的专业术语",
+                "基于知识图谱的电网故障智能辅助处置技术可以帮助电力工程师快速诊断和处理电网故障。它通过整合电网设备、故障类型和处理方法等信息，提供智能分析和决策支持。这项技术可以准确地找出故障原因和位置，并给出相应的处理方案。它还可以与监控系统和维修系统集成，实现故障信息的实时更新和共享，提高故障处理的效率和准确性。基于知识图谱的电网故障智能辅助处置技术在电力系统运维、故障处理和设备维修等领域有广阔的应用前景，可以提高电网的可靠性和安全性。"
+            ]
+        ],
+        "task_description": "描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "应用场景",
+                    "电网故障检测",
+                    "故障定位",
+                    "故障诊断",
+                    "故障处理",
+                    "转化前景",
+                    "电网故障处理效率",
+                    "维修成本",
+                    "提升供电可靠性"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "知识图谱",
+                    "智能辅助处置技术"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。",
+        "Instruction_id": "903250b81de2f4ca766e4e2c4404762a5a0ab79c5c66d0c63136107e1b9fb575",
+        "histories": [],
+        "task_description": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "X实验室",
+                    "算力",
+                    "研究经验",
+                    "研究经费",
+                    "成果"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "回答可能太过简单，需要更加具体和有吸引力",
+        "Instruction_id": "c3cf137767ff81d3ca0b4caf6e2b37ac812d7159f8b6556f126a6517c2ff1064",
+        "histories": [
+            [
+                "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。",
+                "X实验室拥有强大算力、丰富研究经验和充裕经费，成果突出。我们致力于推动科学研究的前沿，通过创新的方法和技术解决现实问题。我们的团队由一群优秀的科学家和工程师组成，他们在各自领域具有卓越的专业知识和研究能力。我们的研究成果在学术界和工业界都得到了广泛认可和应用。我们欢迎合作伙伴和学术界同仁加入我们的研究团队，共同探索科学的未知领域。"
+            ]
+        ],
+        "task_description": "回答可能太过简单，需要更加具体和有吸引力",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "X实验室",
+                    "算力",
+                    "研究经验",
+                    "研究经费",
+                    "成果"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "你应该指明X实验室的研究领域和成果",
+        "Instruction_id": "b74fe06c7cd6d63f2452caf2023fe37a5557005201d6634551d52ace67996227",
+        "histories": [
+            [
+                "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。",
+                "X实验室拥有强大算力、丰富研究经验和充裕经费，成果突出。我们致力于推动科学研究的前沿，通过创新的方法和技术解决现实问题。我们的团队由一群优秀的科学家和工程师组成，他们在各自领域具有卓越的专业知识和研究能力。我们的研究成果在学术界和工业界都得到了广泛认可和应用。我们欢迎合作伙伴和学术界同仁加入我们的研究团队，共同探索科学的未知领域。"
+            ],
+            [
+                "回答可能太过简单，需要更加具体和有吸引力",
+                "X实验室是一支拥有强大算力和丰富研究经验的顶尖团队。我们致力于突破科学研究的边界，通过创新的方法和技术解决现实世界的难题。我们的研究成果在人工智能、生物医学、材料科学等领域取得了令人瞩目的突破。我们拥有先进的实验设备和优秀的研究人员，为合作伙伴提供最优质的研究合作机会。如果你渴望在前沿科学研究中发挥自己的才华，X实验室将是你实现梦想的理想之地。"
+            ]
+        ],
+        "task_description": "你应该指明X实验室的研究领域和成果",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "X实验室",
+                    "研究",
+                    "成果"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "算力",
+                    "研究经费"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。",
+        "Instruction_id": "ca570bead539081e0a1f227f2816f8cb03dea15947a3069436f0e182c4f5a5b0",
+        "histories": [],
+        "task_description": "为以上文本写一个微博文案。限制字数为200字以内。",
+        "input_text": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n",
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 200
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "基因表达水平",
+                    "生物",
+                    "循环神经网络",
+                    "方法"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发",
+        "Instruction_id": "d914fdc48eef3fbef721b9ffb84784c30cd1078ec51cda040fd33a758daff1b9",
+        "histories": [
+            [
+                "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。",
+                "基因表达水平的变化是生物研究中重要的指标之一。但由于遗传多样性和环境因素的影响，精确测量基因表达水平是一项挑战。循环神经网络（RNNs）是一种有效的解决方案，能够捕捉时间依赖性和非线性映射关系。本文提出了基于RNN的基因表达预测框架，并引入了自适应超参数调整和集成学习的改进方法，提高了预测精度和稳定性。这对深入研究分子生物学过程具有重要意义，丰富了研究理论和技术手段。#基因表达预测# #循环神经网络# #生物研究#"
+            ]
+        ],
+        "task_description": "加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 200
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "https://s.weibo.com/",
+                    "知识",
+                    "启发"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "基因表达水平",
+                    "生物研究",
+                    "循环神经网络",
+                    "改进方法"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内",
+        "Instruction_id": "c2884b22329d21e5a4991a73e4925e11c05de202d1bcd2c3d0696635331e595f",
+        "histories": [],
+        "task_description": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 500
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "度假",
+                    "夏日",
+                    "海滩",
+                    "玩耍",
+                    "狗"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传",
+        "Instruction_id": "7e372259a99d724553d297bf723cb010a95e85f82bec60c1bed3d01a828a515d",
+        "histories": [
+            [
+                "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内",
+                "1. 🌴🌊 Nothing beats a beach getaway with my furry best friend! 🐾☀️ We're soaking up the sun, making sandcastles, and enjoying the refreshing ocean breeze. This is what summer dreams are made of! #BeachBuddies #VacationVibes\n\n2. 🌞🐶 Escaping to paradise with my four-legged companion! 🌴✨ We're living our best life, sipping on tropical drinks, and exploring the stunning coastline. This vacation is all about relaxation and creating unforgettable memories. #SummerEscape #BeachLife\n\n3. 🏖️☀️ Sun, sand, and endless adventures with my loyal sidekick! 🐾❤️ We're diving into the crystal-clear waters, playing fetch on the shore, and basking in the warmth of summer. This is the ultimate vacation for us both! #BeachBound #SummerFun\n\n4. 🌊🌴 Paradise found! 🐶☀️ My furry friend and I are embracing the carefree vibes of summer. From long walks along the beach to chasing seagulls, every moment is filled with pure joy. This vacation is all about living in the moment and cherishing the simple pleasures. #SummerBliss #BeachLife\n\n5. 🌞🐾 Making memories that will last a lifetime! 🌊✨ My dog and I are on a summer adventure, exploring hidden coves, building sand sculptures, and indulging in delicious ice cream. This vacation is all about embracing the freedom and happiness that comes with the sunny season. #SummerGetaway #MemoriesInMaking"
+            ]
+        ],
+        "task_description": "加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 500
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "#"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "度假",
+                    "夏日",
+                    "快乐",
+                    "美好"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "沙滩",
+                    "狗"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "回答太平淡简短了，让回答更有吸引力和创意，可以加入一些诗句或引用",
+        "Instruction_id": "f9bcfbb57baa4aa5866d0481cfa7b08d63af20a2fb1a2f2bec46844b1a5b0f88",
+        "histories": [
+            [
+                "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内",
+                "1. 🌴🌊 Nothing beats a beach getaway with my furry best friend! 🐾☀️ We're soaking up the sun, making sandcastles, and enjoying the refreshing ocean breeze. This is what summer dreams are made of! #BeachBuddies #VacationVibes\n\n2. 🌞🐶 Escaping to paradise with my four-legged companion! 🌴✨ We're living our best life, sipping on tropical drinks, and exploring the stunning coastline. This vacation is all about relaxation and creating unforgettable memories. #SummerEscape #BeachLife\n\n3. 🏖️☀️ Sun, sand, and endless adventures with my loyal sidekick! 🐾❤️ We're diving into the crystal-clear waters, playing fetch on the shore, and basking in the warmth of summer. This is the ultimate vacation for us both! #BeachBound #SummerFun\n\n4. 🌊🌴 Paradise found! 🐶☀️ My furry friend and I are embracing the carefree vibes of summer. From long walks along the beach to chasing seagulls, every moment is filled with pure joy. This vacation is all about living in the moment and cherishing the simple pleasures. #SummerBliss #BeachLife\n\n5. 🌞🐾 Making memories that will last a lifetime! 🌊✨ My dog and I are on a summer adventure, exploring hidden coves, building sand sculptures, and indulging in delicious ice cream. This vacation is all about embracing the freedom and happiness that comes with the sunny season. #SummerGetaway #MemoriesInMaking"
+            ],
+            [
+                "加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传",
+                "1. 🌴🌊 Embracing the pure bliss of a beach vacation with my furry companion! 🐾☀️ The joy in his eyes matches mine as we frolic in the waves and soak up the sun. This is what true happiness feels like! #VacationBliss #SummerLove\n\n2. 🌞🐶 Escaping to paradise with my best friend by my side! 🌴✨ The warmth of the sun and the sound of crashing waves fill our hearts with pure joy. This vacation is a reminder to cherish every moment and appreciate the beauty of nature. #SummerEscape #BeachBuddies\n\n3. 🏖️☀️ Soaking up the sun and creating unforgettable memories with my loyal companion! 🐾❤️ The laughter, the sand between our toes, and the salty breeze make this vacation a dream come true. It's all about living in the present and cherishing the bond we share. #BeachBound #SummerFun\n\n4. 🌊🌴 Paradise found! 🐶☀️ My furry friend and I are basking in the happiness that comes with a summer getaway. From playful splashes in the ocean to lazy naps under the palm trees, this vacation is a reminder to embrace the simple joys of life. #SummerBliss #BeachLife\n\n5. 🌞🐾 Capturing the essence of summer joy with my beloved pup! 🌊✨ The carefree days, the warm sand beneath our paws, and the endless adventures make this vacation truly magical. It's a reminder to live life to the fullest and savor every moment of this beautiful season. #SummerGetaway #MemoriesInMaking"
+            ]
+        ],
+        "task_description": "回答太平淡简短了，让回答更有吸引力和创意，可以加入一些诗句或引用",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "#"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "度假",
+                    "夏日",
+                    "快乐",
+                    "美好"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "沙滩",
+                    "狗"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。",
+        "Instruction_id": "57765e3ec347f2cabcee1fd7b351135c6827030654116afd38495bfe71bff5e6",
+        "histories": [
+            [
+                "万圣节创建一个社交媒体抽奖活动的帖子。",
+                "🎃👻 万圣节社交媒体抽奖活动！👻🎃\n\n嗨，亲爱的朋友们！你们准备好迎接最吓人的节日了吗？是的没错，万圣节就要来了！为了庆祝这个令人兴奋的节日，我们决定举办一个特别的社交媒体抽奖活动，让你们有机会赢取一些令人惊喜的奖品！🎁\n\n参与方式非常简单：\n\n1️⃣ 关注我们的社交媒体账号（Facebook/Instagram/Twitter）。\n2️⃣ 点赞并分享此帖子，让更多的人了解我们的抽奖活动。\n3️⃣ 在评论中标记三个你最喜欢的万圣节活动或传统。\n\n完成以上三个步骤后，你就有机会赢取以下奖品之一：\n\n🎉 一等奖：价值XXX的万圣节礼品篮！\n🎉 二等奖：一张XXX餐厅的用餐券！\n🎉 三等奖：一份XXX万圣节主题的糖果礼盒！\n\n抽奖活动将于XXX（日期）截止，我们将在XXX（日期）公布获奖者。获奖者将通过私信或社交媒体公告方式通知，请确保你的账号设置允许我们与你联系。\n\n请注意：\n- 每个参与者只有一次参与机会。\n- 参与者必须年满18岁或以上。\n- 此抽奖活动仅限于XXX地区居民。\n\n祝大家好运！🍀 不要错过这个机会，让我们一起度过一个难忘的万圣节！👻💀\n\n#万圣节抽奖活动\n#万圣节庆祝\n#惊喜奖品\n#万圣节礼物篮\n#糖果盛宴"
+            ]
+        ],
+        "task_description": "加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "关注",
+                    "点赞",
+                    "评论",
+                    "标记朋友",
+                    "奖品",
+                    "礼物",
+                    "11月1日"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "加一些hashtags可以更好地宣传。",
+        "Instruction_id": "aa28342812e29b2baba00a6292bd5cf0db2e2abb2cbaf94bd0aa11ffe8edc74e",
+        "histories": [
+            [
+                "万圣节创建一个社交媒体抽奖活动的帖子。",
+                "🎃👻 万圣节社交媒体抽奖活动！👻🎃\n\n嗨，亲爱的朋友们！你们准备好迎接最吓人的节日了吗？是的没错，万圣节就要来了！为了庆祝这个令人兴奋的节日，我们决定举办一个特别的社交媒体抽奖活动，让你们有机会赢取一些令人惊喜的奖品！🎁\n\n参与方式非常简单：\n\n1️⃣ 关注我们的社交媒体账号（Facebook/Instagram/Twitter）。\n2️⃣ 点赞并分享此帖子，让更多的人了解我们的抽奖活动。\n3️⃣ 在评论中标记三个你最喜欢的万圣节活动或传统。\n\n完成以上三个步骤后，你就有机会赢取以下奖品之一：\n\n🎉 一等奖：价值XXX的万圣节礼品篮！\n🎉 二等奖：一张XXX餐厅的用餐券！\n🎉 三等奖：一份XXX万圣节主题的糖果礼盒！\n\n抽奖活动将于XXX（日期）截止，我们将在XXX（日期）公布获奖者。获奖者将通过私信或社交媒体公告方式通知，请确保你的账号设置允许我们与你联系。\n\n请注意：\n- 每个参与者只有一次参与机会。\n- 参与者必须年满18岁或以上。\n- 此抽奖活动仅限于XXX地区居民。\n\n祝大家好运！🍀 不要错过这个机会，让我们一起度过一个难忘的万圣节！👻💀\n\n#万圣节抽奖活动\n#万圣节庆祝\n#惊喜奖品\n#万圣节礼物篮\n#糖果盛宴"
+            ],
+            [
+                "加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。",
+                "🎃👻 万圣节社交媒体抽奖活动！👻🎃\n\n嗨，亲爱的朋友们！你们准备好迎接最吓人的节日了吗？是的没错，万圣节就要来了！为了庆祝这个令人兴奋的节日，我们决定举办一个特别的社交媒体抽奖活动，让你们有机会赢取一份神秘的万圣节礼物！🎁\n\n参与方式非常简单：\n\n1️⃣ 关注我们的社交媒体账号（Facebook/Instagram/Twitter）。\n2️⃣ 点赞并分享此帖子，让更多的人了解我们的抽奖活动。\n3️⃣ 在评论中标记三个你最喜欢的万圣节活动或传统，并@三位朋友邀请他们一起参与。\n\n完成以上三个步骤后，你就有机会赢取一份神秘的万圣节礼物！\n\n抽奖活动将于11月1日截止，我们将在同一天公布获奖者。获奖者将通过私信或社交媒体公告方式通知，请确保你的账号设置允许我们与你联系。\n\n请注意：\n- 每个参与者只有一次参与机会。\n- 参与者必须年满18岁或以上。\n- 此抽奖活动仅限于XXX地区居民。\n\n祝大家好运！🍀 不要错过这个机会，让我们一起度过一个难忘的万圣节！👻💀\n\n#万圣节抽奖活动\n#万圣节庆祝\n#惊喜奖品\n#神秘万圣节礼物\n#糖果盛宴"
+            ]
+        ],
+        "task_description": "加一些hashtags可以更好地宣传。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "#"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "关注",
+                    "点赞",
+                    "评论",
+                    "标记朋友",
+                    "奖品",
+                    "礼物",
+                    "11月1日"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "Instruction_id": "f0a1dea0be7a2a6299af1f290c4171513bc3173201f7e31b20f58b957281dac8",
+        "histories": [
+            [
+                "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。",
+                "健身爱好者，欢迎来到我的Twitter！我是你的健身指南，为你提供专业的训练建议和营养知识。点击我的网站，一起追求健康与活力！"
+            ]
+        ],
+        "task_description": "我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 160
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "网站",
+                    "www.example.com"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "健身"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”。",
+        "Instruction_id": "a34b70d69a517a5629e0830ce8011b37fae5eb72546aa2c732793c95e2c7b533",
+        "histories": [],
+        "task_description": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "数字营销",
+                        10
+                    ],
+                    [
+                        "在线课程",
+                        10
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "数字营销",
+                    "在线课程"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "主题行的关键词再加一个：限时优惠",
+        "Instruction_id": "f49671e2202eb9f1df8f01a74518a76d72d948b679064bc4ce4c94e8f2a2545f",
+        "histories": [
+            [
+                "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”。",
+                "1. 掌握数字营销技巧，参加我的在线课程！\n2. 提升你的数字营销能力，立即报名我的在线课程！\n3. 解锁数字营销的秘密，参与我的在线课程！\n4. 数字营销大师亲授，不容错过的在线课程！\n5. 快速提升数字营销技能，参加我的在线课程！\n6. 从零开始学习数字营销，报名我的在线课程！\n7. 打造成功的数字营销策略，参与我的在线课程！\n8. 专业数字营销课程，助你事业腾飞！\n9. 精通数字营销的关键，参加我的在线课程！\n10. 提高你的数字营销水平，立即报名我的在线课程！"
+            ]
+        ],
+        "task_description": "主题行的关键词再加一个：限时优惠",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "数字营销",
+                        10
+                    ],
+                    [
+                        "在线课程",
+                        10
+                    ],
+                    [
+                        "限时优惠",
+                        10
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "限时优惠"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "数字营销",
+                    "在线课程"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入时间：仅剩24小时",
+        "Instruction_id": "b1b6cb84ff65358a755823b14a90aa1167b15fc6ecb30f3f501eba4fd7618565",
+        "histories": [
+            [
+                "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”。",
+                "1. 掌握数字营销技巧，参加我的在线课程！\n2. 提升你的数字营销能力，立即报名我的在线课程！\n3. 解锁数字营销的秘密，参与我的在线课程！\n4. 数字营销大师亲授，不容错过的在线课程！\n5. 快速提升数字营销技能，参加我的在线课程！\n6. 从零开始学习数字营销，报名我的在线课程！\n7. 打造成功的数字营销策略，参与我的在线课程！\n8. 专业数字营销课程，助你事业腾飞！\n9. 精通数字营销的关键，参加我的在线课程！\n10. 提高你的数字营销水平，立即报名我的在线课程！"
+            ],
+            [
+                "主题行的关键词再加一个：限时优惠",
+                "1. 限时优惠！立即报名我的数字营销在线课程！\n2. 数字营销在线课程限时优惠，快来参加！\n3. 仅剩有限名额！限时优惠数字营销在线课程！\n4. 限时优惠！提升数字营销技能，参加我的在线课程！\n5. 数字营销在线课程限时优惠，不容错过的机会！\n6. 限时优惠！从零开始学习数字营销，报名我的在线课程！\n7. 数字营销在线课程限时优惠，打造成功的策略！\n8. 限时优惠！专业数字营销课程，助你事业腾飞！\n9. 数字营销在线课程限时优惠，精通关键技巧！\n10. 限时优惠！提高数字营销水平，立即报名我的在线课程！"
+            ]
+        ],
+        "task_description": "加入时间：仅剩24小时",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "数字营销",
+                        10
+                    ],
+                    [
+                        "在线课程",
+                        10
+                    ],
+                    [
+                        "限时优惠",
+                        10
+                    ],
+                    [
+                        "24小时",
+                        10
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "24小时"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "数字营销",
+                    "在线课程",
+                    "限时优惠"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "实验室主任换届，请写一份有关经费的情况说明。限制长度为两段话",
+        "Instruction_id": "86b126dd9fd236a7f59ab99338113e4b093e5c74b529bb859e7b1c3e3706a404",
+        "histories": [],
+        "task_description": "实验室主任换届，请写一份有关经费的情况说明。限制长度为两段话",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "实验室",
+                    "经费"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "说明可能需要更加客观和具体",
+        "Instruction_id": "0a98025f946adc2eee8da9f634b77aff28320dfd35844c721b2fae7fedd92326",
+        "histories": [
+            [
+                "实验室主任换届，请写一份有关经费的情况说明。限制长度为两段话",
+                "经费情况说明：实验室主任换届之际，我们对实验室的经费情况进行了全面梳理。目前，实验室的经费来源主要包括学校拨款和科研项目资助。近年来，学校对实验室的拨款逐年增加，确保了实验室正常运转和基本设施的维护。同时，实验室积极争取科研项目资助，通过与企业合作、申请国家级和地方级科研项目等方式，增加了实验室的研究经费。然而，由于实验室的研究方向多样且需求不断增加，经费仍然存在一定的紧张局面。在新一届实验室主任的领导下，我们将进一步优化经费使用，加强与企业合作，争取更多的科研项目资助，确保实验室的科研工作顺利进行。"
+            ]
+        ],
+        "task_description": "说明可能需要更加客观和具体",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "实验室",
+                    "经费"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。",
+        "Instruction_id": "6892d040caa7c2f550ed0b311899c5bcfa893516c185fbc0aa7bf45547aaf085",
+        "histories": [],
+        "task_description": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 1000
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "家用厨房"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "Instruction_id": "58b8fa723658e91e1a40e86de019895be7e540ad5c2b13e3c46ce5c245e19b8e",
+        "histories": [
+            [
+                "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。",
+                "设计书：家用厨房产品\n\n1. 引言\n   家用厨房产品的设计旨在提供便捷、高效和安全的烹饪体验。本设计书将详细介绍我们的产品设计理念、功能特点和创新之处。\n\n2. 设计理念\n   我们的设计理念是将美学与实用性相结合，创造出符合现代家庭需求的厨房产品。我们注重产品的外观设计、易用性和可持续性。\n\n3. 产品特点\n   3.1 智能控制系统\n       我们的产品配备智能控制系统，可以根据食材和烹饪方式自动调整温度和时间，确保食物的口感和营养。\n   3.2 多功能设计\n       我们的产品具有多种功能，如烹饪、蒸煮、烘烤和烤炸等，满足不同菜肴的需求，节省厨房空间。\n   3.3 安全性能\n       我们的产品采用高温防护技术和智能安全锁，确保用户在使用过程中的安全。\n   3.4 节能环保\n       我们的产品采用节能技术，减少能源消耗，并使用可再生材料，降低对环境的影响。\n\n4. 创新之处\n   4.1 智能配方识别\n       我们的产品配备智能配方识别功能，可以通过扫描食材包装上的二维码或使用语音识别，自动调整烹饪参数，实现一键烹饪。\n   4.2 智能储存系统\n       我们的产品配备智能储存系统，可以记录用户的烹饪偏好和习惯，提供个性化的烹饪建议和菜谱推荐。\n   4.3 智能清洁功能\n       我们的产品配备智能清洁功能，可以自动检测和清洁内部零件，减少用户的清洁工作量。\n\n5. 用户体验\n   我们注重用户体验，通过人性化的设计和简洁直观的操作界面，使用户能够轻松掌握产品的使用方法，并享受到高效、便捷的烹饪体验。\n\n6. 可行性分析\n   我们已经进行了市场调研和技术分析，确认我们的产品在市场上具有竞争力，并且技术上可行。\n\n7. 结论\n   我们的家用厨房产品设计旨在提供便捷、高效和安全的烹饪体验。通过智能控制系统、多功能设计和创新之处，我们相信我们的产品将满足用户的需求，并带来更好的用户体验。\n\n注：以上设计书仅为示例，实际设计书应根据具体产品的特点和需求进行编写。"
+            ]
+        ],
+        "task_description": "明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 1000
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "创新",
+                    "实用",
+                    "美观",
+                    "功能",
+                    "材料",
+                    "外观"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "家用厨房"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "设计书需要专业性和清晰度，现在的表达太模糊冗长了，稍微精简一点",
+        "Instruction_id": "814df4d0cf0feab1f5cdb45fbb370a3daa6c97b564833e29373a71fe71af8b64",
+        "histories": [
+            [
+                "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。",
+                "设计书：家用厨房产品\n\n1. 引言\n   家用厨房产品的设计旨在提供便捷、高效和安全的烹饪体验。本设计书将详细介绍我们的产品设计理念、功能特点和创新之处。\n\n2. 设计理念\n   我们的设计理念是将美学与实用性相结合，创造出符合现代家庭需求的厨房产品。我们注重产品的外观设计、易用性和可持续性。\n\n3. 产品特点\n   3.1 智能控制系统\n       我们的产品配备智能控制系统，可以根据食材和烹饪方式自动调整温度和时间，确保食物的口感和营养。\n   3.2 多功能设计\n       我们的产品具有多种功能，如烹饪、蒸煮、烘烤和烤炸等，满足不同菜肴的需求，节省厨房空间。\n   3.3 安全性能\n       我们的产品采用高温防护技术和智能安全锁，确保用户在使用过程中的安全。\n   3.4 节能环保\n       我们的产品采用节能技术，减少能源消耗，并使用可再生材料，降低对环境的影响。\n\n4. 创新之处\n   4.1 智能配方识别\n       我们的产品配备智能配方识别功能，可以通过扫描食材包装上的二维码或使用语音识别，自动调整烹饪参数，实现一键烹饪。\n   4.2 智能储存系统\n       我们的产品配备智能储存系统，可以记录用户的烹饪偏好和习惯，提供个性化的烹饪建议和菜谱推荐。\n   4.3 智能清洁功能\n       我们的产品配备智能清洁功能，可以自动检测和清洁内部零件，减少用户的清洁工作量。\n\n5. 用户体验\n   我们注重用户体验，通过人性化的设计和简洁直观的操作界面，使用户能够轻松掌握产品的使用方法，并享受到高效、便捷的烹饪体验。\n\n6. 可行性分析\n   我们已经进行了市场调研和技术分析，确认我们的产品在市场上具有竞争力，并且技术上可行。\n\n7. 结论\n   我们的家用厨房产品设计旨在提供便捷、高效和安全的烹饪体验。通过智能控制系统、多功能设计和创新之处，我们相信我们的产品将满足用户的需求，并带来更好的用户体验。\n\n注：以上设计书仅为示例，实际设计书应根据具体产品的特点和需求进行编写。"
+            ],
+            [
+                "明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+                "设计书：家用厨房产品\n\n1. 引言\n   本设计书旨在介绍一款创新、实用且美观的家用厨房产品。我们的设计目标是提供功能强大、材料优质且外观精美的产品。\n\n2. 产品特点\n   2.1 多功能设计\n       我们的产品将集成多种功能，如烹饪、蒸煮、烘烤和烤炸等，以满足用户在厨房中的各种需求。\n   2.2 高品质材料\n       我们将选用高品质的材料，如不锈钢、耐热玻璃和耐高温塑料，以确保产品的耐用性和安全性。\n   2.3 创新外观设计\n       我们将注重产品的外观设计，采用简约、现代的风格，以提升用户的使用体验和厨房的整体美观性。\n\n3. 创新之处\n   3.1 智能控制系统\n       我们的产品将配备智能控制系统，可以通过手机应用或触摸屏幕进行操作，实现精确的温度和时间控制。\n   3.2 智能配方识别\n       我们的产品将具备智能配方识别功能，可以通过扫描食材包装上的条形码或使用语音识别，自动调整烹饪参数，实现一键烹饪。\n   3.3 可拆卸设计\n       我们的产品将采用可拆卸设计，方便用户清洁和维护，同时减少产品的占用空间。\n\n4. 用户体验\n   我们将注重用户体验，通过简洁直观的操作界面和人性化的设计，使用户能够轻松掌握产品的使用方法，并享受到高效、便捷的烹饪体验。\n\n5. 可行性分析\n   我们已经进行了市场调研和技术分析，确认我们的产品在市场上具有竞争力，并且技术上可行。我们将与供应商合作，确保材料的供应和生产的可行性。\n\n6. 结论\n   我们的家用厨房产品设计旨在提供创新、实用且美观的烹饪体验。通过多功能设计、高品质材料和创新之处，我们相信我们的产品将满足用户的需求，并带来更好的用户体验。\n\n注：以上设计书仅为示例，实际设计书应根据具体产品的特点和需求进行编写。"
+            ]
+        ],
+        "task_description": "设计书需要专业性和清晰度，现在的表达太模糊冗长了，稍微精简一点",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 1000
+            },
+            {
+                "criterion": "revise",
+                "limit": "shorter"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "家用厨房",
+                    "创新",
+                    "实用",
+                    "美观",
+                    "功能",
+                    "材料",
+                    "外观"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "描述可能过于笼统，提供更具体的问题和需求说明。",
+        "Instruction_id": "a064b544661046b4ceb788d1255e947d20bc60a0908860273e7b5c7d8264ddaf",
+        "histories": [
+            [
+                "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。",
+                "基于知识图谱的电网故障智能辅助处置技术研究是一项重要的研究方向，它可以帮助电力工程师更快速、准确地识别和解决电网故障，提高电网的可靠性和稳定性。然而，目前存在一些问题和需求，需要进一步研究和解决。\n\n首先，电网故障的种类繁多，涉及到电力设备、电力线路、电力系统等多个方面。目前的电网故障智能辅助处置技术往往只能解决某一类故障，无法全面覆盖所有故障类型。因此，需要进一步研究和开发能够综合识别和处理各类电网故障的技术。\n\n其次，电网故障的诊断和处理需要大量的专业知识和经验。目前的电网故障智能辅助处置技术往往只是简单地基于规则或模型进行判断和推理，无法充分利用专家的经验和知识。因此，需要进一步研究和开发能够融合专家知识和经验的技术，提高故障诊断和处理的准确性和效率。\n\n此外，电网故障的处理往往需要多个部门和人员的协同工作。目前的电网故障智能辅助处置技术往往只能提供单一的解决方案，无法充分考虑各个部门和人员的需求和能力。因此，需要进一步研究和开发能够支持多部门协同工作的技术，提高故障处理的整体效能。\n\n综上所述，基于知识图谱的电网故障智能辅助处置技术研究存在问题和需求，需要进一步研究和开发能够综合识别和处理各类电网故障、融合专家知识和经验、支持多部门协同工作的技术，以提高电网故障处理的效率和准确性。"
+            ]
+        ],
+        "task_description": "描述可能过于笼统，提供更具体的问题和需求说明。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "电网故障智能辅助处置技术",
+                    "问题",
+                    "需求"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "强调知识图谱的应用和优势",
+        "Instruction_id": "3c743226d0c53abad4d71e1ab15f2657c231b66f56c87a0103741a6e03a43abf",
+        "histories": [
+            [
+                "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。",
+                "基于知识图谱的电网故障智能辅助处置技术研究是一项重要的研究方向，它可以帮助电力工程师更快速、准确地识别和解决电网故障，提高电网的可靠性和稳定性。然而，目前存在一些问题和需求，需要进一步研究和解决。\n\n首先，电网故障的种类繁多，涉及到电力设备、电力线路、电力系统等多个方面。目前的电网故障智能辅助处置技术往往只能解决某一类故障，无法全面覆盖所有故障类型。因此，需要进一步研究和开发能够综合识别和处理各类电网故障的技术。\n\n其次，电网故障的诊断和处理需要大量的专业知识和经验。目前的电网故障智能辅助处置技术往往只是简单地基于规则或模型进行判断和推理，无法充分利用专家的经验和知识。因此，需要进一步研究和开发能够融合专家知识和经验的技术，提高故障诊断和处理的准确性和效率。\n\n此外，电网故障的处理往往需要多个部门和人员的协同工作。目前的电网故障智能辅助处置技术往往只能提供单一的解决方案，无法充分考虑各个部门和人员的需求和能力。因此，需要进一步研究和开发能够支持多部门协同工作的技术，提高故障处理的整体效能。\n\n综上所述，基于知识图谱的电网故障智能辅助处置技术研究存在问题和需求，需要进一步研究和开发能够综合识别和处理各类电网故障、融合专家知识和经验、支持多部门协同工作的技术，以提高电网故障处理的效率和准确性。"
+            ],
+            [
+                "描述可能过于笼统，提供更具体的问题和需求说明。",
+                "对于基于知识图谱的电网故障智能辅助处置技术研究，以下是一些具体的问题和需求说明：\n\n1. 故障诊断准确性：目前的电网故障诊断技术往往基于规则或模型，无法充分利用专家的经验和知识。因此，需要研究如何将专家知识和经验融入到知识图谱中，提高故障诊断的准确性。\n\n2. 故障处理效率：电网故障处理往往需要多个部门和人员的协同工作，但目前的技术无法充分考虑各个部门和人员的需求和能力。因此，需要研究如何建立一个协同工作平台，能够支持多部门的协同工作，提高故障处理的效率。\n\n3. 知识图谱的构建和更新：知识图谱需要包含大量的电网故障相关知识，但目前的技术往往无法自动构建和更新知识图谱。因此，需要研究如何自动从各种数据源中提取和更新电网故障相关知识，保持知识图谱的准确性和实时性。\n\n4. 知识图谱的可视化和交互：知识图谱中的信息往往非常庞大和复杂，需要一种直观的可视化和交互方式来帮助用户理解和利用知识图谱。因此，需要研究如何设计和开发一种用户友好的可视化和交互界面，提高用户对知识图谱的使用效果。\n\n5. 知识图谱的扩展性和灵活性：电网故障相关知识不断更新和演化，因此，知识图谱需要具备良好的扩展性和灵活性，能够快速适应新的知识和需求。因此，需要研究如何设计和实现一个可扩展和灵活的知识图谱架构，支持知识的动态更新和扩展。\n\n通过解决以上问题和需求，基于知识图谱的电网故障智能辅助处置技术将能够更好地帮助电力工程师识别和解决电网故障，提高电网的可靠性和稳定性。"
+            ]
+        ],
+        "task_description": "强调知识图谱的应用和优势",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "知识图谱",
+                    "应用",
+                    "优势"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "电网故障智能辅助处置技术",
+                    "问题",
+                    "需求"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "要求包括美国和日本的研究现状",
+        "Instruction_id": "928946125f13ec34623dff9652986c2b98f874cb3a515338d2490b4955a77a77",
+        "histories": [
+            [
+                "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状",
+                "基于知识图谱的电网故障智能辅助处置技术是近年来在电力领域备受关注的研究方向。国内外学者们通过对电网故障数据的分析和知识图谱的构建，致力于提高电网故障的诊断和处置效率，以保障电网的安全稳定运行。\n\n在国内，许多研究机构和高校都开展了相关的研究工作。例如，中国电力科学研究院开展了基于知识图谱的电网故障智能辅助处置技术研究，通过构建电网故障知识图谱，实现了对电网故障的自动诊断和智能辅助处置。此外，清华大学、华南理工大学等高校也在该领域进行了一系列的研究，提出了一些创新的方法和算法，如基于深度学习的电网故障诊断模型。\n\n在国外，美国、德国、日本等发达国家也在电网故障智能辅助处置技术方面取得了一定的研究成果。例如，美国麻省理工学院的研究团队提出了一种基于知识图谱的电网故障智能辅助处置系统，通过将电网故障数据与专家知识相结合，实现了对电网故障的准确诊断和智能化处置。德国的西门子公司也在该领域进行了一些创新性的研究，提出了一种基于大数据和知识图谱的电网故障智能辅助处置方法，有效提高了电网故障的处理效率。\n\n总体而言，基于知识图谱的电网故障智能辅助处置技术在国内外都取得了一定的研究进展。未来，随着人工智能和大数据技术的不断发展，相信这一领域的研究将会取得更加突破性的成果，为电网故障的诊断和处置提供更加智能化的解决方案。"
+            ]
+        ],
+        "task_description": "要求包括美国和日本的研究现状",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "美国",
+                    "日本"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "知识图谱",
+                    "电网故障智能辅助处置技术"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "Instruction_id": "1cf5a005260ecf252cf2348b2276838646eabe06036794b5ad7831099c6dade0",
+        "histories": [
+            [
+                "请为“夏天”的主题写一篇短文（100字以内）",
+                "夏天是一年中最炎热的季节，也是人们最期待的季节之一。夏天的阳光明媚，空气清新，让人感到愉悦和舒适。夏天是游泳、野餐和露营的最佳时机，人们可以在海滩上尽情享受阳光和海浪的拥抱。夏天也是水果丰收的季节，各种美味的水果如西瓜、葡萄和草莓都成熟了。夏天的夜晚，星星闪烁，夜空清凉宜人，人们可以在户外露天餐厅享受美食和美景。总之，夏天是一个充满活力和快乐的季节，让人们尽情享受大自然的恩赐。"
+            ]
+        ],
+        "task_description": "要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 100
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "沙滩",
+                    "冰淇淋",
+                    "游泳",
+                    "阳光",
+                    "比基尼"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "夏天"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "扩写，让观后感更加生动有趣",
+        "Instruction_id": "8b03938c345b3f1691c45ae438a26a6f07e24cd6b1ff7d6920bb6ba61240b4b5",
+        "histories": [
+            [
+                "你今天看了流浪地球，写一篇观后感。限制篇幅为300-500字",
+                "《流浪地球》观后感\n\n《流浪地球》是一部由中国导演郭帆执导的科幻灾难片，该片改编自刘慈欣的同名小说。影片以地球即将被太阳膨胀毁灭为背景，讲述了人类为了拯救地球而展开的一系列壮举。观看完《流浪地球》，我深受震撼和思考。\n\n首先，影片的特效堪称一流。通过精美的视觉效果和逼真的场景再现，观众仿佛置身于电影中的世界。特效的精良程度让我不禁想起了好莱坞大片，这也是中国电影业在技术上的一次巨大突破。特效的精细处理使得电影中的太空场景、行星表面和地球内部都显得栩栩如生，给观众带来了强烈的代入感。\n\n其次，影片的剧情紧凑而富有张力。故事情节紧凑，节奏紧凑，每一个环节都紧扣主线，没有多余的废话。从地球离开太阳系到寻找新家园，再到最后的逆袭，每一个环节都让人屏息以待。影片中的冲突和危机感让观众紧张不已，同时也引发了对人类命运的思考。\n\n影片中的人物形象也给人留下了深刻的印象。主人公刘培强是一个普通的父亲，但他为了拯救地球，不惜放弃自己的生命，这种牺牲精神让人动容。而刘培强的女儿刘启则是一个勇敢而坚定的女孩，她的成长过程也是影片中的一大亮点。影片中的每一个角色都有自己的特点和故事，他们的命运交织在一起，共同为了一个目标而奋斗。\n\n最后，影片给人的思考是关于人类的未来和对地球的珍惜。地球是我们共同的家园，但我们却在不断地破坏它。《流浪地球》通过太阳膨胀的设定，提醒人们要珍惜地球资源，保护环境。影片中的人类团结一心，共同面对危机，这种团结精神也给人以启示，只有团结一心，人类才能战胜任何困难。\n\n总的来说，《流浪地球》是一部令人震撼的科幻灾难片。它不仅在技术上取得了突破，还通过紧凑的剧情和深刻的人物形象给观众留下了深刻的印象。影片中的思考和警示也让人深思，我们应该珍惜地球资源，保护环境，共同努力创造一个更美好的未来。"
+            ]
+        ],
+        "task_description": "扩写，让观后感更加生动有趣",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "流浪地球"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "定义元宇宙医学，介绍应用领域和潜在影响",
+        "Instruction_id": "1adb6d94b1f9b960829b7cd0e5448426c730f1d136a7e30527e35cab626ec891",
+        "histories": [
+            [
+                "我是一名从事科普文章写作的记者，请你帮助写篇稿子，向公众介绍什么是“元宇宙医学 ” 。",
+                "标题：探索未来：元宇宙医学的奇迹\n\n导语：\n随着科技的飞速发展，元宇宙医学正逐渐成为医学界的新宠儿。它不仅为人类带来了前所未有的医疗体验，还为医学研究和治疗提供了全新的可能性。本文将向公众介绍什么是“元宇宙医学”，以及它对我们的生活和健康带来的巨大影响。\n\n正文：\n1. 什么是元宇宙医学？\n元宇宙医学是一种基于虚拟现实（VR）和增强现实（AR）技术的医学应用。它通过模拟和重建人体内部的生理结构和疾病状态，为医生和患者提供更直观、全面的医疗信息和体验。元宇宙医学的目标是通过虚拟环境中的模拟和互动，提高医学教育、研究和临床实践的效率和质量。\n\n2. 元宇宙医学的应用领域\n元宇宙医学在医学教育、研究和临床实践中都有广泛的应用。在医学教育方面，学生可以通过虚拟现实技术进行解剖学实验、手术模拟和病例讨论，提高学习效果和技能培养。在医学研究方面，科学家可以利用元宇宙医学技术进行疾病模拟、药物研发和治疗方案的优化。在临床实践方面，医生可以通过虚拟现实技术进行手术规划、病情评估和康复训练，提高诊断和治疗的准确性和安全性。\n\n3. 元宇宙医学的优势和挑战\n元宇宙医学相比传统医学方法具有许多优势。首先，它可以提供更直观、全面的医疗信息，帮助医生更好地理解和解释疾病。其次，它可以提供高度个性化的医疗体验，满足患者的需求和期望。此外，元宇宙医学还可以降低医疗成本，减少医疗资源的浪费。然而，元宇宙医学的发展还面临一些挑战，如技术成熟度、数据安全性和隐私保护等问题，需要进一步研究和解决。\n\n4. 元宇宙医学的未来展望\n元宇宙医学的发展前景非常广阔。随着技术的不断进步，我们可以预见到以下几个方面的发展。首先，元宇宙医学将更加普及，成为医学教育和临床实践的标配工具。其次，元宇宙医学将与人工智能、大数据等技术相结合，实现更精准的诊断和治疗。最后，元宇宙医学还将推动医学研究的突破，加速新药的研发和临床应用。\n\n结语：\n元宇宙医学作为一种创新的医学应用，为我们带来了前所未有的医疗体验和治疗方式。它将改变我们对医学的认知和实践，为人类的健康事业带来巨大的希望。让我们共同期待元宇宙医学的未来，为更美好的医疗世界努力奋斗！"
+            ]
+        ],
+        "task_description": "定义元宇宙医学，介绍应用领域和潜在影响",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "元宇宙医学",
+                    "应用领域",
+                    "潜在影响"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "回答可能太专业了，需要更通俗易懂的语言，稍微简短一点。",
+        "Instruction_id": "60e1fc6a1ad0f2b8d4bee994aaf1c9e347cc744f175350306b5f5444019b7bb4",
+        "histories": [
+            [
+                "我是一名从事科普文章写作的记者，请你帮助写篇稿子，向公众介绍什么是“元宇宙医学 ” 。",
+                "标题：探索未来：元宇宙医学的奇迹\n\n导语：\n随着科技的飞速发展，元宇宙医学正逐渐成为医学界的新宠儿。它不仅为人类带来了前所未有的医疗体验，还为医学研究和治疗提供了全新的可能性。本文将向公众介绍什么是“元宇宙医学”，以及它对我们的生活和健康带来的巨大影响。\n\n正文：\n1. 什么是元宇宙医学？\n元宇宙医学是一种基于虚拟现实（VR）和增强现实（AR）技术的医学应用。它通过模拟和重建人体内部的生理结构和疾病状态，为医生和患者提供更直观、全面的医疗信息和体验。元宇宙医学的目标是通过虚拟环境中的模拟和互动，提高医学教育、研究和临床实践的效率和质量。\n\n2. 元宇宙医学的应用领域\n元宇宙医学在医学教育、研究和临床实践中都有广泛的应用。在医学教育方面，学生可以通过虚拟现实技术进行解剖学实验、手术模拟和病例讨论，提高学习效果和技能培养。在医学研究方面，科学家可以利用元宇宙医学技术进行疾病模拟、药物研发和治疗方案的优化。在临床实践方面，医生可以通过虚拟现实技术进行手术规划、病情评估和康复训练，提高诊断和治疗的准确性和安全性。\n\n3. 元宇宙医学的优势和挑战\n元宇宙医学相比传统医学方法具有许多优势。首先，它可以提供更直观、全面的医疗信息，帮助医生更好地理解和解释疾病。其次，它可以提供高度个性化的医疗体验，满足患者的需求和期望。此外，元宇宙医学还可以降低医疗成本，减少医疗资源的浪费。然而，元宇宙医学的发展还面临一些挑战，如技术成熟度、数据安全性和隐私保护等问题，需要进一步研究和解决。\n\n4. 元宇宙医学的未来展望\n元宇宙医学的发展前景非常广阔。随着技术的不断进步，我们可以预见到以下几个方面的发展。首先，元宇宙医学将更加普及，成为医学教育和临床实践的标配工具。其次，元宇宙医学将与人工智能、大数据等技术相结合，实现更精准的诊断和治疗。最后，元宇宙医学还将推动医学研究的突破，加速新药的研发和临床应用。\n\n结语：\n元宇宙医学作为一种创新的医学应用，为我们带来了前所未有的医疗体验和治疗方式。它将改变我们对医学的认知和实践，为人类的健康事业带来巨大的希望。让我们共同期待元宇宙医学的未来，为更美好的医疗世界努力奋斗！"
+            ],
+            [
+                "定义元宇宙医学，介绍应用领域和潜在影响",
+                "标题：元宇宙医学：开启医疗领域的新时代\n\n导语：\n元宇宙医学作为一种基于虚拟现实和增强现实技术的医学应用，正逐渐改变着医疗领域的格局。它不仅为医学教育、研究和临床实践带来了革命性的变革，还为患者提供了更加个性化和高效的医疗体验。本文将深入探讨元宇宙医学的定义、应用领域以及潜在影响。\n\n一、定义：\n元宇宙医学是一种利用虚拟现实和增强现实技术，模拟和重建人体内部的生理结构和疾病状态，为医学教育、研究和临床实践提供全新的解决方案的医学应用。通过创建虚拟环境，医生和患者可以进行交互和模拟，以提高医学教育的效果、加速医学研究的进展，并改善临床实践的质量。\n\n二、应用领域：\n1. 医学教育：元宇宙医学为医学生提供了更加直观、全面的学习体验。通过虚拟现实技术，学生可以进行解剖学实验、手术模拟和病例讨论，提高学习效果和技能培养。\n\n2. 医学研究：元宇宙医学为科学家提供了疾病模拟、药物研发和治疗方案优化的平台。通过虚拟环境中的模拟和互动，研究人员可以更加深入地了解疾病的发展机制，加速新药的研发和临床应用。\n\n3. 临床实践：元宇宙医学为医生提供了更加精准、安全的诊断和治疗方案。通过虚拟现实技术，医生可以进行手术规划、病情评估和康复训练，提高诊断和治疗的准确性和安全性。\n\n三、潜在影响：\n1. 提升医疗效率：元宇宙医学的应用将大大提高医疗效率。医生可以通过虚拟现实技术进行远程会诊，减少患者的等待时间和医疗资源的浪费。\n\n2. 个性化医疗：元宇宙医学为患者提供了更加个性化的医疗体验。通过虚拟现实技术，患者可以更好地了解自己的疾病情况，参与治疗决策，提高治疗效果和满意度。\n\n3. 促进医学研究：元宇宙医学为医学研究提供了全新的平台。科学家可以利用虚拟环境进行疾病模拟和药物研发，加速新药的研究和临床应用。\n\n4. 降低医疗成本：元宇宙医学的应用有望降低医疗成本。通过虚拟现实技术，医生可以进行手术模拟和规划，减少手术风险和并发症，降低医疗费用。\n\n结语：\n元宇宙医学作为一种创新的医学应用，将为医学教育、研究和临床实践带来革命性的变革。它将提升医疗效率、个性化医疗、促进医学研究，并有望降低医疗成本。让我们共同期待元宇宙医学的发展，为更加健康的未来努力奋斗！"
+            ]
+        ],
+        "task_description": "回答可能太专业了，需要更通俗易懂的语言，稍微简短一点。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "shorter"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "元宇宙医学",
+                    "应用",
+                    "能",
+                    "可以"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入具体案例和实际应用来支持论述",
+        "Instruction_id": "7d27fe60aa4e86090f86df04168327e3e845661727bb1faa0a2754d6fffbc43b",
+        "histories": [
+            [
+                "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。",
+                "在信息化和网络化背景下，技术的创新应用可能带来一系列伦理问题。首先，随着技术的发展，个人隐私和数据安全面临着越来越大的威胁。例如，个人信息被滥用、泄露或被用于商业目的的风险增加。其次，技术的创新应用可能导致社会不平等的加剧。例如，数字鸿沟可能会使那些无法访问或不熟悉技术的人群被边缘化。此外，技术的创新应用还可能引发道德和法律问题。例如，自动驾驶汽车的出现引发了关于道德决策和责任的争议。\n\n为了解决这些伦理问题，网络伦理治理应该贯穿技术创新应用的全生命周期。首先，技术创新应该从设计阶段就考虑伦理问题。在技术设计中，应该充分考虑个人隐私和数据安全的保护，以及社会公平和道德责任的问题。其次，技术创新应该在实施阶段进行伦理评估和监管。政府和相关机构应该制定相关法律和政策，确保技术的创新应用符合伦理标准。此外，技术创新应该在使用阶段进行伦理监督和评估。监管机构和独立第三方应该对技术的应用进行监督，确保其不会对个人和社会造成伦理问题。\n\n在解决网络工程伦理问题时，可以采用以下伦理观点和治理方法。首先，应该遵循个人隐私和数据安全的原则。个人信息的收集和使用应该经过个人的同意，并且应该采取措施保护个人信息的安全。其次，应该追求社会公平和道德责任。技术的创新应该促进社会的公平和包容，避免加剧社会不平等。此外，应该建立伦理评估和监管机制。技术的创新应该经过伦理评估，并受到独立监管机构的监督。\n\n最后，技术治理技术可能是解决网络工程伦理问题的一种可能性。技术本身可以用来解决技术带来的伦理问题。例如，加密技术可以用来保护个人隐私和数据安全，人工智能可以用来辅助道德决策。因此，技术治理技术可以作为一种手段来解决网络工程伦理问题。\n\n总之，在信息化和网络化背景下，技术的创新应用可能带来伦理问题。通过将网络伦理治理融入现代科技创新应用的全生命周期，采取伦理观点和治理方法，以及利用技术治理技术，可以解决这些伦理问题，确保技术的创新应用符合伦理标准。"
+            ]
+        ],
+        "task_description": "加入具体案例和实际应用来支持论述",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "案例",
+                    "实际",
+                    "应用"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "信息化",
+                    "网络化",
+                    "伦理问题",
+                    "网络伦理治理",
+                    "科技创新"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "强调网络伦理治理的重要性和必要性",
+        "Instruction_id": "d44938de1591c6835ab85f805b1b0fedd867a64e30632b38a7eedba913ca399b",
+        "histories": [
+            [
+                "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。",
+                "在信息化和网络化背景下，技术的创新应用可能带来一系列伦理问题。首先，随着技术的发展，个人隐私和数据安全面临着越来越大的威胁。例如，个人信息被滥用、泄露或被用于商业目的的风险增加。其次，技术的创新应用可能导致社会不平等的加剧。例如，数字鸿沟可能会使那些无法访问或不熟悉技术的人群被边缘化。此外，技术的创新应用还可能引发道德和法律问题。例如，自动驾驶汽车的出现引发了关于道德决策和责任的争议。\n\n为了解决这些伦理问题，网络伦理治理应该贯穿技术创新应用的全生命周期。首先，技术创新应该从设计阶段就考虑伦理问题。在技术设计中，应该充分考虑个人隐私和数据安全的保护，以及社会公平和道德责任的问题。其次，技术创新应该在实施阶段进行伦理评估和监管。政府和相关机构应该制定相关法律和政策，确保技术的创新应用符合伦理标准。此外，技术创新应该在使用阶段进行伦理监督和评估。监管机构和独立第三方应该对技术的应用进行监督，确保其不会对个人和社会造成伦理问题。\n\n在解决网络工程伦理问题时，可以采用以下伦理观点和治理方法。首先，应该遵循个人隐私和数据安全的原则。个人信息的收集和使用应该经过个人的同意，并且应该采取措施保护个人信息的安全。其次，应该追求社会公平和道德责任。技术的创新应该促进社会的公平和包容，避免加剧社会不平等。此外，应该建立伦理评估和监管机制。技术的创新应该经过伦理评估，并受到独立监管机构的监督。\n\n最后，技术治理技术可能是解决网络工程伦理问题的一种可能性。技术本身可以用来解决技术带来的伦理问题。例如，加密技术可以用来保护个人隐私和数据安全，人工智能可以用来辅助道德决策。因此，技术治理技术可以作为一种手段来解决网络工程伦理问题。\n\n总之，在信息化和网络化背景下，技术的创新应用可能带来伦理问题。通过将网络伦理治理融入现代科技创新应用的全生命周期，采取伦理观点和治理方法，以及利用技术治理技术，可以解决这些伦理问题，确保技术的创新应用符合伦理标准。"
+            ],
+            [
+                "加入具体案例和实际应用来支持论述",
+                "当谈到信息化和网络化背景下技术创新应用可能带来的伦理问题时，一个具体案例是人脸识别技术的广泛应用。人脸识别技术的发展使得个人身份的识别变得更加便捷和准确，但也引发了一系列伦理问题。\n\n首先，人脸识别技术可能侵犯个人隐私。例如，一些商业公司可能会在未经个人同意的情况下收集和使用个人的面部数据。这可能导致个人的隐私被侵犯，个人的面部数据可能被滥用或泄露。\n\n其次，人脸识别技术可能导致社会不平等的加剧。由于技术的高昂成本和技术使用的限制，一些人可能无法享受到人脸识别技术带来的便利。这可能导致数字鸿沟的扩大，使那些无法访问或不熟悉技术的人群被边缘化。\n\n此外，人脸识别技术的应用也引发了道德和法律问题。例如，在公共场所使用人脸识别技术进行监控可能侵犯个人的隐私权。此外，人脸识别技术的准确性和误识别率也引发了关于道德决策和责任的争议。如果技术误识别了某个人，可能会导致错误的指认和不公正的对待。\n\n为了解决这些伦理问题，网络伦理治理应该贯穿人脸识别技术的全生命周期。在设计阶段，应该考虑个人隐私和数据安全的保护，确保个人的面部数据不被滥用或泄露。在实施阶段，政府和相关机构应该制定相关法律和政策，确保人脸识别技术的应用符合伦理标准。在使用阶段，监管机构和独立第三方应该对人脸识别技术的应用进行监督，确保其不会对个人和社会造成伦理问题。\n\n此外，可以采用一些伦理观点和治理方法来解决人脸识别技术带来的伦理问题。例如，应该遵循个人隐私和数据安全的原则，确保个人的面部数据的收集和使用经过个人的同意，并采取措施保护个人信息的安全。同时，应该追求社会公平和道德责任，确保人脸识别技术的应用不会加剧社会不平等。此外，可以建立伦理评估和监管机制，对人脸识别技术的应用进行监督，确保其符合伦理标准。\n\n最后，技术治理技术也可以用来解决人脸识别技术带来的伦理问题。例如，可以利用加密技术来保护个人隐私和数据安全，确保个人的面部数据不被滥用或泄露。同时，可以利用人工智能技术来辅助道德决策，提高人脸识别技术的准确性和减少误识别率。\n\n综上所述，人脸识别技术的广泛应用是一个具体案例，展示了信息化和网络化背景下技术创新应用可能带来的伦理问题。通过将网络伦理治理融入人脸识别技术的全生命周期，采取伦理观点和治理方法，以及利用技术治理技术，可以解决这些伦理问题，确保人脸识别技术的应用符合伦理标准。"
+            ]
+        ],
+        "task_description": "强调网络伦理治理的重要性和必要性",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "重要",
+                    "必要"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "信息化",
+                    "网络化",
+                    "伦理",
+                    "网络伦理治理"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "邮件有点过于简短，请确保邮件内容客观、冷静，并提供具体的事实和理由",
+        "Instruction_id": "5c85377d84acd784d3214682e8c9cac03f65b2d8d5762ea44ba408cf25d3b70b",
+        "histories": [
+            [
+                "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。",
+                "Subject: Concerns Regarding My Twitter Account\n\nDear Twitter Support Team,\n\nI hope this email finds you well. I am writing to address a concern regarding my Twitter account, as I believe it has not violated any of Twitter's rules and guidelines. My account primarily serves as a platform for news browsing, and I rarely engage in posting tweets. \n\nRecently, I received a notification stating that my account may have violated Twitter's rules. However, I am unaware of any specific actions or content that could have led to this violation. I kindly request you to provide me with detailed information regarding the alleged violation, including specific tweets or actions that are in violation of your policies. \n\nI value the principles of fairness and transparency, and I firmly believe that if my account has indeed violated any rules, it is essential for me to understand the reasons behind it. Without a clear explanation, it would be difficult for me to rectify any potential mistakes or prevent similar issues in the future.\n\nI trust that Twitter, as a platform committed to fostering open dialogue and communication, upholds the principles of justice and fairness. Therefore, I kindly request you to review my account thoroughly and provide me with a detailed explanation of any violations found. This will enable me to address the issue appropriately and ensure compliance with Twitter's policies.\n\nI appreciate your attention to this matter and look forward to your prompt response. Thank you for your understanding and cooperation.\n\nSincerely,\n\n[Your Name]"
+            ]
+        ],
+        "task_description": "邮件有点过于简短，请确保邮件内容客观、冷静，并提供具体的事实和理由",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "Twitter",
+                    "account",
+                    "violation",
+                    "rules",
+                    "response"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "Instruction_id": "b211935f6931d261c2565566d8e864cbd395e4c73e041accb7fa6d1fb333bde6",
+        "histories": [
+            [
+                "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。",
+                "Subject: Concerns Regarding My Twitter Account\n\nDear Twitter Support Team,\n\nI hope this email finds you well. I am writing to address a concern regarding my Twitter account, as I believe it has not violated any of Twitter's rules and guidelines. My account primarily serves as a platform for news browsing, and I rarely engage in posting tweets. \n\nRecently, I received a notification stating that my account may have violated Twitter's rules. However, I am unaware of any specific actions or content that could have led to this violation. I kindly request you to provide me with detailed information regarding the alleged violation, including specific tweets or actions that are in violation of your policies. \n\nI value the principles of fairness and transparency, and I firmly believe that if my account has indeed violated any rules, it is essential for me to understand the reasons behind it. Without a clear explanation, it would be difficult for me to rectify any potential mistakes or prevent similar issues in the future.\n\nI trust that Twitter, as a platform committed to fostering open dialogue and communication, upholds the principles of justice and fairness. Therefore, I kindly request you to review my account thoroughly and provide me with a detailed explanation of any violations found. This will enable me to address the issue appropriately and ensure compliance with Twitter's policies.\n\nI appreciate your attention to this matter and look forward to your prompt response. Thank you for your understanding and cooperation.\n\nSincerely,\n\n[Your Name]"
+            ],
+            [
+                "邮件有点过于简短，请确保邮件内容客观、冷静，并提供具体的事实和理由",
+                "Subject: Request for Clarification Regarding Alleged Violation of Twitter Rules\n\nDear Twitter Support Team,\n\nI hope this email finds you well. I am writing to express my concerns regarding the recent notification I received, stating that my Twitter account may have violated Twitter's rules and guidelines. I firmly believe that my account has not engaged in any activities that breach your policies, as its primary purpose is to browse news rather than actively posting tweets.\n\nI would greatly appreciate it if you could provide me with specific details and evidence regarding the alleged violation. This will enable me to better understand the situation and address any potential misunderstandings or unintentional breaches of your rules. Without concrete information, it becomes challenging for me to rectify any issues or prevent similar occurrences in the future.\n\nAs an avid user of Twitter, I value the principles of fairness and transparency that underpin the platform. I trust that your team is committed to upholding these principles and ensuring that users are treated justly. Therefore, I kindly request a thorough review of my account, accompanied by a detailed explanation of any violations found. This will allow me to assess the situation objectively and take appropriate measures to comply with Twitter's policies.\n\nI would like to emphasize that I have always respected the rules and guidelines set forth by Twitter. If there have been any inadvertent violations, I assure you that they were unintentional and not reflective of my intentions or beliefs. I am eager to rectify any mistakes and continue using Twitter responsibly within the boundaries of your policies.\n\nThank you for your attention to this matter. I sincerely hope for a prompt response, providing me with the necessary information to address this issue effectively. I appreciate your understanding and cooperation.\n\nYours sincerely,\n\n[Your Name]"
+            ]
+        ],
+        "task_description": "明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "Twitter",
+                    "violation",
+                    "justice",
+                    "clarify",
+                    "reason"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "account",
+                    "violation",
+                    "rules",
+                    "response"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "Instruction_id": "4f4ce8a7d3b8098c7c373384579ba1d01bf66c290939c23a13b09f6bfeb11d20",
+        "histories": [
+            [
+                "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。",
+                "在这里，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，邀请所有复旦研究生、研会同学、研会老师和校友分享与研会相关的故事、活动和经历等等。无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你的参与和分享。"
+            ]
+        ],
+        "task_description": "加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "故事",
+                    "活动",
+                    "经历",
+                    "截止日期",
+                    "2022年6月30日"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "复旦",
+                    "研究生会",
+                    "四十周年",
+                    "故事征集活动",
+                    "校友"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "回答可能太过于正式和官方，需要更加亲切和鼓励，多用生动的长句",
+        "Instruction_id": "42d9179b2425f72b7bdf974841a2ceacf390a8922bc4ef2ec28a3aa79d96cdbf",
+        "histories": [
+            [
+                "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。",
+                "在这里，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，邀请所有复旦研究生、研会同学、研会老师和校友分享与研会相关的故事、活动和经历等等。无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你的参与和分享。"
+            ],
+            [
+                "加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+                "在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，邀请所有复旦研究生、研会同学、研会老师和校友分享与研会相关的故事、活动和经历等等。具体要求如下：\n\n1. 故事内容应与研会有关，可以是你在研会中的成长经历，与研会同学的友情故事，或者是研会组织的活动和项目等等。\n\n2. 故事可以是真实的个人经历，也可以是你所知道的他人的故事，但请确保故事的真实性。\n\n3. 故事可以是感人、有趣、温馨、激动或深刻的，没有限制。\n\n4. 截止日期为2022年6月30日，过期不再接受故事投稿。\n\n我们期待你的参与和分享，让我们一起回顾研会的历程，共同庆祝复旦大学研究生会成立四十周年！"
+            ]
+        ],
+        "task_description": "回答可能太过于正式和官方，需要更加亲切和鼓励，多用生动的长句",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "复旦",
+                    "研究生会",
+                    "四十周年",
+                    "故事征集活动",
+                    "校友",
+                    "故事",
+                    "活动",
+                    "经历",
+                    "截止日期",
+                    "2022年6月30日"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "Instruction_id": "70a377035c124e1dbbe89918a63fee6ca14f093dc83bd2e7cf63d64f6cf06de9",
+        "histories": [
+            [
+                "请为秦始皇写一份简历",
+                "姓名：秦始皇\n性别：男\n出生日期：公元前259年\n国籍：中国\n职业：秦朝皇帝\n\n教育背景：\n- 公元前246年至公元前238年：师从著名的政治家、军事家商鞅，学习政治、军事和国家管理知识。\n- 公元前238年至公元前235年：师从李斯，学习法律、行政和文化知识。\n\n工作经历：\n- 公元前247年至公元前221年：秦国亲政，成为秦国国君。\n- 公元前221年至公元前210年：统一六国，建立中国历史上第一个中央集权制国家——秦朝。\n- 公元前221年至公元前210年：进行一系列改革，包括推行法家思想，统一度量衡、货币和文字，修建万里长城等。\n- 公元前213年至公元前210年：进行巡视，巩固统一成果，加强对地方官员的监督。\n\n成就：\n- 成功统一六国，建立了中国历史上第一个中央集权制国家——秦朝。\n- 推行一系列改革，包括法家思想的推广，统一度量衡、货币和文字，修建万里长城等，为中国历史上的统一和发展奠定了基础。\n- 加强对地方官员的监督，提高了国家的管理效率。\n- 建立了强大的军队，保卫国家安全，巩固了统一成果。\n\n个人特质：\n- 勇敢果断：在统一六国的过程中，秦始皇表现出了勇敢果断的领导风格，决策迅速，果断行动。\n- 有远见：秦始皇意识到统一六国的重要性，并通过一系列改革措施，为中国历史上的统一和发展奠定了基础。\n- 重视管理：秦始皇加强对地方官员的监督，提高了国家的管理效率，为秦朝的稳定和发展做出了重要贡献。\n\n荣誉与奖项：\n- 秦始皇被尊称为“始皇帝”，成为中国历史上第一个皇帝。\n\n参考人物评价：\n- 商鞅：秦始皇的师傅，他评价秦始皇为“明察秋毫，见微知著，善于治国理政”。\n- 李斯：秦始皇的师傅，他评价秦始皇为“英明果断，有远见，是一位杰出的国君”。\n\n以上简历仅供参考，如有需要请酌情修改。"
+            ]
+        ],
+        "task_description": "加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "统一六国",
+                    "万里长城",
+                    "公元前259年",
+                    "秦朝",
+                    "皇帝",
+                    "成就"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "姓名：",
+                    "性别：",
+                    "出生日期：",
+                    "国籍：",
+                    "职业：",
+                    "教育背景：",
+                    "工作经历：",
+                    "关键成就：",
+                    "成就：",
+                    "个人特质：",
+                    "荣誉与奖项：",
+                    "参考人物评价"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "指明来访目的：交流合作。指明来访时间：2022年6月15日",
+        "Instruction_id": "0c6066074705b707a935af00ecb2ed82646ec26657063a13d877db4f84da82c5",
+        "histories": [
+            [
+                "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞",
+                "尊敬的恺英网络领导及全体嘉宾：\n\n大家好！我代表复旦大学计算机学院，对恺英网络一行的到访表示热烈欢迎，并向各位表示衷心的感谢。恺英网络作为一家在信息技术领域具有卓越实力和声誉的企业，一直以来都与复旦大学计算机学院保持着密切的合作关系。今天，恺英网络的到来，不仅是对我们学院的肯定，更是对我们合作的进一步深化和拓展的重要机遇。\n\n复旦大学计算机学院作为中国乃至全球计算机科学与技术领域的重要学府之一，一直致力于培养高素质的计算机人才，推动科技创新和社会进步。我们的学院拥有一支优秀的师资队伍，他们在学术研究和工程实践方面具有丰富的经验和卓越的成就。同时，我们拥有先进的实验设施和资源，为学生提供了良好的学习和研究环境。多年来，我们的学院与企业界保持着紧密的联系，积极开展产学研合作，为学生提供实践机会，促进科研成果的转化和应用。\n\n恺英网络一直以来都是我们学院的重要合作伙伴。我们共同开展了多项合作项目，包括人才培养、科研合作、技术创新等方面。恺英网络的专业技术团队和丰富的行业经验，为我们学院的教学和科研工作提供了宝贵的支持和帮助。同时，我们学院的优秀学生也有机会参与到恺英网络的实际项目中，锻炼自己的实践能力和创新思维。这种双赢的合作模式，不仅促进了学院与企业之间的深度交流，也为学生的职业发展提供了广阔的空间。\n\n今天，恺英网络的到来，将进一步加强我们学院与企业之间的合作关系。我们期待通过今天的交流和讨论，进一步明确双方的合作方向和目标，共同探索更多的合作机会和项目。我们相信，在双方的共同努力下，我们的合作将取得更加丰硕的成果，为推动信息技术的发展和社会的进步做出更大的贡献。\n\n最后，再次感谢恺英网络的到来，祝愿我们的合作取得圆满成功！谢谢大家！"
+            ]
+        ],
+        "task_description": "指明来访目的：交流合作。指明来访时间：2022年6月15日",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "目的",
+                    "交流合作",
+                    "时间",
+                    "2022年6月15日"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "复旦大学计算机学院",
+                    "恺英网络",
+                    "合作",
+                    "交流"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "Instruction_id": "d7bf153cf690d23a2f6507f1d42f8a115e3e07fac324e93906c3f4fabfa01251",
+        "histories": [
+            [
+                "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要",
+                "摘要：\n\n人工智能（Artificial General Intelligence，AGI）作为一种新兴技术，对于游戏产业的影响日益显著。本论文旨在探讨AGI在游戏产业中的应用和影响。首先，本文介绍了AGI的基本概念和发展历程。其次，论文分析了AGI在游戏开发、游戏设计和游戏体验方面的应用。AGI技术的引入使得游戏开发过程更加高效和智能化，提高了游戏的质量和创新性。同时，AGI还为游戏设计师提供了更多的创作工具和可能性，使得游戏更加富有个性和深度。最后，本文讨论了AGI对于游戏体验的影响，包括游戏智能化、情感交互和个性化体验等方面。AGI的引入使得游戏体验更加沉浸式和个性化，提升了玩家的参与度和满意度。综上所述，AGI对于游戏产业的影响是积极的，它为游戏开发、设计和体验带来了新的机遇和挑战。未来，随着AGI技术的不断发展和应用，游戏产业将迎来更加广阔的发展前景。"
+            ]
+        ],
+        "task_description": "指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "游戏开发",
+                    "游戏体验",
+                    "游戏创新"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "摘要",
+                    "游戏产业",
+                    "AGI",
+                    "应用",
+                    "影响"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "回答可能太过简洁，需要更具有说服力和逻辑性",
+        "Instruction_id": "f4887facd481dabb07267b68c7e536ffcc79d0da5a515a2dc0047b2745994ccf",
+        "histories": [
+            [
+                "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要",
+                "摘要：\n\n人工智能（Artificial General Intelligence，AGI）作为一种新兴技术，对于游戏产业的影响日益显著。本论文旨在探讨AGI在游戏产业中的应用和影响。首先，本文介绍了AGI的基本概念和发展历程。其次，论文分析了AGI在游戏开发、游戏设计和游戏体验方面的应用。AGI技术的引入使得游戏开发过程更加高效和智能化，提高了游戏的质量和创新性。同时，AGI还为游戏设计师提供了更多的创作工具和可能性，使得游戏更加富有个性和深度。最后，本文讨论了AGI对于游戏体验的影响，包括游戏智能化、情感交互和个性化体验等方面。AGI的引入使得游戏体验更加沉浸式和个性化，提升了玩家的参与度和满意度。综上所述，AGI对于游戏产业的影响是积极的，它为游戏开发、设计和体验带来了新的机遇和挑战。未来，随着AGI技术的不断发展和应用，游戏产业将迎来更加广阔的发展前景。"
+            ],
+            [
+                "指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+                "摘要：\n\n人工智能（Artificial General Intelligence，AGI）作为一种新兴技术，对于游戏产业的影响日益显著。本论文旨在探讨AGI在游戏产业中的应用和影响。首先，本文介绍了AGI的基本概念和发展历程。其次，论文分析了AGI在游戏开发、游戏体验和游戏创新方面的影响。\n\n在游戏开发方面，AGI技术的引入使得游戏开发过程更加高效和智能化。通过使用AGI算法和工具，开发人员可以更快速地生成游戏内容、调整游戏平衡和优化游戏性能。AGI还可以自动化一些繁琐的开发任务，如场景构建、角色设计和动画生成，从而减轻开发团队的工作负担。\n\n在游戏体验方面，AGI的应用使得游戏体验更加沉浸式和个性化。AGI可以根据玩家的行为和偏好，实时调整游戏难度和情节发展，提供更具挑战性和个性化的游戏体验。此外，AGI还可以实现情感交互，通过情感识别和生成技术，使得游戏角色能够更加真实地表达情感和与玩家进行情感互动。\n\n在游戏创新方面，AGI为游戏设计师提供了更多的创作工具和可能性。通过AGI技术，设计师可以更加灵活地创造出独特的游戏世界、角色和故事情节。AGI还可以帮助设计师生成新颖的游戏机制和玩法，推动游戏创新和突破。\n\n综上所述，AGI对于游戏产业的影响是多方面的。它在游戏开发、游戏体验和游戏创新方面都发挥着重要作用，为游戏产业带来了新的机遇和挑战。未来，随着AGI技术的不断发展和应用，游戏产业将迎来更加广阔的发展前景。"
+            ]
+        ],
+        "task_description": "回答可能太过简洁，需要更具有说服力和逻辑性",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "游戏开发",
+                    "游戏体验",
+                    "游戏创新",
+                    "摘要",
+                    "游戏产业",
+                    "AGI",
+                    "应用",
+                    "影响"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "明确文章结构：引言、压力的原因、应对策略、总结",
+        "Instruction_id": "e0d9f5b20346638c3cf34e38c9d3d338a57756e7020ad63936507273488d1808",
+        "histories": [
+            [
+                "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对",
+                "研究生培养期间面临的压力是不可避免的，但我们可以通过一些应对策略来减轻压力。\n\n首先，我们应该明确自己的目标和期望。研究生阶段是一个学术上的深造阶段，我们需要明确自己的研究方向和目标，制定合理的计划和时间表。这样可以帮助我们更好地分配时间和精力，减少压力。\n\n其次，我们应该保持积极的心态。面对压力时，我们要学会调整自己的心态，保持积极乐观的态度。我们可以通过与同学、导师或其他研究生交流，分享彼此的困惑和压力，寻求帮助和支持。同时，我们也可以通过参加一些兴趣爱好的活动，放松自己的身心，缓解压力。\n\n此外，我们还可以寻求专业的帮助。研究生期间，我们可以向导师、教授或其他专业人士寻求帮助和指导。他们可以给予我们宝贵的建议和意见，帮助我们解决问题和应对压力。\n\n最后，我们要学会合理安排时间。研究生期间，我们面临着大量的学术任务和研究工作，时间管理变得尤为重要。我们可以制定详细的计划和时间表，合理安排每天的学习和研究时间，避免拖延和浪费时间，提高工作效率。\n\n总之，研究生培养期间面临的压力是正常的，但我们可以通过明确目标、保持积极心态、寻求帮助和合理安排时间来应对压力。只有正确对待和应对压力，我们才能更好地完成研究生阶段的学业。"
+            ]
+        ],
+        "task_description": "明确文章结构：引言、压力的原因、应对策略、总结",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 200
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "引言",
+                    "压力的原因",
+                    "应对策略",
+                    "总结"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "研究生",
+                    "培养期间",
+                    "压力",
+                    "应对"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入专业和技能信息，表达对浦东软件园的兴趣",
+        "Instruction_id": "122dcbfd8fabc48bd3affa1b7185160b192f37e3d0faeb1dab6f84479c35256d",
+        "histories": [
+            [
+                "作为一名复旦计算机的学生，写一封向浦东软件园的求职信",
+                "尊敬的浦东软件园招聘团队：\n\n我是一名复旦大学计算机科学与技术专业的学生，非常荣幸有机会向贵公司投递我的求职信。我对浦东软件园的声誉和发展前景深感兴趣，并希望能够加入贵公司，为其发展贡献自己的力量。\n\n作为一名计算机专业的学生，我在课程学习中掌握了扎实的编程基础和计算机理论知识。我熟练掌握Java、C++等编程语言，并具备良好的数据结构和算法设计能力。在校期间，我积极参与各类项目和实践活动，锻炼了自己的团队合作能力和问题解决能力。我还通过自学，掌握了前端开发技术，如HTML、CSS和JavaScript，能够独立完成网页设计和开发工作。\n\n除了专业知识，我还注重培养自己的综合素质。我积极参与学校的社团活动，担任过部门负责人，锻炼了自己的组织和管理能力。我还参加过多次编程竞赛，获得了一定的奖项和荣誉，这证明了我的编程能力和解决问题的能力。\n\n我选择浦东软件园作为我的求职目标，是因为我对贵公司的发展前景和企业文化深感认同。我相信，在浦东软件园这样的创新环境中，我将有更多的机会学习和成长。我希望能够加入贵公司，与优秀的团队一起工作，共同推动公司的发展。\n\n感谢您花时间阅读我的求职信。我期待能够有机会参加贵公司的面试，展示我的能力和潜力。如有需要，我随时可以提供更详细的个人信息和材料。再次感谢您的关注和支持。\n\n此致\n\n敬礼\n\nXXX"
+            ]
+        ],
+        "task_description": "加入专业和技能信息，表达对浦东软件园的兴趣",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "专业",
+                    "技能",
+                    "浦东软件园",
+                    "兴趣"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "复旦计算机",
+                    "尊敬",
+                    "此致",
+                    "敬礼"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "加入关键词：新疆大枣、特点、好处",
+        "Instruction_id": "4b477cca23d5c963c5f38ea7590ebceb07765dca9e8799af0cbae737d718aaf4",
+        "histories": [
+            [
+                "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内",
+                "新疆大枣，产自中国西北地区的新疆，是一种独特的水果。它们生长在广阔的戈壁滩上，享受着充足的阳光和清新的空气。新疆大枣以其鲜美的口感和丰富的营养价值而闻名。\n\n新疆大枣肉质饱满，口感细腻，甜而不腻。它们富含维生素C、钙、铁和纤维素等多种营养物质，有助于增强免疫力、促进消化和补充能量。无论是作为零食还是作为食材，新疆大枣都是一种健康的选择。\n\n除了营养丰富，新疆大枣还有着悠久的历史和文化背景。它们在新疆地区被视为珍贵的礼品，常常用于庆祝节日和重要场合。每年的新疆大枣节也吸引了众多游客前来品尝和购买这个美味的水果。\n\n无论是作为健康零食还是作为独特的礼品，新疆大枣都是一种值得尝试的美食。它们的独特口感和丰富的营养价值使其成为人们日常生活中的理想选择。品尝一颗新疆大枣，你将体验到来自大自然的美味和满满的能量。"
+            ]
+        ],
+        "task_description": "加入关键词：特点、好处",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "word-max",
+                "limit": 200
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "特点",
+                    "好处"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "新疆大枣"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "让故事更加生动有趣",
+        "Instruction_id": "88ec65ab650cf0e675cbae7d78335d19eee38a9b80196be0d36e8caaa7879a3b",
+        "histories": [
+            [
+                "请以红豆为主题写一段童话故事，限制段落长度为5句话",
+                "从前有一个小姑娘叫小红，她非常喜欢红豆。每天，她都会去田野里寻找红豆。一天，她发现了一个神奇的红豆，它闪闪发光。小红决定把它带回家。她把红豆种在花盆里，不久后，一棵高大的红豆树长出来了。"
+            ]
+        ],
+        "task_description": "让故事更加生动有趣",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "revise",
+                "limit": "longer"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "红豆"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "要求包含关键词：红豆、甜、黑色的珍珠",
+        "Instruction_id": "0339ce6f72d649b085e86f93b2e767b835d821677960659fbced437c51891743",
+        "histories": [
+            [
+                "请以红豆为主题写一段童话故事，限制段落长度为5句话",
+                "从前有一个小姑娘叫小红，她非常喜欢红豆。每天，她都会去田野里寻找红豆。一天，她发现了一个神奇的红豆，它闪闪发光。小红决定把它带回家。她把红豆种在花盆里，不久后，一棵高大的红豆树长出来了。"
+            ],
+            [
+                "让故事更加生动有趣",
+                "从前有一个小姑娘叫小红，她非常喜欢红豆。每天，她都会穿过田野，跳过小溪，寻找着那颗独一无二的红豆。有一天，她终于发现了一个神奇的红豆，它不仅红得鲜艳，还闪闪发光。小红高兴地将它小心翼翼地带回家。\n\n小红将红豆种在花盆里，每天都用心地浇水、施肥。不久后，一棵奇特的红豆树长出来了。它的树干是红色的，枝条上挂满了红豆，每个红豆都散发着诱人的香气。小红开心地跳了起来，她知道这是一棵魔法红豆树。\n\n红豆树的魔法不仅仅是它的外观，还有它的力量。每当小红遇到困难时，她只需要摘下一颗红豆，轻轻一吹，红豆就会变成一颗小小的火球，帮助她解决问题。小红觉得自己像是拥有了超能力的超级英雄。\n\n小红和红豆树成了最好的朋友，她们一起度过了许多快乐的时光。小红还邀请了其他小朋友来参观红豆树，大家都被红豆树的魔法所吸引。红豆树成了小镇的宝贝，每个人都希望能够拥有一颗红豆。\n\n小红明白，红豆树的魔法不仅仅是为了解决问题，更是为了传递爱和友谊。她决定将红豆树的种子撒向四面八方，让更多的人感受到红豆树的魔力。从此以后，红豆树的种子在世界各地生根发芽，每个地方都有了属于自己的红豆树。\n\n小红的童话故事传遍了整个世界，人们都知道了红豆树的魔法。每当他们遇到困难时，只需要找到一颗红豆，轻轻一吹，就能得到力量和勇气。红豆树的魔法让人们的生活变得更加美好，充满了希望和幸福。"
+            ]
+        ],
+        "task_description": "要求包含关键词：红豆、甜、黑色的珍珠",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "writing_multi_rounds",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "甜",
+                    "黑",
+                    "珍珠"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "红豆"
+                ]
+            }
+        ]
+    }
+]

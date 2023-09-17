@@ -1,0 +1,347 @@
+[
+    {
+        "Instruction": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+        "Instruction_id": "edec79b57161fc71c38c3bb26e9bd176267d72fa07788c9e24d92c082f0a5109",
+        "histories": [
+            [
+                "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+                "这周，股市遭受了大幅下跌，投资者开始担心全球经济的前景。根据经济学家的预测，这次股市下跌可能是由于全球经济面临的潜在危险所致。\n\n首先，全球经济正处于一个混乱的时期。由于疫情、战争和其他因素，全球经济增长率正在放缓。这导致了许多国家的经济增长率降低，而美国经济则保持稳定。\n\n其次，股市下跌的原因可能是因为市场上的信心损失。投资者们担心全球经济的未来，因为它们认为经济增长率可能会继续放缓，而不是随时升。这种担忧导致了股市下跌，并且可能会影响到其他资产类型。\n\n此外，股市下跌也可能是因为投资者们对政策制定者的期望的失望。投资者们期望政策制定者能够采取有效的措施来推动经济增长，但是他们的期望可能会因为政治和制度问题而沦为空谈。\n\n总之，股市下跌的影响可能会延续很长时间，直到全球经济能够恢复正常增长。投资者们需要关注全球经济的动态，以及政策制定者的行动，以确保他们的投资不会受到损失。"
+            ]
+        ],
+        "task_description": "请根据以下文本生成一篇新闻报道:本周，股市出现了大幅下跌，投资者开始担心全球经济的前景。要求不少于50个词，包含股市下跌的原因和影响的描述",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "这周，股市遭受了大幅下跌，投资者开始担心全球经济的前景。根据经济学家的预测，这次股市下跌可能是由于全球经济面临的潜在危险所致。\n\n首先，全球经济正处于一个混乱的时期。由于疫情、战争和其他因素，全球经济增长率正在放缓。这导致了许多国家的经济增长率降低，而美国经济则保持稳定。\n\n其次，股市下跌的原因可能是因为市场上的信心损失。投资者们担心全球经济的未来，因为它们认为经济增长率可能会继续放缓，而不是随时升。这种担忧导致了股市下跌，并且可能会影响到其他资产类型。\n\n此外，股市下跌也可能是因为投资者们对政策制定者的期望的失望。投资者们期望政策制定者能够采取有效的措施来推动经济增长，但是他们的期望可能会因为政治和制度问题而沦为空谈。\n\n总之，股市下跌的影响可能会延续很长时间，直到全球经济能够恢复正常增长。投资者们需要关注全球经济的动态，以及政策制定者的行动，以确保他们的投资不会受到损失。"
+    },
+    {
+        "Instruction": "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+        "Instruction_id": "6ae90094e8974c0373e77f67a34c55ac63f14876b49099c4df4549d7da5c0f03",
+        "histories": [
+            [
+                "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+                "Title: Bridging the Gap: How Virtual Digital People Transform Our Understanding of the Metaverse\n\nIntroduction:\nThe concept of the metaverse has been a buzzword in the tech industry for quite some time now, with many companies and entrepreneurs racing to capitalize on this emerging technology. At the heart of the metaverse lies a blend of virtual and augmented reality, merging the digital and physical worlds in ways that were once considered science fiction. But what exactly is the metaverse, and how does it relate to virtual digital people? In this article, we will delve into the world of virtual digital people and explore how they are transforming our understanding of the metaverse.\n\nDefining the Metaverse:\nThe metaverse is a collective virtual shared space, created by the convergence of virtual reality (VR), augmented reality (AR), and the internet. It is a space where people can interact, socialize, and engage with digital content in a way that feels more immersive and real than ever before. The metaverse is not a single platform or product, but rather a network of interconnected virtual worlds that are accessible through various devices and platforms.\n\nDefining Virtual Digital People:\nVirtual digital people, also known as avatars, are digital representations of individuals in the metaverse. They are created using artificial intelligence and machine learning algorithms that enable them to mimic human behavior, appearance, and speech. Virtual digital people can be customized to resemble real people or be designed as entirely original characters. They are used in various applications, such as gaming, social media, education, and even in professional settings like virtual meetings and conferences.\n\nThe Relationship between Virtual Digital People and the Metaverse:\nThe relationship between virtual digital people and the metaverse is symbiotic. Virtual digital people are the \"faces\" of the metaverse, allowing users to interact with each other and digital content in a more personal and engaging way. They are the bridge that connects the digital and physical worlds, enabling people to experience the metaverse in a way that feels more tangible and real.\n\nThe Role of Virtual Digital People in the Metaverse:\nVirtual digital people play a crucial role in the metaverse by enabling social interaction and collaboration. They facilitate communication, learning, and collaboration among users, regardless of their physical location. They also serve as a means of self-expression, allowing users to create unique avatars that reflect their personalities and interests.\n\nConclusion:\nIn conclusion, virtual digital people are a vital component of the metaverse, providing a tangible and interactive experience for users. They bridge the gap between the digital and physical worlds, enabling people to engage with each other and digital content in ways that were once considered impossible. As the metaverse continues to evolve, virtual digital people will play an increasingly important role in shaping our understanding of this exciting new technology."
+            ]
+        ],
+        "task_description": "请写一份介绍元宇宙与虚拟数字人关系的400字短文章，要能够说明虚拟数字人对大众而言是元宇宙最直观的技术应用形式。文章应该定义元宇宙和虚拟数字人，并解释它们之间的关系。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "Title: Bridging the Gap: How Virtual Digital People Transform Our Understanding of the Metaverse\n\nIntroduction:\nThe concept of the metaverse has been a buzzword in the tech industry for quite some time now, with many companies and entrepreneurs racing to capitalize on this emerging technology. At the heart of the metaverse lies a blend of virtual and augmented reality, merging the digital and physical worlds in ways that were once considered science fiction. But what exactly is the metaverse, and how does it relate to virtual digital people? In this article, we will delve into the world of virtual digital people and explore how they are transforming our understanding of the metaverse.\n\nDefining the Metaverse:\nThe metaverse is a collective virtual shared space, created by the convergence of virtual reality (VR), augmented reality (AR), and the internet. It is a space where people can interact, socialize, and engage with digital content in a way that feels more immersive and real than ever before. The metaverse is not a single platform or product, but rather a network of interconnected virtual worlds that are accessible through various devices and platforms.\n\nDefining Virtual Digital People:\nVirtual digital people, also known as avatars, are digital representations of individuals in the metaverse. They are created using artificial intelligence and machine learning algorithms that enable them to mimic human behavior, appearance, and speech. Virtual digital people can be customized to resemble real people or be designed as entirely original characters. They are used in various applications, such as gaming, social media, education, and even in professional settings like virtual meetings and conferences.\n\nThe Relationship between Virtual Digital People and the Metaverse:\nThe relationship between virtual digital people and the metaverse is symbiotic. Virtual digital people are the \"faces\" of the metaverse, allowing users to interact with each other and digital content in a more personal and engaging way. They are the bridge that connects the digital and physical worlds, enabling people to experience the metaverse in a way that feels more tangible and real.\n\nThe Role of Virtual Digital People in the Metaverse:\nVirtual digital people play a crucial role in the metaverse by enabling social interaction and collaboration. They facilitate communication, learning, and collaboration among users, regardless of their physical location. They also serve as a means of self-expression, allowing users to create unique avatars that reflect their personalities and interests.\n\nConclusion:\nIn conclusion, virtual digital people are a vital component of the metaverse, providing a tangible and interactive experience for users. They bridge the gap between the digital and physical worlds, enabling people to engage with each other and digital content in ways that were once considered impossible. As the metaverse continues to evolve, virtual digital people will play an increasingly important role in shaping our understanding of this exciting new technology."
+    },
+    {
+        "Instruction": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "Instruction_id": "1437cf4879fd07cc992e6b51de682af84d654549efe244e9524cf22ed8db3c44",
+        "histories": [
+            [
+                "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+                "基于知识图谱的电网故障智能辅助处置技术研究，成果应用场景和转化前景。\n\n电网故障检测：使用AI技术对电网设备进行监测，检测到故障的早期迹象，提高故障报警时间。\n\n故障定位：利用AI模型进行故障定位，提高检测精度，减少误报。\n\n故障诊断：使用AI技术进行故障诊断，提高诊断速度，减少人工劳动。\n\n故障处理：基于AI技术的故障处理方案，提高处理效率，降低维修成本。\n\n转化前景：提高电网故障处理效率，降低维修成本，提升供电可靠性。\n\n通过AI技术的智能辅助，电网故障处理过程得到了重大改进，从检测到诊断，包括定位和处理，都可以实现更高效率和更低成本。这将有助于提升电网的可靠性，为社会和经济带来更多的价值。"
+            ]
+        ],
+        "task_description": "基于知识图谱的电网故障智能辅助处置技术研究 成果应用场景和转化前景。我想要一个简洁但详细的描述，所以我想限制字数为150字以内。描述应用场景：电网故障检测、故障定位、故障诊断和故障处理。描述转化前景：提高电网故障处理效率、降低维修成本、提升供电可靠性。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "基于知识图谱的电网故障智能辅助处置技术研究，成果应用场景和转化前景。\n\n电网故障检测：使用AI技术对电网设备进行监测，检测到故障的早期迹象，提高故障报警时间。\n\n故障定位：利用AI模型进行故障定位，提高检测精度，减少误报。\n\n故障诊断：使用AI技术进行故障诊断，提高诊断速度，减少人工劳动。\n\n故障处理：基于AI技术的故障处理方案，提高处理效率，降低维修成本。\n\n转化前景：提高电网故障处理效率，降低维修成本，提升供电可靠性。\n\n通过AI技术的智能辅助，电网故障处理过程得到了重大改进，从检测到诊断，包括定位和处理，都可以实现更高效率和更低成本。这将有助于提升电网的可靠性，为社会和经济带来更多的价值。"
+    },
+    {
+        "Instruction": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+        "Instruction_id": "31dbd92c4c825a5236d692b16c097ddeff2de095ad8643f1cc7082660dc9e438",
+        "histories": [
+            [
+                "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+                "在100字以内的介绍中，您可以提到 X 实验室的研究领域和成果，以便其他人了解您的实验室。以下是一个例子：\n\n\"X 实验室是一个充满创新的研究室，专注于计算机科学、人工智能和大数据等领域。它拥有强大的算力和丰富的研究经验，使其成为了解复杂问题的专家。实验室的研究人员获得了丰富的研究经费，有效地支持他们的研究。在过去的几年来，X 实验室的成果突出，包括多项著名论文、多项实验室内的创新项目以及与众多企业合作的研究。这些成果已经为全球科学界和工业界带来重要影响，并为未来的科技发展奠定了坚实的基础。\""
+            ]
+        ],
+        "task_description": "X实验室有着强大的算力，丰富的研究经验，研究经费充裕，成果突出，帮我写一段介绍，限制字数为100字以内。你应该指明X实验室的研究领域和成果。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "在100字以内的介绍中，您可以提到 X 实验室的研究领域和成果，以便其他人了解您的实验室。以下是一个例子：\n\n\"X 实验室是一个充满创新的研究室，专注于计算机科学、人工智能和大数据等领域。它拥有强大的算力和丰富的研究经验，使其成为了解复杂问题的专家。实验室的研究人员获得了丰富的研究经费，有效地支持他们的研究。在过去的几年来，X 实验室的成果突出，包括多项著名论文、多项实验室内的创新项目以及与众多企业合作的研究。这些成果已经为全球科学界和工业界带来重要影响，并为未来的科技发展奠定了坚实的基础。\""
+    },
+    {
+        "Instruction": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+        "Instruction_id": "2d5facfd776f1fb033c3723c3d62c243f436f284ada934a50c5578ddddaeff36",
+        "histories": [
+            [
+                "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+                "🔬 Discover a novel #RNN-based gene expression prediction framework, including pre-processing steps and recurrent unit modules! This innovative approach addresses the challenges of measuring gene expression levels in individual samples, providing a more accurate and reliable solution for biological research. Stay informed and inspired! 🌟🔬 #GeneExpression #RNN #PredictionFramework"
+            ]
+        ],
+        "task_description": "为以上文本写一个微博文案。限制字数为200字以内。加入博客链接（https://s.weibo.com/），并告诉他们阅读会带来知识和启发。",
+        "input_text": "对于生物研究而言，基因表达水平的变化通常被视为表型变化的指示器之一。然而，由于遗传多样性和对环境因素影响的存在，很难从个体水平的基线状态上完全精确地测量基因表达水平。在这种情况下，采用循环神经网络（RNNs）的基因表达预测框架不失为一个有效的解决方案。\n RNN是一种非常强大的序列处理工具，它可以模拟人脑的自然语言理解能力，具有良好的鲁棒性和可解释性。与传统的ML算法相比，RNN因其深层次的内部结构而具有更高的信息提取效率和高准确率的特征表示功能，能够有效地捕捉时间依赖性的模式，更好地应对序列数据中的非线性映射关系和信息缺失等问题。\n 在本文中，作者提出了一种基于RNN的基因表达预测框架，包括预处理步骤和循环单元模块。预处理阶段主要针对序列数据的特点（如长度不规则和不完整等），将其转换为固定长度的向量；循环单元模块则负责处理序列数据之间的时序关联和相关性。在此基础上，作者提出了两类改进的方法，分别是自适应的超参数调整方法和集成学习的优化组合方法。经过大量的仿真实验和分析对比，发现本文所提的自适应超参数调整方法和集成学习的优化组合方法是有效的，能够显著提高整个框架的预测精度及稳定性。\n 总之，本文的所提出的基因表达预测框架及其提出的两种改进方法对于深入探究分子生物学过程提供了重要的支持和建议，同时也进一步丰富了现有研究的理论成果和技术手段，具有一定的借鉴意义。 \n",
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "🔬 Discover a novel #RNN-based gene expression prediction framework, including pre-processing steps and recurrent unit modules! This innovative approach addresses the challenges of measuring gene expression levels in individual samples, providing a more accurate and reliable solution for biological research. Stay informed and inspired! 🌟🔬 #GeneExpression #RNN #PredictionFramework"
+    },
+    {
+        "Instruction": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+        "Instruction_id": "733873a8e99d4759f9a3cef440b0a56ac9ebd65d3ba9e5073e73691ddd5089ac",
+        "histories": [
+            [
+                "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+                "1. 🌊🐕🌞 普通的日子转瞬间变成了一个狂野的度假。跑来跑去的海水，狗子与我一起玩耍。夏日的晨曦，我们在沙滩上晒太阳，紧张的疲劳抛给了我们一份快乐。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n2. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的夏日梦。温暖的海水涌上来，我们挑战了一个新的挑战。在这个美好的日子里，我们都能够感受到爱的轻松。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n3. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的度假故事。在这个美好的夏日里，我们一起探索和爱。让我们的爱情在这个快乐的地方永恒地存在。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n4. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的夏日梦。在这个美好的日子里，我们都能够感受到爱的轻松。在这个度假的气候里，我们一起挑战各种挑战。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n5. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的度假故事。在这个美好的夏日里，我们一起探索和爱。在这个快乐的地方，我们都能够感受到爱的轻松。在这个度假的气候里，我们一起挑战各种挑战。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野"
+            ]
+        ],
+        "task_description": "为一张我和我的狗在海滩玩耍的照片生成5个关于“度假”、“夏日”的Instagram博文文案。限制每个博文的字数为100字以内。加入情感：享受度假的快乐和夏日的美好。加入一些hashtags方便宣传。让回答更有吸引力和创意，可以加入一些诗句或引用。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "1. 🌊🐕🌞 普通的日子转瞬间变成了一个狂野的度假。跑来跑去的海水，狗子与我一起玩耍。夏日的晨曦，我们在沙滩上晒太阳，紧张的疲劳抛给了我们一份快乐。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n2. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的夏日梦。温暖的海水涌上来，我们挑战了一个新的挑战。在这个美好的日子里，我们都能够感受到爱的轻松。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n3. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的度假故事。在这个美好的夏日里，我们一起探索和爱。让我们的爱情在这个快乐的地方永恒地存在。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n4. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的夏日梦。在这个美好的日子里，我们都能够感受到爱的轻松。在这个度假的气候里，我们一起挑战各种挑战。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野\n5. 🌊🐕🌞 我和我的狗在海滩玩耍，这是我们的度假故事。在这个美好的夏日里，我们一起探索和爱。在这个快乐的地方，我们都能够感受到爱的轻松。在这个度假的气候里，我们一起挑战各种挑战。 #度假 #夏日 #狗狗友情 #晒太阳 #沙滩 #爱情 #快乐 #瞬间 #狂野"
+    },
+    {
+        "Instruction": "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+        "Instruction_id": "cbc73ce1edd922b99679dd6f6e985cc91c831d73de7b3cc8e231394d2925a307",
+        "histories": [
+            [
+                "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+                "🎃🔮🌟【万圣节抽奖活动】✨🎁\n\n奖品：一份神秘万圣节礼物\n\n时间：11月1日公布获奖者\n\n参与条件：\n\n1. 关注本帖子\n2. 点赞本帖子\n3. 评论本帖子\n4. 标记朋友\n\n抽奖方式：\n\n1. 我们会在11月1日公布获奖者的名单。\n2. 获奖者将收到一份神秘万圣节礼物。\n\n规则：\n\n1. 参与者必须是本帖子的关注者。\n2. 每个人只能参与一次抽奖。\n3. 抽奖结果是固定的，不可以被改变。\n\n帖子链接：[点击这里参与抽奖]\n\n使用以下hashtags来更好地宣传活动：\n\n#万圣节抽奖 #神秘礼物 #圣诞节抽奖 #感恩节抽奖 #庆祝圣诞 #礼物抽奖 #幸运秒挑选 #万圣节礼物抽奖 #圣诞节礼物抽奖 #抽奖秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩"
+            ]
+        ],
+        "task_description": "万圣节创建一个社交媒体抽奖活动的帖子。加入具体要求：关注账号、点赞、评论、标记朋友。加入奖品：一份神秘万圣节礼物。加入时间：11月1日公布获奖者。加一些hashtags可以更好地宣传。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "🎃🔮🌟【万圣节抽奖活动】✨🎁\n\n奖品：一份神秘万圣节礼物\n\n时间：11月1日公布获奖者\n\n参与条件：\n\n1. 关注本帖子\n2. 点赞本帖子\n3. 评论本帖子\n4. 标记朋友\n\n抽奖方式：\n\n1. 我们会在11月1日公布获奖者的名单。\n2. 获奖者将收到一份神秘万圣节礼物。\n\n规则：\n\n1. 参与者必须是本帖子的关注者。\n2. 每个人只能参与一次抽奖。\n3. 抽奖结果是固定的，不可以被改变。\n\n帖子链接：[点击这里参与抽奖]\n\n使用以下hashtags来更好地宣传活动：\n\n#万圣节抽奖 #神秘礼物 #圣诞节抽奖 #感恩节抽奖 #庆祝圣诞 #礼物抽奖 #幸运秒挑选 #万圣节礼物抽奖 #圣诞节礼物抽奖 #抽奖秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩节礼物抽奖 #庆祝圣诞节 #礼物抽奖秒挑选 #幸运秒挑选 #圣诞节礼物抽奖 #感恩"
+    },
+    {
+        "Instruction": "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "Instruction_id": "89b05cf7124871257ac4edba52726dbc76e314f810a62e3a8fb9b84142c9a87b",
+        "histories": [
+            [
+                "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+                "🌟 健身爱好者欢迎来到！ 🌟\n\n我是一个热爱健身的狂热人，追求生活中的平衡。在追求我的健康目标时，我发现了一个令人羡慕的网站 - [www.example.com](http://www.example.com)。这里，我为健身爱好者提供了一个丰富的资源，欢迎大家来探索吧！\n\n关注我的Twitter，了解我的健身之旅，并与我分享你的健身经验。让我们一起成长，实现我们的健康目标！\n\n# 健身爱好者 # 健身 # 网站链接 # 资源 # 健康目标"
+            ]
+        ],
+        "task_description": "我想更新我的Twitter个人资料，针对健身爱好者进行优化。为我写一段吸引人的自我介绍，让潜在的客户点击我的网站。你最多可以用160个字符。我应该指明我是健身爱好者，并提到我的网站链接。加入关键词：健身爱好者，加入网站链接：www.example.com",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "🌟 健身爱好者欢迎来到！ 🌟\n\n我是一个热爱健身的狂热人，追求生活中的平衡。在追求我的健康目标时，我发现了一个令人羡慕的网站 - [www.example.com](http://www.example.com)。这里，我为健身爱好者提供了一个丰富的资源，欢迎大家来探索吧！\n\n关注我的Twitter，了解我的健身之旅，并与我分享你的健身经验。让我们一起成长，实现我们的健康目标！\n\n# 健身爱好者 # 健身 # 网站链接 # 资源 # 健康目标"
+    },
+    {
+        "Instruction": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+        "Instruction_id": "1ee5b8ea80994ab6fb0e886817aec29d1a24514d7201897e72f65e59d7bb12db",
+        "histories": [
+            [
+                "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+                "1. 🚀 Unlock the Secrets of Digital Marketing: Enroll in Our Exclusive Online Course Today!\n2. 🌟 Master the Art of Digital Marketing: Limited-Time Offer - Join Our 24-Hour Course Now!\n3. 💡 Transform Your Business with Our Innovative Digital Marketing Strategies\n4. 📈 Boost Your Online Presence: Enroll in Our Limited-Time Digital Marketing Course\n5. 🎯 Achieve Digital Marketing Success: Join Our 24-Hour Online Course Today!\n6. 🌐 Expand Your Reach: Enroll in Our Exclusive Digital Marketing Online Course\n7. 🎓 Learn from Industry Experts: Our 24-Hour Digital Marketing Course - Limited Time Offer\n8. 📝 Unleash the Power of Digital Marketing: Enroll in Our Limited-Time Online Course\n9. 💻 Elevate Your Digital Marketing Skills: Join Our 24-Hour Online Course Today!\n10. 🎉 Celebrate the New Year with Our Limited-Time Digital Marketing Course - Enroll Now!"
+            ]
+        ],
+        "task_description": "我正在寻找一个关于我的新数字营销在线课程的电子邮件的主题行。这封邮件将发送给我的订阅者，目的是让他们报名参加课程。生成10个引人注目的主题行，包含“数字营销”、“在线课程”、“限时优惠”，加入时间：仅剩24小时",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "1. 🚀 Unlock the Secrets of Digital Marketing: Enroll in Our Exclusive Online Course Today!\n2. 🌟 Master the Art of Digital Marketing: Limited-Time Offer - Join Our 24-Hour Course Now!\n3. 💡 Transform Your Business with Our Innovative Digital Marketing Strategies\n4. 📈 Boost Your Online Presence: Enroll in Our Limited-Time Digital Marketing Course\n5. 🎯 Achieve Digital Marketing Success: Join Our 24-Hour Online Course Today!\n6. 🌐 Expand Your Reach: Enroll in Our Exclusive Digital Marketing Online Course\n7. 🎓 Learn from Industry Experts: Our 24-Hour Digital Marketing Course - Limited Time Offer\n8. 📝 Unleash the Power of Digital Marketing: Enroll in Our Limited-Time Online Course\n9. 💻 Elevate Your Digital Marketing Skills: Join Our 24-Hour Online Course Today!\n10. 🎉 Celebrate the New Year with Our Limited-Time Digital Marketing Course - Enroll Now!"
+    },
+    {
+        "Instruction": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "Instruction_id": "2e3a353a14ec908c6434bf83b42133447bf7051f57084806128ee4d1e72d3c47",
+        "histories": [
+            [
+                "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+                "家厨房产品设计书\n\n1. 产品目标\n\n创新、实用性、美观性。\n\n1. 产品功能\n\n* 储存食材\n* 剪刀\n* 拿起食物\n* 摆放食材\n* 洗碗\n* 干燥碗\n* 烹饪食材\n* 调温\n* 冷却\n* 浇油\n* 焙烤\n* 烹饪\n* 卸载\n\n1. 材料选择\n\n* 塑料\n* 铝\n* 聚氯乙烯\n* 玻璃\n* 塑胶\n* 纤维\n* 砂子\n* 石块\n* 砂砾\n* 矿物\n* 环境友好材料\n\n1. 外观设计\n\n* 简洁\n* 易用\n* 美学\n* 耐用\n* 兼容性\n* 可爱\n* 质感\n* 强度\n* 灵活性\n* 卫生\n* 安全\n\n1. 产品实用性\n\n* 储存食材方便\n* 剪刀锋利\n* 拿起食物方便\n* 摆放食材方便\n* 洗碗方便\n* 干燥碗方便\n* 烹饪食材方便\n* 调温方便\n* 冷却方便\n* 浇油方便\n* 焙烤方便\n* 烹饪方便\n* 卸载方便\n\n1. 产品美学\n\n* 简洁\n* 易用\n* 美学\n* 耐用\n* 兼容性\n* 可爱\n* 质感\n* 强度\n* 灵活性\n* 卫生\n* 安全\n\n1. 产品环境影响\n\n* 可再生\n* 可回收\n* 可降解\n* 可燃\n* 可溶解\n* 可蚀变\n* 可耗损\n* 可污染\n* 可危害\n\n1. 产品责任\n\n* 环境保护\n* 安全保护\n* 健康保护\n* 消费者权益保护\n* 劳动条件保护\n* 贸易平等保护\n* 数据保护\n* 知识产权保护\n\n1. 产品评估\n\n* 创新\n* 实用性\n* 美观性\n* 环境影响\n* 安全\n* 健康\n* 消费者感受\n* 质量\n* 成本\n* 利润\n* 市场份额\n* 市场趋势\n\n1. 产品发展规划\n\n* 市场调查\n* 市场评估\n* 市场"
+            ]
+        ],
+        "task_description": "写一份家用厨房产品的设计书，设计书需要详细说明，但也不能太冗长。限制字数为1000字以内。明确目标：设计创新、实用性、美观性。重点：厨房产品的功能、材料、外观设计。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "家厨房产品设计书\n\n1. 产品目标\n\n创新、实用性、美观性。\n\n1. 产品功能\n\n* 储存食材\n* 剪刀\n* 拿起食物\n* 摆放食材\n* 洗碗\n* 干燥碗\n* 烹饪食材\n* 调温\n* 冷却\n* 浇油\n* 焙烤\n* 烹饪\n* 卸载\n\n1. 材料选择\n\n* 塑料\n* 铝\n* 聚氯乙烯\n* 玻璃\n* 塑胶\n* 纤维\n* 砂子\n* 石块\n* 砂砾\n* 矿物\n* 环境友好材料\n\n1. 外观设计\n\n* 简洁\n* 易用\n* 美学\n* 耐用\n* 兼容性\n* 可爱\n* 质感\n* 强度\n* 灵活性\n* 卫生\n* 安全\n\n1. 产品实用性\n\n* 储存食材方便\n* 剪刀锋利\n* 拿起食物方便\n* 摆放食材方便\n* 洗碗方便\n* 干燥碗方便\n* 烹饪食材方便\n* 调温方便\n* 冷却方便\n* 浇油方便\n* 焙烤方便\n* 烹饪方便\n* 卸载方便\n\n1. 产品美学\n\n* 简洁\n* 易用\n* 美学\n* 耐用\n* 兼容性\n* 可爱\n* 质感\n* 强度\n* 灵活性\n* 卫生\n* 安全\n\n1. 产品环境影响\n\n* 可再生\n* 可回收\n* 可降解\n* 可燃\n* 可溶解\n* 可蚀变\n* 可耗损\n* 可污染\n* 可危害\n\n1. 产品责任\n\n* 环境保护\n* 安全保护\n* 健康保护\n* 消费者权益保护\n* 劳动条件保护\n* 贸易平等保护\n* 数据保护\n* 知识产权保护\n\n1. 产品评估\n\n* 创新\n* 实用性\n* 美观性\n* 环境影响\n* 安全\n* 健康\n* 消费者感受\n* 质量\n* 成本\n* 利润\n* 市场份额\n* 市场趋势\n\n1. 产品发展规划\n\n* 市场调查\n* 市场评估\n* 市场"
+    },
+    {
+        "Instruction": "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+        "Instruction_id": "03fd97e1d0300996e16245447473a06c144533011653dc344b1e8900d0601c8d",
+        "histories": [
+            [
+                "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+                "近年来，电网故障智能辅助处置技术的研究得到了广泛关注。这是一个复杂的问题，需要深入研究和探讨。在这篇文章中，我们将着重探讨知识图谱的应用和优势，以及存在的问题和需求。\n\n知识图谱是一种描述知识和信息的结构，它可以帮助我们理解和探索复杂系统中的关联和相互影响。在电网故障智能辅助处置技术研究中，知识图谱的应用具有以下优势：\n\n1. 多面性：知识图谱可以捕捉到系统中的多个关联和相互影响，从而提供更全面的视角。\n2. 可扩展性：知识图谱的结构可以适应系统的变化，从而保持其可扩展性。\n3. 可视化：知识图谱可以通过图形和文本的结合，使信息更加易于理解和检测。\n\n然而，在实际应用中，存在以下问题和需求：\n\n1. 数据质量和准确性：为了正确地建立和使用知识图谱，需要高质量的数据和模型。这需要对系统进行优化和调整，以确保数据的准确性和可用性。\n2. 系统复杂性：电网故障智能辅助处置技术研究涉及到复杂的系统，包括多种技术和方法。这需要在知识图谱中进行综合的推导和分析。\n3. 人工智能和机器学习技术的应用：为了更有效地利用知识图谱，需要在其中引入人工智能和机器学习技术。这需要对相关技术进行研究和探索。\n\n为了解决这些问题和需求，我们需要在电网故障智能辅助处置技术研究中更加严格地考虑知识图谱的应用和优势。同时，我们还需要在研究过程中关注数据质量和准确性，以及系统复杂性。通过这些方式，我们可以更好地利用知识图谱来支持电网故障智能辅助处置技术的研究和应用。"
+            ]
+        ],
+        "task_description": "写一段基于知识图谱的电网故障智能辅助处置技术研究 存在问题及需求必要性说明。强调知识图谱的应用和优势",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "近年来，电网故障智能辅助处置技术的研究得到了广泛关注。这是一个复杂的问题，需要深入研究和探讨。在这篇文章中，我们将着重探讨知识图谱的应用和优势，以及存在的问题和需求。\n\n知识图谱是一种描述知识和信息的结构，它可以帮助我们理解和探索复杂系统中的关联和相互影响。在电网故障智能辅助处置技术研究中，知识图谱的应用具有以下优势：\n\n1. 多面性：知识图谱可以捕捉到系统中的多个关联和相互影响，从而提供更全面的视角。\n2. 可扩展性：知识图谱的结构可以适应系统的变化，从而保持其可扩展性。\n3. 可视化：知识图谱可以通过图形和文本的结合，使信息更加易于理解和检测。\n\n然而，在实际应用中，存在以下问题和需求：\n\n1. 数据质量和准确性：为了正确地建立和使用知识图谱，需要高质量的数据和模型。这需要对系统进行优化和调整，以确保数据的准确性和可用性。\n2. 系统复杂性：电网故障智能辅助处置技术研究涉及到复杂的系统，包括多种技术和方法。这需要在知识图谱中进行综合的推导和分析。\n3. 人工智能和机器学习技术的应用：为了更有效地利用知识图谱，需要在其中引入人工智能和机器学习技术。这需要对相关技术进行研究和探索。\n\n为了解决这些问题和需求，我们需要在电网故障智能辅助处置技术研究中更加严格地考虑知识图谱的应用和优势。同时，我们还需要在研究过程中关注数据质量和准确性，以及系统复杂性。通过这些方式，我们可以更好地利用知识图谱来支持电网故障智能辅助处置技术的研究和应用。"
+    },
+    {
+        "Instruction": "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+        "Instruction_id": "ec2532f3d546755c219f519e772a71ebbf61987b8605d721daf1d3f2b18563b9",
+        "histories": [
+            [
+                "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+                "近年来，基于知识图谱的电网故障智能辅助处置技术研究得到了广泛的关注和发展。这项研究旨在提高电网故障的早期检测、诊断和处置能力，从而提高系统的可靠性和安全性。本文将分析美国和日本的研究现状，以了解这两国在这个领域的成就和进展。\n\n美国:\n\n在美国，基于知识图谱的电网故障智能辅助处置技术研究得到了广泛的支持和投入。美国国家电力局（DOE）和其他相关部门已经承担了重要的责任，支持和促进这项研究。\n\n1. 自主智能系统: 美国研究者开发了一些自主智能系统，用于在电网故障时自动检测、诊断和处置。这些系统通常基于深度学习和计算机视觉技术。\n2. 大数据分析: 美国研究者采用大数据分析的方法，研究电网故障的模式和规律，以提高早期检测和处置能力。\n3. 物联网和 IoT: 美国研究者利用物联网和 IoT 技术，为电网故障提供了更好的跟踪和监控。这有助于在故障发生时提高系统的可靠性和安全性。\n\n日本:\n\n日本也是基于知识图谱的电网故障智能辅助处置技术研究的热门国家。日本电力公司（TEPCO）和其他相关部门在这个领域的研究和开发取得了显著成就。\n\n1. 人工智能和计算机视觉: 日本研究者采用人工智能和计算机视觉技术，为电网故障提供了更好的检测和诊断能力。这些技术可以在故障发生时自动报告和处理问题。\n2. 物联网和 IoT: 日本研究者采用物联网和 IoT 技术，为电网故障提供了更好的跟踪和监控。这有助于在故障发生时提高系统的可靠性和安全性。\n3. 可靠性和安全性: 日本研究者关注的是提高电网故障处置能力的可靠性和安全性。他们研究了不同的技术和方法，以确保在处置过程中不会对系统造成损害。\n\n总的来说，美国和日本在基于知识图谱的电网故障智能辅助处置技术研究方面取得了显著的进展。这些国家的研究成果有助于提高电网的可靠性和安全性，并为未来的智能电网创造了"
+            ]
+        ],
+        "task_description": "请帮我写一段“基于知识图谱的电网故障智能辅助处置技术研究”的国内外研究现状。要求包括美国和日本的研究现状",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "近年来，基于知识图谱的电网故障智能辅助处置技术研究得到了广泛的关注和发展。这项研究旨在提高电网故障的早期检测、诊断和处置能力，从而提高系统的可靠性和安全性。本文将分析美国和日本的研究现状，以了解这两国在这个领域的成就和进展。\n\n美国:\n\n在美国，基于知识图谱的电网故障智能辅助处置技术研究得到了广泛的支持和投入。美国国家电力局（DOE）和其他相关部门已经承担了重要的责任，支持和促进这项研究。\n\n1. 自主智能系统: 美国研究者开发了一些自主智能系统，用于在电网故障时自动检测、诊断和处置。这些系统通常基于深度学习和计算机视觉技术。\n2. 大数据分析: 美国研究者采用大数据分析的方法，研究电网故障的模式和规律，以提高早期检测和处置能力。\n3. 物联网和 IoT: 美国研究者利用物联网和 IoT 技术，为电网故障提供了更好的跟踪和监控。这有助于在故障发生时提高系统的可靠性和安全性。\n\n日本:\n\n日本也是基于知识图谱的电网故障智能辅助处置技术研究的热门国家。日本电力公司（TEPCO）和其他相关部门在这个领域的研究和开发取得了显著成就。\n\n1. 人工智能和计算机视觉: 日本研究者采用人工智能和计算机视觉技术，为电网故障提供了更好的检测和诊断能力。这些技术可以在故障发生时自动报告和处理问题。\n2. 物联网和 IoT: 日本研究者采用物联网和 IoT 技术，为电网故障提供了更好的跟踪和监控。这有助于在故障发生时提高系统的可靠性和安全性。\n3. 可靠性和安全性: 日本研究者关注的是提高电网故障处置能力的可靠性和安全性。他们研究了不同的技术和方法，以确保在处置过程中不会对系统造成损害。\n\n总的来说，美国和日本在基于知识图谱的电网故障智能辅助处置技术研究方面取得了显著的进展。这些国家的研究成果有助于提高电网的可靠性和安全性，并为未来的智能电网创造了"
+    },
+    {
+        "Instruction": "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "Instruction_id": "6144a0d35f75bddb08d27272c30a867660005ec3a358e38900f58cd99b011360",
+        "histories": [
+            [
+                "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+                "在热晒的沙滩上，冰淇淋沿着阳光晒下的游泳者身上，像是一抹滋味般的美。"
+            ]
+        ],
+        "task_description": "请为“夏天”的主题写一篇短文（100字以内）。要求包含关键词：沙滩、冰淇淋、游泳、阳光、比基尼",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "在热晒的沙滩上，冰淇淋沿着阳光晒下的游泳者身上，像是一抹滋味般的美。"
+    },
+    {
+        "Instruction": "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+        "Instruction_id": "04a13e9406e6df1611214689bc577d349a32ad21cfbce251dc9b237fb9588d88",
+        "histories": [
+            [
+                "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+                "Title: Ethical Challenges in the Application of Networked Technologies: A Case Study of Modern Technological Innovations\n\nAbstract:\nWith the rapid development of information technology and the Internet, networked technologies have become an integral part of our daily lives. The innovative applications of these technologies have brought about significant changes in various fields, including transportation, healthcare, and education. However, the widespread use of these technologies also raises ethical concerns, particularly in terms of network governance. This paper aims to explore the integration of network governance into the entire lifecycle of modern technological innovations, focusing on the ethical perspectives and governance methods of networked technologies. It emphasizes the importance and necessity of network governance in addressing the ethical challenges posed by these technologies.\n\nIntroduction:\nThe advent of the Internet and the widespread adoption of information technology have led to the development of various networked technologies, which have transformed the way we live, work, and interact. These technologies have brought about numerous benefits, such as increased efficiency, cost savings, and access to information. However, the uncontrolled growth of these technologies has also led to several ethical challenges, particularly in terms of network governance.\n\nNetwork governance refers to the process of managing and regulating the behavior of networked technologies, including their design, development, deployment, and use. The ethical challenges associated with network governance include issues related to privacy, security, and accountability. These challenges are particularly significant in the context of modern technological innovations, which are characterized by rapid technological advancements, global interconnectedness, and the potential for widespread impact.\n\nMethods:\nTo address the ethical challenges associated with network governance, it is necessary to integrate ethical considerations into the entire lifecycle of modern technological innovations. This involves a comprehensive approach that takes into account the various stakeholders involved in the development and deployment of these technologies, including users, developers, regulators, and policymakers.\n\nResults:\nThe integration of ethical considerations into the entire lifecycle of modern technological innovations can help to address the ethical challenges associated with network governance. This approach involves the following steps:\n\n1. Developing ethical guidelines and principles: Ethical guidelines and principles can help to ensure that the development and deployment of networked technologies are conducted in a manner that respects the rights and interests of all stakeholders.\n2. Engaging stakeholders: Stakeholders should be engaged in the development and deployment of networked technologies to ensure that their interests are taken into account. This can involve consultation with users, developers, regulators, and policymakers.\n3. Implementing ethical governance mechanisms: Ethical governance mechanisms can be implemented to ensure that networked technologies are used in a responsible manner. This can involve the use of technical measures, such as encryption, to protect user privacy, and legal measures, such as data protection laws, to ensure that user data is used in a responsible manner.\n4. Monitoring and evaluating: Networked technologies should be monitored and evaluated to ensure that they are being used in a responsible manner. This can involve the use of data analytics to identify patterns of misuse, and the use of feedback mechanisms to gather user feedback.\n\nConclusion:\nIn conclusion, the integration of ethical considerations into the entire lifecycle of modern technological innovations is essential for addressing the ethical challenges associated with network governance. This approach involves the development of ethical guidelines and principles, engagement with stakeholders, implementation of ethical governance mechanisms, and monitoring and evaluation. By taking a comprehensive approach to network governance, it is possible to ensure that networked technologies are used in a responsible manner that respects the rights and interests of all stakeholders."
+            ]
+        ],
+        "task_description": "撰写论文论述信息化、网络化背景下技术的创新应用可能带来的伦理问题。探讨如何将网络伦理治理融入现代科技创新应用的全生命周期，解决网络工程伦理问题的伦理观点和治理方法以及以技术治理技术的可能性。强调网络伦理治理的重要性和必要性",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "Title: Ethical Challenges in the Application of Networked Technologies: A Case Study of Modern Technological Innovations\n\nAbstract:\nWith the rapid development of information technology and the Internet, networked technologies have become an integral part of our daily lives. The innovative applications of these technologies have brought about significant changes in various fields, including transportation, healthcare, and education. However, the widespread use of these technologies also raises ethical concerns, particularly in terms of network governance. This paper aims to explore the integration of network governance into the entire lifecycle of modern technological innovations, focusing on the ethical perspectives and governance methods of networked technologies. It emphasizes the importance and necessity of network governance in addressing the ethical challenges posed by these technologies.\n\nIntroduction:\nThe advent of the Internet and the widespread adoption of information technology have led to the development of various networked technologies, which have transformed the way we live, work, and interact. These technologies have brought about numerous benefits, such as increased efficiency, cost savings, and access to information. However, the uncontrolled growth of these technologies has also led to several ethical challenges, particularly in terms of network governance.\n\nNetwork governance refers to the process of managing and regulating the behavior of networked technologies, including their design, development, deployment, and use. The ethical challenges associated with network governance include issues related to privacy, security, and accountability. These challenges are particularly significant in the context of modern technological innovations, which are characterized by rapid technological advancements, global interconnectedness, and the potential for widespread impact.\n\nMethods:\nTo address the ethical challenges associated with network governance, it is necessary to integrate ethical considerations into the entire lifecycle of modern technological innovations. This involves a comprehensive approach that takes into account the various stakeholders involved in the development and deployment of these technologies, including users, developers, regulators, and policymakers.\n\nResults:\nThe integration of ethical considerations into the entire lifecycle of modern technological innovations can help to address the ethical challenges associated with network governance. This approach involves the following steps:\n\n1. Developing ethical guidelines and principles: Ethical guidelines and principles can help to ensure that the development and deployment of networked technologies are conducted in a manner that respects the rights and interests of all stakeholders.\n2. Engaging stakeholders: Stakeholders should be engaged in the development and deployment of networked technologies to ensure that their interests are taken into account. This can involve consultation with users, developers, regulators, and policymakers.\n3. Implementing ethical governance mechanisms: Ethical governance mechanisms can be implemented to ensure that networked technologies are used in a responsible manner. This can involve the use of technical measures, such as encryption, to protect user privacy, and legal measures, such as data protection laws, to ensure that user data is used in a responsible manner.\n4. Monitoring and evaluating: Networked technologies should be monitored and evaluated to ensure that they are being used in a responsible manner. This can involve the use of data analytics to identify patterns of misuse, and the use of feedback mechanisms to gather user feedback.\n\nConclusion:\nIn conclusion, the integration of ethical considerations into the entire lifecycle of modern technological innovations is essential for addressing the ethical challenges associated with network governance. This approach involves the development of ethical guidelines and principles, engagement with stakeholders, implementation of ethical governance mechanisms, and monitoring and evaluation. By taking a comprehensive approach to network governance, it is possible to ensure that networked technologies are used in a responsible manner that respects the rights and interests of all stakeholders."
+    },
+    {
+        "Instruction": "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "Instruction_id": "764b89dc31a50160ddae60b2106b195eae9d64ad5f14f216d9434fb59f19f6d6",
+        "histories": [
+            [
+                "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+                "Subject: Request for Clarification on Account Rules\n\nDear Twitter Support Team,\n\nI am writing to request clarification on the rules governing my Twitter account. I have been an active user for a considerable time now and have always endeavored to comply with the platform's guidelines. However, I recently received a notification that my account may have been used in violation of Twitter's policies.\n\nI would like to emphasize that my Twitter account is primarily used for browsing news and other content, and I do not frequently post or share content. If my account has been used in a manner that is contrary to Twitter's rules, I kindly request that you provide specific details and evidence of the violation.\n\nAs a responsible user, I am committed to adhering to the platform's guidelines and expect the same from Twitter. I believe that a fair and transparent process is essential for maintaining trust and fostering a healthy community. I kindly request that you provide a clear explanation of the alleged violation and take appropriate action to resolve this issue.\n\nThank you for your attention to this matter. I look forward to your prompt response and fair resolution.\n\nSincerely,\n\n[Your Twitter Handle]"
+            ]
+        ],
+        "task_description": "请用英语给Twitter发一封邮件，主题内容是“我认为我的账号没有违反任何twitter的规则，我的twitter账号主要用来浏览新闻，所以不经常发推。如果你们认为我的账号违反了规则，请说明你们的理由，不然你们就是滥用权力。明确表达希望Twitter说明违规的具体理由，并要求公正处理",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "Subject: Request for Clarification on Account Rules\n\nDear Twitter Support Team,\n\nI am writing to request clarification on the rules governing my Twitter account. I have been an active user for a considerable time now and have always endeavored to comply with the platform's guidelines. However, I recently received a notification that my account may have been used in violation of Twitter's policies.\n\nI would like to emphasize that my Twitter account is primarily used for browsing news and other content, and I do not frequently post or share content. If my account has been used in a manner that is contrary to Twitter's rules, I kindly request that you provide specific details and evidence of the violation.\n\nAs a responsible user, I am committed to adhering to the platform's guidelines and expect the same from Twitter. I believe that a fair and transparent process is essential for maintaining trust and fostering a healthy community. I kindly request that you provide a clear explanation of the alleged violation and take appropriate action to resolve this issue.\n\nThank you for your attention to this matter. I look forward to your prompt response and fair resolution.\n\nSincerely,\n\n[Your Twitter Handle]"
+    },
+    {
+        "Instruction": "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "Instruction_id": "f83f913a9b663ddaad0ac6315d3840697f8f8a0899be4617f59b76360d2b2be4",
+        "histories": [
+            [
+                "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+                "为了纪念复旦大学研究生会成立四十周年，我们特别发起了一个故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等。无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。\n\n具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。"
+            ]
+        ],
+        "task_description": "改写 在此，我们特别发起了“复旦大学研究生会成立四十周年”故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等，无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。加入具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "为了纪念复旦大学研究生会成立四十周年，我们特别发起了一个故事征集活动，向全体复旦研究生、研会同学、研会老师和校友征集与研会相关的故事、印象深刻的活动和经历等等。无论是感人、有趣、温馨、激动还是深刻，只要是真实的，我们都欢迎你分享。\n\n具体要求：分享与研会相关的故事、活动和经历。截止日期为2022年6月30日。"
+    },
+    {
+        "Instruction": "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "Instruction_id": "02b84685e2e1c0655de8b91e795038dd1a0bf0fb1acf3afeb244a613ac2192f5",
+        "histories": [
+            [
+                "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+                "秦始皇\n\n出生于公元前259年，秦朝的开国皇帝。早年在魏国度过，随后返回故乡，帮助父亲拓展土地。在父亲的鼓励和指导下，始皇逐渐成长为一个能够统治六国的君王。\n\n秦始皇统一六国后，他决定建立一座万里长城，以保护国家的领土，并加强国家的统治。始皇聘请著名的工程师和建筑团队，共同设计和施工。这座长城成功地抗击了几个入侵的外族，使秦朝保持了国家的独立和安全。\n\n秦始皇的统治期间，他还重视教育和文化，致力于推动经济和社会的发展。他实施了一系列改革，包括整顿贫困的农民，并促进了商业和贸易的发展。\n\n秦始皇的贡献不仅仅局限于国内，他还扮演了重要的角色在世界历史上。他的统一和建设的成就，为中国历史上的一个新时代奠定了基础，为后世的发展奠定了重要的基础。\n\n秦始皇的简历如下：\n\n* 出生：公元前259年\n* 早年：在魏国度过，随后返回故乡\n* 统一六国：成为秦朝的开国皇帝\n* 建立万里长城：保护国家领土，加强国家统治\n* 重视教育和文化：推动经济和社会的发展\n* 实施改革：整顿贫困的农民，促进商业和贸易的发展\n* 贡献：在世界历史上的重要角色，为中国历史上的一个新时代奠定了基础，为后世的发展奠定了重要的基础"
+            ]
+        ],
+        "task_description": "请为秦始皇写一份简历。加入关键成就：统一六国、修建万里长城。加入背景信息：出生于公元前259年，秦朝的开国皇帝。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "秦始皇\n\n出生于公元前259年，秦朝的开国皇帝。早年在魏国度过，随后返回故乡，帮助父亲拓展土地。在父亲的鼓励和指导下，始皇逐渐成长为一个能够统治六国的君王。\n\n秦始皇统一六国后，他决定建立一座万里长城，以保护国家的领土，并加强国家的统治。始皇聘请著名的工程师和建筑团队，共同设计和施工。这座长城成功地抗击了几个入侵的外族，使秦朝保持了国家的独立和安全。\n\n秦始皇的统治期间，他还重视教育和文化，致力于推动经济和社会的发展。他实施了一系列改革，包括整顿贫困的农民，并促进了商业和贸易的发展。\n\n秦始皇的贡献不仅仅局限于国内，他还扮演了重要的角色在世界历史上。他的统一和建设的成就，为中国历史上的一个新时代奠定了基础，为后世的发展奠定了重要的基础。\n\n秦始皇的简历如下：\n\n* 出生：公元前259年\n* 早年：在魏国度过，随后返回故乡\n* 统一六国：成为秦朝的开国皇帝\n* 建立万里长城：保护国家领土，加强国家统治\n* 重视教育和文化：推动经济和社会的发展\n* 实施改革：整顿贫困的农民，促进商业和贸易的发展\n* 贡献：在世界历史上的重要角色，为中国历史上的一个新时代奠定了基础，为后世的发展奠定了重要的基础"
+    },
+    {
+        "Instruction": "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+        "Instruction_id": "d9d0df63fa8722cecb9fc88c0f00d76551f33742cbfe6a67511cbe4404e49f5b",
+        "histories": [
+            [
+                "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+                "尊敬的恺英网络代表，\n\n我很高兴地向您邀请，即将于2022年6月15日来访复旦大学计算机学院。我们的目的是通过这次访问，加强我们两校的合作互动，并探讨有关计算机科学和技术的最新进展。\n\n在这个充满创新和机遇的时代，我们相互学习和合作的努力，让我们的学科和研究成果更加突出，为社会带来更多的价值。我希望您在访问过程中能够了解到复旦大学计算机学院的研究精华，并与我们的教职员工和学生分享你们的专业知识和经验。\n\n我们的计算机学院坚信，与恺英网络的合作将有助于我们两校在教育、研究和技术交流方面取得更大的成功。我们欢迎您的来访，期待与您的交流和合作。\n\n再次感谢您的邀请，并期待在2022年6月15日的访问。\n\n顺祝商祺，\n\n[您的名字]\n\n复旦大学计算机学院院长"
+            ]
+        ],
+        "task_description": "恺英网络来拜访复旦大学计算机学院，请代表复旦大学计算机学院领导写一段致辞。指明来访目的：交流合作。指明来访时间：2022年6月15日。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "尊敬的恺英网络代表，\n\n我很高兴地向您邀请，即将于2022年6月15日来访复旦大学计算机学院。我们的目的是通过这次访问，加强我们两校的合作互动，并探讨有关计算机科学和技术的最新进展。\n\n在这个充满创新和机遇的时代，我们相互学习和合作的努力，让我们的学科和研究成果更加突出，为社会带来更多的价值。我希望您在访问过程中能够了解到复旦大学计算机学院的研究精华，并与我们的教职员工和学生分享你们的专业知识和经验。\n\n我们的计算机学院坚信，与恺英网络的合作将有助于我们两校在教育、研究和技术交流方面取得更大的成功。我们欢迎您的来访，期待与您的交流和合作。\n\n再次感谢您的邀请，并期待在2022年6月15日的访问。\n\n顺祝商祺，\n\n[您的名字]\n\n复旦大学计算机学院院长"
+    },
+    {
+        "Instruction": "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "Instruction_id": "327c8393815e96bc3455ee55819041b949a5f78a99bbb7e68ff646c86d77edaf",
+        "histories": [
+            [
+                "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+                "Title: The Impact of Artificial General Intelligence on the Gaming Industry\n\nAbstract:\n\nThe gaming industry has experienced rapid growth and evolution over the past few decades, with Artificial General Intelligence (AGI) poised to revolutionize the sector in numerous ways. This paper explores the potential impact of AGI on the gaming industry, focusing on aspects such as game development, game experience, and game innovation.\n\n1. Game Development:\nThe integration of AGI into the gaming industry can significantly enhance game development processes. AGI can automate repetitive tasks, such as level design, asset creation, and game balancing, allowing developers to focus on more creative and complex aspects of game development. Furthermore, AGI can analyze player behavior and preferences, enabling developers to create more personalized and engaging gaming experiences.\n2. Game Experience:\nAGI has the potential to transform the gaming experience by creating immersive and adaptive environments. By leveraging AGI, developers can create dynamic and interactive worlds that respond to player actions and preferences in real-time. This can lead to more engaging and personalized gaming experiences, ultimately fostering player loyalty and retention.\n3. Game Innovation:\nAGI can drive game innovation by enabling developers to explore new and creative game mechanics. By harnessing the power of AGI, developers can create games that push the boundaries of what is possible in terms of storytelling, gameplay, and interactivity. This can lead to the emergence of entirely new genres and sub-genres, as well as the revitalization of existing ones.\n\nIn conclusion, the impact of AGI on the gaming industry is expected to be substantial. By automating various aspects of game development and enhancing the gaming experience, AGI has the potential to transform the industry and create new opportunities for game creators and players alike. As the technology continues to advance, it will be crucial for the gaming industry to embrace and adapt to these changes in order to remain competitive and relevant in the ever-evolving landscape of gaming."
+            ]
+        ],
+        "task_description": "我要写一篇AGI对于游戏产业的影响的论文，请写一段论文摘要。指明AGI对游戏产业的影响方面，如游戏开发、游戏体验、游戏创新等",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "Title: The Impact of Artificial General Intelligence on the Gaming Industry\n\nAbstract:\n\nThe gaming industry has experienced rapid growth and evolution over the past few decades, with Artificial General Intelligence (AGI) poised to revolutionize the sector in numerous ways. This paper explores the potential impact of AGI on the gaming industry, focusing on aspects such as game development, game experience, and game innovation.\n\n1. Game Development:\nThe integration of AGI into the gaming industry can significantly enhance game development processes. AGI can automate repetitive tasks, such as level design, asset creation, and game balancing, allowing developers to focus on more creative and complex aspects of game development. Furthermore, AGI can analyze player behavior and preferences, enabling developers to create more personalized and engaging gaming experiences.\n2. Game Experience:\nAGI has the potential to transform the gaming experience by creating immersive and adaptive environments. By leveraging AGI, developers can create dynamic and interactive worlds that respond to player actions and preferences in real-time. This can lead to more engaging and personalized gaming experiences, ultimately fostering player loyalty and retention.\n3. Game Innovation:\nAGI can drive game innovation by enabling developers to explore new and creative game mechanics. By harnessing the power of AGI, developers can create games that push the boundaries of what is possible in terms of storytelling, gameplay, and interactivity. This can lead to the emergence of entirely new genres and sub-genres, as well as the revitalization of existing ones.\n\nIn conclusion, the impact of AGI on the gaming industry is expected to be substantial. By automating various aspects of game development and enhancing the gaming experience, AGI has the potential to transform the industry and create new opportunities for game creators and players alike. As the technology continues to advance, it will be crucial for the gaming industry to embrace and adapt to these changes in order to remain competitive and relevant in the ever-evolving landscape of gaming."
+    },
+    {
+        "Instruction": "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+        "Instruction_id": "5eccad6ea31519c1a5125ae832ae4989512f76fe175eb1f07c4aea214ae0d471",
+        "histories": [
+            [
+                "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+                "面对研究生培养期间的压力，我们需要明确地看待这一问题。首先，我们需要了解压力的原因。压力的来源可能是学术、研究生活、社会等方面。然后，我们应该采取应对策略，包括心理上的支持、技术上的帮助、社会上的关系等。总结一下，面对研究生培养期间的压力，我们需要认真评估压力的来源，采取合适的应对策略，并提供支持和关心。"
+            ]
+        ],
+        "task_description": "请帮我写一篇200字以内的文章，主题是：如何看待研究生培养期间面临的压力及其应对。明确文章结构：引言、压力的原因、应对策略、总结",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "面对研究生培养期间的压力，我们需要明确地看待这一问题。首先，我们需要了解压力的原因。压力的来源可能是学术、研究生活、社会等方面。然后，我们应该采取应对策略，包括心理上的支持、技术上的帮助、社会上的关系等。总结一下，面对研究生培养期间的压力，我们需要认真评估压力的来源，采取合适的应对策略，并提供支持和关心。"
+    },
+    {
+        "Instruction": "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+        "Instruction_id": "fddb9862fc663eb911663962382a11d0001556b0f51ac64131d33a628fcfdc41",
+        "histories": [
+            [
+                "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+                "[Your Name]\n[Your Address]\n[City, Postal Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Recipient's Name]\n[Recipient's Title]\n[浦东软件园]\n[浦东软件园地址]\n[City, Postal Code]\n\nDear [Recipient's Name],\n\nI am writing to express my strong interest in joining the prestigious team at [浦东软件园] as a [Your Major] student at [复旦大学]. I have always been passionate about the world of software development and eager to contribute to the innovative projects that drive the industry forward. I believe that my technical skills, coupled with my strong academic foundation, make me an ideal candidate to become a valuable member of your team.\n\nAs a [Your Major] student, I have developed a solid understanding of programming languages, algorithms, and software design principles. I am proficient in Python, Java, and C++, and have experience working with web development frameworks such as Django and React. Additionally, I have completed courses in data structures, algorithms, and operating systems, which have provided me with a strong foundation in problem-solving and system design.\n\nDuring my time at [复旦大学], I have been actively involved in various programming clubs and hackathons, where I have honed my coding skills and learned to work effectively in teams. I am confident in my ability to quickly adapt to new technologies and methodologies, and I am excited about the opportunity to learn and grow at [浦东软件园].\n\nI am particularly drawn to [浦东软件园] because of its reputation for fostering a culture of innovation and collaboration. I believe that working at [浦东软件园] will not only allow me to further develop my technical skills but also provide me with the opportunity to contribute to meaningful projects and make a positive impact on the industry.\n\nIn conclusion, I am eager to bring my passion for software development and my strong academic background to [浦东软件园]. I am confident that my skills and experience make me a perfect fit for your team, and I would be thrilled to contribute to the ongoing success of [浦东软件园]. Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.\n\nSincerely,\n\n[Your Name]"
+            ]
+        ],
+        "task_description": "作为一名复旦计算机的学生，写一封向浦东软件园的求职信。加入专业和技能信息，表达对浦东软件园的兴趣。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "[Your Name]\n[Your Address]\n[City, Postal Code]\n[Email Address]\n[Phone Number]\n[Date]\n\n[Recipient's Name]\n[Recipient's Title]\n[浦东软件园]\n[浦东软件园地址]\n[City, Postal Code]\n\nDear [Recipient's Name],\n\nI am writing to express my strong interest in joining the prestigious team at [浦东软件园] as a [Your Major] student at [复旦大学]. I have always been passionate about the world of software development and eager to contribute to the innovative projects that drive the industry forward. I believe that my technical skills, coupled with my strong academic foundation, make me an ideal candidate to become a valuable member of your team.\n\nAs a [Your Major] student, I have developed a solid understanding of programming languages, algorithms, and software design principles. I am proficient in Python, Java, and C++, and have experience working with web development frameworks such as Django and React. Additionally, I have completed courses in data structures, algorithms, and operating systems, which have provided me with a strong foundation in problem-solving and system design.\n\nDuring my time at [复旦大学], I have been actively involved in various programming clubs and hackathons, where I have honed my coding skills and learned to work effectively in teams. I am confident in my ability to quickly adapt to new technologies and methodologies, and I am excited about the opportunity to learn and grow at [浦东软件园].\n\nI am particularly drawn to [浦东软件园] because of its reputation for fostering a culture of innovation and collaboration. I believe that working at [浦东软件园] will not only allow me to further develop my technical skills but also provide me with the opportunity to contribute to meaningful projects and make a positive impact on the industry.\n\nIn conclusion, I am eager to bring my passion for software development and my strong academic background to [浦东软件园]. I am confident that my skills and experience make me a perfect fit for your team, and I would be thrilled to contribute to the ongoing success of [浦东软件园]. Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.\n\nSincerely,\n\n[Your Name]"
+    },
+    {
+        "Instruction": "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+        "Instruction_id": "ed9d4e209baaab0b65faa53d50dcbbb8d1855a453a1e879324c56d6361a186f1",
+        "histories": [
+            [
+                "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+                "新疆大枣（Xinjiang Dates）是中国新疆地区的一种传统植物，因其独特的特点和丰富的好处而被广泛认为是一种宝贵的食物。这种大枣具有独特的形状和颜色，外观如同玫瑰一样美丽，内涵则充满了丰富的糖果和营养成分。新疆大枣的甜味可以让人舐适，口感觉嫩滑，味道浓郁，是一种非常好吃的食物。此外，新疆大枣还具有较高的保存期限，可以长期保存，不仅方便于食用，还能够作为一种贴身的食品。在过去的几个月里，新疆大枣的价格一直保持稳定，成为了解中国特色美食的必备之一。"
+            ]
+        ],
+        "task_description": "帮我写一篇介绍新疆大枣的文案，限制字数为200字以内。加入关键词：新疆大枣、特点、好处",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "新疆大枣（Xinjiang Dates）是中国新疆地区的一种传统植物，因其独特的特点和丰富的好处而被广泛认为是一种宝贵的食物。这种大枣具有独特的形状和颜色，外观如同玫瑰一样美丽，内涵则充满了丰富的糖果和营养成分。新疆大枣的甜味可以让人舐适，口感觉嫩滑，味道浓郁，是一种非常好吃的食物。此外，新疆大枣还具有较高的保存期限，可以长期保存，不仅方便于食用，还能够作为一种贴身的食品。在过去的几个月里，新疆大枣的价格一直保持稳定，成为了解中国特色美食的必备之一。"
+    },
+    {
+        "Instruction": "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+        "Instruction_id": "36482ae003631e4d1139cede4865ad70b289d88fc3f25f5fb7a1726ba8b19d84",
+        "histories": [
+            [
+                "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+                "在一个小村庄里，有一个叫做红豆的土地。这片土地非常甜，每个人都想要它。但是，红豆只有一个黑色的珍珠，它非常珍贵。\n\n有一个叫做小红豆的孩子，他非常喜欢这个土地。他曾经把一根红豆拿来吃，味道甜美。他的父母告诉他，红豆是村子的宝贵，只有一个黑色的珍珠。\n\n小红豆很渴望拥有一个黑色的珍珠，他曾经把一把钥匙扔进红豆田里，但是没有找到。他的朋友们告诉他，他可以去挑战黑色的珍珠，但是需要一个勇敢的心灵。\n\n小红豆决定去挑战黑色的珍珠，他走进红豆田里，找到一把钥匙。他把钥匙插入土地，听到一个声音说：“你是勇敢的，你可以拥有我。”\n\n小红豆抓住黑色的珍珠，味道甜美，他感觉到自己变得更强大。他感谢红豆，感谢自己的勇敢心灵。从此，他每天都在红豆田里练习，准备下一次的挑战。"
+            ]
+        ],
+        "task_description": "请以红豆为主题写一段童话故事，限制段落长度为5句话。要求包含关键词：红豆、甜、黑色的珍珠。",
+        "input_text": NaN,
+        "task_category": "writing_single_round",
+        "lang": "ch",
+        "model_answer": "在一个小村庄里，有一个叫做红豆的土地。这片土地非常甜，每个人都想要它。但是，红豆只有一个黑色的珍珠，它非常珍贵。\n\n有一个叫做小红豆的孩子，他非常喜欢这个土地。他曾经把一根红豆拿来吃，味道甜美。他的父母告诉他，红豆是村子的宝贵，只有一个黑色的珍珠。\n\n小红豆很渴望拥有一个黑色的珍珠，他曾经把一把钥匙扔进红豆田里，但是没有找到。他的朋友们告诉他，他可以去挑战黑色的珍珠，但是需要一个勇敢的心灵。\n\n小红豆决定去挑战黑色的珍珠，他走进红豆田里，找到一把钥匙。他把钥匙插入土地，听到一个声音说：“你是勇敢的，你可以拥有我。”\n\n小红豆抓住黑色的珍珠，味道甜美，他感觉到自己变得更强大。他感谢红豆，感谢自己的勇敢心灵。从此，他每天都在红豆田里练习，准备下一次的挑战。"
+    }
+]

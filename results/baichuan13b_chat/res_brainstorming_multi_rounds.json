@@ -1,0 +1,970 @@
+[
+    {
+        "Instruction": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤",
+        "Instruction_id": "80e078eb4cb7f7c8bd29eb0f2a5c8ab8fc678c7214bcf43c35e586d86f6cd33c",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤",
+                "| 序号 | 问题                               | 关键词         | 简介                       | 解决方案及步骤                                                                                   |\n|----|--------------------------------|------------|------------------------|------------------------------------------------------------------------------||\n| 1  | 如何提高工作效率？               | 工作效率、时间管理 | 描述如何通过合理安排时间、制定计划和使用工具来提高个人或团队的工作效率。                                    | 1. 列出任务清单，按优先级排序。 2. 为每个任务分配合理的时间。 3. 使用时间管理工具，如番茄工作法。 4. 定期评估进度并调整计划。 5. 保持专注，避免干扰。 |\n| 2  | 如何减少家庭开支？               | 家庭开支、预算管理 | 提供实用的建议，帮助家庭制定合理的预算，从而有效地控制支出。                                            | 1. 分析过去一年的收支情况。 2. 设定家庭预算目标。 3. 为各项开支制定预算。 4. 跟踪实际支出与预算的差距。 5. 根据需要调整预算。      ||\n| 3  | 如何改善睡眠质量？               | 睡眠质量、健康习惯 | 探讨影响睡眠质量的因素，并提出一些简单的方法来改善睡眠质量。                                            | 1. 保持规律的作息时间。 2. 创造舒适的睡眠环境。 3. 限制咖啡因和酒精摄入。 4. 增加锻炼。 5. 睡前放松身心。           ||\n| 4  | 如何降低压力水平？               | 压力管理、心理健康 | 介绍一些有效的压力管理技巧，以帮助人们在日常生活中应对压力。                                            | 1. 了解压力源。 2. 学会放松技巧，如深呼吸、冥想等。 3. 保持积极的心态。 4. 寻求支持，与他人分享感受。 5. 规划时间，合理安排工作和生活。      =>\n| 5  | 如何提高社交技能？               | 社交技能、沟通技巧 | 讨论提高社交技能的重要性，并提供一些建议来提高个人的沟通和人际交往能力。                                    | 1. 倾听他人观点。 2. 保持眼神交流。 3. 学会表达自己的想法和需求。 4. 尊重他人的观点和感受。 5. 参加社交活动，多与人互动。        "
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 序号 | 问题                               | 关键词         | 简介                       | 解决方案及步骤                                                                                   |\n|----|--------------------------------|------------|------------------------|------------------------------------------------------------------------------||\n| 1  | 如何提高工作效率？               | 工作效率、时间管理 | 描述如何通过合理安排时间、制定计划和使用工具来提高个人或团队的工作效率。                                    | 1. 列出任务清单，按优先级排序。 2. 为每个任务分配合理的时间。 3. 使用时间管理工具，如番茄工作法。 4. 定期评估进度并调整计划。 5. 保持专注，避免干扰。 |\n| 2  | 如何减少家庭开支？               | 家庭开支、预算管理 | 提供实用的建议，帮助家庭制定合理的预算，从而有效地控制支出。                                            | 1. 分析过去一年的收支情况。 2. 设定家庭预算目标。 3. 为各项开支制定预算。 4. 跟踪实际支出与预算的差距。 5. 根据需要调整预算。      ||\n| 3  | 如何改善睡眠质量？               | 睡眠质量、健康习惯 | 探讨影响睡眠质量的因素，并提出一些简单的方法来改善睡眠质量。                                            | 1. 保持规律的作息时间。 2. 创造舒适的睡眠环境。 3. 限制咖啡因和酒精摄入。 4. 增加锻炼。 5. 睡前放松身心。           ||\n| 4  | 如何降低压力水平？               | 压力管理、心理健康 | 介绍一些有效的压力管理技巧，以帮助人们在日常生活中应对压力。                                            | 1. 了解压力源。 2. 学会放松技巧，如深呼吸、冥想等。 3. 保持积极的心态。 4. 寻求支持，与他人分享感受。 5. 规划时间，合理安排工作和生活。      =>\n| 5  | 如何提高社交技能？               | 社交技能、沟通技巧 | 讨论提高社交技能的重要性，并提供一些建议来提高个人的沟通和人际交往能力。                                    | 1. 倾听他人观点。 2. 保持眼神交流。 3. 学会表达自己的想法和需求。 4. 尊重他人的观点和感受。 5. 参加社交活动，多与人互动。        "
+    },
+    {
+        "Instruction": "将以上文本翻译为英文",
+        "Instruction_id": "7fdd698ce27027869633cda9d68b2e25bedd3f96560f94404cb0d6a4782a68f4",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤",
+                "| 关键词 | 简介 | 步骤 |\n| ------ | ---- | ---- |\n| 智能家居 | 利用物联网技术，通过智能设备实现家居自动化，提高生活便利性和舒适度。 | 1. 安装智能设备，如智能灯泡、智能插座等。 2. 连接设备到家庭网络。 3. 下载并配置智能家居控制应用。 4. 设置定时任务和场景模式。 |\n| 高效时间管理 | 通过合理规划和管理时间，提高工作和生活效率，减少时间浪费。 | 1. 制定详细的日程安排。 2. 设置优先级和时间限制。 3. 使用时间管理工具，如番茄钟或待办事项应用。 4. 避免多任务，专注于一项任务。 |\n| 健康饮食 | 通过合理的饮食习惯，提供身体所需的营养，保持健康和良好的体重。 | 1. 设定合理的饮食目标。 2. 增加蔬菜和水果的摄入量。 3. 控制食物的份量和摄入频率。 4. 避免过多的加工食品和糖分。 |\n| 环保出行 | 采用环保的交通方式，减少对环境的污染和交通拥堵。 | 1. 步行、骑行或使用公共交通工具代替开车。 2. 共享出行工具，如共享单车或共享汽车。 3. 减少短途飞行，选择火车或长途巴士。 4. 车辆共乘，减少车辆数量。 |\n| 数字化存储 | 将纸质文件和物品数字化存储，提高存储效率和减少空间占用。 | 1. 扫描纸质文件并保存为电子文件。 2. 使用云存储服务存储电子文件。 3. 数字化音乐、电影和书籍收藏。 4. 虚拟化物品，如电子名片和电子钱包。 |"
+            ],
+            [
+                "将以上文本翻译为英文",
+                "| Keywords | Introduction | Steps |\n| ------ | ---- | ---- |\n| Smart Home | Use Internet of Things technology to automate home through smart devices, improving convenience and comfort in daily life. | 1. Install smart devices, such as smart light bulbs and smart plugs. 2. Connect the devices to your home network. 3. Download and configure a smart home control application. 4. Set up timed tasks and scene modes. |\n| Efficient Time Management | Plan and manage time rationally to improve work and life efficiency and reduce wasted time. | 1. Make detailed schedule arrangements. 2. Set priorities and time limits. 3. Use time management tools, such as Pomodoro or To-Do list apps. 4. Avoid multitasking, focus on one task. |\n| Healthy Eating | Provide nutrients needed by the body through reasonable eating habits to maintain health and good weight. | 1. Set realistic dietary goals. 2. Increase intake of vegetables and fruits. 3. Control food portions and frequency. 4. Avoid excessive processed foods and sugars. |\n| Eco-friendly Travel | Adopt environmentally friendly transportation methods to reduce pollution and traffic congestion. | 1. Walk, ride a bike, or use public transport instead of driving. 2. Share travel tools, such as shared bikes or cars. 3. Reduce short-distance flights and choose trains or long-distance buses. 4. Carpooling, reducing vehicle numbers. |\n| Digital Storage | Digitize paper files and items for storage, improving storage efficiency and minimizing space occupancy. | 1. Scan paper documents and save them as electronic files. 2. Use cloud storage services to store electronic files. 3. Digitize music, movies, and book collections. 4. Virtualize items, such as digital business cards and digital wallets. |"
+            ]
+        ],
+        "task_description": "将以上文本翻译为英文",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| Keywords | Introduction | Steps |\n| ------ | ---- | ---- |\n| Smart Home | Use Internet of Things technology to automate home through smart devices, improving convenience and comfort in daily life. | 1. Install smart devices, such as smart light bulbs and smart plugs. 2. Connect the devices to your home network. 3. Download and configure a smart home control application. 4. Set up timed tasks and scene modes. |\n| Efficient Time Management | Plan and manage time rationally to improve work and life efficiency and reduce wasted time. | 1. Make detailed schedule arrangements. 2. Set priorities and time limits. 3. Use time management tools, such as Pomodoro or To-Do list apps. 4. Avoid multitasking, focus on one task. |\n| Healthy Eating | Provide nutrients needed by the body through reasonable eating habits to maintain health and good weight. | 1. Set realistic dietary goals. 2. Increase intake of vegetables and fruits. 3. Control food portions and frequency. 4. Avoid excessive processed foods and sugars. |\n| Eco-friendly Travel | Adopt environmentally friendly transportation methods to reduce pollution and traffic congestion. | 1. Walk, ride a bike, or use public transport instead of driving. 2. Share travel tools, such as shared bikes or cars. 3. Reduce short-distance flights and choose trains or long-distance buses. 4. Carpooling, reducing vehicle numbers. |\n| Digital Storage | Digitize paper files and items for storage, improving storage efficiency and minimizing space occupancy. | 1. Scan paper documents and save them as electronic files. 2. Use cloud storage services to store electronic files. 3. Digitize music, movies, and book collections. 4. Virtualize items, such as digital business cards and digital wallets. |"
+    },
+    {
+        "Instruction": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。",
+        "Instruction_id": "6718900d51e4c8f0322ca36da343c39b2b738fa2d51467bb6a68063e7e41d701",
+        "histories": [
+            [
+                "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。",
+                "以下是三种不同动物的XML格式输出：\n\n```xml\n<animals>\n  <type>哺乳动物</type>\n  <name>狮子</name>\n  <description>狮子是一种大型猫科动物，拥有强壮的身体和锋利的爪子，是非洲大草原上的顶级捕食者。</description>\n\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>鹦鹉是一种色彩鲜艳的鸟类，拥有弯曲的长喙和善于模仿人类语言的能力。</description>\n\n  <type>爬行动物</type>\n  <name>蟒蛇</name>\n  <description>蟒蛇是一种无腿的爬行动物，拥有强大的绞杀能力，主要以小型哺乳动物为食。</description>\n</animals>\n```\n\n这个XML文件包含了三个不同的动物类型(哺乳动物、鸟类和爬行动物)，每个类型都有一个示例动物(狮子、鹦鹉和蟒蛇)及其特点描述。"
+            ]
+        ],
+        "task_description": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "以下是三种不同动物的XML格式输出：\n\n```xml\n<animals>\n  <type>哺乳动物</type>\n  <name>狮子</name>\n  <description>狮子是一种大型猫科动物，拥有强壮的身体和锋利的爪子，是非洲大草原上的顶级捕食者。</description>\n\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>鹦鹉是一种色彩鲜艳的鸟类，拥有弯曲的长喙和善于模仿人类语言的能力。</description>\n\n  <type>爬行动物</type>\n  <name>蟒蛇</name>\n  <description>蟒蛇是一种无腿的爬行动物，拥有强大的绞杀能力，主要以小型哺乳动物为食。</description>\n</animals>\n```\n\n这个XML文件包含了三个不同的动物类型(哺乳动物、鸟类和爬行动物)，每个类型都有一个示例动物(狮子、鹦鹉和蟒蛇)及其特点描述。"
+    },
+    {
+        "Instruction": "在此基础上，增加一个动物\"熊猫\"。",
+        "Instruction_id": "767253e15cb1a67e47ed033f6b20cffb8d20ed2f029b5afc718dd19fd6dfa22c",
+        "histories": [
+            [
+                "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。",
+                "<animal>\n  <type>哺乳动物</type>\n  <name>狗</name>\n  <description>狗是一种忠诚、友好的动物，常被人类作为宠物。它们有四条腿、尖尖的耳朵和尾巴，能够通过吠叫来与人类沟通。</description>\n</animal>\n\n<animal>\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>鹦鹉是一种聪明、善于模仿的鸟类。它们有五彩斑斓的羽毛，能够模仿人类的语言和声音，常被人类作为宠物。</description>\n</animal>\n\n<animal>\n  <type>爬行动物</type>\n  <name>蜥蜴</name>\n  <description>蜥蜴是一种冷血动物，身体长而扁平，有四条腿和长尾巴。它们通常生活在干燥的地区，能够通过蜥蜴的尾巴脱落来逃脱捕食者的攻击。</description>\n</animal>"
+            ],
+            [
+                "在此基础上，增加一个动物\"熊猫\"。",
+                "<animal>\n  <type>哺乳动物</type>\n  <name>熊猫</name>\n  <description>熊猫是一种可爱的哺乳动物，以竹子为主要食物。它们有着黑白相间的皮毛，圆圆的脸和大眼睛，是中国的国宝级动物。</description>\n</animal>\n\n<animal>\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>鹦鹉是一种聪明、善于模仿的鸟类。它们有五彩斑斓的羽毛，能够模仿人类的语言和声音，常被人类作为宠物。</description>\n</animal>\n\n<animal>\n  <type>爬行动物</type>\n  <name>蜥蜴</name>\n  <description>蜥蜴是一种冷血动物，身体长而扁平，有四条腿和长尾巴。它们通常生活在干燥的地区，能够通过蜥蜴的尾巴脱落来逃脱捕食者的攻击。</description>\n</animal"
+            ]
+        ],
+        "task_description": "在此基础上，增加一个动物\"熊猫\"。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "<animal>\n  <type>哺乳动物</type>\n  <name>熊猫</name>\n  <description>熊猫是一种可爱的哺乳动物，以竹子为主要食物。它们有着黑白相间的皮毛，圆圆的脸和大眼睛，是中国的国宝级动物。</description>\n</animal>\n\n<animal>\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>鹦鹉是一种聪明、善于模仿的鸟类。它们有五彩斑斓的羽毛，能够模仿人类的语言和声音，常被人类作为宠物。</description>\n</animal>\n\n<animal>\n  <type>爬行动物</type>\n  <name>蜥蜴</name>\n  <description>蜥蜴是一种冷血动物，身体长而扁平，有四条腿和长尾巴。它们通常生活在干燥的地区，能够通过蜥蜴的尾巴脱落来逃脱捕食者的攻击。</description>\n</animal"
+    },
+    {
+        "Instruction": "展开讲讲第二个动物，深入研究其生态习性。",
+        "Instruction_id": "79a71554d449662e4868a57ed5d9149ff25800f4430cbfb42456d581c0dbbf33",
+        "histories": [
+            [
+                "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。",
+                "<animal>\n  <type>哺乳动物</type>\n  <name>狗</name>\n  <description>狗是一种忠诚、友好的动物，常被人类作为宠物。它们有四条腿、尖尖的耳朵和尾巴，能够通过吠叫来与人类沟通。</description>\n</animal>\n\n<animal>\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>鹦鹉是一种聪明、善于模仿的鸟类。它们有五彩斑斓的羽毛，能够模仿人类的语言和声音，常被人类作为宠物。</description>\n</animal>\n\n<animal>\n  <type>爬行动物</type>\n  <name>蜥蜴</name>\n  <description>蜥蜴是一种冷血动物，身体长而扁平，有四条腿和长尾巴。它们通常生活在干燥的地区，能够通过蜥蜴的尾巴脱落来逃脱捕食者的攻击。</description>\n</animal>"
+            ],
+            [
+                "在此基础上，增加一个动物\"熊猫\"。",
+                "<animal>\n  <type>哺乳动物</type>\n  <name>熊猫</name>\n  <description>熊猫是一种濒危的动物，主要分布在中国。它们有黑白相间的毛皮和圆圆的脸，以竹子为主要食物。熊猫是温和、害羞的动物，被视为国宝。</description>\n</animal>"
+            ],
+            [
+                "展开讲讲第二个动物，深入研究其生态习性。",
+                "<animal>\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>\n    鹦鹉是一类包括82种的鸟类，分布在世界各地的热带和亚热带地区。它们属于鹦形目，以其鲜艳的羽毛、弯曲的喙和出色的学习能力而闻名。\n\n    生态习性：\n    1. 栖息地：鹦鹉主要生活在森林、丛林、沼泽、海岸线等环境中。有些种类生活在高山森林，如喜马拉雅山的金顶鹦鹉;有些种类则生活在低地森林，如非洲的非洲灰鹦鹉。\n\n    2. 食物：鹦鹉的主要食物是水果和种子，尤其是坚果和棕榈科植物的籽实。有些种类还会吃昆虫、蜘蛛和其他无脊椎动物。\n\n    3. 繁殖：鹦鹉的繁殖季节因种类而异，一般在雨季开始时。雌鸟会筑巢，每次产卵数不等，一般在2-8枚之间。孵化期约为18-40天，幼鸟在孵化后约4个月离巢。\n\n    4. 社会行为：鹦鹉是非常社交的动物，通常成对或成群活动。它们在树上筑巢，喜欢在枝头间跳跃和觅食。\n\n    5. 语言能力：鹦鹉以其出色的学习能力和模仿能力而闻名。许多鹦鹉可以学会说人类的语言，甚至可以模仿人声和其他鸟类的叫声。\n\n    6. 保护状况：虽然鹦鹉在自然界中广泛分布，但由于栖息地破坏、非法贸易和猎杀等原因，许多种类面临濒危风险。国际鸟类保护联盟(BirdLife International)已将部分鹦鹉列为濒危物种。\n\n  </description>\n</animal"
+            ]
+        ],
+        "task_description": "展开讲讲第二个动物，深入研究其生态习性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "<animal>\n  <type>鸟类</type>\n  <name>鹦鹉</name>\n  <description>\n    鹦鹉是一类包括82种的鸟类，分布在世界各地的热带和亚热带地区。它们属于鹦形目，以其鲜艳的羽毛、弯曲的喙和出色的学习能力而闻名。\n\n    生态习性：\n    1. 栖息地：鹦鹉主要生活在森林、丛林、沼泽、海岸线等环境中。有些种类生活在高山森林，如喜马拉雅山的金顶鹦鹉;有些种类则生活在低地森林，如非洲的非洲灰鹦鹉。\n\n    2. 食物：鹦鹉的主要食物是水果和种子，尤其是坚果和棕榈科植物的籽实。有些种类还会吃昆虫、蜘蛛和其他无脊椎动物。\n\n    3. 繁殖：鹦鹉的繁殖季节因种类而异，一般在雨季开始时。雌鸟会筑巢，每次产卵数不等，一般在2-8枚之间。孵化期约为18-40天，幼鸟在孵化后约4个月离巢。\n\n    4. 社会行为：鹦鹉是非常社交的动物，通常成对或成群活动。它们在树上筑巢，喜欢在枝头间跳跃和觅食。\n\n    5. 语言能力：鹦鹉以其出色的学习能力和模仿能力而闻名。许多鹦鹉可以学会说人类的语言，甚至可以模仿人声和其他鸟类的叫声。\n\n    6. 保护状况：虽然鹦鹉在自然界中广泛分布，但由于栖息地破坏、非法贸易和猎杀等原因，许多种类面临濒危风险。国际鸟类保护联盟(BirdLife International)已将部分鹦鹉列为濒危物种。\n\n  </description>\n</animal"
+    },
+    {
+        "Instruction": "列出5种可以改善睡眠质量的方法。为了更方便阅读，我想让输出是markdown表格格式的。我还想了解每种方法的关键词和简要描述。",
+        "Instruction_id": "0d41c6322df6ea80ee761b90a38c2fc5514e4d95d6fb2caf38c3addf3eb668e4",
+        "histories": [
+            [
+                "列出5种可以改善睡眠质量的方法。为了更方便阅读，我想让输出是markdown表格格式的。我还想了解每种方法的关键词和简要描述。",
+                "| 序号 | 方法名称       | 关键词                               | 简要描述                                           |\n|----|------------|-----------------------------|---------------------------------------||\n| 1  | 保持规律作息 | 作息时间, 规律, 睡眠周期 | 每天按时上床睡觉和起床，有助于调整生物钟，提高睡眠质量。 |\n| 2  | 创造良好的睡眠环境 | 环境, 舒适, 安静, 黑暗 | 确保卧室温度适中、光线柔和、噪音较小，有利于入睡。 |\n| 3  | 避免咖啡因和酒精摄入 | 咖啡因, 酒精, 睡眠 | 尤其是在临近睡觉的几个小时内，应避免摄入这些刺激性物质。 |\n| 4  | 放松身心      || 冥想, 深呼吸, 瑜伽, 热水澡 | 在睡前进行一些放松身心的活动，如冥想、深呼吸等，有助于入睡。 |\n| 5  | 控制白天小憩时间 | 小憩, 睡眠, 时间 | 白天的短暂小憩可以帮助恢复精力，但过长的小憩可能会影响夜间的睡眠质量。 |"
+            ]
+        ],
+        "task_description": "列出5种可以改善睡眠质量的方法。为了更方便阅读，我想让输出是markdown表格格式的。我还想了解每种方法的关键词和简要描述。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 序号 | 方法名称       | 关键词                               | 简要描述                                           |\n|----|------------|-----------------------------|---------------------------------------||\n| 1  | 保持规律作息 | 作息时间, 规律, 睡眠周期 | 每天按时上床睡觉和起床，有助于调整生物钟，提高睡眠质量。 |\n| 2  | 创造良好的睡眠环境 | 环境, 舒适, 安静, 黑暗 | 确保卧室温度适中、光线柔和、噪音较小，有利于入睡。 |\n| 3  | 避免咖啡因和酒精摄入 | 咖啡因, 酒精, 睡眠 | 尤其是在临近睡觉的几个小时内，应避免摄入这些刺激性物质。 |\n| 4  | 放松身心      || 冥想, 深呼吸, 瑜伽, 热水澡 | 在睡前进行一些放松身心的活动，如冥想、深呼吸等，有助于入睡。 |\n| 5  | 控制白天小憩时间 | 小憩, 睡眠, 时间 | 白天的短暂小憩可以帮助恢复精力，但过长的小憩可能会影响夜间的睡眠质量。 |"
+    },
+    {
+        "Instruction": "我对每种方法的具体步骤也很感兴趣",
+        "Instruction_id": "41f074e3f13b85628b3676bdaf1ca2d595acf4b919f325e82dcc9b6e38a2d370",
+        "histories": [
+            [
+                "列出5种可以改善睡眠质量的方法。为了更方便阅读，我想让输出是markdown表格格式的。我还想了解每种方法的关键词和简要描述。",
+                "| 方法 | 关键词 | 简要描述 |\n| ---- | ------ | -------- |\n| 保持规律的睡眠时间 | 规律、睡眠时间 | 每天保持相同的睡眠时间，有助于调整生物钟，提高睡眠质量。 |\n| 创造舒适的睡眠环境 | 睡眠环境、舒适 | 保持安静、黑暗、凉爽的睡眠环境，使用舒适的床垫和枕头，有助于促进深度睡眠。 |\n| 放松身心 | 放松、身心 | 在睡前进行放松活动，如冥想、深呼吸、泡热水澡，有助于减轻压力和放松身心，促进入睡。 |\n| 控制饮食和饮水 | 饮食、饮水 | 避免过饱或过饥，尤其是在睡前，限制咖啡因和酒精摄入，避免过多饮水，有助于避免夜间醒来。 |\n| 建立睡前习惯 | 睡前习惯、放松 | 建立固定的睡前习惯，如阅读、听音乐、喝热牛奶等，有助于向身体发出入睡信号，提高入睡效率。 |"
+            ],
+            [
+                "我对每种方法的具体步骤也很感兴趣",
+                "| 方法 | 关键词 | 具体步骤 |\n| ---- | ------ | -------- |\n| 保持规律的睡眠时间 | 规律、睡眠时间 | 1. 设定固定的上床时间和起床时间。2. 遵循这些时间，即使在周末也要保持一致。3. 如果需要，逐渐调整睡眠时间以适应个人需求。 |\n| 创造舒适的睡眠环境 | 睡眠环境、舒适 | 1. 保持卧室整洁。2. 确保床垫和枕头舒适。3. 降低噪音和光线干扰。4. 控制室内温度和湿度。 |\n| 放松身心 | 放松、身心 | 1. 尝试冥想或深呼吸练习。2. 进行温和的运动，如瑜伽或散步。3. 享受一个热水澡或淋浴。4. 阅读轻松的内容。 |\n| 控制饮食和饮水 | 饮食、饮水 | 1. 避免临睡前吃重口味食物。2. 避免临睡前大量饮水。3. 尽量在睡前几小时完成进食。4. 减少咖啡因和酒精摄入。 |\n| 建立睡前习惯 | 睡前习惯、放松 | 1. 设定固定的睡前准备时间。2. 选择一项轻松的活动作为睡前习惯，如阅读或听音乐。3. 坚持执行睡前习惯，直到感到困意。 |"
+            ]
+        ],
+        "task_description": "我对每种方法的具体步骤也很感兴趣",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 方法 | 关键词 | 具体步骤 |\n| ---- | ------ | -------- |\n| 保持规律的睡眠时间 | 规律、睡眠时间 | 1. 设定固定的上床时间和起床时间。2. 遵循这些时间，即使在周末也要保持一致。3. 如果需要，逐渐调整睡眠时间以适应个人需求。 |\n| 创造舒适的睡眠环境 | 睡眠环境、舒适 | 1. 保持卧室整洁。2. 确保床垫和枕头舒适。3. 降低噪音和光线干扰。4. 控制室内温度和湿度。 |\n| 放松身心 | 放松、身心 | 1. 尝试冥想或深呼吸练习。2. 进行温和的运动，如瑜伽或散步。3. 享受一个热水澡或淋浴。4. 阅读轻松的内容。 |\n| 控制饮食和饮水 | 饮食、饮水 | 1. 避免临睡前吃重口味食物。2. 避免临睡前大量饮水。3. 尽量在睡前几小时完成进食。4. 减少咖啡因和酒精摄入。 |\n| 建立睡前习惯 | 睡前习惯、放松 | 1. 设定固定的睡前准备时间。2. 选择一项轻松的活动作为睡前习惯，如阅读或听音乐。3. 坚持执行睡前习惯，直到感到困意。 |"
+    },
+    {
+        "Instruction": "对以下主题提出3个开放式问题。主题：健康的生活方式。我想要输出为markdown表格格式，并且每个问题都有一个编号和问题描述",
+        "Instruction_id": "ac2c104baea50591be398f20fcee732e01d1a7231ea8a1bd329338b2182f25b5",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。我想要输出为markdown表格格式，并且每个问题都有一个编号和问题描述",
+                "| 编号 | 问题描述                               |\n|----|--------------------------------|\n| 1  | 你如何定义“健康的生活方式”？                      ||\n| 2  | 在你的日常生活中，有哪些习惯有助于保持健康生活方式？        ||\n| 3  | 请分享一些实用的技巧或建议，以帮助人们过上更健康的生活方式。"
+            ]
+        ],
+        "task_description": "对以下主题提出3个开放式问题。主题：健康的生活方式。我想要输出为markdown表格格式，并且每个问题都有一个编号和问题描述",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 编号 | 问题描述                               |\n|----|--------------------------------|\n| 1  | 你如何定义“健康的生活方式”？                      ||\n| 2  | 在你的日常生活中，有哪些习惯有助于保持健康生活方式？        ||\n| 3  | 请分享一些实用的技巧或建议，以帮助人们过上更健康的生活方式。"
+    },
+    {
+        "Instruction": "增加一个问题：饮食对健康的影响是什么？",
+        "Instruction_id": "725beb86c7d4d9c64e3e4cbb9b36cf2a78080090eaa67235ef6cf8fe1f21d1c8",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。我想要输出为markdown表格格式，并且每个问题都有一个编号和问题描述",
+                "| 编号 | 问题描述                   |\n| ---- | -------------------------- |\n| 1    | 你认为什么是健康的生活方式？ |\n| 2    | 你如何保持健康的饮食习惯？   |\n| 3    | 你如何保持身体的运动量？     |"
+            ],
+            [
+                "增加一个问题：饮食对健康的影响是什么？",
+                "| 编号 | 问题描述                   |\n| ---- | -------------------------- |\n| 1    | 你认为什么是健康的生活方式？          |\n| 2    | 你如何保持健康的饮食习惯？          |\n| 3    | 你如何保持身体的运动量？            |\n| 4    | 饮食对健康的影响是什么？            |"
+            ]
+        ],
+        "task_description": "增加一个问题：饮食对健康的影响是什么？",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 编号 | 问题描述                   |\n| ---- | -------------------------- |\n| 1    | 你认为什么是健康的生活方式？          |\n| 2    | 你如何保持健康的饮食习惯？          |\n| 3    | 你如何保持身体的运动量？            |\n| 4    | 饮食对健康的影响是什么？            |"
+    },
+    {
+        "Instruction": "我还想了解运动对健康的重要性",
+        "Instruction_id": "4444efd3e3d50d1a40f78cdd4b3e4c04c62bf70e44c320bcef7bcdea7be90f97",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。我想要输出为markdown表格格式，并且每个问题都有一个编号和问题描述",
+                "| 编号 | 问题描述                   |\n| ---- | -------------------------- |\n| 1    | 你认为什么是健康的生活方式？ |\n| 2    | 你如何保持健康的饮食习惯？   |\n| 3    | 你如何保持身体的运动量？     |"
+            ],
+            [
+                "增加一个问题：饮食对健康的影响是什么？",
+                "| 编号 | 问题描述                     |\n| ---- | ---------------------------- |\n| 1    | 你认为什么是健康的生活方式？   |\n| 2    | 你如何保持健康的饮食习惯？     |\n| 3    | 你如何保持身体的运动量？       |\n| 4    | 饮食对健康的影响是什么？       |"
+            ],
+            [
+                "我还想了解运动对健康的重要性",
+                "| 编号 | 问题描述                           |\n| ---- | --------------------------------- |\n| 1    | 你认为什么是健康的生活方式？             |\n| 2    | 你如何保持健康的饮食习惯？               |\n| 3    | 你如何保持身体的运动量？                 |\n| 4    | 饮食对健康的影响是什么？                 |\n| 5    | 运动对健康的重要性是什么？                 |"
+            ]
+        ],
+        "task_description": "我还想了解运动对健康的重要性",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 编号 | 问题描述                           |\n| ---- | --------------------------------- |\n| 1    | 你认为什么是健康的生活方式？             |\n| 2    | 你如何保持健康的饮食习惯？               |\n| 3    | 你如何保持身体的运动量？                 |\n| 4    | 饮食对健康的影响是什么？                 |\n| 5    | 运动对健康的重要性是什么？                 |"
+    },
+    {
+        "Instruction": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\\n本地菜肴：麻婆豆腐\n。",
+        "Instruction_id": "e5917a5405f83e4c37f746216f113b544fee6198d943a869b077b396fb353a23",
+        "histories": [
+            [
+                "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\\n本地菜肴：麻婆豆腐\n。",
+                "{\n  \"local_dish\": \"Mapo Tofu\",\n  \"ingredients\": [\n    \"1 package (about 200 grams) of firm tofu\",\n    \"2 tablespoons vegetable oil\",\n    \"2 teaspoons minced fresh ginger\",\n    \"1 small onion, chopped\",\n    \"2 garlic cloves, minced\",\n    \"1 teaspoon minced fresh hot peppers or green chili pepper\",\n    \"1 teaspoon minced fresh garlic shoots\",\n    \"1⁄2 teaspoon ground dried red chili peppers\",\n    \"1 cup chicken stock or water\",\n    \"3 tablespoons hoisin sauce\",\n    \"2 tablespoons oyster sauce\",\n    \"1 tablespoon dark soy sauce\",\n    \"1 tablespoon cornstarch dissolved in 1 tablespoon water\",\n    \"Scant 1⁄4 cup coarsely chopped cilantro leaves for garnish\",\n    \"1.5 cups bean sprouts and/or green onions mixed with the cooked mapo tofu on top as a serving accompaniment\"\n  ],\n  \"steps\": [\n    \"Cut the tofu into bite-sized pieces about half an inch thick using kitchen shears; you should get around ten portions from one block. Place them gently between two layers of paper towels,\",\n    \"and press down firmly while changing positions several times until they are dry enough not to soak up too much liquid when fried later but still retain their shape well. Set aside briefly before frying off some fat,”,\n    \"then adding your seasoned flour mixture over medium heat – this will help keep it crispier than if left alone without any seasonings added at all”,\n    \"Add the drained cubes back after only three minutes each side because otherwise we'll end up having rubbery bits instead of nice golden browned outside surrounding soft interior that is inherently part of what makes good mapped tofu great!”,\n    \"In another pan add more cooking spray then pour out remaining canola onto dish to cool. Add the rest of ingredients except beansprouts &amp; sesame seeds to same pot used earlier. Bring everything together by whisking constantly until smooth and glossy. Simmer uncovered for approximately five mins. Serve immediately with desired greens atop. Garnish with additional scallions &nbsp;&amp; crushed Szechuan peppercorns if preferred.\"\n  ]\n}"
+            ]
+        ],
+        "task_description": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\\n本地菜肴：麻婆豆腐\n。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"local_dish\": \"Mapo Tofu\",\n  \"ingredients\": [\n    \"1 package (about 200 grams) of firm tofu\",\n    \"2 tablespoons vegetable oil\",\n    \"2 teaspoons minced fresh ginger\",\n    \"1 small onion, chopped\",\n    \"2 garlic cloves, minced\",\n    \"1 teaspoon minced fresh hot peppers or green chili pepper\",\n    \"1 teaspoon minced fresh garlic shoots\",\n    \"1⁄2 teaspoon ground dried red chili peppers\",\n    \"1 cup chicken stock or water\",\n    \"3 tablespoons hoisin sauce\",\n    \"2 tablespoons oyster sauce\",\n    \"1 tablespoon dark soy sauce\",\n    \"1 tablespoon cornstarch dissolved in 1 tablespoon water\",\n    \"Scant 1⁄4 cup coarsely chopped cilantro leaves for garnish\",\n    \"1.5 cups bean sprouts and/or green onions mixed with the cooked mapo tofu on top as a serving accompaniment\"\n  ],\n  \"steps\": [\n    \"Cut the tofu into bite-sized pieces about half an inch thick using kitchen shears; you should get around ten portions from one block. Place them gently between two layers of paper towels,\",\n    \"and press down firmly while changing positions several times until they are dry enough not to soak up too much liquid when fried later but still retain their shape well. Set aside briefly before frying off some fat,”,\n    \"then adding your seasoned flour mixture over medium heat – this will help keep it crispier than if left alone without any seasonings added at all”,\n    \"Add the drained cubes back after only three minutes each side because otherwise we'll end up having rubbery bits instead of nice golden browned outside surrounding soft interior that is inherently part of what makes good mapped tofu great!”,\n    \"In another pan add more cooking spray then pour out remaining canola onto dish to cool. Add the rest of ingredients except beansprouts &amp; sesame seeds to same pot used earlier. Bring everything together by whisking constantly until smooth and glossy. Simmer uncovered for approximately five mins. Serve immediately with desired greens atop. Garnish with additional scallions &nbsp;&amp; crushed Szechuan peppercorns if preferred.\"\n  ]\n}"
+    },
+    {
+        "Instruction": "如果是“鱼香肉丝”呢",
+        "Instruction_id": "4a1744b54b52a5976951fa0b1276d79d382d4c888a993baf52e03468e98146b6",
+        "histories": [
+            [
+                "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\\n本地菜肴：麻婆豆腐\n。",
+                "{\n  \"菜名\": \"麻婆豆腐\",\n  \"原料\": [\n    \"豆腐\",\n    \"牛肉末\",\n    \"豆瓣酱\",\n    \"辣椒粉\",\n    \"葱姜蒜\",\n    \"花椒粉\",\n    \"料酒\",\n    \"盐\",\n    \"鸡精\",\n    \"淀粉\",\n    \"香菜\"\n  ],\n  \"步骤\": [\n    \"1. 豆腐切成小块，放入开水中焯水，捞出备用。\",\n    \"2. 锅中加入适量油，烧热后放入葱姜蒜爆炒出香味。\",\n    \"3. 加入牛肉末煸炒至变色。\",\n    \"4. 加入豆瓣酱和辣椒粉炒匀。\",\n    \"5. 加入适量的水，煮开后放入焯水后的豆腐块。\",\n    \"6. 加入料酒、盐和鸡精调味。\",\n    \"7. 用水调成的淀粉勾芡，使汤汁变稠。\",\n    \"8. 撒入花椒粉，翻炒均匀。\",\n    \"9. 装盘后撒上香菜末即可。\"\n  ],\n  \"口味\": \"麻辣\",\n  \"特点\": \"豆腐鲜嫩，口感丰富，麻辣味浓郁。\"\n}"
+            ],
+            [
+                "如果是“鱼香肉丝”呢",
+                "{\n  \"菜名\": \"鱼香肉丝\",\n  \"原料\": [\n    \"猪里脊肉\",\n    \"木耳\",\n    \"红椒\",\n    \"青椒\",\n    \"葱姜蒜\",\n    \"食盐\",\n    \"生抽\",\n    \"老抽\",\n    \"白糖\",\n    \"陈醋\",\n    \"干辣椒\",\n    \"淀粉\",\n    \"鸡蛋清\",\n    \"食油\"\n  ],\n  \"步骤\": [\n    \"1. 猪里脊肉切丝，加入适量淀粉、鸡蛋清和食盐腌制10分钟。\",\n    \"2. 木耳、红椒、青椒切丝，葱切段，姜蒜切末。\",\n    \"3. 调制鱼香汁：生抽、老抽、白糖、陈醋、食盐、淀粉、水混合搅拌均匀。\",\n    \"4. 锅中加油，将腌制好的肉丝下锅滑炒至变色捞出备用。\",\n    \"5. 锅中留底油，放入干辣椒、葱姜蒜末炒香。\",\n    \"6. 加入木耳、红椒、青椒丝翻炒。\",\n    \"7. 倒入鱼香汁，翻炒均匀。\",\n    \"8. 加入滑炒好的肉丝，翻炒均匀。\",\n    \"9. 最后撒上葱花，翻炒均匀即可出锅。\"\n  ],\n  \"口味\": \"酸甜带辣\",\n  \"特点\": \"色泽红亮，味道鲜美，口感滑嫩。\"\n}"
+            ]
+        ],
+        "task_description": "如果是“鱼香肉丝”呢",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"菜名\": \"鱼香肉丝\",\n  \"原料\": [\n    \"猪里脊肉\",\n    \"木耳\",\n    \"红椒\",\n    \"青椒\",\n    \"葱姜蒜\",\n    \"食盐\",\n    \"生抽\",\n    \"老抽\",\n    \"白糖\",\n    \"陈醋\",\n    \"干辣椒\",\n    \"淀粉\",\n    \"鸡蛋清\",\n    \"食油\"\n  ],\n  \"步骤\": [\n    \"1. 猪里脊肉切丝，加入适量淀粉、鸡蛋清和食盐腌制10分钟。\",\n    \"2. 木耳、红椒、青椒切丝，葱切段，姜蒜切末。\",\n    \"3. 调制鱼香汁：生抽、老抽、白糖、陈醋、食盐、淀粉、水混合搅拌均匀。\",\n    \"4. 锅中加油，将腌制好的肉丝下锅滑炒至变色捞出备用。\",\n    \"5. 锅中留底油，放入干辣椒、葱姜蒜末炒香。\",\n    \"6. 加入木耳、红椒、青椒丝翻炒。\",\n    \"7. 倒入鱼香汁，翻炒均匀。\",\n    \"8. 加入滑炒好的肉丝，翻炒均匀。\",\n    \"9. 最后撒上葱花，翻炒均匀即可出锅。\"\n  ],\n  \"口味\": \"酸甜带辣\",\n  \"特点\": \"色泽红亮，味道鲜美，口感滑嫩。\"\n}"
+    },
+    {
+        "Instruction": "把以上两个json合并成一个新的json",
+        "Instruction_id": "b744d0351eceec6fe931caea08949a42adce023d6bcc4abfb12b3808c6c2154c",
+        "histories": [
+            [
+                "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\\n本地菜肴：麻婆豆腐\n。",
+                "{\n  \"菜名\": \"麻婆豆腐\",\n  \"原料\": [\n    \"豆腐\",\n    \"牛肉末\",\n    \"豆瓣酱\",\n    \"辣椒粉\",\n    \"葱姜蒜\",\n    \"花椒粉\",\n    \"料酒\",\n    \"盐\",\n    \"鸡精\",\n    \"淀粉\",\n    \"香菜\"\n  ],\n  \"步骤\": [\n    \"1. 豆腐切成小块，放入开水中焯水，捞出备用。\",\n    \"2. 锅中加入适量油，烧热后放入葱姜蒜爆炒出香味。\",\n    \"3. 加入牛肉末煸炒至变色。\",\n    \"4. 加入豆瓣酱和辣椒粉炒匀。\",\n    \"5. 加入适量的水，煮开后放入焯水后的豆腐块。\",\n    \"6. 加入料酒、盐和鸡精调味。\",\n    \"7. 用水调成的淀粉勾芡，使汤汁变稠。\",\n    \"8. 撒入花椒粉，翻炒均匀。\",\n    \"9. 装盘后撒上香菜末即可。\"\n  ],\n  \"口味\": \"麻辣\",\n  \"特点\": \"豆腐鲜嫩，口感丰富，麻辣味浓郁。\"\n}"
+            ],
+            [
+                "如果是“鱼香肉丝”呢",
+                "{\n  \"菜名\": \"鱼香肉丝\",\n  \"原料\": [\n    \"猪肉\",\n    \"木耳\",\n    \"胡萝卜\",\n    \"青椒\",\n    \"葱姜蒜\",\n    \"豆瓣酱\",\n    \"料酒\",\n    \"盐\",\n    \"糖\",\n    \"醋\",\n    \"淀粉\",\n    \"香菜\"\n  ],\n  \"步骤\": [\n    \"1. 猪肉切成细丝，用料酒、盐和淀粉腌制片刻。\",\n    \"2. 木耳泡软后切丝，胡萝卜和青椒也切丝备用。\",\n    \"3. 锅中加入适量油，烧热后放入葱姜蒜爆炒出香味。\",\n    \"4. 加入豆瓣酱炒出红油。\",\n    \"5. 加入腌制好的猪肉丝煸炒至变色。\",\n    \"6. 加入木耳丝、胡萝卜丝和青椒丝翻炒均匀。\",\n    \"7. 调入适量的盐、糖和醋调味。\",\n    \"8. 用水调成的淀粉勾芡，使汤汁变稠。\",\n    \"9. 装盘后撒上香菜末即可。\"\n  ],\n  \"口味\": \"鱼香\",\n  \"特点\": \"口感鲜嫩，鱼香味浓郁，色香味俱佳。\"\n}"
+            ],
+            [
+                "把以上两个json合并成一个新的json",
+                "{\n  \"菜名\": \"鱼香肉丝\",\n  \"原料\": [\n    \"猪肉\",\n    \"木耳\",\n    \"胡萝卜\",\n    \"青椒\",\n    \"葱姜蒜\",\n    \"豆瓣酱\",\n    \"料酒\",\n    \"盐\",\n    \"糖\",\n    \"醋\",\n    \"淀粉\",\n    \"香菜\"\n  ],\n  \"步骤\": [\n    \"1. 猪肉切成细丝，用料酒、盐和淀粉腌制片刻。\",\n    \"2. 木耳泡软后切丝，胡萝卜和青椒也切丝备用。\",\n    \"3. 锅中加入适量油，烧热后放入葱姜蒜爆炒出香味。\",\n    \"4. 加入豆瓣酱炒出红油。\",\n    \"5. 加入腌制好的猪肉丝煸炒至变色。\",\n    \"6. 加入木耳丝、胡萝卜丝和青椒丝翻炒均匀。\",\n    \"7. 调入适量的盐、糖和醋调味。\",\n    \"8. 用水调成的淀粉勾芡，使汤汁变稠。\",\n    \"9. 装盘后撒上香菜末即可。\",\n    \"10. 豆腐切成小块，放入开水中焯水，捞出备用。\",\n    \"11. 锅中加入适量油，烧热后放入葱姜蒜爆炒出香味。\",\n    \"12. 加入牛肉末煸炒至变色。\",\n    \"13. 加入豆瓣酱和辣椒粉炒匀。\",\n    \"14. 加入适量的水，煮开后放入焯水后的豆腐块。\",\n    \"15. 加入料酒、盐和鸡精调味。\",\n    \"16. 用水调成的淀粉勾芡，使汤汁变稠。\",\n    \"17. 撒入花椒粉，翻炒均匀。\",\n    \"18. 装盘后撒上香菜末即可。\"\n  ],\n  \"口味\": \"鱼香\",\n  \"特点\": \"口感鲜嫩，鱼香味浓郁，色香味俱佳。\"\n}"
+            ]
+        ],
+        "task_description": "把以上两个json合并成一个新的json",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"菜名\": \"鱼香肉丝\",\n  \"原料\": [\n    \"猪肉\",\n    \"木耳\",\n    \"胡萝卜\",\n    \"青椒\",\n    \"葱姜蒜\",\n    \"豆瓣酱\",\n    \"料酒\",\n    \"盐\",\n    \"糖\",\n    \"醋\",\n    \"淀粉\",\n    \"香菜\"\n  ],\n  \"步骤\": [\n    \"1. 猪肉切成细丝，用料酒、盐和淀粉腌制片刻。\",\n    \"2. 木耳泡软后切丝，胡萝卜和青椒也切丝备用。\",\n    \"3. 锅中加入适量油，烧热后放入葱姜蒜爆炒出香味。\",\n    \"4. 加入豆瓣酱炒出红油。\",\n    \"5. 加入腌制好的猪肉丝煸炒至变色。\",\n    \"6. 加入木耳丝、胡萝卜丝和青椒丝翻炒均匀。\",\n    \"7. 调入适量的盐、糖和醋调味。\",\n    \"8. 用水调成的淀粉勾芡，使汤汁变稠。\",\n    \"9. 装盘后撒上香菜末即可。\",\n    \"10. 豆腐切成小块，放入开水中焯水，捞出备用。\",\n    \"11. 锅中加入适量油，烧热后放入葱姜蒜爆炒出香味。\",\n    \"12. 加入牛肉末煸炒至变色。\",\n    \"13. 加入豆瓣酱和辣椒粉炒匀。\",\n    \"14. 加入适量的水，煮开后放入焯水后的豆腐块。\",\n    \"15. 加入料酒、盐和鸡精调味。\",\n    \"16. 用水调成的淀粉勾芡，使汤汁变稠。\",\n    \"17. 撒入花椒粉，翻炒均匀。\",\n    \"18. 装盘后撒上香菜末即可。\"\n  ],\n  \"口味\": \"鱼香\",\n  \"特点\": \"口感鲜嫩，鱼香味浓郁，色香味俱佳。\"\n}"
+    },
+    {
+        "Instruction": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。",
+        "Instruction_id": "fdb0e38501711e588e0cffea6c2f9a4abf23280813a9f7375c88a8bf125b5a8c",
+        "histories": [
+            [
+                "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。",
+                "{\n  \"真实人物\": [\n    {\n      \"人名\": \"亚历山大大帝\",\n      \"真实属性\": \"古希腊马其顿王国的国王，征服了大部分已知世界\"\n    },\n    {\n      \"人名\": \"甘地\",\n      \"真实属性\": \"印度民族独立运动的领袖，倡导非暴力不合作原则\"\n    }\n  ],\n  \"虚构人物\": [\n    {\n      \"人名\": \"哈利·波特\",\n      \"虚构属性\": \"英国作家J.K.罗琳创作的奇幻小说中的主人公，霍格沃茨魔法学校的学生\"\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"真实人物\": [\n    {\n      \"人名\": \"亚历山大大帝\",\n      \"真实属性\": \"古希腊马其顿王国的国王，征服了大部分已知世界\"\n    },\n    {\n      \"人名\": \"甘地\",\n      \"真实属性\": \"印度民族独立运动的领袖，倡导非暴力不合作原则\"\n    }\n  ],\n  \"虚构人物\": [\n    {\n      \"人名\": \"哈利·波特\",\n      \"虚构属性\": \"英国作家J.K.罗琳创作的奇幻小说中的主人公，霍格沃茨魔法学校的学生\"\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "展开描述第一个人，包含其背景、特点等信息。",
+        "Instruction_id": "80429f63353f6f5348819f5fca969ca9a65825637188b527ff59d3a0f65c20c9",
+        "histories": [
+            [
+                "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。",
+                "{\n  \"people\": [\n    {\n      \"name\": \"Albert Einstein\",\n      \"real\": true\n    },\n    {\n      \"name\": \"Leonardo da Vinci\",\n      \"real\": true\n    },\n    {\n      \"name\": \"Harry Potter\",\n      \"real\": false\n    }\n  ]\n}"
+            ],
+            [
+                "展开描述第一个人，包含其背景、特点等信息。",
+                "第一个人名：阿尔伯特·爱因斯坦(Albert Einstein)\n\n背景：阿尔伯特·爱因斯坦(1879年3月14日-1955年4月18日)是一位德国裔瑞士籍美国理论物理学家，被誉为现代物理学的奠基人之一。他出生于德国乌尔姆，后来成为瑞士公民并加入了美国国籍。爱因斯坦在苏黎世联邦理工学院获得了物理学博士学位，并在瑞士、德国和美国等地从事研究工作。\n\n特点：爱因斯坦最著名的成就是相对论，包括狭义相对论和广义相对论。他的质能方程(E=mc2)揭示了质量与能量之间的关系。此外，他还对光电效应、引力波、宇宙学等方面做出了重要贡献。爱因斯坦曾获得1921年的诺贝尔物理学奖，以表彰他在光电效应方面的研究成果。他的名字已经成为了智慧、创新和科学突破的代名词。"
+            ]
+        ],
+        "task_description": "展开描述第一个人，包含其背景、特点等信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "第一个人名：阿尔伯特·爱因斯坦(Albert Einstein)\n\n背景：阿尔伯特·爱因斯坦(1879年3月14日-1955年4月18日)是一位德国裔瑞士籍美国理论物理学家，被誉为现代物理学的奠基人之一。他出生于德国乌尔姆，后来成为瑞士公民并加入了美国国籍。爱因斯坦在苏黎世联邦理工学院获得了物理学博士学位，并在瑞士、德国和美国等地从事研究工作。\n\n特点：爱因斯坦最著名的成就是相对论，包括狭义相对论和广义相对论。他的质能方程(E=mc2)揭示了质量与能量之间的关系。此外，他还对光电效应、引力波、宇宙学等方面做出了重要贡献。爱因斯坦曾获得1921年的诺贝尔物理学奖，以表彰他在光电效应方面的研究成果。他的名字已经成为了智慧、创新和科学突破的代名词。"
+    },
+    {
+        "Instruction": "请列举出三个加密方法及其优缺点。\n为了更方便阅读，我想让输出是json格式的。对于每个加密方法，我想要包括名称、优点和缺点这几个信息",
+        "Instruction_id": "9e3e1c5f39c049cf18f4a334fbc098d4dfc2e74b4c2d465a325519302f416bbc",
+        "histories": [
+            [
+                "请列举出三个加密方法及其优缺点。\n为了更方便阅读，我想让输出是json格式的。对于每个加密方法，我想要包括名称、优点和缺点这几个信息",
+                "{\n  \"method1\": {\n    \"name\": \"对称加密(如AES)\",\n    \"advantages\": [\"速度快\", \"易于实现\"],\n    \"disadvantages\": [\"安全性较低，容易受到已知攻击\"],\n  },\n  \"method2\": {\n    \"name\": \"非对称加密(如RSA)\",\n    \"advantages\": [\"高度安全\", \"适合公钥基础设施\"],\n    \"disadvantages\": [\"速度慢，难以实现\"],\n  },\n  \"method3\": {\n    \"name\": \"哈希函数(如SHA-256)\",\n    \"advantages\": [\"快速且安全\"],\n    \"disadvantages\": [\"不能用于加密大量数据\"],\n  }\n}"
+            ]
+        ],
+        "task_description": "请列举出三个加密方法及其优缺点。\n为了更方便阅读，我想让输出是json格式的。对于每个加密方法，我想要包括名称、优点和缺点这几个信息",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"method1\": {\n    \"name\": \"对称加密(如AES)\",\n    \"advantages\": [\"速度快\", \"易于实现\"],\n    \"disadvantages\": [\"安全性较低，容易受到已知攻击\"],\n  },\n  \"method2\": {\n    \"name\": \"非对称加密(如RSA)\",\n    \"advantages\": [\"高度安全\", \"适合公钥基础设施\"],\n    \"disadvantages\": [\"速度慢，难以实现\"],\n  },\n  \"method3\": {\n    \"name\": \"哈希函数(如SHA-256)\",\n    \"advantages\": [\"快速且安全\"],\n    \"disadvantages\": [\"不能用于加密大量数据\"],\n  }\n}"
+    },
+    {
+        "Instruction": "展开描述第二个加密方法",
+        "Instruction_id": "2412961c1b783e66af730208088c8d7a36c245ca0a89212e4b9c3b5cef6ca958",
+        "histories": [
+            [
+                "请列举出三个加密方法及其优缺点。\n为了更方便阅读，我想让输出是json格式的。对于每个加密方法，我想要包括名称、优点和缺点这几个信息",
+                "{\n  \"encryption_methods\": [\n    {\n      \"name\": \"对称加密\",\n      \"advantages\": \"1. 加密和解密速度快；2. 实现简单；3. 适用于大数据量的加密。\",\n      \"disadvantages\": \"1. 密钥的安全性难以保证；2. 密钥的分发和管理困难；3. 不适用于跨网络的加密通信。\"\n    },\n    {\n      \"name\": \"非对称加密\",\n      \"advantages\": \"1. 密钥的安全性高；2. 可以实现加密通信的身份验证；3. 适用于跨网络的加密通信。\",\n      \"disadvantages\": \"1. 加密和解密速度较慢；2. 实现复杂；3. 不适用于大数据量的加密。\"\n    },\n    {\n      \"name\": \"哈希函数\",\n      \"advantages\": \"1. 不可逆性，无法从哈希值反推原始数据；2. 计算速度快；3. 适用于验证数据完整性。\",\n      \"disadvantages\": \"1. 不同的输入可能产生相同的哈希值（碰撞）；2. 无法恢复原始数据；3. 不适用于加密通信。\"\n    }\n  ]\n}"
+            ],
+            [
+                "展开描述第二个加密方法",
+                "{\n  \"encryption_methods\": [\n    {\n      \"name\": \"对称加密\",\n      \"advantages\": \"1. 加密和解密速度快;2. 实现简单;3. 适用于大数据量的加密。\",\n      \"disadvantages\": \"1. 密钥的安全性难以保证;2. 密钥的分发和管理困难;3. 不适用于跨网络的加密通信。\"\n    },\n    {\n      \"name\": \"非对称加密\",\n      \"advantages\": \"1. 密钥的安全性高;2. 可以实现加密通信的身份验证;3. 适用于跨网络的加密通信。\",\n      \"disadvantages\": \"1. 加密和解密速度较慢;2. 实现复杂;3. 不适用于大数据量的加密。\"\n    },\n    {\n      \"name\": \"哈希函数\",\n      \"advantages\": \"1. 不可逆性，无法从哈希值反推原始数据;2. 计算速度快;3. 适用于验证数据完整性。\",\n      \"disadvantages\": \"1. 不同的输入可能产生相同的哈希值(碰撞);2. 无法恢复原始数据;3. 不适用于加密通信。\"\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "展开描述第二个加密方法",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"encryption_methods\": [\n    {\n      \"name\": \"对称加密\",\n      \"advantages\": \"1. 加密和解密速度快;2. 实现简单;3. 适用于大数据量的加密。\",\n      \"disadvantages\": \"1. 密钥的安全性难以保证;2. 密钥的分发和管理困难;3. 不适用于跨网络的加密通信。\"\n    },\n    {\n      \"name\": \"非对称加密\",\n      \"advantages\": \"1. 密钥的安全性高;2. 可以实现加密通信的身份验证;3. 适用于跨网络的加密通信。\",\n      \"disadvantages\": \"1. 加密和解密速度较慢;2. 实现复杂;3. 不适用于大数据量的加密。\"\n    },\n    {\n      \"name\": \"哈希函数\",\n      \"advantages\": \"1. 不可逆性，无法从哈希值反推原始数据;2. 计算速度快;3. 适用于验证数据完整性。\",\n      \"disadvantages\": \"1. 不同的输入可能产生相同的哈希值(碰撞);2. 无法恢复原始数据;3. 不适用于加密通信。\"\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "删掉最后一个加密方法，重新生成json",
+        "Instruction_id": "24d97030e2983ded9ef2749a64d0b8326407c2fe8a200f7899b402f3d9449994",
+        "histories": [
+            [
+                "请列举出三个加密方法及其优缺点。\n为了更方便阅读，我想让输出是json格式的。对于每个加密方法，我想要包括名称、优点和缺点这几个信息",
+                "{\n  \"encryption_methods\": [\n    {\n      \"name\": \"对称加密\",\n      \"advantages\": \"1. 加密和解密速度快；2. 实现简单；3. 适用于大数据量的加密。\",\n      \"disadvantages\": \"1. 密钥的安全性难以保证；2. 密钥的分发和管理困难；3. 不适用于跨网络的加密通信。\"\n    },\n    {\n      \"name\": \"非对称加密\",\n      \"advantages\": \"1. 密钥的安全性高；2. 可以实现加密通信的身份验证；3. 适用于跨网络的加密通信。\",\n      \"disadvantages\": \"1. 加密和解密速度较慢；2. 实现复杂；3. 不适用于大数据量的加密。\"\n    },\n    {\n      \"name\": \"哈希函数\",\n      \"advantages\": \"1. 不可逆性，无法从哈希值反推原始数据；2. 计算速度快；3. 适用于验证数据完整性。\",\n      \"disadvantages\": \"1. 不同的输入可能产生相同的哈希值（碰撞）；2. 无法恢复原始数据；3. 不适用于加密通信。\"\n    }\n  ]\n}"
+            ],
+            [
+                "展开描述第二个加密方法",
+                "{\n  \"encryption_methods\": [\n    {\n      \"name\": \"非对称加密\",\n      \"advantages\": \"1. 密钥的安全性高：非对称加密使用公钥和私钥，公钥用于加密数据，私钥用于解密数据。由于私钥只有加密方拥有，因此密钥的安全性较高。\\n2. 可以实现加密通信的身份验证：非对称加密可以用于数字签名，通过私钥对数据进行签名，接收方可以使用公钥验证签名的真实性，从而实现身份验证。\\n3. 适用于跨网络的加密通信：非对称加密可以在不安全的网络环境中进行加密通信，因为公钥可以公开传输，而私钥只有加密方拥有。\",\n      \"disadvantages\": \"1. 加密和解密速度较慢：非对称加密算法的计算复杂度较高，因此加密和解密的速度相对较慢。\\n2. 实现复杂：非对称加密算法的实现相对复杂，需要生成和管理公钥和私钥对。\\n3. 不适用于大数据量的加密：由于非对称加密算法的计算复杂度较高，对于大数据量的加密，会导致性能下降。\"\n    }\n  ]\n}"
+            ],
+            [
+                "删掉最后一个加密方法，重新生成json",
+                "{\n  \"encryption_methods\": [\n    {\n      \"name\": \"对称加密\",\n      \"advantages\": \"1. 加密和解密速度快;2. 实现简单;3. 适用于大数据量的加密。\",\n      \"disadvantages\": \"1. 密钥的安全性难以保证;2. 密钥的分发和管理困难;3. 不适用于跨网络的加密通信。\"\n    },\n    {\n      \"name\": \"非对称加密\",\n      \"advantages\": \"1. 密钥的安全性高;2. 可以实现加密通信的身份验证;3. 适用于跨网络的加密通信。\",\n      \"disadvantages\": \"1. 加密和解密速度较慢;2. 实现复杂;3. 不适用于大数据量的加密。\"\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "删掉最后一个加密方法，重新生成json",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"encryption_methods\": [\n    {\n      \"name\": \"对称加密\",\n      \"advantages\": \"1. 加密和解密速度快;2. 实现简单;3. 适用于大数据量的加密。\",\n      \"disadvantages\": \"1. 密钥的安全性难以保证;2. 密钥的分发和管理困难;3. 不适用于跨网络的加密通信。\"\n    },\n    {\n      \"name\": \"非对称加密\",\n      \"advantages\": \"1. 密钥的安全性高;2. 可以实现加密通信的身份验证;3. 适用于跨网络的加密通信。\",\n      \"disadvantages\": \"1. 加密和解密速度较慢;2. 实现复杂;3. 不适用于大数据量的加密。\"\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出",
+        "Instruction_id": "fca898a07fcad131c98832951008e87f8bf8a281cac759b52211e70675024d19",
+        "histories": [
+            [
+                "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出",
+                "| 序号 | 作品名                | 作者名               |\n|----|--------------------|------------------|\n| 1  | 《红楼梦》          | 曹雪芹            |\n| 2  | 《西游记》          | 吴承恩            |\n| 3  | 《水浒传》          | 施耐庵            |\n| 4  | 《三国演义》       | 罗贯中            |\n| 5  | 《儒林外史》       | 吴敬梓            |"
+            ]
+        ],
+        "task_description": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 序号 | 作品名                | 作者名               |\n|----|--------------------|------------------|\n| 1  | 《红楼梦》          | 曹雪芹            |\n| 2  | 《西游记》          | 吴承恩            |\n| 3  | 《水浒传》          | 施耐庵            |\n| 4  | 《三国演义》       | 罗贯中            |\n| 5  | 《儒林外史》       | 吴敬梓            |"
+    },
+    {
+        "Instruction": "再在表格中加一列作品的时间呢？",
+        "Instruction_id": "0a0ebb6345d5906f1e2fbbde1a8df506d0a2439798f544508b8240740040ef22",
+        "histories": [
+            [
+                "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出",
+                "| 作品名       | 作者名     |\n|--------------|------------|\n| 《红楼梦》   | 曹雪芹     |\n| 《西游记》   | 吴承恩     |\n| 《水浒传》   | 施耐庵     |\n| 《三国演义》 | 罗贯中     |\n| 《金瓶梅》   | 兰陵笑笑生 |"
+            ],
+            [
+                "再在表格中加一列作品的时间呢？",
+                "| 作品名       | 作者名     | 创作时间    |\n|--------------|------------|------------|\n| 《红楼梦》   | 曹雪芹     | 1791年     |\n| 《西游记》   | 吴承恩     | 1589年至1590年间 |\n| 《水浒传》   | 施耐庵     | 14世纪末至15世纪初 |\n| 《三国演义》 | 罗贯中     | 14世纪末至15世纪初 |\n| 《金瓶梅》   | 兰陵笑笑生 | 16世纪末至17世纪初 |"
+            ]
+        ],
+        "task_description": "再在表格中加一列作品的时间呢？",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 作品名       | 作者名     | 创作时间    |\n|--------------|------------|------------|\n| 《红楼梦》   | 曹雪芹     | 1791年     |\n| 《西游记》   | 吴承恩     | 1589年至1590年间 |\n| 《水浒传》   | 施耐庵     | 14世纪末至15世纪初 |\n| 《三国演义》 | 罗贯中     | 14世纪末至15世纪初 |\n| 《金瓶梅》   | 兰陵笑笑生 | 16世纪末至17世纪初 |"
+    },
+    {
+        "Instruction": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历",
+        "Instruction_id": "c70d26f6b6606365294be93c039212d1f6b75fd009349f94721a31c60b3645d2",
+        "histories": [
+            [
+                "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历",
+                "| 人物 | 朝代 | 生平经历                |\n|-----|-----|-------------------|\n| 曹操 | 三国时期 | 中国东汉末年著名的军事家、政治家和文学家。他曾参与讨伐黄巾军，后成为东汉丞相，奠定了曹魏的基础。 |\n| 亚历山大大帝 | 古希腊 | 马其顿王国的国王，他在短短的32年生命中征服了大部分已知的世界，包括波斯帝国。 |\n| 拿破仑·波拿巴 | 法国 | 法国著名军事家和政治家，曾多次击败反法同盟，推翻了波旁王朝，建立了第一帝国。 |"
+            ]
+        ],
+        "task_description": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 人物 | 朝代 | 生平经历                |\n|-----|-----|-------------------|\n| 曹操 | 三国时期 | 中国东汉末年著名的军事家、政治家和文学家。他曾参与讨伐黄巾军，后成为东汉丞相，奠定了曹魏的基础。 |\n| 亚历山大大帝 | 古希腊 | 马其顿王国的国王，他在短短的32年生命中征服了大部分已知的世界，包括波斯帝国。 |\n| 拿破仑·波拿巴 | 法国 | 法国著名军事家和政治家，曾多次击败反法同盟，推翻了波旁王朝，建立了第一帝国。 |"
+    },
+    {
+        "Instruction": "不错，把第二个人物换成秦始皇。",
+        "Instruction_id": "8555ca1a55d979856ca9b00a09dd60fd4b8479312900280afb06401fc0f7ea88",
+        "histories": [
+            [
+                "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历",
+                "人物 | 朝代 | 生平经历\n---|---|---\n孔子 | 春秋时期 | 孔子（公元前551年-公元前479年），名丘，字仲尼，是中国古代伟大的思想家、教育家、儒家学派创始人。他的学说对中国及东亚地区的文化产生了深远影响。孔子提倡“仁爱”、“礼治”、“中庸”等思想，强调人与人之间的和谐关系，主张通过教育来改善社会。他的学说被后世奉为经典，对中国社会和教育产生了深远影响。\n亚历山大大帝 | 古希腊 | 亚历山大大帝（公元前356年-公元前323年）是古希腊马其顿王国的国王，也是历史上最伟大的征服者之一。他在位期间征服了希腊、埃及、波斯、印度等地，建立了一个庞大的帝国。亚历山大大帝以其军事才能、政治手腕和文化推广而闻名，他的征服行动对世界历史产生了深远影响。\n乔治·华盛顿 | 美国独立时期 | 乔治·华盛顿（1732年-1799年）是美国历史上的重要人物，也是美国第一任总统。他是美国独立战争的指挥官，领导美国军队成功击败英国殖民者，确立了美国的独立地位。华盛顿被尊称为“美国之父”，他的领导才能和政治智慧对美国的建国和政治制度产生了深远影响。"
+            ],
+            [
+                "不错，把第二个人物换成秦始皇。",
+                "人物 | 朝代 | 生平经历\n---|---|---\n孔子 | 春秋时期 | 孔子(公元前551年-公元前479年)，名丘，字仲尼，是中国古代伟大的思想家、教育家、儒家学派创始人。他的学说对中国及东亚地区的文化产生了深远影响。孔子提倡“仁爱”、“礼治”、“中庸”等思想，强调人与人之间的和谐关系，主张通过教育来改善社会。他的学说被后世奉为经典，对中国社会和教育产生了深远影响。\n秦始皇 | 秦朝 | 秦始皇(公元前259年-公元前210年)，名政，是中国历史上第一个统一六国的皇帝。他实行中央集权制度，推行法家思想，加强国家机器，推动国家的繁荣和强大。秦始皇还进行了一系列改革，如统一度量衡、文字、法律等，为中国的发展奠定了基础。然而，他也因为焚书坑儒、严刑酷法等行为受到了批评。"
+            ]
+        ],
+        "task_description": "不错，把第二个人物换成秦始皇。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "人物 | 朝代 | 生平经历\n---|---|---\n孔子 | 春秋时期 | 孔子(公元前551年-公元前479年)，名丘，字仲尼，是中国古代伟大的思想家、教育家、儒家学派创始人。他的学说对中国及东亚地区的文化产生了深远影响。孔子提倡“仁爱”、“礼治”、“中庸”等思想，强调人与人之间的和谐关系，主张通过教育来改善社会。他的学说被后世奉为经典，对中国社会和教育产生了深远影响。\n秦始皇 | 秦朝 | 秦始皇(公元前259年-公元前210年)，名政，是中国历史上第一个统一六国的皇帝。他实行中央集权制度，推行法家思想，加强国家机器，推动国家的繁荣和强大。秦始皇还进行了一系列改革，如统一度量衡、文字、法律等，为中国的发展奠定了基础。然而，他也因为焚书坑儒、严刑酷法等行为受到了批评。"
+    },
+    {
+        "Instruction": "再加上他们的别名",
+        "Instruction_id": "c5f6ccaed2aba1aec8dc373454d72f58b288f17d0052003bacb2957a2cf39be7",
+        "histories": [
+            [
+                "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历",
+                "人物 | 朝代 | 生平经历\n---|---|---\n孔子 | 春秋时期 | 孔子（公元前551年-公元前479年），名丘，字仲尼，是中国古代伟大的思想家、教育家、儒家学派创始人。他的学说对中国及东亚地区的文化产生了深远影响。孔子提倡“仁爱”、“礼治”、“中庸”等思想，强调人与人之间的和谐关系，主张通过教育来改善社会。他的学说被后世奉为经典，对中国社会和教育产生了深远影响。\n亚历山大大帝 | 古希腊 | 亚历山大大帝（公元前356年-公元前323年）是古希腊马其顿王国的国王，也是历史上最伟大的征服者之一。他在位期间征服了希腊、埃及、波斯、印度等地，建立了一个庞大的帝国。亚历山大大帝以其军事才能、政治手腕和文化推广而闻名，他的征服行动对世界历史产生了深远影响。\n乔治·华盛顿 | 美国独立时期 | 乔治·华盛顿（1732年-1799年）是美国历史上的重要人物，也是美国第一任总统。他是美国独立战争的指挥官，领导美国军队成功击败英国殖民者，确立了美国的独立地位。华盛顿被尊称为“美国之父”，他的领导才能和政治智慧对美国的建国和政治制度产生了深远影响。"
+            ],
+            [
+                "不错，把第二个人物换成秦始皇。",
+                "人物 | 朝代 | 生平经历\n---|---|---\n孔子 | 春秋时期 | 孔子（公元前551年-公元前479年），名丘，字仲尼，是中国古代伟大的思想家、教育家、儒家学派创始人。他的学说对中国及东亚地区的文化产生了深远影响。孔子提倡“仁爱”、“礼治”、“中庸”等思想，强调人与人之间的和谐关系，主张通过教育来改善社会。他的学说被后世奉为经典，对中国社会和教育产生了深远影响。\n秦始皇 | 秦朝 | 秦始皇（公元前259年-公元前210年）是中国历史上第一个统一全国的皇帝，也是秦朝的创始人。他通过一系列的政治和军事改革，统一了六国，建立了中国历史上第一个中央集权的帝国。秦始皇实行了一系列的法律和制度改革，包括统一文字、度量衡、货币等，对中国历史产生了深远影响。他还下令修建了著名的兵马俑，被誉为世界文化遗产。\n乔治·华盛顿 | 美国独立时期 | 乔治·华盛顿（1732年-1799年）是美国历史上的重要人物，也是美国第一任总统。他是美国独立战争的指挥官，领导美国军队成功击败英国殖民者，确立了美国的独立地位。华盛顿被尊称为“美国之父”，他的领导才能和政治智慧对美国的建国和政治制度产生了深远影响。"
+            ],
+            [
+                "再加上他们的别名",
+                "人物 | 朝代 | 生平经历\n---|---|---\n孔子 | 春秋时期 | 孔子(公元前551年-公元前479年)，名丘，字仲尼，被尊称为“至圣先师”、“万世师表”、“文宣王”。\n亚历山大大帝 | 古希腊 | 亚历山大大帝(公元前356年-公元前323年)，被尊称为“马其顿大帝”、“亚历山大帝”、“征服者亚历山大”。\n秦始皇 | 秦朝 | 秦始皇(公元前259年-公元前210年)，被尊称为“始皇帝”、“千古一帝”。\n乔治·华盛顿 | 美国独立时期 | 乔治·华盛顿(1732年-1799年)，被尊称为“国父”、“美国开国元勋”。"
+            ]
+        ],
+        "task_description": "再加上他们的别名",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "人物 | 朝代 | 生平经历\n---|---|---\n孔子 | 春秋时期 | 孔子(公元前551年-公元前479年)，名丘，字仲尼，被尊称为“至圣先师”、“万世师表”、“文宣王”。\n亚历山大大帝 | 古希腊 | 亚历山大大帝(公元前356年-公元前323年)，被尊称为“马其顿大帝”、“亚历山大帝”、“征服者亚历山大”。\n秦始皇 | 秦朝 | 秦始皇(公元前259年-公元前210年)，被尊称为“始皇帝”、“千古一帝”。\n乔治·华盛顿 | 美国独立时期 | 乔治·华盛顿(1732年-1799年)，被尊称为“国父”、“美国开国元勋”。"
+    },
+    {
+        "Instruction": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节。",
+        "Instruction_id": "cb5ff361cb7d97339bf446fc417d45c3cf9e8a5fda9e105098dd9c867e36bd10",
+        "histories": [
+            [
+                "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节。",
+                "{\n  \"电影名称\": \"肖申克的救赎\",\n  \"导演\": \"弗兰克·德拉邦特\",\n  \"演员表\": [\"蒂姆·罗宾斯\", \"摩根·弗里曼\"],\n  \"类型\": \"剧情\",\n  \"故事情节\": \"本片改编自著名作家斯蒂芬·金的小说《世上最长的救赎》，讲述了一名银行家安迪·杜夫兰因被冤枉谋杀妻子及其情人而入狱，经历了种种磨难后，最终在好友瑞德的帮助下成功越狱的故事。影片通过安迪与瑞德之间的友谊，展现了人性的光辉，以及对自由和希望的追求。\"\n}"
+            ]
+        ],
+        "task_description": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"电影名称\": \"肖申克的救赎\",\n  \"导演\": \"弗兰克·德拉邦特\",\n  \"演员表\": [\"蒂姆·罗宾斯\", \"摩根·弗里曼\"],\n  \"类型\": \"剧情\",\n  \"故事情节\": \"本片改编自著名作家斯蒂芬·金的小说《世上最长的救赎》，讲述了一名银行家安迪·杜夫兰因被冤枉谋杀妻子及其情人而入狱，经历了种种磨难后，最终在好友瑞德的帮助下成功越狱的故事。影片通过安迪与瑞德之间的友谊，展现了人性的光辉，以及对自由和希望的追求。\"\n}"
+    },
+    {
+        "Instruction": "它的导演应该是乌尔善，修改以后重新返回",
+        "Instruction_id": "b49563501484d3efd12279f290288af3d6e40ef686f0d89a2aea64b5550fa7ef",
+        "histories": [
+            [
+                "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节。",
+                "{\n  \"导演\": \"克里斯托弗·诺兰\",\n  \"演员表演\": [\n    \"莱昂纳多·迪卡普里奥\",\n    \"约瑟夫·高登-莱维特\",\n    \"艾伦·佩吉\",\n    \"汤姆·哈迪\"\n  ],\n  \"故事情节\": \"电影名：盗梦空间\\n\\n故事情节：\\n\\n《盗梦空间》是一部科幻悬疑片，讲述了一群专门进行潜意识入侵的盗贼，通过进入他人的梦境来窃取机密信息。主角多姆·科布是一名经验丰富的盗贼，他接到了一项任务，需要在人们的梦境中实施“盗梦”。科布组建了一个团队，包括他的搭档阿瑟、潜意识专家艾琳、建筑师阿里和化学家约瑟夫。他们的目标是进入一个富商的梦境，从中窃取重要的商业机密。然而，任务并不顺利，他们遭遇了各种危险和意外。在梦境中，时间的流逝比现实更加缓慢，而且梦境中的人们会对入侵者产生警觉。科布还必须面对自己内心的阴影和过去的秘密。整个故事充满了悬疑和心理层面的冲突，同时也探讨了现实和梦境之间的界限。\"\n}"
+            ],
+            [
+                "它的导演应该是乌尔善，修改以后重新返回",
+                "{\n  \"导演\": \"乌尔善\",\n  \"演员表演\": [\n    \"雷佳音\",\n    \"周冬雨\",\n    \"陈飞宇\",\n    \"尹正\"\n  ],\n  \"故事情节\": \"电影名：封神三部曲之哪咤之魔童降世\\n\\n故事情节：\\n\\n《封神三部曲之哪咤之魔童降世》是一部奇幻冒险动画电影，改编自中国古代神话小说《封神演义》。故事围绕着哪咤这一角色展开，讲述了他从一个顽皮捣蛋的小孩成长为拯救世界的英雄的过程。哪咤天生具有神奇的力量，但他却被村民视为邪恶的化身。在经历了种种磨难后，哪咤终于明白了自己的使命，勇敢地与邪恶势力作斗争，最终成为了一名受人敬仰的英雄。影片以其独特的视觉效果和深刻的主题赢得了观众的喜爱。\"\n}"
+            ]
+        ],
+        "task_description": "它的导演应该是乌尔善，修改以后重新返回",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"导演\": \"乌尔善\",\n  \"演员表演\": [\n    \"雷佳音\",\n    \"周冬雨\",\n    \"陈飞宇\",\n    \"尹正\"\n  ],\n  \"故事情节\": \"电影名：封神三部曲之哪咤之魔童降世\\n\\n故事情节：\\n\\n《封神三部曲之哪咤之魔童降世》是一部奇幻冒险动画电影，改编自中国古代神话小说《封神演义》。故事围绕着哪咤这一角色展开，讲述了他从一个顽皮捣蛋的小孩成长为拯救世界的英雄的过程。哪咤天生具有神奇的力量，但他却被村民视为邪恶的化身。在经历了种种磨难后，哪咤终于明白了自己的使命，勇敢地与邪恶势力作斗争，最终成为了一名受人敬仰的英雄。影片以其独特的视觉效果和深刻的主题赢得了观众的喜爱。\"\n}"
+    },
+    {
+        "Instruction": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。",
+        "Instruction_id": "22cd25edf4e370336b79efc9da8fec8a9f014a4ce227cce7807387b768a3dca8",
+        "histories": [
+            [
+                "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。",
+                "{\n  \"Apple\": \"Technology\",\n  \"Facebook\": \"Technology\",\n  \"Fedex\": \"Logistics\"\n}"
+            ]
+        ],
+        "task_description": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"Apple\": \"Technology\",\n  \"Facebook\": \"Technology\",\n  \"Fedex\": \"Logistics\"\n}"
+    },
+    {
+        "Instruction": "把上述json文本翻译成英文，并把中英文的回答合并成一个json。",
+        "Instruction_id": "cb52aa45032731dd62b9db2dc28ff0cd53b051ba22307cedc8fc1640987f4d5f",
+        "histories": [
+            [
+                "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。",
+                "{\n  \"Apple\": \"Technology\",\n  \"Facebook\": \"Technology\",\n  \"Fedex\": \"Logistics\"\n}"
+            ],
+            [
+                "把上述json文本翻译成英文，并把中英文的回答合并成一个json。",
+                "{\n  \"Apple\": \"Technology\",\n  \"Facebook\": \"Technology\",\n  \"Fedex\": \"Logistics\"\n}\n\nThis is the English translation of the JSON text. The original and modified texts are merged into a single JSON object."
+            ]
+        ],
+        "task_description": "把上述json文本翻译成英文，并把中英文的回答合并成一个json。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"Apple\": \"Technology\",\n  \"Facebook\": \"Technology\",\n  \"Fedex\": \"Logistics\"\n}\n\nThis is the English translation of the JSON text. The original and modified texts are merged into a single JSON object."
+    },
+    {
+        "Instruction": "在可持续发展的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述和关键词。",
+        "Instruction_id": "7a4629b89487f2da47a1185c05bef96531ea398ca53ccd83b7d694e0865d9278",
+        "histories": [
+            [
+                "在可持续发展的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述和关键词。",
+                "{\n  \"1\": {\n    \"编号\": 1,\n    \"标题\": \"绿色建筑项目\",\n    \"描述\": \"通过采用环保建材和节能技术，提高建筑物的能源效率，降低碳排放，为城市创造更美好的生活环境。\",\n    \"关键词\": [\"绿色建筑\", \"节能技术\", \"低碳发展\", \"可持续城市\"]\n  },\n  \"2\": {\n    \"编号\": 2,\n    \"标题\": \"可再生能源推广项目\",\n    \"描述\": \"鼓励使用太阳能、风能等可再生能源，减少对化石燃料的依赖，降低温室气体排放。\",\n    \"关键词\": [\"可再生能源\", \"清洁能源\", \"减排行动\", \"气候变化\"]\n  },\n  \"3\": {\n    \"编号\": 3,\n    \"标题\": \"生态农业项目\",\n    \"描述\": \"推广有机农业、生态农业等绿色农业模式，保护土壤和水资源，提高农产品质量，保障食品安全。\",\n    \"关键词\": [\"生态农业\", \"有机农业\", \"食品安全\", \"土壤保护\"]\n  },\n  \"4\": {\n    \"编号\": 4,\n    \"标题\": \"绿色出行项目\",\n    \"描述\": \"推广公共交通、自行车和步行等低碳出行方式，减少私家车的使用，降低交通污染。\",\n    \"关键词\": [\"绿色出行\", \"低碳交通\", \"公共交通\", \"空气质量\"]\n  },\n  \"5\": {\n    \"编号\": 5,\n    \"标题\": \"废物回收与循环利用项目\",\n    \"描述\": \"建立废物分类回收体系，提高废物回收率，促进废物资源化利用，减少环境污染。\",\n    \"关键词\": [\"废物回收\", \"循环利用\", \"垃圾分类\", \"资源化利用\"]\n  }\n}"
+            ]
+        ],
+        "task_description": "在可持续发展的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述和关键词。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"1\": {\n    \"编号\": 1,\n    \"标题\": \"绿色建筑项目\",\n    \"描述\": \"通过采用环保建材和节能技术，提高建筑物的能源效率，降低碳排放，为城市创造更美好的生活环境。\",\n    \"关键词\": [\"绿色建筑\", \"节能技术\", \"低碳发展\", \"可持续城市\"]\n  },\n  \"2\": {\n    \"编号\": 2,\n    \"标题\": \"可再生能源推广项目\",\n    \"描述\": \"鼓励使用太阳能、风能等可再生能源，减少对化石燃料的依赖，降低温室气体排放。\",\n    \"关键词\": [\"可再生能源\", \"清洁能源\", \"减排行动\", \"气候变化\"]\n  },\n  \"3\": {\n    \"编号\": 3,\n    \"标题\": \"生态农业项目\",\n    \"描述\": \"推广有机农业、生态农业等绿色农业模式，保护土壤和水资源，提高农产品质量，保障食品安全。\",\n    \"关键词\": [\"生态农业\", \"有机农业\", \"食品安全\", \"土壤保护\"]\n  },\n  \"4\": {\n    \"编号\": 4,\n    \"标题\": \"绿色出行项目\",\n    \"描述\": \"推广公共交通、自行车和步行等低碳出行方式，减少私家车的使用，降低交通污染。\",\n    \"关键词\": [\"绿色出行\", \"低碳交通\", \"公共交通\", \"空气质量\"]\n  },\n  \"5\": {\n    \"编号\": 5,\n    \"标题\": \"废物回收与循环利用项目\",\n    \"描述\": \"建立废物分类回收体系，提高废物回收率，促进废物资源化利用，减少环境污染。\",\n    \"关键词\": [\"废物回收\", \"循环利用\", \"垃圾分类\", \"资源化利用\"]\n  }\n}"
+    },
+    {
+        "Instruction": "我想要一个更具体的主题，例如可持续能源。修改主题为可持续能源.",
+        "Instruction_id": "20b51a1f2c358773bb8945696b535e78953ad0129613185198dae32d7c091c00",
+        "histories": [
+            [
+                "在可持续发展的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述和关键词。",
+                "{\n  \"projects\": [\n    {\n      \"id\": 1,\n      \"title\": \"可持续能源推广计划\",\n      \"description\": \"通过推广可再生能源的使用，如太阳能和风能，减少对传统能源的依赖，降低碳排放，提高能源利用效率。\",\n      \"keywords\": [\"可再生能源\", \"太阳能\", \"风能\", \"碳排放\", \"能源利用效率\"]\n    },\n    {\n      \"id\": 2,\n      \"title\": \"城市垃圾分类与回收项目\",\n      \"description\": \"建立完善的城市垃圾分类与回收系统，提高垃圾资源化利用率，减少对自然资源的消耗，降低环境污染。\",\n      \"keywords\": [\"垃圾分类\", \"回收\", \"资源化利用\", \"自然资源\", \"环境污染\"]\n    },\n    {\n      \"id\": 3,\n      \"title\": \"可持续农业发展计划\",\n      \"description\": \"推广有机农业和生态农业，减少化学农药和化肥的使用，保护土壤和水源，提高农产品的质量和安全性。\",\n      \"keywords\": [\"有机农业\", \"生态农业\", \"化学农药\", \"化肥\", \"农产品质量\"]\n    },\n    {\n      \"id\": 4,\n      \"title\": \"可持续交通规划\",\n      \"description\": \"改善公共交通系统，鼓励低碳出行方式，如步行、骑行和乘坐公共交通工具，减少汽车使用，降低交通拥堵和空气污染。\",\n      \"keywords\": [\"公共交通\", \"低碳出行\", \"步行\", \"骑行\", \"交通拥堵\"]\n    },\n    {\n      \"id\": 5,\n      \"title\": \"可持续建筑设计项目\",\n      \"description\": \"推广绿色建筑设计和建筑材料的使用，提高建筑能源效率，减少建筑对能源和水资源的消耗，降低建筑物的碳足迹。\",\n      \"keywords\": [\"绿色建筑\", \"建筑能源效率\", \"建筑材料\", \"能源消耗\", \"碳足迹\"]\n    }\n  ]\n}"
+            ],
+            [
+                "我想要一个更具体的主题，例如可持续能源。修改主题为可持续能源.",
+                "{\n  \"projects\": [\n    {\n      \"id\": 1,\n      \"title\": \"太阳能光伏发电项目\",\n      \"description\": \"推广太阳能光伏发电技术，建设分布式光伏发电系统，提供清洁、可再生的电力，降低对化石燃料的依赖。\",\n      \"keywords\": [\"太阳能光伏发电\", \"分布式光伏发电\", \"化石燃料\", \"清洁能源\"]\n    },\n    {\n      \"id\": 2,\n      \"title\": \"生物质能开发与利用项目\",\n      \"description\": \"利用农业废弃物、林木剩余物等生物质资源生产生物燃料，替代化石燃料，减少温室气体排放。\",\n      \"keywords\": [\"生物质能\", \"生物燃料\", \"温室气体排放\"]\n    },\n    {\n      \"id\": 3,\n      \"title\": \"地热能开发项目\",\n      \"description\": \"利用地热资源开发供暖、制冷和发电等多种用途的热能，提供环保、高效的能源服务。\",\n      \"keywords\": [\"地热能\", \"供暖\", \"制冷\", \"热能\", \"环保能源\"]\n    },\n    {\n      \"id\": 4,\n      \"title\": \"风能开发项目\",\n      \"description\": \"建设风力发电设施，利用风能资源产生清洁、可再生的电力，降低对化石燃料的依赖。\",\n      \"keywords\": [\"风能\", \"风力发电\", \"清洁能源\"]\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "我想要一个更具体的主题，例如可持续能源。修改主题为可持续能源.",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"projects\": [\n    {\n      \"id\": 1,\n      \"title\": \"太阳能光伏发电项目\",\n      \"description\": \"推广太阳能光伏发电技术，建设分布式光伏发电系统，提供清洁、可再生的电力，降低对化石燃料的依赖。\",\n      \"keywords\": [\"太阳能光伏发电\", \"分布式光伏发电\", \"化石燃料\", \"清洁能源\"]\n    },\n    {\n      \"id\": 2,\n      \"title\": \"生物质能开发与利用项目\",\n      \"description\": \"利用农业废弃物、林木剩余物等生物质资源生产生物燃料，替代化石燃料，减少温室气体排放。\",\n      \"keywords\": [\"生物质能\", \"生物燃料\", \"温室气体排放\"]\n    },\n    {\n      \"id\": 3,\n      \"title\": \"地热能开发项目\",\n      \"description\": \"利用地热资源开发供暖、制冷和发电等多种用途的热能，提供环保、高效的能源服务。\",\n      \"keywords\": [\"地热能\", \"供暖\", \"制冷\", \"热能\", \"环保能源\"]\n    },\n    {\n      \"id\": 4,\n      \"title\": \"风能开发项目\",\n      \"description\": \"建设风力发电设施，利用风能资源产生清洁、可再生的电力，降低对化石燃料的依赖。\",\n      \"keywords\": [\"风能\", \"风力发电\", \"清洁能源\"]\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "在每个项目想法中添加实施成本",
+        "Instruction_id": "6aba0660f50bd2dd0230061cb7849a823fc06b150ea6ae66a9affcc70206caab",
+        "histories": [
+            [
+                "在可持续发展的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述和关键词。",
+                "{\n  \"projects\": [\n    {\n      \"id\": 1,\n      \"title\": \"可持续能源推广计划\",\n      \"description\": \"通过推广可再生能源的使用，如太阳能和风能，减少对传统能源的依赖，降低碳排放，提高能源利用效率。\",\n      \"keywords\": [\"可再生能源\", \"太阳能\", \"风能\", \"碳排放\", \"能源利用效率\"]\n    },\n    {\n      \"id\": 2,\n      \"title\": \"城市垃圾分类与回收项目\",\n      \"description\": \"建立完善的城市垃圾分类与回收系统，提高垃圾资源化利用率，减少对自然资源的消耗，降低环境污染。\",\n      \"keywords\": [\"垃圾分类\", \"回收\", \"资源化利用\", \"自然资源\", \"环境污染\"]\n    },\n    {\n      \"id\": 3,\n      \"title\": \"可持续农业发展计划\",\n      \"description\": \"推广有机农业和生态农业，减少化学农药和化肥的使用，保护土壤和水源，提高农产品的质量和安全性。\",\n      \"keywords\": [\"有机农业\", \"生态农业\", \"化学农药\", \"化肥\", \"农产品质量\"]\n    },\n    {\n      \"id\": 4,\n      \"title\": \"可持续交通规划\",\n      \"description\": \"改善公共交通系统，鼓励低碳出行方式，如步行、骑行和乘坐公共交通工具，减少汽车使用，降低交通拥堵和空气污染。\",\n      \"keywords\": [\"公共交通\", \"低碳出行\", \"步行\", \"骑行\", \"交通拥堵\"]\n    },\n    {\n      \"id\": 5,\n      \"title\": \"可持续建筑设计项目\",\n      \"description\": \"推广绿色建筑设计和建筑材料的使用，提高建筑能源效率，减少建筑对能源和水资源的消耗，降低建筑物的碳足迹。\",\n      \"keywords\": [\"绿色建筑\", \"建筑能源效率\", \"建筑材料\", \"能源消耗\", \"碳足迹\"]\n    }\n  ]\n}"
+            ],
+            [
+                "我想要一个更具体的主题，例如可持续能源。修改主题为可持续能源.",
+                "{\n  \"projects\": [\n    {\n      \"id\": 1,\n      \"title\": \"太阳能光伏发电站建设\",\n      \"description\": \"在适宜的地区建设大型太阳能光伏发电站，利用太阳能转化为电能，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"太阳能\", \"光伏发电站\", \"传统能源\", \"碳排放\"]\n    },\n    {\n      \"id\": 2,\n      \"title\": \"风力发电场建设\",\n      \"description\": \"在适宜的地区建设风力发电场，利用风能转化为电能，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"风力发电\", \"风力发电场\", \"传统能源\", \"碳排放\"]\n    },\n    {\n      \"id\": 3,\n      \"title\": \"生物质能源利用项目\",\n      \"description\": \"开发利用生物质能源，如农作物秸秆、木材废料等，生产生物质燃料或发电，减少对化石燃料的需求，降低碳排放。\",\n      \"keywords\": [\"生物质能源\", \"生物质燃料\", \"发电\", \"化石燃料\", \"碳排放\"]\n    },\n    {\n      \"id\": 4,\n      \"title\": \"潮汐能发电项目\",\n      \"description\": \"利用潮汐能转化为电能，建设潮汐能发电设施，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"潮汐能\", \"潮汐能发电\", \"传统能源\", \"碳排放\"]\n    },\n    {\n      \"id\": 5,\n      \"title\": \"地热能利用项目\",\n      \"description\": \"开发利用地热能源，建设地热发电站或供热系统，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"地热能\", \"地热发电\", \"供热系统\", \"传统能源\", \"碳排放\"]\n    }\n  ]\n}"
+            ],
+            [
+                "在每个项目想法中添加实施成本",
+                "{\n  \"projects\": [\n    {\n      \"id\": 1,\n      \"title\": \"太阳能光伏发电站建设\",\n      \"description\": \"在适宜的地区建设大型太阳能光伏发电站，利用太阳能转化为电能，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"太阳能\", \"光伏发电站\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"高昂\"\n    },\n    {\n      \"id\": 2,\n      \"title\": \"风力发电场建设\",\n      \"description\": \"在适宜的地区建设风力发电场，利用风能转化为电能，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"风力发电\", \"风力发电场\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"中等\"\n    },\n    {\n      \"id\": 3,\n      \"title\": \"生物质能源利用项目\",\n      \"description\": \"开发利用生物质能源，如农作物秸秆、木材废料等，生产生物质燃料或发电，减少对化石燃料的需求，降低碳排放。\",\n      \"keywords\": [\"生物质能源\", \"生物质燃料\", \"发电\", \"化石燃料\", \"碳排放\"],\n      \"cost\": \"较低\"\n    },\n    {\n      \"id\": 4,\n      \"title\": \"潮汐能发电项目\",\n      \"description\": \"利用潮汐能转化为电能，建设潮汐能发电设施，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"潮汐能\", \"潮汐能发电\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"中等\"\n    },\n    {\n      \"id\": 5,\n      \"title\": \"地热能利用项目\",\n      \"description\": \"开发利用地热能源，建设地热发电站或供热系统，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"地热能\", \"地热发电\", \"供热系统\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"中等\"\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "在每个项目想法中添加实施成本",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"projects\": [\n    {\n      \"id\": 1,\n      \"title\": \"太阳能光伏发电站建设\",\n      \"description\": \"在适宜的地区建设大型太阳能光伏发电站，利用太阳能转化为电能，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"太阳能\", \"光伏发电站\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"高昂\"\n    },\n    {\n      \"id\": 2,\n      \"title\": \"风力发电场建设\",\n      \"description\": \"在适宜的地区建设风力发电场，利用风能转化为电能，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"风力发电\", \"风力发电场\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"中等\"\n    },\n    {\n      \"id\": 3,\n      \"title\": \"生物质能源利用项目\",\n      \"description\": \"开发利用生物质能源，如农作物秸秆、木材废料等，生产生物质燃料或发电，减少对化石燃料的需求，降低碳排放。\",\n      \"keywords\": [\"生物质能源\", \"生物质燃料\", \"发电\", \"化石燃料\", \"碳排放\"],\n      \"cost\": \"较低\"\n    },\n    {\n      \"id\": 4,\n      \"title\": \"潮汐能发电项目\",\n      \"description\": \"利用潮汐能转化为电能，建设潮汐能发电设施，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"潮汐能\", \"潮汐能发电\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"中等\"\n    },\n    {\n      \"id\": 5,\n      \"title\": \"地热能利用项目\",\n      \"description\": \"开发利用地热能源，建设地热发电站或供热系统，减少对传统能源的依赖，降低碳排放。\",\n      \"keywords\": [\"地热能\", \"地热发电\", \"供热系统\", \"传统能源\", \"碳排放\"],\n      \"cost\": \"中等\"\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。",
+        "Instruction_id": "8b6bd73c36cabd853053bfedbc502f65b1c8e79ca3980e942da7d2b9d5aa5b44",
+        "histories": [
+            [
+                "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。",
+                "| 品牌        | 特点                               | 口味描述                       |\n|------------|--------------------------------|-------------------------|\n| 星巴克 (Starbucks) | 全球知名连锁咖啡品牌，提供多种咖啡豆 | 浓郁的咖啡味，口感顺滑，适合搭配糕点 |\n| 蓝山 (Blue Mountain) | 高品质牙买加咖啡，口感醇厚     > 酸度适中，果香明显，回味悠长 |\n| 拿铁 (Lavazza)    | 意大利进口咖啡，注重咖啡与牛奶的比例 | 浓厚的咖啡味，奶泡丰富，口感丝滑 |\n| 肯尼亚 (Kenya)   | 非洲产地咖啡，酸度较高，果香浓郁 | 香气扑鼻，酸甜平衡，余味悠长 |\n| 摩卡 (Moka)     || 意大利浓缩咖啡，口感浓烈         > 苦涩与甘甜交织，适合喜欢浓重口感的人 |"
+            ]
+        ],
+        "task_description": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 品牌        | 特点                               | 口味描述                       |\n|------------|--------------------------------|-------------------------|\n| 星巴克 (Starbucks) | 全球知名连锁咖啡品牌，提供多种咖啡豆 | 浓郁的咖啡味，口感顺滑，适合搭配糕点 |\n| 蓝山 (Blue Mountain) | 高品质牙买加咖啡，口感醇厚     > 酸度适中，果香明显，回味悠长 |\n| 拿铁 (Lavazza)    | 意大利进口咖啡，注重咖啡与牛奶的比例 | 浓厚的咖啡味，奶泡丰富，口感丝滑 |\n| 肯尼亚 (Kenya)   | 非洲产地咖啡，酸度较高，果香浓郁 | 香气扑鼻，酸甜平衡，余味悠长 |\n| 摩卡 (Moka)     || 意大利浓缩咖啡，口感浓烈         > 苦涩与甘甜交织，适合喜欢浓重口感的人 |"
+    },
+    {
+        "Instruction": "我对第三种咖啡很感兴趣，展开描述第三种咖啡",
+        "Instruction_id": "08d5d4aefc235537536a6cc11ce758b23dcbed7a6c2a4cc4b10759ef49c44191",
+        "histories": [
+            [
+                "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。",
+                "| 品牌   | 特点                                                         | 口味                                                         |\n|--------|--------------------------------------------------------------|--------------------------------------------------------------|\n| 星巴克 | 全球知名品牌，提供多种咖啡饮品和食品，店铺遍布全球                 | 浓郁的咖啡香气，口感浓厚，有多种口味选择，如拿铁、摩卡等         |\n| 雀巢   | 世界领先的食品和饮料公司，提供多种咖啡产品，包括速溶咖啡和咖啡豆 | 醇厚的口感，香气浓郁，有不同浓度和口味选择，如浓缩咖啡、卡布奇诺 |\n| 蓝山   | 来自牙买加的高品质咖啡豆，被誉为世界上最好的咖啡之一             | 清淡而芳香，口感柔和，带有一丝果味，酸度适中，回味悠长           |\n| 伊利   | 中国知名乳制品品牌，提供多种咖啡饮品，如咖啡牛奶                   | 咖啡与牛奶的完美结合，口感丰富，香甜可口，适合喜欢奶香味的人     |\n| 茶π   | 中国知名茶饮品牌，推出咖啡系列产品，如咖啡奶茶                     | 咖啡与茶的独特组合，口感丰富，香气浓郁，有咖啡和茶的双重味道     |"
+            ],
+            [
+                "我对第三种咖啡很感兴趣，展开描述第三种咖啡",
+                "当然可以！以下是对蓝山咖啡的详细描述：\n\n蓝山咖啡(Blue Mountain Coffee)产自牙买加，是世界上最著名的咖啡之一。它以其卓越的品质和独特的风味而闻名于世。蓝山咖啡豆通常呈圆形，颜色为浅棕色，带有明显的光泽。\n\n蓝山咖啡的特点如下：\n\n1. 口感：蓝山咖啡具有清淡而芳香的口感，酸度适中，回味悠长。它的味道复杂多样，带有一丝果味，使其在众多咖啡品种中脱颖而出。\n\n2. 品质：蓝山咖啡因其稀有性和高品质而备受推崇。它在国际市场上享有盛誉，被认为是世界上最好的咖啡之一。\n\n3. 生产过程：蓝山咖啡的种植遵循严格的标准，从土壤、气候到采摘和处理都有严格的要求。这种咖啡豆需要在海拔1800米以上的地区种植，以确保其品质。\n\n4. 冲泡方法：蓝山咖啡适合用滴漏式咖啡机或手冲的方式冲泡。由于其酸度较高，建议使用新鲜的水进行冲泡，以保持其最佳口感。\n\n总的来说，蓝山咖啡以其独特的风味和卓越的品质，成为了咖啡爱好者们追求的顶级美味。"
+            ]
+        ],
+        "task_description": "我对第三种咖啡很感兴趣，展开描述第三种咖啡",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "当然可以！以下是对蓝山咖啡的详细描述：\n\n蓝山咖啡(Blue Mountain Coffee)产自牙买加，是世界上最著名的咖啡之一。它以其卓越的品质和独特的风味而闻名于世。蓝山咖啡豆通常呈圆形，颜色为浅棕色，带有明显的光泽。\n\n蓝山咖啡的特点如下：\n\n1. 口感：蓝山咖啡具有清淡而芳香的口感，酸度适中，回味悠长。它的味道复杂多样，带有一丝果味，使其在众多咖啡品种中脱颖而出。\n\n2. 品质：蓝山咖啡因其稀有性和高品质而备受推崇。它在国际市场上享有盛誉，被认为是世界上最好的咖啡之一。\n\n3. 生产过程：蓝山咖啡的种植遵循严格的标准，从土壤、气候到采摘和处理都有严格的要求。这种咖啡豆需要在海拔1800米以上的地区种植，以确保其品质。\n\n4. 冲泡方法：蓝山咖啡适合用滴漏式咖啡机或手冲的方式冲泡。由于其酸度较高，建议使用新鲜的水进行冲泡，以保持其最佳口感。\n\n总的来说，蓝山咖啡以其独特的风味和卓越的品质，成为了咖啡爱好者们追求的顶级美味。"
+    },
+    {
+        "Instruction": "在以上CSV表格中增加产地信息",
+        "Instruction_id": "77bdaf343fe81c045d8e302f92e7b044f6d36170549774931f178ce7af1b7aa7",
+        "histories": [
+            [
+                "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。",
+                "| 品牌   | 特点                                                         | 口味                                                         |\n|--------|--------------------------------------------------------------|--------------------------------------------------------------|\n| 星巴克 | 全球知名品牌，提供多种咖啡饮品和食品，店铺遍布全球                 | 浓郁的咖啡香气，口感浓厚，有多种口味选择，如拿铁、摩卡等         |\n| 雀巢   | 世界领先的食品和饮料公司，提供多种咖啡产品，包括速溶咖啡和咖啡豆 | 醇厚的口感，香气浓郁，有不同浓度和口味选择，如浓缩咖啡、卡布奇诺 |\n| 蓝山   | 来自牙买加的高品质咖啡豆，被誉为世界上最好的咖啡之一             | 清淡而芳香，口感柔和，带有一丝果味，酸度适中，回味悠长           |\n| 伊利   | 中国知名乳制品品牌，提供多种咖啡饮品，如咖啡牛奶                   | 咖啡与牛奶的完美结合，口感丰富，香甜可口，适合喜欢奶香味的人     |\n| 茶π   | 中国知名茶饮品牌，推出咖啡系列产品，如咖啡奶茶                     | 咖啡与茶的独特组合，口感丰富，香气浓郁，有咖啡和茶的双重味道     |"
+            ],
+            [
+                "我对第三种咖啡很感兴趣，展开描述第三种咖啡",
+                "第三种咖啡是蓝山咖啡。蓝山咖啡是来自牙买加的高品质咖啡豆，被誉为世界上最好的咖啡之一。它的特点是清淡而芳香，口感柔和，带有一丝果味，酸度适中，回味悠长。\n\n蓝山咖啡的口感非常柔和，不会给人过于浓烈的感觉，而是带有一种轻盈的口感。它的香气浓郁，散发出一种独特的芳香，让人闻到就能感受到它的高品质。\n\n蓝山咖啡的口味相对较为清淡，不会有过于苦涩的味道。它带有一丝果味，有时会有一些轻微的酸度，但整体上非常平衡。喝完之后，口中会留下一种悠长的回味，让人难以忘怀。\n\n总的来说，蓝山咖啡是一种非常高品质的咖啡，它的口感柔和、香气浓郁，带有一丝果味，酸度适中，回味悠长。如果你喜欢口感清淡而芳香的咖啡，蓝山咖啡将是一个不错的选择。"
+            ],
+            [
+                "在以上CSV表格中增加产地信息",
+                "| 品牌   | 特点                                                         | 口味                                                         | 产地   |\n|--------|-----------------------------------------------------------------|----------------------------------------------------------|--------|\n| 星巴克 | 全球知名品牌，提供多种咖啡饮品和食品，店铺遍布全球                 | 浓郁的咖啡香气，口感浓厚，有多种口味选择，如拿铁、摩卡等         | 美国   |\n| 雀巢   | 世界领先的食品和饮料公司，提供多种咖啡产品，包括速溶咖啡和咖啡豆 | 醇厚的口感，香气浓郁，有不同浓度和口味选择，如浓缩咖啡、卡布奇诺 | 瑞士   |\n| 蓝山   | 来自牙买加的高品质咖啡豆，被誉为世界上最好的咖啡之一             | 清淡而芳香，口感柔和，带有一丝果味，酸度适中，回味悠长           | 牙买加  |\n| 伊利   | 中国知名乳制品品牌，提供多种咖啡饮品，如咖啡牛奶                   | 咖啡与牛奶的完美结合，口感丰富，香甜可口，适合喜欢奶香味的人     | 中国   |\n| 茶π   | 中国知名茶饮品牌，推出咖啡系列产品，如咖啡奶茶                     | 咖啡与茶的独特组合，口感丰富，香气浓郁，有咖啡和茶的双重味道     | 中国   |"
+            ]
+        ],
+        "task_description": "在以上CSV表格中增加产地信息",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 品牌   | 特点                                                         | 口味                                                         | 产地   |\n|--------|-----------------------------------------------------------------|----------------------------------------------------------|--------|\n| 星巴克 | 全球知名品牌，提供多种咖啡饮品和食品，店铺遍布全球                 | 浓郁的咖啡香气，口感浓厚，有多种口味选择，如拿铁、摩卡等         | 美国   |\n| 雀巢   | 世界领先的食品和饮料公司，提供多种咖啡产品，包括速溶咖啡和咖啡豆 | 醇厚的口感，香气浓郁，有不同浓度和口味选择，如浓缩咖啡、卡布奇诺 | 瑞士   |\n| 蓝山   | 来自牙买加的高品质咖啡豆，被誉为世界上最好的咖啡之一             | 清淡而芳香，口感柔和，带有一丝果味，酸度适中，回味悠长           | 牙买加  |\n| 伊利   | 中国知名乳制品品牌，提供多种咖啡饮品，如咖啡牛奶                   | 咖啡与牛奶的完美结合，口感丰富，香甜可口，适合喜欢奶香味的人     | 中国   |\n| 茶π   | 中国知名茶饮品牌，推出咖啡系列产品，如咖啡奶茶                     | 咖啡与茶的独特组合，口感丰富，香气浓郁，有咖啡和茶的双重味道     | 中国   |"
+    },
+    {
+        "Instruction": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。",
+        "Instruction_id": "f54180e898d97afe2d52b56578e2b360968a9af8763f26b8cd179c19b6fabf66",
+        "histories": [
+            [
+                "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。",
+                "| 方案名称        | 关键词                   | 描述                                       | 实施步骤                                                                                   |\n|--------------|----------------------|---------------------------------------|------------------------------------------------------------------------------||\n| 1. 限时特价      || 面包 + 优惠券             | 为特定面包提供限时折扣，同时推出优惠券鼓励顾客下次光顾。 | 1. 在店内宣传限时特价面包，如“全天8折”或“下午茶时段7折”。 2. 制作优惠券，可在下次购买时使用。 |\n| 2. 社交媒体互动 || 网络平台 + 照片征集     > | 鼓励顾客在社交媒体上分享与面包相关的照片，设置奖品吸引参与。 | 1. 在店内张贴活动海报，说明活动规则和奖品设置。 2. 顾客提交照片后，通过官方账号进行投票和评选。 |\n| 3. 跨界合作      => 面包 + 咖啡/甜品        | 与附近的咖啡店或甜品店合作，推出联名套餐或互相推广。 | 1. 联系附近的合作伙伴，商讨合作事宜。 2. 设计联名套餐，如“面包+咖啡”或“面包+甜品”。 3. 在各自的店铺宣传合作活动。 |"
+            ]
+        ],
+        "task_description": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 方案名称        | 关键词                   | 描述                                       | 实施步骤                                                                                   |\n|--------------|----------------------|---------------------------------------|------------------------------------------------------------------------------||\n| 1. 限时特价      || 面包 + 优惠券             | 为特定面包提供限时折扣，同时推出优惠券鼓励顾客下次光顾。 | 1. 在店内宣传限时特价面包，如“全天8折”或“下午茶时段7折”。 2. 制作优惠券，可在下次购买时使用。 |\n| 2. 社交媒体互动 || 网络平台 + 照片征集     > | 鼓励顾客在社交媒体上分享与面包相关的照片，设置奖品吸引参与。 | 1. 在店内张贴活动海报，说明活动规则和奖品设置。 2. 顾客提交照片后，通过官方账号进行投票和评选。 |\n| 3. 跨界合作      => 面包 + 咖啡/甜品        | 与附近的咖啡店或甜品店合作，推出联名套餐或互相推广。 | 1. 联系附近的合作伙伴，商讨合作事宜。 2. 设计联名套餐，如“面包+咖啡”或“面包+甜品”。 3. 在各自的店铺宣传合作活动。 |"
+    },
+    {
+        "Instruction": "我想了解每个解决方案的预计效果",
+        "Instruction_id": "a3b79309a18b35e924342edab3f2f988fcd914025521a55728e376cea3636c0e",
+        "histories": [
+            [
+                "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。",
+                "| 关键词 | 描述 | 实施步骤 |\n|--------|------|---------|\n| 社交媒体挑战 | 利用社交媒体平台开展挑战活动，吸引顾客参与并分享，增加品牌曝光和销售额。 | 1. 设计有趣的挑战活动，如面包造型比赛或创意拼盘挑战。 2. 在社交媒体平台上发布挑战活动，并鼓励顾客参与。 3. 提供奖品或折扣券作为参与奖励，以激励更多人参与。 4. 鼓励参与者分享他们的创作或挑战结果，并标记面包店的社交媒体账号。 |\n| 限时特价活动 | 设计一系列限时特价活动，吸引顾客前来购买，增加销售额。 | 1. 确定一段时间内的特定时间段，如每周的某个时间段或每月的某个日期。 2. 设计特价菜单或特价套餐，提供吸引人的价格优惠。 3. 在店内和社交媒体平台上宣传特价活动，引起顾客的关注。 4. 在特价活动期间，提供额外的服务或礼品，增加顾客的购买欲望。 |\n| 合作推广 | 与其他相关行业的商家合作，进行联合推广活动，扩大顾客群体和销售额。 | 1. 寻找与面包店相关的行业，如咖啡馆、花店或健身房等。 2. 与这些商家进行合作，设计联合推广活动，如购买面包赠送咖啡券、购买面包送花束等。 3. 在各自的店内和社交媒体平台上宣传合作推广活动，吸引顾客的注意。 4. 提供合作推广活动期间的特别优惠，增加顾客的购买意愿。 |"
+            ],
+            [
+                "我想了解每个解决方案的预计效果",
+                "| 方案名称 | 预计效果 |\n|--------|----------|\n| 社交媒体挑战 | 提高品牌知名度，吸引新客户，增加销售额，提高顾客满意度。 |\n| 限时特价活动 | 刺激消费者购买欲望，吸引新顾客，提高销售额，增加顾客忠诚度。 |\n| 合作推广 | 扩大顾客群体，增加销售额，提高品牌知名度，建立长期合作关系。 |"
+            ]
+        ],
+        "task_description": "我想了解每个解决方案的预计效果",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "| 方案名称 | 预计效果 |\n|--------|----------|\n| 社交媒体挑战 | 提高品牌知名度，吸引新客户，增加销售额，提高顾客满意度。 |\n| 限时特价活动 | 刺激消费者购买欲望，吸引新顾客，提高销售额，增加顾客忠诚度。 |\n| 合作推广 | 扩大顾客群体，增加销售额，提高品牌知名度，建立长期合作关系。 |"
+    },
+    {
+        "Instruction": "我对第一个解决方案很感兴趣，详细描述第一个解决方案",
+        "Instruction_id": "d2473a33ad8e3049e1e849f5fa6711066ba22fd825956e713d0229810f7631a1",
+        "histories": [
+            [
+                "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。",
+                "| 关键词 | 描述 | 实施步骤 |\n|--------|------|---------|\n| 社交媒体挑战 | 利用社交媒体平台开展挑战活动，吸引顾客参与并分享，增加品牌曝光和销售额。 | 1. 设计有趣的挑战活动，如面包造型比赛或创意拼盘挑战。 2. 在社交媒体平台上发布挑战活动，并鼓励顾客参与。 3. 提供奖品或折扣券作为参与奖励，以激励更多人参与。 4. 鼓励参与者分享他们的创作或挑战结果，并标记面包店的社交媒体账号。 |\n| 限时特价活动 | 设计一系列限时特价活动，吸引顾客前来购买，增加销售额。 | 1. 确定一段时间内的特定时间段，如每周的某个时间段或每月的某个日期。 2. 设计特价菜单或特价套餐，提供吸引人的价格优惠。 3. 在店内和社交媒体平台上宣传特价活动，引起顾客的关注。 4. 在特价活动期间，提供额外的服务或礼品，增加顾客的购买欲望。 |\n| 合作推广 | 与其他相关行业的商家合作，进行联合推广活动，扩大顾客群体和销售额。 | 1. 寻找与面包店相关的行业，如咖啡馆、花店或健身房等。 2. 与这些商家进行合作，设计联合推广活动，如购买面包赠送咖啡券、购买面包送花束等。 3. 在各自的店内和社交媒体平台上宣传合作推广活动，吸引顾客的注意。 4. 提供合作推广活动期间的特别优惠，增加顾客的购买意愿。 |"
+            ],
+            [
+                "我想了解每个解决方案的预计效果",
+                "| 关键词 | 描述 | 预计效果 |\n|--------|------|---------|\n| 社交媒体挑战 | 利用社交媒体平台开展挑战活动，吸引顾客参与并分享，增加品牌曝光和销售额。 | 1. 增加品牌曝光和知名度。 2. 吸引更多顾客参与和购买。 3. 增加社交媒体粉丝和互动。 |\n| 限时特价活动 | 设计一系列限时特价活动，吸引顾客前来购买，增加销售额。 | 1. 增加顾客流量和购买率。 2. 刺激顾客购买欲望。 3. 提高销售额和利润。 |\n| 合作推广 | 与其他相关行业的商家合作，进行联合推广活动，扩大顾客群体和销售额。 | 1. 扩大顾客群体和市场覆盖范围。 2. 增加品牌合作伙伴和业务机会。 3. 提高销售额和品牌认知度。 |"
+            ],
+            [
+                "我对第一个解决方案很感兴趣，详细描述第一个解决方案",
+                "当然，以下是关于第一个解决方案——社交媒体挑战活动的详细描述：\n\n关键词：社交媒体挑战\n\n描述：在社交媒体平台上发起一场有趣的挑战活动，邀请顾客参与并分享，以此增加品牌的曝光度和销售额。\n\n实施步骤：\n\n1. **活动策划**：首先，你需要策划一个有趣且具有挑战性的活动。例如，你可以举办一场面包造型比赛，要求参赛者制作各种创意的面包造型;或者举办一场创意拼盘挑战，要求参赛者用面包制作出美味的拼盘。\n\n2. **活动发布**：在社交媒体平台(如Facebook、Instagram、Twitter等)上发布你的挑战活动，并附上详细的活动规则和报名信息。确保使用引人注目的图片和视频来展示活动的趣味性和创意性。\n\n3. **活动推广**：鼓励参与者在社交媒体上分享他们的作品，并使用指定的活动标签或话题标签。这将有助于让更多的人了解到你的挑战活动，从而吸引更多的参与者。\n\n4. **评选与奖励**：设立评选环节，从所有提交的作品中选出最佳作品，给予奖品或折扣券作为奖励。颁奖仪式可以在你的面包店举行，让获奖者亲自领取奖品，这样可以进一步提高活动的曝光度。\n\n5. **后续跟进**：在活动结束后，可以通过发布活动总结和感谢信来保持与参与者的联系。同时，也可以通过发布新的挑战活动来维持品牌活跃度，吸引更多潜在客户。\n\n预计效果：\n\n- **增加品牌曝光度**：通过社交媒体挑战活动，你可以吸引大量用户关注你的品牌，从而提高品牌知名度。\n- **激发购买欲望**：参与者在完成挑战后，通常会更愿意分享他们的作品，这将激发他们的购买欲望，从而带动销售额的提升。\n- **增加社交媒体粉丝**：通过举办挑战活动，你可以吸引到更多喜欢你的品牌和产品的粉丝，从而为未来的营销活动奠定基础。"
+            ]
+        ],
+        "task_description": "我对第一个解决方案很感兴趣，详细描述第一个解决方案",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "当然，以下是关于第一个解决方案——社交媒体挑战活动的详细描述：\n\n关键词：社交媒体挑战\n\n描述：在社交媒体平台上发起一场有趣的挑战活动，邀请顾客参与并分享，以此增加品牌的曝光度和销售额。\n\n实施步骤：\n\n1. **活动策划**：首先，你需要策划一个有趣且具有挑战性的活动。例如，你可以举办一场面包造型比赛，要求参赛者制作各种创意的面包造型;或者举办一场创意拼盘挑战，要求参赛者用面包制作出美味的拼盘。\n\n2. **活动发布**：在社交媒体平台(如Facebook、Instagram、Twitter等)上发布你的挑战活动，并附上详细的活动规则和报名信息。确保使用引人注目的图片和视频来展示活动的趣味性和创意性。\n\n3. **活动推广**：鼓励参与者在社交媒体上分享他们的作品，并使用指定的活动标签或话题标签。这将有助于让更多的人了解到你的挑战活动，从而吸引更多的参与者。\n\n4. **评选与奖励**：设立评选环节，从所有提交的作品中选出最佳作品，给予奖品或折扣券作为奖励。颁奖仪式可以在你的面包店举行，让获奖者亲自领取奖品，这样可以进一步提高活动的曝光度。\n\n5. **后续跟进**：在活动结束后，可以通过发布活动总结和感谢信来保持与参与者的联系。同时，也可以通过发布新的挑战活动来维持品牌活跃度，吸引更多潜在客户。\n\n预计效果：\n\n- **增加品牌曝光度**：通过社交媒体挑战活动，你可以吸引大量用户关注你的品牌，从而提高品牌知名度。\n- **激发购买欲望**：参与者在完成挑战后，通常会更愿意分享他们的作品，这将激发他们的购买欲望，从而带动销售额的提升。\n- **增加社交媒体粉丝**：通过举办挑战活动，你可以吸引到更多喜欢你的品牌和产品的粉丝，从而为未来的营销活动奠定基础。"
+    },
+    {
+        "Instruction": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤",
+        "Instruction_id": "cd7565d9fd5f700d4cfba64c6cc525f16cc28df3debf9ef35b04ba4b31df70d9",
+        "histories": [
+            [
+                "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤",
+                "{\n  \"1\": {\n    \"keyword\": \"四象限法则\",\n    \"description\": \"将任务分为四个象限：重要且紧急、重要但不紧急、不重要但紧急、不重要且不紧急。优先处理重要且紧急的任务，然后是重要但不紧急的任务。\",\n    \"implementation_steps\": [\n      \"Identify the tasks in your life.\",\n      \"Group similar or related tasks together into categories (e.g., work, family, personal).\",\n      \"Assign each task to one of the four quadrants based on its urgency and importance.\",\n      \"Prioritize actions within a quadrant by assigning them levels of priority using colors such as red for highest-priority items that need immediate attention; yellow for medium priorities requiring focused effort over time; green for lower prioritized but necessary activities with ongoing completion goals set at appropriate intervals throughout day/week\";\n      \"Implement action plans accordingly: complete high-priority urgent matters first followed by higher important non-urgent ones then move downward until all are completed during given period(s); repeat process daily if needed depending upon individual needs &amp; responsibilities.\"\n    ]\n  },\n  \"2\": {\n    \"keyword\": \"时间块法则\",\n    \"description\": \"将一天分成若干个固定的时间段(如25分钟)，并在这段时间内专注于一个特定的任务或一组相关的任务。每完成一个时间块后，休息5分钟。\",\n    \"implementation_steps\": [\n      \"Identify specific blocks of dedicated timeslots you can dedicate towards different types of activity e.g. working hours, rest periods etc.\",\n      \"Allocate equal amount of focusable timetime slots per block so it'll be easier maintain concentration level without feeling overwhelmed from excessive multitasking pressure,\",\n      \"Schedule breaks after every few consecutive 'timeblocks', usually around 30 minutes duration - this helps rejuvenate mind while also ensuring better productivity when back onto next schedule slot.\",\n   {% endif %}\n  ],\n  \"3\": {\n    \"keyword\": \"Eisenhower Box\",\n    \"description\": \"将任务分为四个类别：重要且紧急、重要但不紧急、不重要但紧急、不重要且不紧急。优先处理重要且紧急的任务，然后是重要但不紧急的任务。\",\n    \"implementation_steps\": [\n      \"Identify any new commitments coming up either personally professionally which may require additional resources like funds personnel skillset expertise required beyond what is currently available OR anything else planned out already including regular maintenance chores house repairs bills due dates holidays appointments travel arrangements vacations medical checkups doctor visits dentist meetings car servicing bank transactions tax payments investment decisions insurance policies legal documents real estate purchases moving sales leases rental property management debt consolidation credit card payment collection agency calls telemarketing promotional offers mail order catalogues subscriptions magazines newspapers junkmail charity requests political campaign contributions membership dues donations volunteer opportunities club events team building retreat fundraisers bake sale rummage Sales garage Sale yardSale consignment shop thrift store donation drop off recycling center pick ups transfers title transfer vehicle registration renewal drivers license test smog inspection emissions testing tire rotation oil change air filter replacement cooling system service heating / AC tuneup electrical systems brake pads rotors disc hubs wheel bearings exhaust pipes suspension repair alignment steering linkages ball joints tie rods CV axles drive shaft universal joint driveshaft coupling clutch master cylinder slave cylinder hydraulic lines radiator fan thermostat water pump belt tensioner serpentine Belt idler pulley alternator battery charging disconnecting reconnecting connections diagnostics trouble shooting road tests safety checks emission control performance tuning fuel economy improvement noise reduction vibration dampening handling dynamics braking power sliding skid Control Vehicle Dynamics Handling Stability Control Traction Control Vehicle Dynamic Management Electronic stability program ESP Offroad driving experience tow rating payload capacity weight distribution trailer sway control hitch installation jackknife prevention loading unloading securing cargo trailers brakes lights wiring harnesses fuses ground fault circuit Interrupter ignition coil spark plug wires terminals gaskets seals washers filters coolant heater core belts timing chain guide bearing housing flywheel crankshaft engine mount crossmember frame rails subframe front clip rear clips bumpers grille fascia body side moldings headlights taillights turn signals backup lamps interior door panels console instrument panel HVAC climate controls audio equipment navigation entertainment communication devices mobile phones smartphones tablets computers laptops notebooks printers software updates firmware upgrades hardware components peripherals network adapters cables modems routers switches Wi-Fi access points security cameras surveillance DVR storage media external hard drives USB flash drives memory cards SDHC microSDXC digital camera SLR film photography instant print photo booth passport photos document scanners shredders laminating machines binding machine paper cutters staplers hole punchers label makers tape dispensers binders dividers organizational tools office supplies furniture appliances decorative accents rugs window treatments blinds shades curtains draperies lighting ceiling fans recessed Lighting track Head spot Lights landscape LED light strips solar powered outdoor string Light garden path walkways deck steps landscaping plants trees shrubs vines hedges lawn care fertilization weed whacking mowing edging aerating overseeding top dressing soil amendments organic gardening natural pesticides chemical Pesticides insecticides rodenticides flea collars tick tubes mosquito repellants bird feeders nest boxes backyard pond kits fish tanks aquarium saltwater freshwater terrarium glass enclosures tropical Fresh Water Marine Invertebrates Reptiles Amphibians Arachnids insects spiders centipedes millipedes worms snails slugs gastropods Cephalopods Mollusks Bivalves Echinoderms Chordata Fish Aquatic mammals marine birds sea turtles penguins manatees whales porpoises Orthoptera Crustacea arachnids decapods lobsters crabs barnacles copepods krill jellyfish corals anemones soft Coral Hard coral Siphonophora Medusa JellyFish Cnidarians Anthozoa Octocorallia Alcyonacea Actiniaria Algae Red algae Green Seaweed Brown macroalgae diatoms lichens Fungi Mycelium Spore Germination Conidiospores Ascomycota Basidiomycota Oomycota Plasmodial Slime Mold Chlamydomonadales Gloeotrichiales Labyrinthulales Rhizomycota Zygnematales oomycete Plantae Monera Archaeplastida Embryophyta Viridiplantae Tracheophyta Gymnosperms Angiosperms Magnoliophyta Lilianae Rosidae Ranunculales Berberidopsidales Aquifoliales Fabales Rosales Myrtales Apiales Saxifragales Asterales Lamiales Urticales Loganiaceae Cannabaceae Papilionoideae Passifloridae Commelinidae Arecales Cyperales Pandanales Liliales Monocotyledoneae Liliopsida Poales Caryophyllales Amaranthaceae Cucurbitales Boraginales Celastrales Apocynaceae Rubiaceae Acanthaceae Simaroubaceae Oxalidaceae Nyctaginaceae Hydnoraceae Goodeniaceae Menispermaceae Pandanaceae Zingiberaceae Costaceae Xanthorrhoeaceae Apiaceae Chenopodiaceae Jussieaceae Potamogetonaceae Juncaceae Restionaceae Ruppiaceae Landcare Science New Zealand Inc. (NZLS): The Carex Guidebook https://landcareresearch.co.nz/sciencepublications?q=Carex+Guidebooks&printview =true (accessed June 9 , 20 )."
+            ]
+        ],
+        "task_description": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"1\": {\n    \"keyword\": \"四象限法则\",\n    \"description\": \"将任务分为四个象限：重要且紧急、重要但不紧急、不重要但紧急、不重要且不紧急。优先处理重要且紧急的任务，然后是重要但不紧急的任务。\",\n    \"implementation_steps\": [\n      \"Identify the tasks in your life.\",\n      \"Group similar or related tasks together into categories (e.g., work, family, personal).\",\n      \"Assign each task to one of the four quadrants based on its urgency and importance.\",\n      \"Prioritize actions within a quadrant by assigning them levels of priority using colors such as red for highest-priority items that need immediate attention; yellow for medium priorities requiring focused effort over time; green for lower prioritized but necessary activities with ongoing completion goals set at appropriate intervals throughout day/week\";\n      \"Implement action plans accordingly: complete high-priority urgent matters first followed by higher important non-urgent ones then move downward until all are completed during given period(s); repeat process daily if needed depending upon individual needs &amp; responsibilities.\"\n    ]\n  },\n  \"2\": {\n    \"keyword\": \"时间块法则\",\n    \"description\": \"将一天分成若干个固定的时间段(如25分钟)，并在这段时间内专注于一个特定的任务或一组相关的任务。每完成一个时间块后，休息5分钟。\",\n    \"implementation_steps\": [\n      \"Identify specific blocks of dedicated timeslots you can dedicate towards different types of activity e.g. working hours, rest periods etc.\",\n      \"Allocate equal amount of focusable timetime slots per block so it'll be easier maintain concentration level without feeling overwhelmed from excessive multitasking pressure,\",\n      \"Schedule breaks after every few consecutive 'timeblocks', usually around 30 minutes duration - this helps rejuvenate mind while also ensuring better productivity when back onto next schedule slot.\",\n   {% endif %}\n  ],\n  \"3\": {\n    \"keyword\": \"Eisenhower Box\",\n    \"description\": \"将任务分为四个类别：重要且紧急、重要但不紧急、不重要但紧急、不重要且不紧急。优先处理重要且紧急的任务，然后是重要但不紧急的任务。\",\n    \"implementation_steps\": [\n      \"Identify any new commitments coming up either personally professionally which may require additional resources like funds personnel skillset expertise required beyond what is currently available OR anything else planned out already including regular maintenance chores house repairs bills due dates holidays appointments travel arrangements vacations medical checkups doctor visits dentist meetings car servicing bank transactions tax payments investment decisions insurance policies legal documents real estate purchases moving sales leases rental property management debt consolidation credit card payment collection agency calls telemarketing promotional offers mail order catalogues subscriptions magazines newspapers junkmail charity requests political campaign contributions membership dues donations volunteer opportunities club events team building retreat fundraisers bake sale rummage Sales garage Sale yardSale consignment shop thrift store donation drop off recycling center pick ups transfers title transfer vehicle registration renewal drivers license test smog inspection emissions testing tire rotation oil change air filter replacement cooling system service heating / AC tuneup electrical systems brake pads rotors disc hubs wheel bearings exhaust pipes suspension repair alignment steering linkages ball joints tie rods CV axles drive shaft universal joint driveshaft coupling clutch master cylinder slave cylinder hydraulic lines radiator fan thermostat water pump belt tensioner serpentine Belt idler pulley alternator battery charging disconnecting reconnecting connections diagnostics trouble shooting road tests safety checks emission control performance tuning fuel economy improvement noise reduction vibration dampening handling dynamics braking power sliding skid Control Vehicle Dynamics Handling Stability Control Traction Control Vehicle Dynamic Management Electronic stability program ESP Offroad driving experience tow rating payload capacity weight distribution trailer sway control hitch installation jackknife prevention loading unloading securing cargo trailers brakes lights wiring harnesses fuses ground fault circuit Interrupter ignition coil spark plug wires terminals gaskets seals washers filters coolant heater core belts timing chain guide bearing housing flywheel crankshaft engine mount crossmember frame rails subframe front clip rear clips bumpers grille fascia body side moldings headlights taillights turn signals backup lamps interior door panels console instrument panel HVAC climate controls audio equipment navigation entertainment communication devices mobile phones smartphones tablets computers laptops notebooks printers software updates firmware upgrades hardware components peripherals network adapters cables modems routers switches Wi-Fi access points security cameras surveillance DVR storage media external hard drives USB flash drives memory cards SDHC microSDXC digital camera SLR film photography instant print photo booth passport photos document scanners shredders laminating machines binding machine paper cutters staplers hole punchers label makers tape dispensers binders dividers organizational tools office supplies furniture appliances decorative accents rugs window treatments blinds shades curtains draperies lighting ceiling fans recessed Lighting track Head spot Lights landscape LED light strips solar powered outdoor string Light garden path walkways deck steps landscaping plants trees shrubs vines hedges lawn care fertilization weed whacking mowing edging aerating overseeding top dressing soil amendments organic gardening natural pesticides chemical Pesticides insecticides rodenticides flea collars tick tubes mosquito repellants bird feeders nest boxes backyard pond kits fish tanks aquarium saltwater freshwater terrarium glass enclosures tropical Fresh Water Marine Invertebrates Reptiles Amphibians Arachnids insects spiders centipedes millipedes worms snails slugs gastropods Cephalopods Mollusks Bivalves Echinoderms Chordata Fish Aquatic mammals marine birds sea turtles penguins manatees whales porpoises Orthoptera Crustacea arachnids decapods lobsters crabs barnacles copepods krill jellyfish corals anemones soft Coral Hard coral Siphonophora Medusa JellyFish Cnidarians Anthozoa Octocorallia Alcyonacea Actiniaria Algae Red algae Green Seaweed Brown macroalgae diatoms lichens Fungi Mycelium Spore Germination Conidiospores Ascomycota Basidiomycota Oomycota Plasmodial Slime Mold Chlamydomonadales Gloeotrichiales Labyrinthulales Rhizomycota Zygnematales oomycete Plantae Monera Archaeplastida Embryophyta Viridiplantae Tracheophyta Gymnosperms Angiosperms Magnoliophyta Lilianae Rosidae Ranunculales Berberidopsidales Aquifoliales Fabales Rosales Myrtales Apiales Saxifragales Asterales Lamiales Urticales Loganiaceae Cannabaceae Papilionoideae Passifloridae Commelinidae Arecales Cyperales Pandanales Liliales Monocotyledoneae Liliopsida Poales Caryophyllales Amaranthaceae Cucurbitales Boraginales Celastrales Apocynaceae Rubiaceae Acanthaceae Simaroubaceae Oxalidaceae Nyctaginaceae Hydnoraceae Goodeniaceae Menispermaceae Pandanaceae Zingiberaceae Costaceae Xanthorrhoeaceae Apiaceae Chenopodiaceae Jussieaceae Potamogetonaceae Juncaceae Restionaceae Ruppiaceae Landcare Science New Zealand Inc. (NZLS): The Carex Guidebook https://landcareresearch.co.nz/sciencepublications?q=Carex+Guidebooks&printview =true (accessed June 9 , 20 )."
+    },
+    {
+        "Instruction": "按照重要性排序，并注明重要性",
+        "Instruction_id": "abfc52f598df2d838f814e4322094c27ed1695980bb3d8dbf8ebabff33b332b2",
+        "histories": [
+            [
+                "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤",
+                "{\n  \"1\": {\n    \"关键词\": \"设定目标\",\n    \"描述\": \"明确你想要实现的目标，将其分解为具体的任务和里程碑。\",\n    \"实施步骤\": [\n      \"确定长期和短期目标\",\n      \"将目标分解为具体的任务\",\n      \"设定截止日期和优先级\"\n    ]\n  },\n  \"2\": {\n    \"关键词\": \"制定计划\",\n    \"描述\": \"制定详细的计划，安排时间和资源以完成任务。\",\n    \"实施步骤\": [\n      \"列出需要完成的任务\",\n      \"估计每个任务所需的时间\",\n      \"安排任务的顺序和优先级\",\n      \"创建日程表或时间表\"\n    ]\n  },\n  \"3\": {\n    \"关键词\": \"优先处理重要任务\",\n    \"描述\": \"将重要且紧急的任务放在优先处理的位置。\",\n    \"实施步骤\": [\n      \"识别重要和紧急的任务\",\n      \"将重要且紧急的任务放在优先处理的位置\",\n      \"避免拖延处理重要任务\"\n    ]\n  },\n  \"4\": {\n    \"关键词\": \"避免多任务\",\n    \"描述\": \"专注于一项任务，避免同时处理多个任务。\",\n    \"实施步骤\": [\n      \"集中精力完成一项任务\",\n      \"避免同时处理多个任务\",\n      \"使用时间块来专注于单个任务\"\n    ]\n  },\n  \"5\": {\n    \"关键词\": \"设定时间限制\",\n    \"描述\": \"为每个任务设定明确的时间限制，以保持效率。\",\n    \"实施步骤\": [\n      \"估计每个任务所需的时间\",\n      \"为每个任务设定明确的时间限制\",\n      \"遵守时间限制，避免过度拖延\"\n    ]\n  },\n  \"6\": {\n    \"关键词\": \"减少干扰\",\n    \"描述\": \"消除或减少干扰，以提高工作效率。\",\n    \"实施步骤\": [\n      \"关闭社交媒体和通知\",\n      \"创建专注的工作环境\",\n      \"使用时间块来专注于工作\"\n    ]\n  },\n  \"7\": {\n    \"关键词\": \"学会委托\",\n    \"描述\": \"将一些任务委托给他人，以节省时间和精力。\",\n    \"实施步骤\": [\n      \"识别可以委托的任务\",\n      \"选择合适的人员委托任务\",\n      \"明确任务的要求和期限\",\n      \"跟踪委托任务的进展\"\n    ]\n  },\n  \"8\": {\n    \"关键词\": \"合理安排休息时间\",\n    \"描述\": \"合理安排休息时间，以保持精力充沛。\",\n    \"实施步骤\": [\n      \"每隔一段时间休息一下\",\n      \"进行放松和恢复活动\",\n      \"避免过度工作和疲劳\"\n    ]\n  },\n  \"9\": {\n    \"关键词\": \"学会拒绝\",\n    \"描述\": \"学会拒绝那些不重要或无关紧要的任务和请求。\",\n    \"实施步骤\": [\n      \"评估任务的重要性和紧急性\",\n      \"学会婉拒不必要的任务和请求\",\n      \"保持专注于自己的目标和任务\"\n    ]\n  },\n  \"10\": {\n    \"关键词\": \"定期回顾和调整\",\n    \"描述\": \"定期回顾你的时间管理策略，并根据需要进行调整。\",\n    \"实施步骤\": [\n      \"定期回顾你的目标和计划\",\n      \"评估你的时间管理效果\",\n      \"根据需要进行调整和改进\"\n    ]\n  }\n}"
+            ],
+            [
+                "按照重要性排序，并注明重要性",
+                "{\n  \"1\": {\n    \"关键词\": \"设定目标\",\n    \"描述\": \"明确你想要实现的目标，将其分解为具体的任务和里程碑。\",\n    \"重要性\": \"高\"\n  },\n  \"2\": {\n    \"关键词\": \"制定计划\",\n    \"描述\": \"制定详细的计划，安排时间和资源以完成任务。\",\n    \"重要性\": \"中\"\n  },\n  \"3\": {\n    \"关键词\": \"优先处理重要任务\",\n    \"描述\": \"将重要且紧急的任务放在优先处理的位置。\",\n    \"重要性\": \"高\"\n  },\n  \"4\": {\n    \"关键词\": \"避免多任务\",\n    \"描述\": \"专注于一项任务，避免同时处理多个任务。\",\n    \"重要性\": \"中\"\n  },\n  \"5\": {\n    \"关键词\": \"设定时间限制\",\n    \"描述\": \"为每个任务设定明确的时间限制，以保持效率。\",\n    \"重要性\": \"中\"\n  },\n  \"6\": {\n    \"关键词\": \"减少干扰\",\n    \"描述\": \"消除或减少干扰，以提高工作效率。\",\n    \"重要性\": \"低\"\n  },\n  \"7\": {\n    \"关键词\": \"学会委托\",\n    \"描述\": \"将一些任务委托给他人，以节省时间和精力。\",\n    \"重要性\": \"中\"\n  },\n  \"8\": {\n    \"关键词\": \"合理安排休息时间\",\n    \"描述\": \"合理安排休息时间，以保持精力充沛。\",\n    \"重要性\": \"低\"\n  },\n  \"9\": {\n    \"关键词\": \"学会拒绝\",\n    \"描述\": \"学会拒绝那些不重要或无关紧要的任务和请求。\",\n    \"重要性\": \"低\"\n  },\n  \"10\": {\n    \"关键词\": \"定期回顾和调整\",\n    \"描述\": \"定期回顾你的时间管理策略，并根据需要进行调整。\",\n    \"重要性\": \"中\"\n  }\n}"
+            ]
+        ],
+        "task_description": "按照重要性排序，并注明重要性",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"1\": {\n    \"关键词\": \"设定目标\",\n    \"描述\": \"明确你想要实现的目标，将其分解为具体的任务和里程碑。\",\n    \"重要性\": \"高\"\n  },\n  \"2\": {\n    \"关键词\": \"制定计划\",\n    \"描述\": \"制定详细的计划，安排时间和资源以完成任务。\",\n    \"重要性\": \"中\"\n  },\n  \"3\": {\n    \"关键词\": \"优先处理重要任务\",\n    \"描述\": \"将重要且紧急的任务放在优先处理的位置。\",\n    \"重要性\": \"高\"\n  },\n  \"4\": {\n    \"关键词\": \"避免多任务\",\n    \"描述\": \"专注于一项任务，避免同时处理多个任务。\",\n    \"重要性\": \"中\"\n  },\n  \"5\": {\n    \"关键词\": \"设定时间限制\",\n    \"描述\": \"为每个任务设定明确的时间限制，以保持效率。\",\n    \"重要性\": \"中\"\n  },\n  \"6\": {\n    \"关键词\": \"减少干扰\",\n    \"描述\": \"消除或减少干扰，以提高工作效率。\",\n    \"重要性\": \"低\"\n  },\n  \"7\": {\n    \"关键词\": \"学会委托\",\n    \"描述\": \"将一些任务委托给他人，以节省时间和精力。\",\n    \"重要性\": \"中\"\n  },\n  \"8\": {\n    \"关键词\": \"合理安排休息时间\",\n    \"描述\": \"合理安排休息时间，以保持精力充沛。\",\n    \"重要性\": \"低\"\n  },\n  \"9\": {\n    \"关键词\": \"学会拒绝\",\n    \"描述\": \"学会拒绝那些不重要或无关紧要的任务和请求。\",\n    \"重要性\": \"低\"\n  },\n  \"10\": {\n    \"关键词\": \"定期回顾和调整\",\n    \"描述\": \"定期回顾你的时间管理策略，并根据需要进行调整。\",\n    \"重要性\": \"中\"\n  }\n}"
+    },
+    {
+        "Instruction": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出。对于每个应用场景，我想了解关键词、描述以及优势这几个方面",
+        "Instruction_id": "3564d458eb50d068ff35b58a994d022621bc55174258314107fd2d713cbc3579",
+        "histories": [
+            [
+                "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出。对于每个应用场景，我想了解关键词、描述以及优势这几个方面",
+                "1. 关键词：无人驾驶车辆、智能交通系统、自动泊车\n   描述：在大型购物中心或停车场，无人驾驶车辆可以帮助顾客自动寻找停车位，并在找到合适位置后完成自动泊车。\n   优势：节省人力成本，提高停车场利用率，减少拥堵和事故风险。\n\n2. 关键词：无人驾驶车辆、医疗救援、紧急运输\n   描述：在紧急情况下，无人驾驶车辆可以在医院之间快速运送病人，避免因人为失误导致的时间浪费。\n   优势：提高急救效率，为患者争取宝贵时间。\n\n3. 关键词：无人驾驶车辆、物流配送、快递服务\n   描述：无人驾驶车辆可以在城市中进行快递和物流配送，提高配送效率，降低运输成本。\n   优势：减少交通事故风险，提高配送速度，降低环境污染。\n\n4. 关键词：无人驾驶车辆、旅游观光、景点导览\n   描述：游客可以通过预约无人驾驶车辆游览景区，车辆可以根据预设路线自动导航至各个景点，提供详细的景点介绍。\n   优势：节省体力，提高游览体验，增加游客互动性。\n\n5. 关键词：无人驾驶车辆、农业生产、智能农田\n   描述：在农田中，无人驾驶车辆可以实现精确播种、施肥、喷药等作业，提高农业生产效率，降低劳动强度。\n   优势：减少化学物质使用，保护生态环境，提高农产品质量。"
+            ]
+        ],
+        "task_description": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出。对于每个应用场景，我想了解关键词、描述以及优势这几个方面",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "1. 关键词：无人驾驶车辆、智能交通系统、自动泊车\n   描述：在大型购物中心或停车场，无人驾驶车辆可以帮助顾客自动寻找停车位，并在找到合适位置后完成自动泊车。\n   优势：节省人力成本，提高停车场利用率，减少拥堵和事故风险。\n\n2. 关键词：无人驾驶车辆、医疗救援、紧急运输\n   描述：在紧急情况下，无人驾驶车辆可以在医院之间快速运送病人，避免因人为失误导致的时间浪费。\n   优势：提高急救效率，为患者争取宝贵时间。\n\n3. 关键词：无人驾驶车辆、物流配送、快递服务\n   描述：无人驾驶车辆可以在城市中进行快递和物流配送，提高配送效率，降低运输成本。\n   优势：减少交通事故风险，提高配送速度，降低环境污染。\n\n4. 关键词：无人驾驶车辆、旅游观光、景点导览\n   描述：游客可以通过预约无人驾驶车辆游览景区，车辆可以根据预设路线自动导航至各个景点，提供详细的景点介绍。\n   优势：节省体力，提高游览体验，增加游客互动性。\n\n5. 关键词：无人驾驶车辆、农业生产、智能农田\n   描述：在农田中，无人驾驶车辆可以实现精确播种、施肥、喷药等作业，提高农业生产效率，降低劳动强度。\n   优势：减少化学物质使用，保护生态环境，提高农产品质量。"
+    },
+    {
+        "Instruction": "翻译为英文",
+        "Instruction_id": "57a371b794dedd0d3903ab735cfdd1ab92353aa6b3d3e6ff628ac6caa658e807",
+        "histories": [
+            [
+                "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出。对于每个应用场景，我想了解关键词、描述以及优势这几个方面",
+                "1. 无人驾驶出租车\n关键词：出租车、无人驾驶、乘客、交通\n描述：无人驾驶出租车是指由无人驾驶技术控制的出租车，可以自动接送乘客，遵守交通规则，并提供安全、高效的乘车体验。\n优势：提高交通效率，减少交通事故，节省人力成本。\n\n```xml\n<应用场景>\n    <关键词>出租车</关键词>\n    <关键词>无人驾驶</关键词>\n    <关键词>乘客</关键词>\n    <关键词>交通</关键词>\n    <描述>无人驾驶出租车是指由无人驾驶技术控制的出租车，可以自动接送乘客，遵守交通规则，并提供安全、高效的乘车体验。</描述>\n    <优势>提高交通效率，减少交通事故，节省人力成本。</优势>\n</应用场景>\n```\n\n2. 无人驾驶货运车辆\n关键词：货运、无人驾驶、物流、自动化\n描述：无人驾驶货运车辆是指由无人驾驶技术控制的货运车辆，可以自动运输货物，减少人力成本，提高物流效率。\n优势：提高物流效率，降低运输成本，减少交通拥堵。\n\n```xml\n<应用场景>\n    <关键词>货运</关键词>\n    <关键词>无人驾驶</关键词>\n    <关键词>物流</关键词>\n    <关键词>自动化</关键词>\n    <描述>无人驾驶货运车辆是指由无人驾驶技术控制的货运车辆，可以自动运输货物，减少人力成本，提高物流效率。</描述>\n    <优势>提高物流效率，降低运输成本，减少交通拥堵。</优势>\n</应用场景>\n```\n\n3. 无人驾驶农用车\n关键词：农业、无人驾驶、农民、农田\n描述：无人驾驶农用车是指由无人驾驶技术控制的农用车辆，可以自动完成农田作业任务，如耕种、喷洒农药等，减轻农民劳动负担。\n优势：提高农业生产效率，减少农民劳动强度，节约农业资源。\n\n```xml\n<应用场景>\n    <关键词>农业</关键词>\n    <关键词>无人驾驶</关键词>\n    <关键词>农民</关键词>\n    <关键词>农田</关键词>\n    <描述>无人驾驶农用车是指由无人驾驶技术控制的农用车辆，可以自动完成农田作业任务，如耕种、喷洒农药等，减轻农民劳动负担。</描述>\n    <优势>提高农业生产效率，减少农民劳动强度，节约农业资源。</优势>\n</应用场景>\n```\n\n4. 无人驾驶巡逻车\n关键词：安保、无人驾驶、巡逻、监控\n描述：无人驾驶巡逻车是指由无人驾驶技术控制的安保巡逻车辆，可以自动巡逻监控区域，提供安全保障，减少人力投入。\n优势：提高安保效率，降低安保成本，减少人员风险。\n\n```xml\n<应用场景>\n    <关键词>安保</关键词>\n    <关键词>无人驾驶</关键词>\n    <关键词>巡逻</关键词>\n    <关键词>监控</关键词>\n    <描述>无人驾驶巡逻车是指由无人驾驶技术控制的安保巡逻车辆，可以自动巡逻监控区域，提供安全保障，减少人力投入。</描述>\n    <优势>提高安保效率，降低安保成本，减少人员风险。</优势>\n</应用场景>\n```\n\n5. 无人驾驶观光车\n关键词：旅游、无人驾驶、景点、导游\n描述：无人驾驶观光车是指由无人驾驶技术控制的观光车辆，可以自动导览游客参观景点，提供便利的旅游体验。\n优势：提高旅游效率，减少人力成本，提供个性化导览服务。\n\n```xml\n<应用场景>\n    <关键词>旅游</关键词>\n    <关键词>无人驾驶</关键词>\n    <关键词>景点</关键词>\n    <关键词>导游</关键词>\n    <描述>无人驾驶观光车是指由无人驾驶技术控制的观光车辆，可以自动导览游客参观景点，提供便利的旅游体验。</描述>\n    <优势>提高旅游效率，减少人力成本，提供个性化导览服务。</优势>\n</应用场景>\n```"
+            ],
+            [
+                "翻译为英文",
+                "1. Autonomous Taxi Service\nKeywords: taxi, autonomous driving, passengers, transportation\nDescription: An autonomous taxis is a vehicle driven by an autonomous driving technology that can automatically pick up and drop off passengers while following traffic rules and providing a safe and efficient ride experience.\nAdvantages: Improve transportation efficiency, reduce the number of accidents, save human resources.\n\n```xml\n<Application Scenario>\n    <Keyword>taxi</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>passengers</Keyword>\n    <Keyword>transportation</Keyword>\n    <Description>An autonomous taxis is a vehicle driven by an autonomous driving technology that can automatically pick up and drop off passengers while following traffic rules and providing a safe and efficient ride experience.</Description>\n    <Advantage>Improve transportation efficiency, reduce the number of accidents, save human resources.</Advantage>\n</Application Scenario>\n```\n\n2. Autonomous Freight Vehicle\nKeywords: freight, autonomous driving, logistics, automation\nDescription: An autonomous freight vehicle is a cargo-carrying vehicle driven by an autonomous driving technology that can automatically transport goods, reducing human costs and improving logistics efficiency.\nAdvantages: Increase logistics efficiency, reduce transportation costs, alleviate traffic congestion.\n\n```xml\n<Application Scenario>\n    <Keyword>freight</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>logistics</Keyword>\n    <Keyword>automation</Keyword>\n    <Description>An autonomous freight vehicle is a cargo-carrying vehicle driven by an autonomous driving technology that can automatically transport goods, reducing human costs and improving logistics efficiency.</Description>\n    <Advantage>Increase logistics efficiency, reduce transportation costs, alleviate traffic congestion.</Advantage>\n</Application Scenario>\n```\n\n3. Autonomous Agricultural Vehicles\nKeywords: agriculture, autonomous driving, farmers, farmland\nDescription: An autonomous agricultural vehicle is a farming vehicle driven by an autonomous driving technology that can automatically complete tasks such as sowing and spraying pesticides on farms, reducing farmers' physical burdens.\nAdvantages: improve agricultural production efficiency, reduce farmers' labor intensity, conserve agricultural resources.\n\n```xml\n<Application Scenario>\n    <Keyword>agriculture</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>farmers</Keyword>\n    <Keyword>farmland</Keyword>\n    <Description>An autonomous agricultural vehicle is a farming vehicle driven by an autonomous driving technology that can automatically complete tasks such as sowing and spraying pesticides on farms, reducing farmers' physical burdens.</Description>\n    <Advantage>improve agricultural production efficiency, reduce farmers' labor intensity, conserve agricultural resources.</Advantage>\n</Application Scenario>\n```\n\n4. Autonomous Patrol Vehicles\nKeywords: security, autonomous driving, patrol, monitoring\nDescription: An autonomous patrol vehicle is a safety patrolling car driven by an autonomous driving technology that can automatically patrol monitored areas, providing a secure environment and reducing manual input.\nAdvantages: Enhance security efficiency, reduce security costs, minimize personnel risks.\n\n```xml\n<Application Scenario>\n    <Keyword>security</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>patrol</Keyword>\n    <Keyword>monitoring</Keyword>\n    <Description>An autonomous patrol vehicle is a safety patrolling car driven by an autonomous driving technology that can automatically patrol monitored areas, providing a secure environment and reducing manual input.</Description>\n    <Advantage>Enhance security efficiency, reduce security costs, minimize personnel risks.</Advantage>\n</Application Scenario>\n```\n\n5. Autonomous Tourist Buses\nKeywords: tourism, autonomous driving, tourist attractions, tour guide\nDescription: An autonomous tourist bus is a sightseeing coach driven by an autonomous driving technology that can automatically lead tourists to visit scenic spots, providing personalized guiding services.\nAdvantages: enhance travel efficiency, reduce manpower cost, provide customized guiding services.\n\n```xml\n<Application Scenario>\n    <Keyword>tourism</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>tourist attractions</Keyword>\n    <Keyword>tour guide</Keyword>\n    <Description>An autonomous tourist bus is a sightseeing coach driven by an autonomous driving technology that can automatically lead tourists to visit scenic spots, providing personalized guiding services.</Description>\n    <Advantage>enhance travel efficiency, reduce manpower cost, provide customized guiding services.</Advantage>\n</Application Scenario>\n```"
+            ]
+        ],
+        "task_description": "翻译为英文",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "1. Autonomous Taxi Service\nKeywords: taxi, autonomous driving, passengers, transportation\nDescription: An autonomous taxis is a vehicle driven by an autonomous driving technology that can automatically pick up and drop off passengers while following traffic rules and providing a safe and efficient ride experience.\nAdvantages: Improve transportation efficiency, reduce the number of accidents, save human resources.\n\n```xml\n<Application Scenario>\n    <Keyword>taxi</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>passengers</Keyword>\n    <Keyword>transportation</Keyword>\n    <Description>An autonomous taxis is a vehicle driven by an autonomous driving technology that can automatically pick up and drop off passengers while following traffic rules and providing a safe and efficient ride experience.</Description>\n    <Advantage>Improve transportation efficiency, reduce the number of accidents, save human resources.</Advantage>\n</Application Scenario>\n```\n\n2. Autonomous Freight Vehicle\nKeywords: freight, autonomous driving, logistics, automation\nDescription: An autonomous freight vehicle is a cargo-carrying vehicle driven by an autonomous driving technology that can automatically transport goods, reducing human costs and improving logistics efficiency.\nAdvantages: Increase logistics efficiency, reduce transportation costs, alleviate traffic congestion.\n\n```xml\n<Application Scenario>\n    <Keyword>freight</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>logistics</Keyword>\n    <Keyword>automation</Keyword>\n    <Description>An autonomous freight vehicle is a cargo-carrying vehicle driven by an autonomous driving technology that can automatically transport goods, reducing human costs and improving logistics efficiency.</Description>\n    <Advantage>Increase logistics efficiency, reduce transportation costs, alleviate traffic congestion.</Advantage>\n</Application Scenario>\n```\n\n3. Autonomous Agricultural Vehicles\nKeywords: agriculture, autonomous driving, farmers, farmland\nDescription: An autonomous agricultural vehicle is a farming vehicle driven by an autonomous driving technology that can automatically complete tasks such as sowing and spraying pesticides on farms, reducing farmers' physical burdens.\nAdvantages: improve agricultural production efficiency, reduce farmers' labor intensity, conserve agricultural resources.\n\n```xml\n<Application Scenario>\n    <Keyword>agriculture</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>farmers</Keyword>\n    <Keyword>farmland</Keyword>\n    <Description>An autonomous agricultural vehicle is a farming vehicle driven by an autonomous driving technology that can automatically complete tasks such as sowing and spraying pesticides on farms, reducing farmers' physical burdens.</Description>\n    <Advantage>improve agricultural production efficiency, reduce farmers' labor intensity, conserve agricultural resources.</Advantage>\n</Application Scenario>\n```\n\n4. Autonomous Patrol Vehicles\nKeywords: security, autonomous driving, patrol, monitoring\nDescription: An autonomous patrol vehicle is a safety patrolling car driven by an autonomous driving technology that can automatically patrol monitored areas, providing a secure environment and reducing manual input.\nAdvantages: Enhance security efficiency, reduce security costs, minimize personnel risks.\n\n```xml\n<Application Scenario>\n    <Keyword>security</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>patrol</Keyword>\n    <Keyword>monitoring</Keyword>\n    <Description>An autonomous patrol vehicle is a safety patrolling car driven by an autonomous driving technology that can automatically patrol monitored areas, providing a secure environment and reducing manual input.</Description>\n    <Advantage>Enhance security efficiency, reduce security costs, minimize personnel risks.</Advantage>\n</Application Scenario>\n```\n\n5. Autonomous Tourist Buses\nKeywords: tourism, autonomous driving, tourist attractions, tour guide\nDescription: An autonomous tourist bus is a sightseeing coach driven by an autonomous driving technology that can automatically lead tourists to visit scenic spots, providing personalized guiding services.\nAdvantages: enhance travel efficiency, reduce manpower cost, provide customized guiding services.\n\n```xml\n<Application Scenario>\n    <Keyword>tourism</Keyword>\n    <Keyword>autonomous driving</Keyword>\n    <Keyword>tourist attractions</Keyword>\n    <Keyword>tour guide</Keyword>\n    <Description>An autonomous tourist bus is a sightseeing coach driven by an autonomous driving technology that can automatically lead tourists to visit scenic spots, providing personalized guiding services.</Description>\n    <Advantage>enhance travel efficiency, reduce manpower cost, provide customized guiding services.</Advantage>\n</Application Scenario>\n```"
+    },
+    {
+        "Instruction": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。",
+        "Instruction_id": "d5e7621ddfa7bac46d432e7f16c6fd3699bedd052628dc418c668d5ab7108880",
+        "histories": [
+            [
+                "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。",
+                "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<flowers>\n  <flower color=\"红色\">玫瑰</flower>\n  <flower color=\"白色\">百合</flower>\n  <flower color=\"黄色\">向日葵</flower>\n  <flower color=\"蓝色\">薰衣草</flower>\n  <flower color=\"紫色\">紫罗兰</flower>\n</flowers>"
+            ]
+        ],
+        "task_description": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<flowers>\n  <flower color=\"红色\">玫瑰</flower>\n  <flower color=\"白色\">百合</flower>\n  <flower color=\"黄色\">向日葵</flower>\n  <flower color=\"蓝色\">薰衣草</flower>\n  <flower color=\"紫色\">紫罗兰</flower>\n</flowers>"
+    },
+    {
+        "Instruction": "删掉最后一个颜色",
+        "Instruction_id": "e422e4029fb913bc00e6983b799265b2216b6a745cd618748cf9156f4eb0b86a",
+        "histories": [
+            [
+                "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。",
+                "以下是五种不同颜色的花卉的名称，以XML格式输出：\n\n```xml\n<flowers>\n  <flower>\n    <name>Rose</name>\n    <color>Red</color>\n  </flower>\n  <flower>\n    <name>Tulip</name>\n    <color>Yellow</color>\n  </flower>\n  <flower>\n    <name>Lily</name>\n    <color>White</color>\n  </flower>\n  <flower>\n    <name>Orchid</name>\n    <color>Purple</color>\n  </flower>\n  <flower>\n    <name>Sunflower</name>\n    <color>Yellow</color>\n  </flower>\n</flowers>\n```\n\n这里列出了五种花卉的名称和颜色，分别是红色的玫瑰(Rose)、黄色的郁金香(Tulip)、白色的百合(Lily)、紫色的兰花(Orchid)和黄色的向日葵(Sunflower)。"
+            ],
+            [
+                "删掉最后一个颜色",
+                "如果您不想在输出的XML中包含最后一个花卉的颜色信息，可以将其从列表中删除。这是修改后的XML：\n\n```xml\n<flowers>\n  <flower>\n    <name>Rose</name>\n  </flower>\n  <flower>\n    <name>Tulip</name>\n  </flower>\n  <flower>\n    <name>Lily</name>\n  </flower>\n  <flower>\n    <name>Orchid</name>\n  </flower>\n  <flower>\n    <name>Sunflower</name>\n  </flower>\n</flowers>\n```\n\n在这个版本的XML中，只有前四个花卉有颜色信息，而最后一个花卉没有颜色信息。"
+            ]
+        ],
+        "task_description": "删掉最后一个颜色",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "如果您不想在输出的XML中包含最后一个花卉的颜色信息，可以将其从列表中删除。这是修改后的XML：\n\n```xml\n<flowers>\n  <flower>\n    <name>Rose</name>\n  </flower>\n  <flower>\n    <name>Tulip</name>\n  </flower>\n  <flower>\n    <name>Lily</name>\n  </flower>\n  <flower>\n    <name>Orchid</name>\n  </flower>\n  <flower>\n    <name>Sunflower</name>\n  </flower>\n</flowers>\n```\n\n在这个版本的XML中，只有前四个花卉有颜色信息，而最后一个花卉没有颜色信息。"
+    },
+    {
+        "Instruction": "展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "Instruction_id": "c107ebaada7cbb5e0a884ff61551454e88b76b43154c5776c3aca96b5e498f4f",
+        "histories": [
+            [
+                "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。",
+                "以下是五种不同颜色的花卉的名称，以XML格式输出：\n\n```xml\n<flowers>\n  <flower>\n    <name>Rose</name>\n    <color>Red</color>\n  </flower>\n  <flower>\n    <name>Tulip</name>\n    <color>Yellow</color>\n  </flower>\n  <flower>\n    <name>Lily</name>\n    <color>White</color>\n  </flower>\n  <flower>\n    <name>Orchid</name>\n    <color>Purple</color>\n  </flower>\n  <flower>\n    <name>Sunflower</name>\n    <color>Yellow</color>\n  </flower>\n</flowers>\n```\n\n这里列出了五种花卉的名称和颜色，分别是红色的玫瑰(Rose)、黄色的郁金香(Tulip)、白色的百合(Lily)、紫色的兰花(Orchid)和黄色的向日葵(Sunflower)。"
+            ],
+            [
+                "删掉最后一个颜色",
+                "以下是四种不同颜色的花卉的名称，以XML格式输出：\n\n```xml\n<flowers>\n  <flower>\n    <name>Rose</name>\n    <color>Red</color>\n  </flower>\n  <flower>\n    <name>Tulip</name>\n    <color>Yellow</color>\n  </flower>\n  <flower>\n    <name>Lily</name>\n    <color>White</color>\n  </flower>\n  <flower>\n    <name>Orchid</name>\n    <color>Purple</color>\n  </flower>\n</flowers>\n```\n\n这里列出了四种花卉的名称和颜色，分别是红色的玫瑰(Rose)、黄色的郁金香(Tulip)、白色的百合(Lily)和紫色的兰花(Orchid)。"
+            ],
+            [
+                "展开描述第三种花卉，深入研究其特点和养殖方法。",
+                "第三种花卉是百合(学名：Lilium)，它是一种属于百合科的多年生草本植物。百合的花朵通常很大，花瓣呈喇叭状，有多种颜色，如白色、黄色、粉色等。百合的花期较长，一般在夏季到秋季之间，花朵开放时香气浓郁，具有很高的观赏价值。\n\n百合的特点：\n1. 百合的花朵大而美丽，花型优雅，色彩丰富，是园林绿化和花坛布置的常用植物。\n2. 百合的叶子呈披针形，绿色光泽，叶脉清晰，具有较高的观赏价值。\n3. 百合的花蕊长而直立，花粉丰富，是蜜蜂和蝴蝶喜欢的花卉。\n4. 百合的花朵可以食用，具有一定的药用价值，对人体健康有益。\n\n养殖百合的方法：\n1. 土壤：百合喜欢疏松、排水良好、富含有机质的土壤，可以使用腐殖土、沙子和园土按照1:1:1的比例混合。\n2. 光照：百合喜欢阳光充足的环境，每天需要至少6小时的直射阳光。\n3. 水分：百合生长期间需要保持土壤湿润，但不要过湿，以免引起根部病害。\n4. 温度：百合喜欢温暖的环境，生长适温为18-25°C，冬季需要防寒。\n5. 肥料：百合生长期间需要充足的养分，可以每月施一次腐熟有机肥或者复合肥。\n6. 繁殖：百合可以通过种子繁殖，也可以通过分株繁殖。分株繁殖一般在春季进行，将母株周围的子株挖出，另行栽植即可。\n\n百合不仅是一种美丽的观赏植物，还是一种具有很高药用价值的中药材，对人体健康有很多益处。"
+            ]
+        ],
+        "task_description": "展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "第三种花卉是百合(学名：Lilium)，它是一种属于百合科的多年生草本植物。百合的花朵通常很大，花瓣呈喇叭状，有多种颜色，如白色、黄色、粉色等。百合的花期较长，一般在夏季到秋季之间，花朵开放时香气浓郁，具有很高的观赏价值。\n\n百合的特点：\n1. 百合的花朵大而美丽，花型优雅，色彩丰富，是园林绿化和花坛布置的常用植物。\n2. 百合的叶子呈披针形，绿色光泽，叶脉清晰，具有较高的观赏价值。\n3. 百合的花蕊长而直立，花粉丰富，是蜜蜂和蝴蝶喜欢的花卉。\n4. 百合的花朵可以食用，具有一定的药用价值，对人体健康有益。\n\n养殖百合的方法：\n1. 土壤：百合喜欢疏松、排水良好、富含有机质的土壤，可以使用腐殖土、沙子和园土按照1:1:1的比例混合。\n2. 光照：百合喜欢阳光充足的环境，每天需要至少6小时的直射阳光。\n3. 水分：百合生长期间需要保持土壤湿润，但不要过湿，以免引起根部病害。\n4. 温度：百合喜欢温暖的环境，生长适温为18-25°C，冬季需要防寒。\n5. 肥料：百合生长期间需要充足的养分，可以每月施一次腐熟有机肥或者复合肥。\n6. 繁殖：百合可以通过种子繁殖，也可以通过分株繁殖。分株繁殖一般在春季进行，将母株周围的子株挖出，另行栽植即可。\n\n百合不仅是一种美丽的观赏植物，还是一种具有很高药用价值的中药材，对人体健康有很多益处。"
+    },
+    {
+        "Instruction": "对以下主题提出3个开放式问题。主题：健康的生活方式。为了更方便阅读，我想让输出是json格式的。我希望每个运动都有一个编号、名称和简介。",
+        "Instruction_id": "6addd4439b984ac98d3895cb98a3f1213364581d1d9356d512f00ae601096017",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。为了更方便阅读，我想让输出是json格式的。我希望每个运动都有一个编号、名称和简介。",
+                "{\n  \"Opening\": \"What is a healthy lifestyle?\",\n  \"Closing\": \"How can I incorporate more physical activity into my daily routine?\",\n  \"Moving1\": {\n    \"Number\": 1,\n    \"Name\": \"Meditation and Relaxation\",\n    \"Intro\": \"Maintaining mental health through meditation or deep breathing exercises.\"\n  },\n  \"Moving2\": {\n    \"Number\": 2,\n    \"Name\": \"Physical Exercise\",\n    \"Intro\": \"Regular exercise helps maintain good cardiovascular fitness while also improving overall well-being by reducing stress levels &amp; increasing self-esteem.\"\n  },\n  \"Moving3\": {\n    \"Number\": 3,\n    \"Name\": \"Healthy Eating Habits\",\n    \"Intro\": \"Eating whole foods rich in nutrients with minimal processed ingredients to promote optimal energy level maintenance for the body's needs over time.\"\n  }\n}"
+            ]
+        ],
+        "task_description": "对以下主题提出3个开放式问题。主题：健康的生活方式。为了更方便阅读，我想让输出是json格式的。我希望每个运动都有一个编号、名称和简介。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"Opening\": \"What is a healthy lifestyle?\",\n  \"Closing\": \"How can I incorporate more physical activity into my daily routine?\",\n  \"Moving1\": {\n    \"Number\": 1,\n    \"Name\": \"Meditation and Relaxation\",\n    \"Intro\": \"Maintaining mental health through meditation or deep breathing exercises.\"\n  },\n  \"Moving2\": {\n    \"Number\": 2,\n    \"Name\": \"Physical Exercise\",\n    \"Intro\": \"Regular exercise helps maintain good cardiovascular fitness while also improving overall well-being by reducing stress levels &amp; increasing self-esteem.\"\n  },\n  \"Moving3\": {\n    \"Number\": 3,\n    \"Name\": \"Healthy Eating Habits\",\n    \"Intro\": \"Eating whole foods rich in nutrients with minimal processed ingredients to promote optimal energy level maintenance for the body's needs over time.\"\n  }\n}"
+    },
+    {
+        "Instruction": "在输出中包括难度级别",
+        "Instruction_id": "d1af9019d3569fc9b9d77b4c29742a95f0993495ec3e925df9507950942d5487",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。为了更方便阅读，我想让输出是json格式的。我希望每个运动都有一个编号、名称和简介。",
+                "{\n  \"topic\": \"健康的生活方式\",\n  \"questions\": [\n    {\n      \"question\": \"你认为什么是健康的生活方式？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"你是如何保持健康的生活方式的？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"你认为健康的生活方式对个人的重要性是什么？\",\n      \"type\": \"开放式问题\"\n    }\n  ],\n  \"sports\": [\n    {\n      \"id\": 1,\n      \"name\": \"跑步\",\n      \"description\": \"跑步是一种有氧运动，可以提高心肺功能，增强体力和耐力。\"\n    },\n    {\n      \"id\": 2,\n      \"name\": \"瑜伽\",\n      \"description\": \"瑜伽是一种综合性的运动方式，可以增强身体柔韧性，平衡力和心理健康。\"\n    },\n    {\n      \"id\": 3,\n      \"name\": \"游泳\",\n      \"description\": \"游泳是一项全身性的运动，可以锻炼肌肉，提高心肺功能，同时对关节没有冲击。\"\n    }\n  ]\n}"
+            ],
+            [
+                "在输出中包括难度级别",
+                "{\n  \"topic\": \"健康的生活方式\",\n  \"questions\": [\n    {\n      \"question\": \"你认为什么是健康的生活方式？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"你是如何保持健康的生活方式的？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"你认为健康的生活方式对个人的重要性是什么？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"对于初学者来说，你觉得哪些运动适合作为开始的健康生活方式的基础？\",\n      \"type\": \"开放式问题\"\n    }\n  ],\n  \"sports\": [\n    {\n      \"id\": 1,\n      \"name\": \"跑步\",\n      \"description\": \"跑步是一项低强度的有氧运动，适合初学者入门。\",\n      \"difficulty_level\": \"低强度\"\n    },\n    {\n      \"id\": 2,\n      \"name\": \"瑜伽\",\n      \"description\": \"瑜伽是一种中等强度的运动，可以根据个人体能进行调整。\",\n      \"difficulty_level\": \"中等强度\"\n    },\n    {\n      \"id\": 3,\n      \"name\": \"游泳\",\n      \"description\": \"游泳是一项高强度的全身运动，适合有一定基础的人进行。\",\n      \"difficulty_level\": \"高强度\"\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "在输出中包括难度级别",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"topic\": \"健康的生活方式\",\n  \"questions\": [\n    {\n      \"question\": \"你认为什么是健康的生活方式？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"你是如何保持健康的生活方式的？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"你认为健康的生活方式对个人的重要性是什么？\",\n      \"type\": \"开放式问题\"\n    },\n    {\n      \"question\": \"对于初学者来说，你觉得哪些运动适合作为开始的健康生活方式的基础？\",\n      \"type\": \"开放式问题\"\n    }\n  ],\n  \"sports\": [\n    {\n      \"id\": 1,\n      \"name\": \"跑步\",\n      \"description\": \"跑步是一项低强度的有氧运动，适合初学者入门。\",\n      \"difficulty_level\": \"低强度\"\n    },\n    {\n      \"id\": 2,\n      \"name\": \"瑜伽\",\n      \"description\": \"瑜伽是一种中等强度的运动，可以根据个人体能进行调整。\",\n      \"difficulty_level\": \"中等强度\"\n    },\n    {\n      \"id\": 3,\n      \"name\": \"游泳\",\n      \"description\": \"游泳是一项高强度的全身运动，适合有一定基础的人进行。\",\n      \"difficulty_level\": \"高强度\"\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。为了更方便阅读，我想让输出是json格式的。对于每个问题，我想要包括问题编号、问题描述和关键词。",
+        "Instruction_id": "b8c39319cd35c055f081b89af6aa0348eee748ff9634a934b23b1b0f3a161d6e",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。为了更方便阅读，我想让输出是json格式的。对于每个问题，我想要包括问题编号、问题描述和关键词。",
+                "{\n  \"questions\": [\n    {\n      \"number\": 1,\n      \"description\": \"什么是社交媒体？\",\n      \"keywords\": [\"社交媒体\", \"在线社区\", \"用户生成内容\"]\n    },\n    {\n      \"number\": 2,\n      \"description\": \"为什么企业需要使用社交媒体进行市场营销？\",\n      \"keywords\": [\"市场营销\", \"品牌知名度\", \"客户参与\"]\n    },\n    {\n      \"number\": 3,\n      \"description\": \"如何有效地利用社交媒体进行市场营销？\",\n      \"keywords\": [\"策略\", \"目标受众\", \"内容创建\"]\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。为了更方便阅读，我想让输出是json格式的。对于每个问题，我想要包括问题编号、问题描述和关键词。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"questions\": [\n    {\n      \"number\": 1,\n      \"description\": \"什么是社交媒体？\",\n      \"keywords\": [\"社交媒体\", \"在线社区\", \"用户生成内容\"]\n    },\n    {\n      \"number\": 2,\n      \"description\": \"为什么企业需要使用社交媒体进行市场营销？\",\n      \"keywords\": [\"市场营销\", \"品牌知名度\", \"客户参与\"]\n    },\n    {\n      \"number\": 3,\n      \"description\": \"如何有效地利用社交媒体进行市场营销？\",\n      \"keywords\": [\"策略\", \"目标受众\", \"内容创建\"]\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "问题描述要更具体",
+        "Instruction_id": "85b8ae6e59e53f86f22b32e751815e802e21e1be8203be8cb53e3023632ca346",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。为了更方便阅读，我想让输出是json格式的。对于每个问题，我想要包括问题编号、问题描述和关键词。",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变市场营销策略？\",\n      \"keywords\": [\"社交媒体\", \"市场营销\", \"策略\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何影响品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"用户参与度\", \"品牌忠诚度\", \"影响\"]\n    }\n  ]\n}"
+            ],
+            [
+                "问题描述要更具体",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何通过个性化推送和实时互动来改变市场营销策略？\",\n      \"keywords\": [\"个性化推送\", \"实时互动\", \"市场营销策略\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响主要表现在哪些方面？\",\n      \"keywords\": [\"消费者购买决策\", \"社交媒体\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何与品牌忠诚度相互作用，从而影响企业的市场地位？\",\n      \"keywords\": [\"用户参与度\", \"品牌忠诚度\", \"企业市场地位\"]\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "问题描述要更具体",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何通过个性化推送和实时互动来改变市场营销策略？\",\n      \"keywords\": [\"个性化推送\", \"实时互动\", \"市场营销策略\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响主要表现在哪些方面？\",\n      \"keywords\": [\"消费者购买决策\", \"社交媒体\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何与品牌忠诚度相互作用，从而影响企业的市场地位？\",\n      \"keywords\": [\"用户参与度\", \"品牌忠诚度\", \"企业市场地位\"]\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "主题：社交媒体对品牌忠诚度的影响",
+        "Instruction_id": "90b4332db2c6e4111a5e0e06567c98cc52974269b3d0f8ccae3604c37349cc10",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。为了更方便阅读，我想让输出是json格式的。对于每个问题，我想要包括问题编号、问题描述和关键词。",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变市场营销策略？\",\n      \"keywords\": [\"社交媒体\", \"市场营销\", \"策略\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何影响品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"用户参与度\", \"品牌忠诚度\", \"影响\"]\n    }\n  ]\n}"
+            ],
+            [
+                "问题描述要更具体",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变市场营销策略？探讨社交媒体在市场营销中的作用和影响。\",\n      \"keywords\": [\"社交媒体\", \"市场营销\", \"策略\", \"作用\", \"影响\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？研究社交媒体对消费者购买行为和决策过程的影响因素。\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响因素\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何影响品牌忠诚度？分析社交媒体用户参与度与品牌忠诚度之间的关系。\",\n      \"keywords\": [\"社交媒体\", \"用户参与度\", \"品牌忠诚度\", \"关系\"]\n    }\n  ]\n}"
+            ],
+            [
+                "主题：社交媒体对品牌忠诚度的影响",
+                "{\n  \"topic\": \"社交媒体对品牌忠诚度的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何影响消费者的品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"品牌忠诚度\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体上哪些因素会影响消费者的品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"品牌忠诚度\", \"影响因素\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"企业如何利用社交媒体提高消费者的品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"品牌忠诚度\", \"提升策略\"]\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "主题：社交媒体对品牌忠诚度的影响",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"topic\": \"社交媒体对品牌忠诚度的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何影响消费者的品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"品牌忠诚度\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体上哪些因素会影响消费者的品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"品牌忠诚度\", \"影响因素\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"企业如何利用社交媒体提高消费者的品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"品牌忠诚度\", \"提升策略\"]\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "增加一个问题：社交媒体对消费者购买决策的影响",
+        "Instruction_id": "fcd8c1b9f6a81a87cc1a0fd8b28c59a235ba1dc2aaa122c4887199ecc16f4284",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。为了更方便阅读，我想让输出是json格式的。对于每个问题，我想要包括问题编号、问题描述和关键词。",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变市场营销策略？\",\n      \"keywords\": [\"社交媒体\", \"市场营销\", \"策略\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何影响品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"用户参与度\", \"品牌忠诚度\", \"影响\"]\n    }\n  ]\n}"
+            ],
+            [
+                "问题描述要更具体",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变市场营销策略？探讨社交媒体在市场营销中的作用和影响。\",\n      \"keywords\": [\"社交媒体\", \"市场营销\", \"策略\", \"作用\", \"影响\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？研究社交媒体对消费者购买行为和决策过程的影响因素。\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响因素\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何影响品牌忠诚度？分析社交媒体用户参与度与品牌忠诚度之间的关系。\",\n      \"keywords\": [\"社交媒体\", \"用户参与度\", \"品牌忠诚度\", \"关系\"]\n    }\n  ]\n}"
+            ],
+            [
+                "主题：社交媒体对品牌忠诚度的影响",
+                "{\n  \"topic\": \"社交媒体对品牌忠诚度的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何影响消费者对品牌的忠诚度？探讨社交媒体在塑造和影响消费者对品牌的忠诚度方面的作用。\",\n      \"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"消费者\", \"作用\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体上的品牌互动如何影响消费者的品牌忠诚度？研究社交媒体上品牌与消费者之间的互动对品牌忠诚度的影响。\",\n      \"keywords\": [\"社交媒体\", \"品牌互动\", \"消费者\", \"品牌忠诚度\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体上的用户评价和口碑如何影响品牌忠诚度？分析社交媒体上用户评价和口碑对消费者品牌忠诚度的影响机制。\",\n      \"keywords\": [\"社交媒体\", \"用户评价\", \"口碑\", \"品牌忠诚度\", \"影响机制\"]\n    }\n  ]\n}"
+            ],
+            [
+                "增加一个问题：社交媒体对消费者购买决策的影响",
+                "{\n  \"topic\": \"社交媒体对品牌忠诚度和消费者购买决策的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何影响消费者对品牌的忠诚度？探讨社交媒体在塑造和影响消费者对品牌的忠诚度方面的作用。\",\n      \"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"消费者\", \"作用\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体上的品牌互动如何影响消费者的购买决策？研究社交媒体上品牌与消费者之间的互动对消费者购买决策的影响。\",\n      \"keywords\": [\"社交媒体\", \"品牌互动\", \"消费者\", \"购买决策\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体上的用户评价和口碑如何影响消费者的购买决策？分析社交媒体上用户评价和口碑对消费者购买决策的影响机制。\",\n      \"keywords\": [\"社交媒体\", \"用户评价\", \"口碑\", \"消费者购买决策\", \"影响机制\"]\n    },\n    {\n      \"question_number\": 4,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？探讨社交媒体在消费者购买决策过程中的作用和影响。\",\n      \"keywords\": [\"社交媒体\", \"消费者购买决策\", \"影响\"]\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "增加一个问题：社交媒体对消费者购买决策的影响",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"topic\": \"社交媒体对品牌忠诚度和消费者购买决策的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何影响消费者对品牌的忠诚度？探讨社交媒体在塑造和影响消费者对品牌的忠诚度方面的作用。\",\n      \"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"消费者\", \"作用\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体上的品牌互动如何影响消费者的购买决策？研究社交媒体上品牌与消费者之间的互动对消费者购买决策的影响。\",\n      \"keywords\": [\"社交媒体\", \"品牌互动\", \"消费者\", \"购买决策\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体上的用户评价和口碑如何影响消费者的购买决策？分析社交媒体上用户评价和口碑对消费者购买决策的影响机制。\",\n      \"keywords\": [\"社交媒体\", \"用户评价\", \"口碑\", \"消费者购买决策\", \"影响机制\"]\n    },\n    {\n      \"question_number\": 4,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？探讨社交媒体在消费者购买决策过程中的作用和影响。\",\n      \"keywords\": [\"社交媒体\", \"消费者购买决策\", \"影响\"]\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "增加一个问题：社交媒体对用户行为的影响",
+        "Instruction_id": "aa95af4d022da70e3b40978fe08142f6af906dcf5a02b51f18777ab8784ca400",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。为了更方便阅读，我想让输出是json格式的。对于每个问题，我想要包括问题编号、问题描述和关键词。",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变市场营销策略？\",\n      \"keywords\": [\"社交媒体\", \"市场营销\", \"策略\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何影响品牌忠诚度？\",\n      \"keywords\": [\"社交媒体\", \"用户参与度\", \"品牌忠诚度\", \"影响\"]\n    }\n  ]\n}"
+            ],
+            [
+                "问题描述要更具体",
+                "{\n  \"topic\": \"社交媒体对市场营销的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变市场营销策略？探讨社交媒体在市场营销中的作用和影响。\",\n      \"keywords\": [\"社交媒体\", \"市场营销\", \"策略\", \"作用\", \"影响\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？研究社交媒体对消费者购买行为和决策过程的影响因素。\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响因素\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体平台上的用户参与度如何影响品牌忠诚度？分析社交媒体用户参与度与品牌忠诚度之间的关系。\",\n      \"keywords\": [\"社交媒体\", \"用户参与度\", \"品牌忠诚度\", \"关系\"]\n    }\n  ]\n}"
+            ],
+            [
+                "主题：社交媒体对品牌忠诚度的影响",
+                "{\n  \"topic\": \"社交媒体对品牌忠诚度的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何影响消费者对品牌的忠诚度？探讨社交媒体在塑造和影响消费者对品牌的忠诚度方面的作用。\",\n      \"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"消费者\", \"作用\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体上的品牌互动如何影响消费者的品牌忠诚度？研究社交媒体上品牌与消费者之间的互动对品牌忠诚度的影响。\",\n      \"keywords\": [\"社交媒体\", \"品牌互动\", \"消费者\", \"品牌忠诚度\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体上的用户评价和口碑如何影响品牌忠诚度？分析社交媒体上用户评价和口碑对消费者品牌忠诚度的影响机制。\",\n      \"keywords\": [\"社交媒体\", \"用户评价\", \"口碑\", \"品牌忠诚度\", \"影响机制\"]\n    }\n  ]\n}"
+            ],
+            [
+                "增加一个问题：社交媒体对消费者购买决策的影响",
+                "{\n  \"topic\": \"社交媒体对品牌忠诚度的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何影响消费者对品牌的忠诚度？探讨社交媒体在塑造和影响消费者对品牌的忠诚度方面的作用。\",\n      \"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"消费者\", \"作用\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体上的品牌互动如何影响消费者的品牌忠诚度？研究社交媒体上品牌与消费者之间的互动对品牌忠诚度的影响。\",\n      \"keywords\": [\"社交媒体\", \"品牌互动\", \"消费者\", \"品牌忠诚度\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体上的用户评价和口碑如何影响品牌忠诚度？分析社交媒体上用户评价和口碑对消费者品牌忠诚度的影响机制。\",\n      \"keywords\": [\"社交媒体\", \"用户评价\", \"口碑\", \"品牌忠诚度\", \"影响机制\"]\n    },\n    {\n      \"question_number\": 4,\n      \"question_description\": \"社交媒体对消费者购买决策的影响是什么？研究社交媒体在消费者购买决策过程中的作用和影响因素。\",\n      \"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"作用\", \"影响因素\"]\n    }\n  ]\n}"
+            ],
+            [
+                "增加一个问题：社交媒体对用户行为的影响",
+                "{\n  \"topic\": \"社交媒体对用户行为的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变用户的行为习惯？探讨社交媒体在影响用户行为习惯方面的角色。\",\n      \"keywords\": [\"社交媒体\", \"用户行为\", \"习惯\", \"角色\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对用户的信息消费行为有何影响？研究社交媒体对用户获取信息和消费内容方式的影响。\",\n      \"keywords\": [\"社交媒体\", \"信息消费\", \"用户行为\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体对用户的社交行为有何影响？分析社交媒体对用户建立和维护人际关系的方式的影响。\",\n      \"keywords\": [\"社交媒体\", \"社交行为\", \"用户行为\", \"影响\"]\n    },\n    {\n      \"question_number\": 4,\n      \"question_description\": \"社交媒体对用户的学习行为有何影响？探讨社交媒体在促进用户学习和知识分享方面的作用。\",\n      \"keywords\": [\"社交媒体\", \"学习行为\", \"用户行为\", \"影响\"]\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "增加一个问题：社交媒体对用户行为的影响",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"topic\": \"社交媒体对用户行为的影响\",\n  \"questions\": [\n    {\n      \"question_number\": 1,\n      \"question_description\": \"社交媒体如何改变用户的行为习惯？探讨社交媒体在影响用户行为习惯方面的角色。\",\n      \"keywords\": [\"社交媒体\", \"用户行为\", \"习惯\", \"角色\"]\n    },\n    {\n      \"question_number\": 2,\n      \"question_description\": \"社交媒体对用户的信息消费行为有何影响？研究社交媒体对用户获取信息和消费内容方式的影响。\",\n      \"keywords\": [\"社交媒体\", \"信息消费\", \"用户行为\", \"影响\"]\n    },\n    {\n      \"question_number\": 3,\n      \"question_description\": \"社交媒体对用户的社交行为有何影响？分析社交媒体对用户建立和维护人际关系的方式的影响。\",\n      \"keywords\": [\"社交媒体\", \"社交行为\", \"用户行为\", \"影响\"]\n    },\n    {\n      \"question_number\": 4,\n      \"question_description\": \"社交媒体对用户的学习行为有何影响？探讨社交媒体在促进用户学习和知识分享方面的作用。\",\n      \"keywords\": [\"社交媒体\", \"学习行为\", \"用户行为\", \"影响\"]\n    }\n  ]\n}"
+    },
+    {
+        "Instruction": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容和可能的答案。",
+        "Instruction_id": "15389acd0e5dbbd61084d2824ecfacbf8c263ab35a6967c563b39b6b94a73cf1",
+        "histories": [
+            [
+                "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容和可能的答案。",
+                "{\n  \"question1\": \"人类是否能够实现完全自动化的生产和服务？\",\n  \"answer1a\": \"有可能。随着技术的发展，人工智能和机器学习将在自动化领域发挥越来越重要的作用。这将使我们能够实现更高效、更可靠的生产和服务。然而，这也意味着许多传统职业可能会消失，需要人们适应新的技能需求。\",\n  \"answer1b\": \"不太可能。尽管技术在不断进步，但人类的创造力、情感智慧和直觉仍然是无法替代的。我们可能无法实现完全的自动化，但在某些领域，我们可以利用技术来提高生产力和效率。\",\n  \"question2\": \"未来的教育将如何改变？\",\n  \"answer2a\": \"未来的教育可能会变得更加个性化和灵活。在线学习和虚拟现实技术将使学生能够根据自己的需求和兴趣选择课程。此外，教育者将更加关注培养学生的创新思维、批判性思考和团队合作能力。\",\n  \"answer2b\": \"未来的教育可能会受到技术的限制。虽然在线学习和虚拟现实技术可以提供更多的学习资源，但它们也可能导致学生过度依赖技术，忽视面对面交流和社交互动的重要性。\",\n  \"question3\": \"人工智能将如何影响我们的工作和生活？\",\n  \"answer3a\": \"人工智能将对我们的工作和生活产生深远的影响。一方面，它将提高生产力，使我们能够更有效地完成任务;另一方面，它也可能导致某些职业的消失，需要我们重新考虑职业发展和培训。同时，人工智能也将改变我们的消费习惯和社会互动方式。\",\n  \"answer3b\": \"人工智能可能带来一些负面影响，如隐私侵犯、数据安全问题和失业风险。为了应对这些挑战，我们需要制定相应的政策和法规，确保人工智能的发展能够造福全人类。\",\n  \"question4\": \"气候变化将如何影响我们的生活？\",\n  \"answer4a\": \"气候变化将对我们的生活产生重大影响。全球变暖导致的极端天气事件、海平面上升和生态系统破坏等问题将对农业、水资源、基础设施和人类健康产生严重影响。因此，减少温室气体排放、采用可持续能源和保护生态系统将成为当务之急。\",\n  \"answer4b\": \"气候变化可能加剧社会不平等。贫困地区和弱势群体往往更容易受到气候变化的影响，如粮食短缺、疾病传播和自然灾害。因此，国际社会需要采取措施，帮助这些地区和群体应对气候变化带来的挑战。\",\n  \"question5\": \"未来的医疗保健将如何改变？\",\n  \"answer5a\": \"未来的医疗保健可能会变得更加先进和个性化。基因编辑技术、远程医疗和可穿戴设备等技术将使我们能够更好地预防和治疗疾病。此外，大数据和人工智能将有助于提高诊断准确性和优化治疗方案。\",\n  \"answer5b\": \"未来的医疗保健也面临着一些挑战，如数据隐私、医疗资源分配不均和医疗保险成本上升等问题。为了解决这些问题，我们需要制定相应的政策和技术解决方案，确保每个人都能够获得高质量的医疗服务。\",\n  \"question6\": \"未来的交通将如何改变？\",\n  \"answer6a\": \"未来的交通可能会变得更加智能和环保。自动驾驶汽车、无人驾驶公共交通工具和共享出行服务将减少交通拥堵和污染。此外，电动汽车和氢燃料电池汽车将逐渐取代传统的内燃机汽车，使交通更加绿色和可持续。\",\n  \"answer6b\": \"未来的交通也可能面临一些挑战，如道路基础设施老化、交通安全问题和人为因素导致的交通堵塞等。为了解决这些问题，我们需要投资于交通基础设施建设和技术创新，提高交通效率和安全性。\",\n  \"question7\": \"未来的娱乐将如何改变？\",\n  \"answer7a\": \"未来的娱乐可能会变得更加多样化和沉浸式。虚拟现实、增强现实和游戏等技术将为我们提供更加丰富和真实的娱乐体验。此外，数字媒体和社交平台将继续改变我们的娱乐消费习惯和互动方式。\",\n  \"answer7b\": \"未来的娱乐也可能面临一些挑战，如内容的审查和监管、知识产权保护和网络安全等问题。为了解决这些问题，我们需要制定相应的政策和技术解决方案，确保娱乐产业的健康发展。\",\n  \"question8\": \"未来的社会将如何应对人口老龄化？\",\n  \"answer8a\": \"应对人口老龄化需要多方面的策略。首先，政府可以通过提高退休年龄、完善养老保险制度和鼓励生育等方式来缓解劳动力短缺问题。其次，社会应提倡尊老敬老的社会风气，为老年人提供更好的养老服务和医疗保障。最后，科技发展也可以帮助解决这一问题，如智能家居、远程医疗和机器人护理等技术可以提高老年人的生活质量。\",\n  \"answer8b\": \"人口老龄化可能导致劳动力短缺、经济增长放缓和社会负担加重等问题。如果不能妥善应对，这些问题可能会对未来的社会和谐和稳定产生负面影响。因此，国际社会需要共同努力，寻找有效的解决方案。\",\n  \"question9\": \"未来的政治将如何演变？\",\n  \"answer9a\": \"未来的政治可能会受到多种因素的影响，如全球化、信息化和多元文化等。这可能导致政治体制的变革和国际关系的调整。此外，新兴技术，如社交媒体和大数据分析，也可能改变政治参与和决策的方式。\",\n  \"answer9b\": \"未来的政治可能面临一些挑战，如民粹主义、网络暴力和信息不对称等问题。为了解决这些问题，我们需要加强国际合作，推动民主制度的改革和完善，确保政治的公平、透明和稳定。\",\n  \"question10\": \"未来的伦理观念将如何发展？\",\n  \"answer10a\": \"随着科技的发展和社会的变化，未来的伦理观念可能会发生变化。例如，基因编辑技术可能引发关于生命起源和人类本质的伦理讨论;人工智能的发展可能引发关于机器道德和责任的伦理问题。此外，环境伦理、动物伦理和信息伦理等领域的研究也将继续深入。\",\n  \"answer10b\": \"未来的伦理观念发展需要面对许多挑战，如科技进步与伦理原则的冲突、跨文化和宗教差异以及个人利益与公共利益的平衡等。为了解决这些问题，我们需要加强伦理教育，提高公众的伦理意识，促进全球范围内的伦理对话和合作。"
+            ]
+        ],
+        "task_description": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容和可能的答案。",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"question1\": \"人类是否能够实现完全自动化的生产和服务？\",\n  \"answer1a\": \"有可能。随着技术的发展，人工智能和机器学习将在自动化领域发挥越来越重要的作用。这将使我们能够实现更高效、更可靠的生产和服务。然而，这也意味着许多传统职业可能会消失，需要人们适应新的技能需求。\",\n  \"answer1b\": \"不太可能。尽管技术在不断进步，但人类的创造力、情感智慧和直觉仍然是无法替代的。我们可能无法实现完全的自动化，但在某些领域，我们可以利用技术来提高生产力和效率。\",\n  \"question2\": \"未来的教育将如何改变？\",\n  \"answer2a\": \"未来的教育可能会变得更加个性化和灵活。在线学习和虚拟现实技术将使学生能够根据自己的需求和兴趣选择课程。此外，教育者将更加关注培养学生的创新思维、批判性思考和团队合作能力。\",\n  \"answer2b\": \"未来的教育可能会受到技术的限制。虽然在线学习和虚拟现实技术可以提供更多的学习资源，但它们也可能导致学生过度依赖技术，忽视面对面交流和社交互动的重要性。\",\n  \"question3\": \"人工智能将如何影响我们的工作和生活？\",\n  \"answer3a\": \"人工智能将对我们的工作和生活产生深远的影响。一方面，它将提高生产力，使我们能够更有效地完成任务;另一方面，它也可能导致某些职业的消失，需要我们重新考虑职业发展和培训。同时，人工智能也将改变我们的消费习惯和社会互动方式。\",\n  \"answer3b\": \"人工智能可能带来一些负面影响，如隐私侵犯、数据安全问题和失业风险。为了应对这些挑战，我们需要制定相应的政策和法规，确保人工智能的发展能够造福全人类。\",\n  \"question4\": \"气候变化将如何影响我们的生活？\",\n  \"answer4a\": \"气候变化将对我们的生活产生重大影响。全球变暖导致的极端天气事件、海平面上升和生态系统破坏等问题将对农业、水资源、基础设施和人类健康产生严重影响。因此，减少温室气体排放、采用可持续能源和保护生态系统将成为当务之急。\",\n  \"answer4b\": \"气候变化可能加剧社会不平等。贫困地区和弱势群体往往更容易受到气候变化的影响，如粮食短缺、疾病传播和自然灾害。因此，国际社会需要采取措施，帮助这些地区和群体应对气候变化带来的挑战。\",\n  \"question5\": \"未来的医疗保健将如何改变？\",\n  \"answer5a\": \"未来的医疗保健可能会变得更加先进和个性化。基因编辑技术、远程医疗和可穿戴设备等技术将使我们能够更好地预防和治疗疾病。此外，大数据和人工智能将有助于提高诊断准确性和优化治疗方案。\",\n  \"answer5b\": \"未来的医疗保健也面临着一些挑战，如数据隐私、医疗资源分配不均和医疗保险成本上升等问题。为了解决这些问题，我们需要制定相应的政策和技术解决方案，确保每个人都能够获得高质量的医疗服务。\",\n  \"question6\": \"未来的交通将如何改变？\",\n  \"answer6a\": \"未来的交通可能会变得更加智能和环保。自动驾驶汽车、无人驾驶公共交通工具和共享出行服务将减少交通拥堵和污染。此外，电动汽车和氢燃料电池汽车将逐渐取代传统的内燃机汽车，使交通更加绿色和可持续。\",\n  \"answer6b\": \"未来的交通也可能面临一些挑战，如道路基础设施老化、交通安全问题和人为因素导致的交通堵塞等。为了解决这些问题，我们需要投资于交通基础设施建设和技术创新，提高交通效率和安全性。\",\n  \"question7\": \"未来的娱乐将如何改变？\",\n  \"answer7a\": \"未来的娱乐可能会变得更加多样化和沉浸式。虚拟现实、增强现实和游戏等技术将为我们提供更加丰富和真实的娱乐体验。此外，数字媒体和社交平台将继续改变我们的娱乐消费习惯和互动方式。\",\n  \"answer7b\": \"未来的娱乐也可能面临一些挑战，如内容的审查和监管、知识产权保护和网络安全等问题。为了解决这些问题，我们需要制定相应的政策和技术解决方案，确保娱乐产业的健康发展。\",\n  \"question8\": \"未来的社会将如何应对人口老龄化？\",\n  \"answer8a\": \"应对人口老龄化需要多方面的策略。首先，政府可以通过提高退休年龄、完善养老保险制度和鼓励生育等方式来缓解劳动力短缺问题。其次，社会应提倡尊老敬老的社会风气，为老年人提供更好的养老服务和医疗保障。最后，科技发展也可以帮助解决这一问题，如智能家居、远程医疗和机器人护理等技术可以提高老年人的生活质量。\",\n  \"answer8b\": \"人口老龄化可能导致劳动力短缺、经济增长放缓和社会负担加重等问题。如果不能妥善应对，这些问题可能会对未来的社会和谐和稳定产生负面影响。因此，国际社会需要共同努力，寻找有效的解决方案。\",\n  \"question9\": \"未来的政治将如何演变？\",\n  \"answer9a\": \"未来的政治可能会受到多种因素的影响，如全球化、信息化和多元文化等。这可能导致政治体制的变革和国际关系的调整。此外，新兴技术，如社交媒体和大数据分析，也可能改变政治参与和决策的方式。\",\n  \"answer9b\": \"未来的政治可能面临一些挑战，如民粹主义、网络暴力和信息不对称等问题。为了解决这些问题，我们需要加强国际合作，推动民主制度的改革和完善，确保政治的公平、透明和稳定。\",\n  \"question10\": \"未来的伦理观念将如何发展？\",\n  \"answer10a\": \"随着科技的发展和社会的变化，未来的伦理观念可能会发生变化。例如，基因编辑技术可能引发关于生命起源和人类本质的伦理讨论;人工智能的发展可能引发关于机器道德和责任的伦理问题。此外，环境伦理、动物伦理和信息伦理等领域的研究也将继续深入。\",\n  \"answer10b\": \"未来的伦理观念发展需要面对许多挑战，如科技进步与伦理原则的冲突、跨文化和宗教差异以及个人利益与公共利益的平衡等。为了解决这些问题，我们需要加强伦理教育，提高公众的伦理意识，促进全球范围内的伦理对话和合作。"
+    },
+    {
+        "Instruction": "在json中添加关键词和分类",
+        "Instruction_id": "1682beb52797229832ff5f826cb0a85f884c5038fae9b6f5f89b756d2c5d4de7",
+        "histories": [
+            [
+                "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容和可能的答案。",
+                "{\n  \"questions\": [\n    {\n      \"question_id\": 1,\n      \"question\": \"未来的科技发展会如何改变我们的生活？\",\n      \"possible_answers\": [\n        \"科技发展可能会带来更智能化的生活，例如智能家居、智能交通等。\",\n        \"人们可能会更依赖科技，例如使用虚拟现实技术进行工作、学习和娱乐。\",\n        \"科技可能会改变工作方式，例如自动化和机器人可能取代一些传统工作。\",\n        \"医疗科技可能会进一步发展，提供更先进的治疗方法和医疗设备。\"\n      ]\n    },\n    {\n      \"question_id\": 2,\n      \"question\": \"未来的能源来源会有哪些变化？\",\n      \"possible_answers\": [\n        \"可再生能源可能会得到更广泛的应用，例如太阳能、风能等。\",\n        \"核能可能会继续发展，提供更清洁和高效的能源。\",\n        \"新型能源技术可能会出现，例如聚变能源、太空能源等。\",\n        \"能源存储技术可能会得到突破，解决能源供应不稳定的问题。\"\n      ]\n    },\n    {\n      \"question_id\": 3,\n      \"question\": \"未来的交通方式会有哪些创新？\",\n      \"possible_answers\": [\n        \"自动驾驶技术可能会普及，提供更安全和便捷的交通方式。\",\n        \"无人机可能会用于人员运输和货物配送。\",\n        \"超高速交通工具可能会出现，例如超级高铁、超音速飞行器等。\",\n        \"城市可能会推广共享交通概念，例如共享汽车、共享单车等。\"\n      ]\n    },\n    {\n      \"question_id\": 4,\n      \"question\": \"未来的教育会有哪些变革？\",\n      \"possible_answers\": [\n        \"在线教育可能会更加普及，提供灵活的学习方式。\",\n        \"个性化教育可能会得到重视，根据学生的特点和需求进行教学。\",\n        \"虚拟现实技术可能会应用于教育，提供更生动和互动的学习体验。\",\n        \"人工智能可能会在教育领域发挥作用，例如智能辅导和评估系统。\"\n      ]\n    },\n    {\n      \"question_id\": 5,\n      \"question\": \"未来的医疗技术会有哪些突破？\",\n      \"possible_answers\": [\n        \"基因编辑技术可能会实现精准治疗，治愈一些遗传性疾病。\",\n        \"人工器官技术可能会进一步发展，提供更好的替代治疗方法。\",\n        \"纳米技术可能会应用于医疗，例如纳米机器人用于药物传递和治疗。\",\n        \"脑机接口技术可能会实现人脑与计算机的直接交互。\"\n      ]\n    },\n    {\n      \"question_id\": 6,\n      \"question\": \"未来的工作模式会有哪些变化？\",\n      \"possible_answers\": [\n        \"远程办公可能会更加普遍，人们可以在任何地点工作。\",\n        \"灵活工作时间可能会得到推广，人们可以根据自己的需求安排工作时间。\",\n        \"合作机器人可能会与人类共同工作，提高工作效率。\",\n        \"创业和自由职业可能会增加，人们更加追求个人发展和自主性。\"\n      ]\n    },\n    {\n      \"question_id\": 7,\n      \"question\": \"未来的社交方式会有哪些变化？\",\n      \"possible_answers\": [\n        \"虚拟社交可能会更加流行，人们可以通过虚拟现实技术进行社交活动。\",\n        \"社交媒体可能会继续发展，提供更多元化和个性化的社交体验。\",\n        \"人工智能可能会在社交中发挥作用，例如智能助手帮助人们管理社交关系。\",\n        \"社交活动可能会更加多样化，例如线上线下结合的社交活动。\"\n      ]\n    },\n    {\n      \"question_id\": 8,\n      \"question\": \"未来的环境保护会有哪些进展？\",\n      \"possible_answers\": [\n        \"可持续发展理念可能会得到更广泛的应用，推动经济与环境的协调发展。\",\n        \"清洁能源可能会取代传统能源，减少对环境的污染。\",\n        \"环境监测技术可能会更加先进，提供更准确的环境数据。\",\n        \"循环经济可能会得到推广，减少资源的浪费和污染。\"\n      ]\n    },\n    {\n      \"question_id\": 9,\n      \"question\": \"未来的娱乐方式会有哪些创新？\",\n      \"possible_answers\": [\n        \"虚拟现实技术可能会应用于娱乐领域，提供沉浸式的娱乐体验。\",\n        \"增强现实技术可能会改变娱乐方式，将虚拟元素融入到现实世界中。\",\n        \"电子竞技可能会继续发展，成为一种主流的娱乐方式。\",\n        \"个性化娱乐可能会得到重视，根据个人的兴趣和喜好提供定制化的娱乐内容。\"\n      ]\n    },\n    {\n      \"question_id\": 10,\n      \"question\": \"未来的社会结构会有哪些变化？\",\n      \"possible_answers\": [\n        \"人口老龄化可能会加剧，社会保障和养老服务需求增加。\",\n        \"城市化进程可能会继续推进，城市人口比例增加。\",\n        \"社会分工可能会进一步细化，出现更多专业化的职业。\",\n        \"社会关系可能会更加多元化，人们的交往方式和社交圈子更广泛。\"\n      ]\n    }\n  ]\n}"
+            ],
+            [
+                "在json中添加关键词和分类",
+                "{\n  \"questions\": [\n    {\n      \"question_id\": 1,\n      \"question\": \"未来的科技发展会如何改变我们的生活？\",\n      \"category\": \"Technology\",\n      \"keywords\": [\"Smart Home\", \"Artificial Intelligence\"]\n    },\n    {\n      \"question_id\": 2,\n      \"question\": \"未来的能源来源会有哪些变化？\",\n      \"category\": \"Energy\",\n      \"keywords\": [\"Renewable Energy\", \"Nuclear Power\"]\n    },\n    {\n      \"question_id\": 3,\n      \"question\": \"未来的交通方式会有哪些创新？\",\n      \"category\": \"Transportation\",\n      \"keywords\": [\"Autonomous Vehicles\", \"Drone Delivery\"]\n    },\n    {\n      \"question_id\": 4,\n      \"question\": \"未来的教育会有哪些变革？\",\n      \"category\": \"Education\",\n      \"keywords\": [\"Online Learning\", \"Personalized Education\"]\n    },\n    {\n      \"question_id\": 5,\n      \"question\": \"未来的医疗技术会有哪些突破？\",\n      \"category\": \"Healthcare\",\n      \"keywords\": [\"Gene Editing\", \"Artificial Organs\"]\n    },\n    {\n      \"question_id\": 6,\n      \"question\": \"未来的工作模式会有哪些变化？\",\n      \"category\": \"Work & Career\",\n      \"keywords\": [\"Remote Work\", \"Flexible Hours\"]\n    },\n    {\n      \"question_id\": 7,\n      \"question\": \"未来的社交方式会有哪些变化？\",\n      \"category\": \"Social Interaction\",\n      \"keywords\": [\"Virtual Socializing\", \"Social Media\"]\n    },\n    {\n      \"question_id\": 8,\n      \"question\": \"未来的环境保护会有哪些进展？\",\n      \"category\": \"Environmental Protection\",\n      \"keywords\": [\"Sustainability\", \"Clean Energy\"]\n    },\n    {\n      \"question_id\": 9,\n      \"question\": \"未来的娱乐方式会有哪些创新？\",\n      \"category\": \"Entertainment\",\n      \"keywords\": [\"Virtual Reality\", \"Augmented Reality\"]\n    },\n    {\n      \"question_id\": 10,\n      \"question\": \"未来的社会结构会有哪些变化？\",\n      \"category\": \"Society\",\n      \"keywords\": [\"Population Aging\", \"Urbanization\"]\n    }\n  ]\n}"
+            ]
+        ],
+        "task_description": "在json中添加关键词和分类",
+        "input_text": NaN,
+        "task_category": "brainstorming_multi_rounds",
+        "lang": "ch",
+        "model_answer": "{\n  \"questions\": [\n    {\n      \"question_id\": 1,\n      \"question\": \"未来的科技发展会如何改变我们的生活？\",\n      \"category\": \"Technology\",\n      \"keywords\": [\"Smart Home\", \"Artificial Intelligence\"]\n    },\n    {\n      \"question_id\": 2,\n      \"question\": \"未来的能源来源会有哪些变化？\",\n      \"category\": \"Energy\",\n      \"keywords\": [\"Renewable Energy\", \"Nuclear Power\"]\n    },\n    {\n      \"question_id\": 3,\n      \"question\": \"未来的交通方式会有哪些创新？\",\n      \"category\": \"Transportation\",\n      \"keywords\": [\"Autonomous Vehicles\", \"Drone Delivery\"]\n    },\n    {\n      \"question_id\": 4,\n      \"question\": \"未来的教育会有哪些变革？\",\n      \"category\": \"Education\",\n      \"keywords\": [\"Online Learning\", \"Personalized Education\"]\n    },\n    {\n      \"question_id\": 5,\n      \"question\": \"未来的医疗技术会有哪些突破？\",\n      \"category\": \"Healthcare\",\n      \"keywords\": [\"Gene Editing\", \"Artificial Organs\"]\n    },\n    {\n      \"question_id\": 6,\n      \"question\": \"未来的工作模式会有哪些变化？\",\n      \"category\": \"Work & Career\",\n      \"keywords\": [\"Remote Work\", \"Flexible Hours\"]\n    },\n    {\n      \"question_id\": 7,\n      \"question\": \"未来的社交方式会有哪些变化？\",\n      \"category\": \"Social Interaction\",\n      \"keywords\": [\"Virtual Socializing\", \"Social Media\"]\n    },\n    {\n      \"question_id\": 8,\n      \"question\": \"未来的环境保护会有哪些进展？\",\n      \"category\": \"Environmental Protection\",\n      \"keywords\": [\"Sustainability\", \"Clean Energy\"]\n    },\n    {\n      \"question_id\": 9,\n      \"question\": \"未来的娱乐方式会有哪些创新？\",\n      \"category\": \"Entertainment\",\n      \"keywords\": [\"Virtual Reality\", \"Augmented Reality\"]\n    },\n    {\n      \"question_id\": 10,\n      \"question\": \"未来的社会结构会有哪些变化？\",\n      \"category\": \"Society\",\n      \"keywords\": [\"Population Aging\", \"Urbanization\"]\n    }\n  ]\n}"
+    }
+]

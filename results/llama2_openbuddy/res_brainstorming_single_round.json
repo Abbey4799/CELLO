@@ -1,0 +1,302 @@
+[
+    {
+        "Instruction": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "Instruction_id": "c0061c8ed7fa0dcc5122fec5f28e9d3781158954c17dec68a01d291b38cc5988",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+                " | 关键词 | 简介 | 步骤 |\n| --- | --- | --- |\n| 1 | 智能家居控制系统 | 设计一个智能家居控制系统，可以通过语音或手机应用程序控制家中的电器设备。该系统可以学习用户的习惯，并自动调整设备设置以提高能源效率。 | 1. 设计一个智能家居控制系统；2. 集成语音识别和手机应用程序；3. 学习用户习惯并自动调整设备设置；4. 提高能源效率。 |\n| 2 | 智能健康监测设备 | 开发一种智能健康监测设备，可以监测用户的身体指标，如心率、血压、血糖等。该设备可以将数据发送到用户的手机应用程序，以便用户随时了解自己的健康状"
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " | 关键词 | 简介 | 步骤 |\n| --- | --- | --- |\n| 1 | 智能家居控制系统 | 设计一个智能家居控制系统，可以通过语音或手机应用程序控制家中的电器设备。该系统可以学习用户的习惯，并自动调整设备设置以提高能源效率。 | 1. 设计一个智能家居控制系统；2. 集成语音识别和手机应用程序；3. 学习用户习惯并自动调整设备设置；4. 提高能源效率。 |\n| 2 | 智能健康监测设备 | 开发一种智能健康监测设备，可以监测用户的身体指标，如心率、血压、血糖等。该设备可以将数据发送到用户的手机应用程序，以便用户随时了解自己的健康状"
+    },
+    {
+        "Instruction": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "Instruction_id": "40332e40c3184efbe70d16e7784ee32c24c43b9e55f6c33c7ea4f1c27cf60c5a",
+        "histories": [
+            [
+                "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+                " 以下是三个不同种类的动物以及它们的特点，以 XML 格式输出：\n\n```xml\n<animals>\n  <type>哺乳动物</type>\n  <name>狮子</name>\n  <description>狮子是一种大型的猫科动物，以其雄壮的鬃毛和雄壮的体格而闻名。它们生活在非洲的草原和疏林地区，以狩猎为主要生活方式。</description>\n  \n  <type>鸟类</type>\n  <name>孔雀</name>\n  <description>孔雀是一种美丽的鸟类，以其绚丽的羽毛和优雅的姿态而闻名。它们生活在印度和斯里兰卡的热带雨林中，以植物为食。</description>\n  \n  <type>爬行动物</type>\n  <name>鳄鱼</name>\n  <description>鳄鱼是一种大型的爬行动物，以其锋利的牙"
+            ]
+        ],
+        "task_description": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是三个不同种类的动物以及它们的特点，以 XML 格式输出：\n\n```xml\n<animals>\n  <type>哺乳动物</type>\n  <name>狮子</name>\n  <description>狮子是一种大型的猫科动物，以其雄壮的鬃毛和雄壮的体格而闻名。它们生活在非洲的草原和疏林地区，以狩猎为主要生活方式。</description>\n  \n  <type>鸟类</type>\n  <name>孔雀</name>\n  <description>孔雀是一种美丽的鸟类，以其绚丽的羽毛和优雅的姿态而闻名。它们生活在印度和斯里兰卡的热带雨林中，以植物为食。</description>\n  \n  <type>爬行动物</type>\n  <name>鳄鱼</name>\n  <description>鳄鱼是一种大型的爬行动物，以其锋利的牙"
+    },
+    {
+        "Instruction": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "Instruction_id": "05eaffafa7b0ca5e23cac047bcf3727b745bf2d48a211de95cc00315528b424d",
+        "histories": [
+            [
+                "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+                " | 关键词 | 简要描述 | 具体步骤 |\n| --- | --- | --- |\n| 睡眠环境 | 创建一个舒适、安静、黑暗的睡眠环境 | 1. 调整室温和湿度，保持在舒适范围内；2. 使用遮光窗帘或眼罩，确保房间完全黑暗；3. 使用舒适的床垫和枕头，确保身体得到适当的支撑和舒适度。 |\n| 睡前放松 | 在睡觉前进行放松活动，如冥想、深呼吸或温水泡澡 | 1. 选择一种放松活动，如冥想、深呼吸或温水泡澡；2. 在睡觉前 30 分钟至 1 小时进行放松活动；3. 避免在睡觉前使用电子设备，如手机、电脑等。 |\n| 规律作息 | 保持规律的作息时间，"
+            ]
+        ],
+        "task_description": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " | 关键词 | 简要描述 | 具体步骤 |\n| --- | --- | --- |\n| 睡眠环境 | 创建一个舒适、安静、黑暗的睡眠环境 | 1. 调整室温和湿度，保持在舒适范围内；2. 使用遮光窗帘或眼罩，确保房间完全黑暗；3. 使用舒适的床垫和枕头，确保身体得到适当的支撑和舒适度。 |\n| 睡前放松 | 在睡觉前进行放松活动，如冥想、深呼吸或温水泡澡 | 1. 选择一种放松活动，如冥想、深呼吸或温水泡澡；2. 在睡觉前 30 分钟至 1 小时进行放松活动；3. 避免在睡觉前使用电子设备，如手机、电脑等。 |\n| 规律作息 | 保持规律的作息时间，"
+    },
+    {
+        "Instruction": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "Instruction_id": "ce2a57d592fbbbc5e9e67e65b556a71b43f400e163f8d83364cf322c508b3391",
+        "histories": [
+            [
+                "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+                " | 编号 | 问题描述 |\n| --- | --- |\n| 1 | 什么是健康的生活方式？ |\n| 2 | 健康的生活方式对身体健康有哪些好处？ |\n| 3 | 如何养成健康的生活方式？ |\n| 4 | 饮食对健康的影响是什么？ |\n| 5 | 运动对健康的重要性是什么？ |\n"
+            ]
+        ],
+        "task_description": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " | 编号 | 问题描述 |\n| --- | --- |\n| 1 | 什么是健康的生活方式？ |\n| 2 | 健康的生活方式对身体健康有哪些好处？ |\n| 3 | 如何养成健康的生活方式？ |\n| 4 | 饮食对健康的影响是什么？ |\n| 5 | 运动对健康的重要性是什么？ |\n"
+    },
+    {
+        "Instruction": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "Instruction_id": "dee960bbd19c3b1958463df9c5c62d6111238addbec6ea924f00cd034f474267",
+        "histories": [
+            [
+                "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+                " 当然可以！以下是我为您准备的 5 个适合在户外进行的锻炼运动，以 JSON 格式输出：\n```json\n{\n  \"1\": {\n    \"name\": \"跑步\",\n    \"description\": \"跑步是一种简单而有效的有氧运动，可以帮助您燃烧卡路里，增强心肺功能。\",\n    \"difficulty\": \"初级\"\n  },\n  \"2\": {\n    \"name\": \"骑自行车\",\n    \"description\": \"骑自行车是一种低冲击的有氧运动，可以帮助您锻炼腿部肌肉，增强心肺功能。\",\n    \"difficulty\": \"中级\"\n  },\n  \"3\": {\n    \"name\": \"游泳\",\n    \"description\": \"游泳是一种全身性的有氧运动，可以帮助您锻炼全身肌肉，增强心肺功能。\",\n    \"difficulty\": \"中级\"\n "
+            ]
+        ],
+        "task_description": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 当然可以！以下是我为您准备的 5 个适合在户外进行的锻炼运动，以 JSON 格式输出：\n```json\n{\n  \"1\": {\n    \"name\": \"跑步\",\n    \"description\": \"跑步是一种简单而有效的有氧运动，可以帮助您燃烧卡路里，增强心肺功能。\",\n    \"difficulty\": \"初级\"\n  },\n  \"2\": {\n    \"name\": \"骑自行车\",\n    \"description\": \"骑自行车是一种低冲击的有氧运动，可以帮助您锻炼腿部肌肉，增强心肺功能。\",\n    \"difficulty\": \"中级\"\n  },\n  \"3\": {\n    \"name\": \"游泳\",\n    \"description\": \"游泳是一种全身性的有氧运动，可以帮助您锻炼全身肌肉，增强心肺功能。\",\n    \"difficulty\": \"中级\"\n "
+    },
+    {
+        "Instruction": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "Instruction_id": "fa3707e6632ac57e21791250ee7bce619643f18d11a07d0171bca2f60e5eca47",
+        "histories": [
+            [
+                "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+                " 以下是制作麻婆豆腐和鱼香肉丝的步骤，以 JSON 格式输出：\n\n{\n\"麻婆豆腐\": [\n\"将豆腐切成块状备用。\",\n\"锅中倒入适量油，加入葱姜蒜爆香。\",\n\"加入豆瓣酱、辣椒粉、花椒粉、豆豉、料酒、盐、糖、水，煮开后转小火煮 5 分钟。\",\n\"将豆腐放入锅中，煮至豆腐入味即可。\",\n\"起锅前加入葱花、香菜点缀。\"\n],\n\"鱼香肉丝\": [\n\"将瘦猪肉切成丝状备用。\",\n\"锅中倒入适量油，加入葱姜蒜爆香。\",\n\"加入豆瓣酱、甜面酱、料酒、盐、糖、水，煮开后转小火煮 5 分钟。\",\n\"将瘦猪肉放入锅中，煮至肉变色即可。\",\n\"起锅前加入葱"
+            ]
+        ],
+        "task_description": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是制作麻婆豆腐和鱼香肉丝的步骤，以 JSON 格式输出：\n\n{\n\"麻婆豆腐\": [\n\"将豆腐切成块状备用。\",\n\"锅中倒入适量油，加入葱姜蒜爆香。\",\n\"加入豆瓣酱、辣椒粉、花椒粉、豆豉、料酒、盐、糖、水，煮开后转小火煮 5 分钟。\",\n\"将豆腐放入锅中，煮至豆腐入味即可。\",\n\"起锅前加入葱花、香菜点缀。\"\n],\n\"鱼香肉丝\": [\n\"将瘦猪肉切成丝状备用。\",\n\"锅中倒入适量油，加入葱姜蒜爆香。\",\n\"加入豆瓣酱、甜面酱、料酒、盐、糖、水，煮开后转小火煮 5 分钟。\",\n\"将瘦猪肉放入锅中，煮至肉变色即可。\",\n\"起锅前加入葱"
+    },
+    {
+        "Instruction": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "Instruction_id": "1efcc17e4fe5bf20bf10db1d7c51c5dc7009be5746679b499ec7674fb74fe2f2",
+        "histories": [
+            [
+                "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+                " {\n\"names\": [\n{\n\"name\": \"艾萨克 · 牛顿\",\n\"real\": true\n},\n{\n\"name\": \"罗宾汉\",\n\"real\": false\n},\n{\n\"name\": \"马克 · 扎克伯格\",\n\"real\": true\n}\n]\n}\n\n艾萨克 · 牛顿（Isaac Newton）是一位著名的英国物理学家、数学家和天文学家，被誉为现代科学之父。他于1643年出生在英国林肯郡的一个小镇上，在家庭贫困的情况下通过自学成为了一名杰出的学者。他的主要贡献包括发展了微积分学、提出了万有引力定律、发现了光的色散现象等等。他的成就不仅在数学和物理学领域有着深远的影响，也对哲学、宗教和文化产生了重要的影响。他的一生充满了创新和"
+            ]
+        ],
+        "task_description": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " {\n\"names\": [\n{\n\"name\": \"艾萨克 · 牛顿\",\n\"real\": true\n},\n{\n\"name\": \"罗宾汉\",\n\"real\": false\n},\n{\n\"name\": \"马克 · 扎克伯格\",\n\"real\": true\n}\n]\n}\n\n艾萨克 · 牛顿（Isaac Newton）是一位著名的英国物理学家、数学家和天文学家，被誉为现代科学之父。他于1643年出生在英国林肯郡的一个小镇上，在家庭贫困的情况下通过自学成为了一名杰出的学者。他的主要贡献包括发展了微积分学、提出了万有引力定律、发现了光的色散现象等等。他的成就不仅在数学和物理学领域有着深远的影响，也对哲学、宗教和文化产生了重要的影响。他的一生充满了创新和"
+    },
+    {
+        "Instruction": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "Instruction_id": "da1d19c05b129e05f9621f3b63c10299f2b231f189f5169376fccef19bf99056",
+        "histories": [
+            [
+                "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+                " {\n\"加密方法\": [\n{\n\"名称\": \"对称加密\",\n\"优点\": [\n\"加密速度快\",\n\"加密算法简单\",\n\"安全性高\"\n],\n\"缺点\": [\n\"密钥管理困难\",\n\"密钥分发不安全\"\n]\n},\n{\n\"名称\": \"非对称加密\",\n\"优点\": [\n\"密钥管理方便\",\n\"密钥分发安全\",\n\"安全性高\"\n],\n\"缺点\": [\n\"加密速度慢\",\n\"加密算法复杂\"\n]\n},\n{\n\"名称\": \"哈希加密\",\n\"优点\": [\n\"加密速度快\",\n\"安全性高\",\n\"不可逆\"\n],\n\"缺点\": [\n\"不能用于加密通信\",\n\"容易被攻击\"\n]\n}\n]\n}\n\n对称加密是一种常见的加密方法，它使用相同的密"
+            ]
+        ],
+        "task_description": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " {\n\"加密方法\": [\n{\n\"名称\": \"对称加密\",\n\"优点\": [\n\"加密速度快\",\n\"加密算法简单\",\n\"安全性高\"\n],\n\"缺点\": [\n\"密钥管理困难\",\n\"密钥分发不安全\"\n]\n},\n{\n\"名称\": \"非对称加密\",\n\"优点\": [\n\"密钥管理方便\",\n\"密钥分发安全\",\n\"安全性高\"\n],\n\"缺点\": [\n\"加密速度慢\",\n\"加密算法复杂\"\n]\n},\n{\n\"名称\": \"哈希加密\",\n\"优点\": [\n\"加密速度快\",\n\"安全性高\",\n\"不可逆\"\n],\n\"缺点\": [\n\"不能用于加密通信\",\n\"容易被攻击\"\n]\n}\n]\n}\n\n对称加密是一种常见的加密方法，它使用相同的密"
+    },
+    {
+        "Instruction": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "Instruction_id": "598d1cf42deee4845f54778bca3a51a66058de772019b3ebecf38e9311e983e1",
+        "histories": [
+            [
+                "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+                " | 作品名 | 作者名 | 时间 |\n| --- | --- | --- |\n| 《红楼梦》 | 曹雪芹 | 18 世纪中叶 |\n| 《西游记》 | 吴承恩 | 16 世纪 |\n| 《水浒传》 | 施耐庵 | 14 世纪 |\n| 《三国演义》 | 罗贯中 | 14 世纪 |\n| 《聊斋志异》 | 蒲松龄 | 18 世纪 |\n"
+            ]
+        ],
+        "task_description": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " | 作品名 | 作者名 | 时间 |\n| --- | --- | --- |\n| 《红楼梦》 | 曹雪芹 | 18 世纪中叶 |\n| 《西游记》 | 吴承恩 | 16 世纪 |\n| 《水浒传》 | 施耐庵 | 14 世纪 |\n| 《三国演义》 | 罗贯中 | 14 世纪 |\n| 《聊斋志异》 | 蒲松龄 | 18 世纪 |\n"
+    },
+    {
+        "Instruction": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "Instruction_id": "dcb67aefd2cf290a4f168b8f3a7da88f46ab53cca64f21695a95ce9f83502205",
+        "histories": [
+            [
+                "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+                " | 人物 | 朝代 | 生平经历 |\n| --- | --- | --- |\n| 孔子 | 春秋时期 | 儒家学派创始人，著有《论语》等多部经典著作 |\n| 秦始皇 | 秦朝 | 统一六国，建立中国第一个中央集权的封建帝国，著有《秦律》等法律典籍 |\n| 孙中山 | 民国时期 | 辛亥革命领袖，中华民国缔造者，被誉为“国父” |\n"
+            ]
+        ],
+        "task_description": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " | 人物 | 朝代 | 生平经历 |\n| --- | --- | --- |\n| 孔子 | 春秋时期 | 儒家学派创始人，著有《论语》等多部经典著作 |\n| 秦始皇 | 秦朝 | 统一六国，建立中国第一个中央集权的封建帝国，著有《秦律》等法律典籍 |\n| 孙中山 | 民国时期 | 辛亥革命领袖，中华民国缔造者，被誉为“国父” |\n"
+    },
+    {
+        "Instruction": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "Instruction_id": "64616184aa54a7de5bb1a070219bd94a133d987f5b5e462011dfee3da5d37380",
+        "histories": [
+            [
+                "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+                " 当然可以！以下是我为您推荐的电影：\n\n```json\n{\n  \"title\": \"阿甘正传\",\n  \"director\": \"罗伯特 · 泽米吉斯\",\n  \"cast\": [\"汤姆 · 汉克斯\", \"罗宾 · 怀特\", \"加里 · 西尼斯\"],\n  \"plot\": \"这是一部关于一个智商只有 75 的男孩阿甘的故事。他在童年时期因为智商低而被同龄人排挤，但他却拥有一颗善良的心和坚定的信念。他在成年后成为了一名橄榄球明星，参加了越战，并最终成为了一名亿万富翁。整个电影讲述了他的人生经历，以及他如何通过自己的努力和善良赢得了人们的尊重和爱戴。\"\n}\n```\n\n这部电影由罗伯特 · 泽米吉斯执导，汤姆 · 汉"
+            ]
+        ],
+        "task_description": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 当然可以！以下是我为您推荐的电影：\n\n```json\n{\n  \"title\": \"阿甘正传\",\n  \"director\": \"罗伯特 · 泽米吉斯\",\n  \"cast\": [\"汤姆 · 汉克斯\", \"罗宾 · 怀特\", \"加里 · 西尼斯\"],\n  \"plot\": \"这是一部关于一个智商只有 75 的男孩阿甘的故事。他在童年时期因为智商低而被同龄人排挤，但他却拥有一颗善良的心和坚定的信念。他在成年后成为了一名橄榄球明星，参加了越战，并最终成为了一名亿万富翁。整个电影讲述了他的人生经历，以及他如何通过自己的努力和善良赢得了人们的尊重和爱戴。\"\n}\n```\n\n这部电影由罗伯特 · 泽米吉斯执导，汤姆 · 汉"
+    },
+    {
+        "Instruction": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "Instruction_id": "ef696afae930972707730b96ecaefe30b19033893df82a9981b2cb56e12d0169",
+        "histories": [
+            [
+                "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+                " 以下是根据公司业务类型对 Apple、Facebook 和 Fedex 进行的分类，以 JSON 格式输出：\n\n{\n\"companies\": [\n{\n\"name\": \"Apple\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Facebook\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Fedex\",\n\"category\": \"Logistics\"\n}\n]\n}\n\nTranslation:\n\nHere is the classification of Apple, Facebook, and Fedex based on their business types, presented in JSON format:\n\n{\n\"companies\": [\n{\n\"name\": \"Apple\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Facebook\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Fedex\",\n\"category\": \"Logistics\"\n}\n]\n}\n"
+            ]
+        ],
+        "task_description": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是根据公司业务类型对 Apple、Facebook 和 Fedex 进行的分类，以 JSON 格式输出：\n\n{\n\"companies\": [\n{\n\"name\": \"Apple\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Facebook\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Fedex\",\n\"category\": \"Logistics\"\n}\n]\n}\n\nTranslation:\n\nHere is the classification of Apple, Facebook, and Fedex based on their business types, presented in JSON format:\n\n{\n\"companies\": [\n{\n\"name\": \"Apple\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Facebook\",\n\"category\": \"Technology\"\n},\n{\n\"name\": \"Fedex\",\n\"category\": \"Logistics\"\n}\n]\n}\n"
+    },
+    {
+        "Instruction": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "Instruction_id": "90e6f88ad9ea6e03d457981c7b097c5647800ec646e5223599d7fb897523601f",
+        "histories": [
+            [
+                "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+                " 以下是10个与未来相关的问题，以JSON格式输出：\n```json\n[\n  {\n    \"id\": 1,\n    \"content\": \"人工智能会取代人类的工作吗？\",\n    \"answer\": \"未来人工智能可能会在某些领域取代人类的工作，但在其他领域仍需要人类的创造力和判断力。\",\n    \"keywords\": [\"人工智能\", \"自动化\", \"未来工作\"],\n    \"category\": \"技术\"\n  },\n  {\n    \"id\": 2,\n    \"content\": \"未来城市会是什么样子？\",\n    \"answer\": \"未来城市可能会更加智能化、可持续化和人性化，例如采用更多的绿色能源、自动驾驶交通和智能家居技术。\",\n    \"keywords\": [\"城市\", \"未来\", \"智能化\", \"可持续\"],\n    \"category"
+            ]
+        ],
+        "task_description": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是10个与未来相关的问题，以JSON格式输出：\n```json\n[\n  {\n    \"id\": 1,\n    \"content\": \"人工智能会取代人类的工作吗？\",\n    \"answer\": \"未来人工智能可能会在某些领域取代人类的工作，但在其他领域仍需要人类的创造力和判断力。\",\n    \"keywords\": [\"人工智能\", \"自动化\", \"未来工作\"],\n    \"category\": \"技术\"\n  },\n  {\n    \"id\": 2,\n    \"content\": \"未来城市会是什么样子？\",\n    \"answer\": \"未来城市可能会更加智能化、可持续化和人性化，例如采用更多的绿色能源、自动驾驶交通和智能家居技术。\",\n    \"keywords\": [\"城市\", \"未来\", \"智能化\", \"可持续\"],\n    \"category"
+    },
+    {
+        "Instruction": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "Instruction_id": "324871929ceff27433eb4876790c5234a9ba934ca76a32dfd1a186237147d8be",
+        "histories": [
+            [
+                "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+                " 以下是五个可行的可持续能源项目想法，以 JSON 格式输出：\n```json\n[\n  {\n    \"id\": 1,\n    \"title\": \"太阳能热水器\",\n    \"description\": \"使用太阳能热水器来替代传统的电热水器，可以大大降低能源消耗和碳排放。\",\n    \"keywords\": [\"太阳能\", \"热水器\", \"可持续能源\"],\n    \"implementation_cost\": \"$500\"\n  },\n  {\n    \"id\": 2,\n    \"title\": \"风力发电\",\n    \"description\": \"建立风力发电站来生产清洁的电力，可以减少对化石燃料的依赖并降低温室气体排放。\",\n    \"keywords\": [\"风力发电\", \"可持续能源\", \"清洁能源\"],\n    \"implementation_cost\": \"$100000\"\n  },\n  {\n    \"id\": 3,"
+            ]
+        ],
+        "task_description": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是五个可行的可持续能源项目想法，以 JSON 格式输出：\n```json\n[\n  {\n    \"id\": 1,\n    \"title\": \"太阳能热水器\",\n    \"description\": \"使用太阳能热水器来替代传统的电热水器，可以大大降低能源消耗和碳排放。\",\n    \"keywords\": [\"太阳能\", \"热水器\", \"可持续能源\"],\n    \"implementation_cost\": \"$500\"\n  },\n  {\n    \"id\": 2,\n    \"title\": \"风力发电\",\n    \"description\": \"建立风力发电站来生产清洁的电力，可以减少对化石燃料的依赖并降低温室气体排放。\",\n    \"keywords\": [\"风力发电\", \"可持续能源\", \"清洁能源\"],\n    \"implementation_cost\": \"$100000\"\n  },\n  {\n    \"id\": 3,"
+    },
+    {
+        "Instruction": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "Instruction_id": "289f495f31c0895f0b2c2cf46d9b6e1fdf454f7f41dfe2cf90558a50e94773b1",
+        "histories": [
+            [
+                "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+                " 好的，以下是五种不同品牌的咖啡以及它们的特点和口味：\n\n| 品牌 | 特点 | 口味 | 产地 |\n| --- | --- | --- | --- |\n| 星巴克 | 全球知名品牌，提供多种咖啡和茶饮品 | 浓郁、香醇 | 美国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n\n第三种咖啡"
+            ]
+        ],
+        "task_description": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 好的，以下是五种不同品牌的咖啡以及它们的特点和口味：\n\n| 品牌 | 特点 | 口味 | 产地 |\n| --- | --- | --- | --- |\n| 星巴克 | 全球知名品牌，提供多种咖啡和茶饮品 | 浓郁、香醇 | 美国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n| 雀巢 | 提供多种咖啡和茶饮品，以速度和方便性著称 | 浓郁、苦涩 | 法国 |\n\n第三种咖啡"
+    },
+    {
+        "Instruction": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "Instruction_id": "c330e000999f62803ea0aa7271cabb849db5d68f305024f85db15891272bcbbe",
+        "histories": [
+            [
+                "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+                " | 关键词 | 描述 | 实施步骤 | 预计效果 |\n| --- | --- | --- | --- |\n| 面包艺术展 | 在面包店内举办一场面包艺术展，展示各种不同的面包制作技巧和风格。 | 1. 邀请专业面包师进行展示；2. 设计展览布局；3. 制作宣传海报和宣传册；4. 在社交媒体上宣传活动。 | 提高顾客对面包的兴趣和认识，吸引更多的人来店内参观和购买面包。 |\n| 面包 DIY 活动 | 在面包店内举办一次面包 DIY 活动，让顾客亲自动手制作自己喜欢的面包。 | 1. 准备所需材料和工具；2. 设计面包 DIY 活动流程；3. 提供专业指导和帮助；4. 在"
+            ]
+        ],
+        "task_description": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " | 关键词 | 描述 | 实施步骤 | 预计效果 |\n| --- | --- | --- | --- |\n| 面包艺术展 | 在面包店内举办一场面包艺术展，展示各种不同的面包制作技巧和风格。 | 1. 邀请专业面包师进行展示；2. 设计展览布局；3. 制作宣传海报和宣传册；4. 在社交媒体上宣传活动。 | 提高顾客对面包的兴趣和认识，吸引更多的人来店内参观和购买面包。 |\n| 面包 DIY 活动 | 在面包店内举办一次面包 DIY 活动，让顾客亲自动手制作自己喜欢的面包。 | 1. 准备所需材料和工具；2. 设计面包 DIY 活动流程；3. 提供专业指导和帮助；4. 在"
+    },
+    {
+        "Instruction": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "Instruction_id": "0a4226a6bc3fd7697b1903cc022e1772f921ea3ceed4b183be0b1ebc0ea74967",
+        "histories": [
+            [
+                "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+                " 以下是我认为的十个有效的时间管理技巧，按照重要性排序并以 JSON 格式输出：\n\n```json\n[\n  {\n    \"keywords\": [\"Prioritize tasks\", \"To-do list\"],\n    \"description\": \"Prioritize tasks based on their importance and urgency, and create a to-do list to keep track of them.\",\n    \"steps\": [\n      \"Identify the most important tasks\",\n      \"Assign a priority level to each task\",\n      \"Create a to-do list and schedule tasks accordingly\",\n      \"Review and update the to-do list regularly\"\n    ]\n  },\n  {\n    \"keywords\": [\"Set goals\", \"SMART goals\"],\n    \"description\": \"Set specific, measurable, achievable, relevant, and time-bound goals to focus your efforts and achieve success.\",\n    \"steps\": [\n      \"Identify your long-term goals\",\n      \"Break them down into smaller, achievable goals\",\n      \"Set specific and measurable goals for each task\",\n      \"Determ"
+            ]
+        ],
+        "task_description": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是我认为的十个有效的时间管理技巧，按照重要性排序并以 JSON 格式输出：\n\n```json\n[\n  {\n    \"keywords\": [\"Prioritize tasks\", \"To-do list\"],\n    \"description\": \"Prioritize tasks based on their importance and urgency, and create a to-do list to keep track of them.\",\n    \"steps\": [\n      \"Identify the most important tasks\",\n      \"Assign a priority level to each task\",\n      \"Create a to-do list and schedule tasks accordingly\",\n      \"Review and update the to-do list regularly\"\n    ]\n  },\n  {\n    \"keywords\": [\"Set goals\", \"SMART goals\"],\n    \"description\": \"Set specific, measurable, achievable, relevant, and time-bound goals to focus your efforts and achieve success.\",\n    \"steps\": [\n      \"Identify your long-term goals\",\n      \"Break them down into smaller, achievable goals\",\n      \"Set specific and measurable goals for each task\",\n      \"Determ"
+    },
+    {
+        "Instruction": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "Instruction_id": "9fb29206dbf38c8a744f67ee82eb5e977aff48403c074f115b4aad2b1ea70698",
+        "histories": [
+            [
+                "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+                " 以下是五个有趣的无人驾驶车辆应用场景，以 XML 格式输出：\n```xml\n<scenarios>\n  <scenario>\n    <keyword>物流配送</keyword>\n    <description>无人驾驶车辆可以在工厂、仓库和商店之间自动运输货物，提高物流效率和准确性。</description>\n    <advantage>减少人工成本，提高物流效率，降低交通事故风险。</advantage>\n    <english>Logistics Delivery</english>\n  </scenario>\n  <scenario>\n    <keyword>城市公共交通</keyword>\n    <description>无人驾驶车辆可以在城市中自动运行，为市民提供更加便捷、高效的出行方式。</description>\n    <advantage>减少交通拥堵，提高出行效率，降低交通事故风险。</advantage>\n    <english>U"
+            ]
+        ],
+        "task_description": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是五个有趣的无人驾驶车辆应用场景，以 XML 格式输出：\n```xml\n<scenarios>\n  <scenario>\n    <keyword>物流配送</keyword>\n    <description>无人驾驶车辆可以在工厂、仓库和商店之间自动运输货物，提高物流效率和准确性。</description>\n    <advantage>减少人工成本，提高物流效率，降低交通事故风险。</advantage>\n    <english>Logistics Delivery</english>\n  </scenario>\n  <scenario>\n    <keyword>城市公共交通</keyword>\n    <description>无人驾驶车辆可以在城市中自动运行，为市民提供更加便捷、高效的出行方式。</description>\n    <advantage>减少交通拥堵，提高出行效率，降低交通事故风险。</advantage>\n    <english>U"
+    },
+    {
+        "Instruction": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "Instruction_id": "200a16619c6c54babde59851b9225fd4c30bbdce5b5f14b57f4d7ea5fe077064",
+        "histories": [
+            [
+                "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+                " 以下是五种不同颜色的花卉的名称，以 XML 格式呈现：\n```xml\n<flowers>\n  <flower>\n    <name>玫瑰</name>\n    <color>红色</color>\n  </flower>\n  <flower>\n    <name>郁金香</name>\n    <color>黄色</color>\n  </flower>\n  <flower>\n    <name>向日葵</name>\n    <color>橙色</color>\n  </flower>\n  <flower>\n    <name>百合</name>\n    <color>白色</color>\n  </flower>\n  <flower>\n    <name>紫罗兰</name>\n    <color>紫色</color>\n  </flower>\n</flowers>\n```\n第三种花卉是向日葵，其颜色为橙色。向日葵是一种美丽的花卉，其特点是大而明亮的花朵，通常呈现出鲜艳的黄色或"
+            ]
+        ],
+        "task_description": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " 以下是五种不同颜色的花卉的名称，以 XML 格式呈现：\n```xml\n<flowers>\n  <flower>\n    <name>玫瑰</name>\n    <color>红色</color>\n  </flower>\n  <flower>\n    <name>郁金香</name>\n    <color>黄色</color>\n  </flower>\n  <flower>\n    <name>向日葵</name>\n    <color>橙色</color>\n  </flower>\n  <flower>\n    <name>百合</name>\n    <color>白色</color>\n  </flower>\n  <flower>\n    <name>紫罗兰</name>\n    <color>紫色</color>\n  </flower>\n</flowers>\n```\n第三种花卉是向日葵，其颜色为橙色。向日葵是一种美丽的花卉，其特点是大而明亮的花朵，通常呈现出鲜艳的黄色或"
+    },
+    {
+        "Instruction": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "Instruction_id": "d7dbc6e1d4580911810c0f8728cdd2d9e0795e59430527295c409279e09302af",
+        "histories": [
+            [
+                "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+                " {\n\"questions\": [\n{\n\"id\": 1,\n\"description\": \"如何衡量社交媒体对品牌忠诚度的影响？\",\n\"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"影响\", \"衡量\"]\n},\n{\n\"id\": 2,\n\"description\": \"社交媒体如何影响消费者的购买决策？\",\n\"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响\"]\n},\n{\n\"id\": 3,\n\"description\": \"社交媒体如何影响用户的行为？\",\n\"keywords\": [\"社交媒体\", \"用户行为\", \"影响\"]\n},\n{\n\"id\": 4,\n\"description\": \"社交媒体对品牌忠诚度的影响如何与消费者购买决策和用户行为相关联？\",\n\"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"消费者购买决策\", \"用户"
+            ]
+        ],
+        "task_description": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "input_text": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "model_answer": " {\n\"questions\": [\n{\n\"id\": 1,\n\"description\": \"如何衡量社交媒体对品牌忠诚度的影响？\",\n\"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"影响\", \"衡量\"]\n},\n{\n\"id\": 2,\n\"description\": \"社交媒体如何影响消费者的购买决策？\",\n\"keywords\": [\"社交媒体\", \"消费者\", \"购买决策\", \"影响\"]\n},\n{\n\"id\": 3,\n\"description\": \"社交媒体如何影响用户的行为？\",\n\"keywords\": [\"社交媒体\", \"用户行为\", \"影响\"]\n},\n{\n\"id\": 4,\n\"description\": \"社交媒体对品牌忠诚度的影响如何与消费者购买决策和用户行为相关联？\",\n\"keywords\": [\"社交媒体\", \"品牌忠诚度\", \"消费者购买决策\", \"用户"
+    }
+]

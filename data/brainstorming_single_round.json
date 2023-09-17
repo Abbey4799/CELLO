@@ -1,0 +1,1131 @@
+[
+    {
+        "Instruction": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "Instruction_id": "c0061c8ed7fa0dcc5122fec5f28e9d3781158954c17dec68a01d291b38cc5988",
+        "histories": [],
+        "task_description": "以markdown表格格式输出思考并提出五个解决日常生活问题的创新或改进方法，包括关键词、简介以及步骤，并翻译为英文。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "|",
+                        33
+                    ]
+                ]
+            },
+            {
+                "criterion": "sample-table",
+                "limit": 10
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "|",
+                    "-",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "Keywords",
+                    "Description",
+                    "Steps",
+                    "keywords",
+                    "description",
+                    "step"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "Instruction_id": "40332e40c3184efbe70d16e7784ee32c24c43b9e55f6c33c7ea4f1c27cf60c5a",
+        "histories": [],
+        "task_description": "列举三个种类不同的动物，并说明它们的特点。以xml格式输出，要求包含种类、名称、描述，分别用<type>, <name>, <description>表示。在此基础上，增加一个动物\"熊猫\"。展开讲讲第二个动物，深入研究其生态习性。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-mins",
+                "limit": [
+                    [
+                        "<type>",
+                        4
+                    ],
+                    [
+                        "<name>",
+                        4
+                    ],
+                    [
+                        "<description>",
+                        4
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "xml"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "<",
+                    ">",
+                    "</"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "<type>",
+                    "<name>",
+                    "<description>",
+                    "</type>",
+                    "</name>",
+                    "</description>",
+                    "熊猫",
+                    "panda",
+                    "ecology",
+                    "habitat",
+                    "diet",
+                    "behavior",
+                    "reproduction",
+                    "生态习性"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "Instruction_id": "05eaffafa7b0ca5e23cac047bcf3727b745bf2d48a211de95cc00315528b424d",
+        "histories": [],
+        "task_description": "以markdown表格格式输出思考并列出5种可以改善睡眠质量的方法，包括关键词、简要描述和具体步骤。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-table",
+                "limit": 5
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "|",
+                    "-"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "方法",
+                    "关键词",
+                    "简要描述",
+                    "具体步骤"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "Instruction_id": "ce2a57d592fbbbc5e9e67e65b556a71b43f400e163f8d83364cf322c508b3391",
+        "histories": [],
+        "task_description": "对以下主题提出3个开放式问题。主题：健康的生活方式。以markdown表格格式输出，包括编号和问题描述。在此基础上，增加一个问题：饮食对健康的影响是什么？增加一个问题：运动对健康的重要性是什么？",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-table",
+                "limit": 5
+            },
+            {
+                "criterion": "sample-number",
+                "limit": 5
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "|",
+                    "-"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "编号",
+                    "问题描述",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "Instruction_id": "dee960bbd19c3b1958463df9c5c62d6111238addbec6ea924f00cd034f474267",
+        "histories": [],
+        "task_description": "请列举5个适合在户外进行的锻炼运动，并以json格式输出，包括编号、名称、简介和难度级别。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "5",
+                        1
+                    ]
+                ]
+            },
+            {
+                "criterion": "sample-number",
+                "limit": 5
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "question",
+                    "id",
+                    "name",
+                    "description",
+                    "问题",
+                    "编号",
+                    "名称",
+                    "简介",
+                    "难度"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "Instruction_id": "d7dbc6e1d4580911810c0f8728cdd2d9e0795e59430527295c409279e09302af",
+        "histories": [],
+        "task_description": "思考一个关于社交媒体的主题并列举3个相关问题，用于市场营销的研究。以json格式输出，包括问题编号、更具体的问题描述和关键词。\n主题：社交媒体对品牌忠诚度的影响。在此基础上，增加一个问题：社交媒体对消费者购买决策的影响。增加一个问题：社交媒体对用户行为的影响。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "5",
+                        1
+                    ]
+                ]
+            },
+            {
+                "criterion": "sample-number",
+                "limit": 5
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "编号",
+                    "描述",
+                    "关键词",
+                    "品牌",
+                    "忠诚度",
+                    "消费者",
+                    "购买决策",
+                    "影响",
+                    "用户行为"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "Instruction_id": "fa3707e6632ac57e21791250ee7bce619643f18d11a07d0171bca2f60e5eca47",
+        "histories": [],
+        "task_description": "描述一下如何制作一道有名的本地菜肴，并将步骤列出来。以json格式输出。\n本地菜肴：麻婆豆腐、鱼香肉丝。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "菜名",
+                    "原料",
+                    "步骤",
+                    "麻婆豆腐",
+                    "鱼香肉丝"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "Instruction_id": "1efcc17e4fe5bf20bf10db1d7c51c5dc7009be5746679b499ec7674fb74fe2f2",
+        "histories": [],
+        "task_description": "列出三个人名，其中两个是历史上的真实人物，第三个是虚构的人物。以json格式输出，包括人名和其真实/虚构属性。在此基础上，展开描述第一个人名，包括其背景、特点等信息。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "人名",
+                    "真实",
+                    "背景",
+                    "特点",
+                    "name",
+                    "real",
+                    "background",
+                    "characteristics"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "Instruction_id": "da1d19c05b129e05f9621f3b63c10299f2b231f189f5169376fccef19bf99056",
+        "histories": [],
+        "task_description": "请列举出三个加密方法及其优缺点。以json格式输出，包括名称、优点和缺点。在此基础上，展开描述第二个加密方法。删掉最后一个加密方法，重新生成json",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "name",
+                    "advantages",
+                    "disadvantages",
+                    "名称",
+                    "优点",
+                    "缺点"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "Instruction_id": "598d1cf42deee4845f54778bca3a51a66058de772019b3ebecf38e9311e983e1",
+        "histories": [],
+        "task_description": "请推荐五本中国古典小说，包含其作品名以及作者名，以表格的形式给出。再在表格中加一列作品的时间。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-table",
+                "limit": 5
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "|",
+                    "-",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "作品名",
+                    "作者名",
+                    "时间"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "Instruction_id": "dcb67aefd2cf290a4f168b8f3a7da88f46ab53cca64f21695a95ce9f83502205",
+        "histories": [],
+        "task_description": "列出三个历史人物，以表格形式输出，表格应该有三列：人物 | 朝代 | 生平经历。把第二个人物换成秦始皇，再加上他们的别名。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-table",
+                "limit": 3
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "|",
+                    "-",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "人物",
+                    "朝代",
+                    "生平经历",
+                    "别名"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "秦始皇"
+                ]
+            }
+        ]
+    },
+    {
+        "Instruction": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "Instruction_id": "64616184aa54a7de5bb1a070219bd94a133d987f5b5e462011dfee3da5d37380",
+        "histories": [],
+        "task_description": "请为我推荐一部值得一看的电影，类型可以是任何类型。以JSON格式输出其导演、演员表演和故事情节，它的导演应该是乌尔善。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "导演",
+                    "演员表演",
+                    "故事情节",
+                    "乌尔善"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "Instruction_id": "ef696afae930972707730b96ecaefe30b19033893df82a9981b2cb56e12d0169",
+        "histories": [],
+        "task_description": "请给以下公司分类：Apple、Facebook、Fedex，要求以json格式输出。把回答翻译成英文，并把中英文的回答合并成一个json。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "Apple",
+                    "Facebook",
+                    "Fedex",
+                    "分类",
+                    "类别",
+                    "category"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "Instruction_id": "90e6f88ad9ea6e03d457981c7b097c5647800ec646e5223599d7fb897523601f",
+        "histories": [],
+        "task_description": "想出10个与未来相关的问题，讨论一下它们的可能答案。以json格式输出，包括问题编号、问题内容、可能的答案、关键词和分类",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "10",
+                        1
+                    ]
+                ]
+            },
+            {
+                "criterion": "sample-number",
+                "limit": 10
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "编号",
+                    "内容",
+                    "答案",
+                    "关键词",
+                    "分类",
+                    "id",
+                    "question",
+                    "answer",
+                    "keyword",
+                    "category"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "Instruction_id": "324871929ceff27433eb4876790c5234a9ba934ca76a32dfd1a186237147d8be",
+        "histories": [],
+        "task_description": "在可持续能源的主题下，生成5个可行的项目想法。以json格式输出，包括编号、标题、描述、关键词和实施成本。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "5",
+                        1
+                    ]
+                ]
+            },
+            {
+                "criterion": "sample-number",
+                "limit": 5
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "id",
+                    "title",
+                    "description",
+                    "keywords",
+                    "cost",
+                    "编号",
+                    "标题",
+                    "描述",
+                    "关键词",
+                    "实施成本"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "Instruction_id": "289f495f31c0895f0b2c2cf46d9b6e1fdf454f7f41dfe2cf90558a50e94773b1",
+        "histories": [],
+        "task_description": "列举出五种不同品牌的咖啡，并分别描述它们的特点和口味。以表格格式输出，包括品牌、特点和口味。展开描述第三种咖啡。在以上CSV表格中增加产地信息。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-table",
+                "limit": 5
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "|",
+                    "-",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "品牌",
+                    "特点",
+                    "口味",
+                    "产地信息"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "Instruction_id": "c330e000999f62803ea0aa7271cabb849db5d68f305024f85db15891272bcbbe",
+        "histories": [],
+        "task_description": "您是一家面包店的经理，发现近来销售额下降，需要想出一种创意促销活动。以表格格式输出思考并提出三个非常规的解决方案，包括关键词、描述以及实施步骤。在此基础上，增加预计效果。详细描述第一个解决方案。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-table",
+                "limit": 3
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "|",
+                    "-",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "关键词",
+                    "描述",
+                    "实施步骤",
+                    "预计效果"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "Instruction_id": "0a4226a6bc3fd7697b1903cc022e1772f921ea3ceed4b183be0b1ebc0ea74967",
+        "histories": [],
+        "task_description": "思考并列出你认为的十个有效的时间管理技巧，并以json格式输出，包括关键词、描述以及实施步骤。按照重要性排序并注明重要性。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "10",
+                        1
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "json"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "{",
+                    "}",
+                    ":",
+                    ",",
+                    "\"",
+                    "\n"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "关键词",
+                    "描述",
+                    "实施步骤",
+                    "重要性"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "Instruction_id": "9fb29206dbf38c8a744f67ee82eb5e977aff48403c074f115b4aad2b1ea70698",
+        "histories": [],
+        "task_description": "列出5个你认为有趣的无人驾驶车辆应用场景，并以xml格式输出，包括关键词、描述以及优势，并翻译成英文",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "<关键词>",
+                        5
+                    ],
+                    [
+                        "<描述>",
+                        5
+                    ],
+                    [
+                        "<优势>",
+                        5
+                    ]
+                ]
+            },
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "<Keyword>",
+                        5
+                    ],
+                    [
+                        "<keyword>",
+                        5
+                    ],
+                    [
+                        "<Keywords>",
+                        5
+                    ],
+                    [
+                        "<keywords>",
+                        5
+                    ],
+                    [
+                        "<Description>",
+                        5
+                    ],
+                    [
+                        "<description>",
+                        5
+                    ],
+                    [
+                        "<Advantage>",
+                        5
+                    ],
+                    [
+                        "<advantage>",
+                        5
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": [
+                    "xml"
+                ]
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "<",
+                    ">",
+                    "</"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "关键词",
+                    "描述",
+                    "优势"
+                ]
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "Keyword",
+                    "keyword",
+                    "Description",
+                    "description",
+                    "Advantage",
+                    "advantage"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    },
+    {
+        "Instruction": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "Instruction_id": "200a16619c6c54babde59851b9225fd4c30bbdce5b5f14b57f4d7ea5fe077064",
+        "histories": [],
+        "task_description": "请列出五种不同颜色的花卉的名称，为了更方便阅读，我想让输出是xml格式的。对于花卉的名称和颜色，它们是很关键的信息。展开描述第三种花卉，深入研究其特点和养殖方法。",
+        "input_text": NaN,
+        "direction": NaN,
+        "task_category": "brainstorming_single_round",
+        "lang": "ch",
+        "Count_limit": [
+            {
+                "criterion": "sample-min",
+                "limit": [
+                    [
+                        "<flower>",
+                        5
+                    ],
+                    [
+                        "<name>",
+                        5
+                    ],
+                    [
+                        "<color>",
+                        5
+                    ]
+                ]
+            }
+        ],
+        "Answer_format": [
+            {
+                "criterion": "resolve",
+                "limit": "xml"
+            },
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "<",
+                    ">",
+                    "</"
+                ]
+            }
+        ],
+        "Task_prescribed_phrases": [
+            {
+                "criterion": "keywords",
+                "limit": [
+                    "名称",
+                    "颜色",
+                    "name",
+                    "color"
+                ]
+            }
+        ],
+        "Input_depdent_query": [
+            {
+                "criterion": "NULL",
+                "limit": "NULL"
+            }
+        ]
+    }
+]

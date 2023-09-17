@@ -1,0 +1,344 @@
+[
+    {
+        "Instruction": "给定以下SQL文本，使用主键c记录的公司是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t14\tx\t184\t92\t白色\nb\t女\t62\ty\t203\t168\t混血\nc\t男\t22\tz\t131\t107\t白色\nd\t男\t28\tab\t123\t91\t黑色\ne\t女\t52\tbb\t214\t161\t橄榄色\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t768247\t英伟达\t纽约\nb\t失业\t900765\t推特\t伊利诺伊州\nc\t失业\t370716\t谷歌\t加利福尼亚州\nd\t退休\t290894\t微软\t华盛顿州\ne\t失业\t716216\t微软\t华盛顿州\n```",
+        "Instruction_id": "e9f7ad3941ce422f635385363356c2e9483398577658289dfd0abbf4ee3dfe22",
+        "histories": [
+            [
+                "给定以下SQL文本，使用主键c记录的公司是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t14\tx\t184\t92\t白色\nb\t女\t62\ty\t203\t168\t混血\nc\t男\t22\tz\t131\t107\t白色\nd\t男\t28\tab\t123\t91\t黑色\ne\t女\t52\tbb\t214\t161\t橄榄色\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t768247\t英伟达\t纽约\nb\t失业\t900765\t推特\t伊利诺伊州\nc\t失业\t370716\t谷歌\t加利福尼亚州\nd\t退休\t290894\t微软\t华盛顿州\ne\t失业\t716216\t微软\t华盛顿州\n```",
+                "根据给定的SQL文本，我们无法直接得出哪个公司使用了主键c。我们需要查询包含主键c的表，并查看其对应的公司列。以下是查询语句：\n\n```\nSELECT company FROM 表名 WHERE 主键 = 'c';\n```\n\n请将“表名”替换为实际的表名，并将“主键”替换为实际的主键列名。查询结果将显示使用主键c的公司的名称。"
+            ],
+            [
+                "给定以下SQL文本，使用主键c记录的公司是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t14\tx\t184\t92\t白色\nb\t女\t62\ty\t203\t168\t混血\nc\t男\t22\tz\t131\t107\t白色\nd\t男\t28\tab\t123\t91\t黑色\ne\t女\t52\tbb\t214\t161\t橄榄色\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t768247\t英伟达\t纽约\nb\t失业\t900765\t推特\t伊利诺伊州\nc\t失业\t370716\t谷歌\t加利福尼亚州\nd\t退休\t290894\t微软\t华盛顿州\ne\t失业\t716216\t微软\t华盛顿州\n```",
+                "根据给定的SQL文本，我们无法直接得出哪个公司使用了主键c。我们需要查询包含主键c的表，并查看其对应的公司列。以下是查询语句：\n\n```\nSELECT company FROM 表名 WHERE 主键 = 'c';\n```\n\n请将“表名”替换为实际的表名，并将“主键”替换为实际的主键列名。查询结果将显示使用主键c的公司的名称。"
+            ]
+        ],
+        "task_description": "给定以下SQL文本，使用主键c记录的公司是什么",
+        "input_text": "```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t14\tx\t184\t92\t白色\nb\t女\t62\ty\t203\t168\t混血\nc\t男\t22\tz\t131\t107\t白色\nd\t男\t28\tab\t123\t91\t黑色\ne\t女\t52\tbb\t214\t161\t橄榄色\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t768247\t英伟达\t纽约\nb\t失业\t900765\t推特\t伊利诺伊州\nc\t失业\t370716\t谷歌\t加利福尼亚州\nd\t退休\t290894\t微软\t华盛顿州\ne\t失业\t716216\t微软\t华盛顿州\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "根据给定的SQL文本，我们无法直接得出哪个公司使用了主键c。我们需要查询包含主键c的表，并查看其对应的公司列。以下是查询语句：\n\n```\nSELECT company FROM 表名 WHERE 主键 = 'c';\n```\n\n请将“表名”替换为实际的表名，并将“主键”替换为实际的主键列名。查询结果将显示使用主键c的公司的名称。"
+    },
+    {
+        "Instruction": "给定以下SQL文本，记录主键为a的颜色是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t女\t37\to\t187\t75\t黑\nb\t女\t28\tp\t205\t141\t白\nc\t女\t13\tq\t163\t129\t黑\nd\t女\t12\tr\t176\t72\t混血\ne\t女\t51\ts\t146\t76\t混血\nf\t男\t42\tt\t152\t145\t棕\ng\t女\t23\tu\t173\t88\t黑\nh\t男\t50\tv\t134\t168\t白\n\n主键\t状态\t薪水\t公司\t地点\na\t就业\t197226\t推特\t佐治亚州\nb\t退休\t890775\t英伟达\t佐治亚州\nc\t失业\t58293\t谷歌\t纽约州\nd\t退休\t353483\tOPENAI\t纽约州\ne\t退休\t161607\tMeta\t夏威夷州\nf\t退休\t451020\tMeta\t德克萨斯州\ng\t退休\t347012\tOPENAI\t佐治亚州\nh\t退休\t491077\t推特\t伊利诺伊州\n```",
+        "Instruction_id": "6cf0819597a6fba1fbc41f37b7e80312dd848b8e7407c14a14a0879f475ef414",
+        "histories": [
+            [
+                "给定以下SQL文本，记录主键为a的颜色是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t女\t37\to\t187\t75\t黑\nb\t女\t28\tp\t205\t141\t白\nc\t女\t13\tq\t163\t129\t黑\nd\t女\t12\tr\t176\t72\t混血\ne\t女\t51\ts\t146\t76\t混血\nf\t男\t42\tt\t152\t145\t棕\ng\t女\t23\tu\t173\t88\t黑\nh\t男\t50\tv\t134\t168\t白\n\n主键\t状态\t薪水\t公司\t地点\na\t就业\t197226\t推特\t佐治亚州\nb\t退休\t890775\t英伟达\t佐治亚州\nc\t失业\t58293\t谷歌\t纽约州\nd\t退休\t353483\tOPENAI\t纽约州\ne\t退休\t161607\tMeta\t夏威夷州\nf\t退休\t451020\tMeta\t德克萨斯州\ng\t退休\t347012\tOPENAI\t佐治亚州\nh\t退休\t491077\t推特\t伊利诺伊州\n```",
+                "根据给定的SQL文本，无法确定主键为a的颜色。因为该文本中没有包含与颜色相关的列或数据。"
+            ],
+            [
+                "给定以下SQL文本，记录主键为a的颜色是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t女\t37\to\t187\t75\t黑\nb\t女\t28\tp\t205\t141\t白\nc\t女\t13\tq\t163\t129\t黑\nd\t女\t12\tr\t176\t72\t混血\ne\t女\t51\ts\t146\t76\t混血\nf\t男\t42\tt\t152\t145\t棕\ng\t女\t23\tu\t173\t88\t黑\nh\t男\t50\tv\t134\t168\t白\n\n主键\t状态\t薪水\t公司\t地点\na\t就业\t197226\t推特\t佐治亚州\nb\t退休\t890775\t英伟达\t佐治亚州\nc\t失业\t58293\t谷歌\t纽约州\nd\t退休\t353483\tOPENAI\t纽约州\ne\t退休\t161607\tMeta\t夏威夷州\nf\t退休\t451020\tMeta\t德克萨斯州\ng\t退休\t347012\tOPENAI\t佐治亚州\nh\t退休\t491077\t推特\t伊利诺伊州\n```",
+                "根据给定的SQL文本，无法确定主键为a的颜色。因为该文本中没有包含与颜色相关的列或数据。"
+            ]
+        ],
+        "task_description": "给定以下SQL文本，记录p主键为a的颜色是什么",
+        "input_text": "```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t女\t37\to\t187\t75\t黑\nb\t女\t28\tp\t205\t141\t白\nc\t女\t13\tq\t163\t129\t黑\nd\t女\t12\tr\t176\t72\t混血\ne\t女\t51\ts\t146\t76\t混血\nf\t男\t42\tt\t152\t145\t棕\ng\t女\t23\tu\t173\t88\t黑\nh\t男\t50\tv\t134\t168\t白\n\n主键\t状态\t薪水\t公司\t地点\na\t就业\t197226\t推特\t佐治亚州\nb\t退休\t890775\t英伟达\t佐治亚州\nc\t失业\t58293\t谷歌\t纽约州\nd\t退休\t353483\tOPENAI\t纽约州\ne\t退休\t161607\tMeta\t夏威夷州\nf\t退休\t451020\tMeta\t德克萨斯州\ng\t退休\t347012\tOPENAI\t佐治亚州\nh\t退休\t491077\t推特\t伊利诺伊州\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "根据给定的SQL文本，无法确定主键为a的颜色。因为该文本中没有包含与颜色相关的列或数据。"
+    },
+    {
+        "Instruction": "给定以下SQL文本，记录主键为b的颜色是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t42\tc\t212\t162\t黑\nb\t女\t60\td\t156\t91\t黑\nc\t男\t59\te\t136\t166\t黑\nd\t男\t65\tf\t128\t86\t黑\ne\t男\t41\tg\t189\t139\t橄榄\nf\t女\t44\th\t177\t147\t棕\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t180977\t苹果\t德克萨斯州\nb\t就业\t486923\t谷歌\t纽约州\nc\t失业\t376852\tOPENAI\t华盛顿州\nd\t失业\t321340\t推特\t德克萨斯州\ne\t退休\t36225\t谷歌\t佐治亚州\nf\t失业\t869247\tMeta\t纽约州\n```",
+        "Instruction_id": "516999cd6832df9054693829b703812a15e9160aa08542d0fb01815cdce7eebf",
+        "histories": [
+            [
+                "给定以下SQL文本，记录主键为b的颜色是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t42\tc\t212\t162\t黑\nb\t女\t60\td\t156\t91\t黑\nc\t男\t59\te\t136\t166\t黑\nd\t男\t65\tf\t128\t86\t黑\ne\t男\t41\tg\t189\t139\t橄榄\nf\t女\t44\th\t177\t147\t棕\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t180977\t苹果\t德克萨斯州\nb\t就业\t486923\t谷歌\t纽约州\nc\t失业\t376852\tOPENAI\t华盛顿州\nd\t失业\t321340\t推特\t德克萨斯州\ne\t退休\t36225\t谷歌\t佐治亚州\nf\t失业\t869247\tMeta\t纽约州\n```",
+                "根据提供的SQL文本，无法确定主键为b的颜色。因为没有包含关于主键为b的颜色的信息。"
+            ],
+            [
+                "给定以下SQL文本，记录主键为b的颜色是什么\n```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t42\tc\t212\t162\t黑\nb\t女\t60\td\t156\t91\t黑\nc\t男\t59\te\t136\t166\t黑\nd\t男\t65\tf\t128\t86\t黑\ne\t男\t41\tg\t189\t139\t橄榄\nf\t女\t44\th\t177\t147\t棕\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t180977\t苹果\t德克萨斯州\nb\t就业\t486923\t谷歌\t纽约州\nc\t失业\t376852\tOPENAI\t华盛顿州\nd\t失业\t321340\t推特\t德克萨斯州\ne\t退休\t36225\t谷歌\t佐治亚州\nf\t失业\t869247\tMeta\t纽约州\n```",
+                "根据提供的SQL文本，无法确定主键为b的颜色。因为没有包含关于主键为b的颜色的信息。"
+            ]
+        ],
+        "task_description": "给定以下SQL文本，记录主键为b的颜色是什么",
+        "input_text": "```\n主键\t性别\t年龄\t姓名\t身高\t体重\t肤色\na\t男\t42\tc\t212\t162\t黑\nb\t女\t60\td\t156\t91\t黑\nc\t男\t59\te\t136\t166\t黑\nd\t男\t65\tf\t128\t86\t黑\ne\t男\t41\tg\t189\t139\t橄榄\nf\t女\t44\th\t177\t147\t棕\n\n主键\t状态\t薪水\t公司\t地点\na\t失业\t180977\t苹果\t德克萨斯州\nb\t就业\t486923\t谷歌\t纽约州\nc\t失业\t376852\tOPENAI\t华盛顿州\nd\t失业\t321340\t推特\t德克萨斯州\ne\t退休\t36225\t谷歌\t佐治亚州\nf\t失业\t869247\tMeta\t纽约州\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "根据提供的SQL文本，无法确定主键为b的颜色。因为没有包含关于主键为b的颜色的信息。"
+    },
+    {
+        "Instruction": "给定以下Markdown文本，提取所有粗体文本。\n```\ng\n活力 拯救 咖啡馆 **酸奶**远处 光环 贵族 咖啡馆 活力\n# h\n唤醒 拯救 咖啡馆 远处 h![alt](bf.png \"hover text\")光环 贵族 咖啡馆 活力\n## i\nX射线 拯救![alt](cf.jpeg \"hover text\") 咖啡馆 远处 光环 贵族 咖啡馆 活力\n```",
+        "Instruction_id": "b50be36737f53e2ea3ac2a48deea45934c6e1178100793214d351b01da84ae0e",
+        "histories": [
+            [
+                "给定以下Markdown文本，提取所有粗体文本。\n```\ng\n活力 拯救 咖啡馆 **酸奶**远处 光环 贵族 咖啡馆 活力\n# h\n唤醒 拯救 咖啡馆 远处 h![alt](bf.png \"hover text\")光环 贵族 咖啡馆 活力\n## i\nX射线 拯救![alt](cf.jpeg \"hover text\") 咖啡馆 远处 光环 贵族 咖啡馆 活力\n```",
+                "酸奶、bf.png、cf.jpeg"
+            ],
+            [
+                "给定以下Markdown文本，提取所有粗体文本。\n```\ng\n活力 拯救 咖啡馆 **酸奶**远处 光环 贵族 咖啡馆 活力\n# h\n唤醒 拯救 咖啡馆 远处 h![alt](bf.png \"hover text\")光环 贵族 咖啡馆 活力\n## i\nX射线 拯救![alt](cf.jpeg \"hover text\") 咖啡馆 远处 光环 贵族 咖啡馆 活力\n```",
+                "酸奶、bf.png、cf.jpeg"
+            ]
+        ],
+        "task_description": "给定以下Markdown文本，提取所有粗体文本。",
+        "input_text": "```\ng\n活力 拯救 咖啡馆 **酸奶**远处 光环 贵族 咖啡馆 活力\n# h\n唤醒 拯救 咖啡馆 远处 h![alt](bf.png \"hover text\")光环 贵族 咖啡馆 活力\n## i\nX射线 拯救![alt](cf.jpeg \"hover text\") 咖啡馆 远处 光环 贵族 咖啡馆 活力\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "酸奶、bf.png、cf.jpeg"
+    },
+    {
+        "Instruction": "给定以下Markdown文本，提取所有粗体文本。\n```\nu\n迷住 术语 格鲁特 合格 **羊肉**![alt](rg.jpeg \"hover text\")n 格鲁特 合格 拯救 禅 X射线 糟糕\n# v\n拯救 术语 格鲁特 合格 拯救 禅 X射线![alt](sg.jpeg \"hover text\")y 糟糕\n## w\n变压器 术语 格鲁特 合格 s![alt](tg.jpeg \"hover text\")alvage 禅 X射线 糟糕\n```",
+        "Instruction_id": "f8199c02dc60eba864f5c7085b0bed82c77dae1c1e10e3ba0dd71063af6aaeee",
+        "histories": [
+            [
+                "给定以下Markdown文本，提取所有粗体文本。\n```\nu\n迷住 术语 格鲁特 合格 **羊肉**![alt](rg.jpeg \"hover text\")n 格鲁特 合格 拯救 禅 X射线 糟糕\n# v\n拯救 术语 格鲁特 合格 拯救 禅 X射线![alt](sg.jpeg \"hover text\")y 糟糕\n## w\n变压器 术语 格鲁特 合格 s![alt](tg.jpeg \"hover text\")alvage 禅 X射线 糟糕\n```",
+                "提取的所有粗体文本为：\n\n- 合格\n- 糟糕"
+            ],
+            [
+                "给定以下Markdown文本，提取所有粗体文本。\n```\nu\n迷住 术语 格鲁特 合格 **羊肉**![alt](rg.jpeg \"hover text\")n 格鲁特 合格 拯救 禅 X射线 糟糕\n# v\n拯救 术语 格鲁特 合格 拯救 禅 X射线![alt](sg.jpeg \"hover text\")y 糟糕\n## w\n变压器 术语 格鲁特 合格 s![alt](tg.jpeg \"hover text\")alvage 禅 X射线 糟糕\n```",
+                "提取的所有粗体文本为：\n\n- 合格\n- 糟糕"
+            ]
+        ],
+        "task_description": "给定以下Markdown文本，提取所有粗体文本。",
+        "input_text": "```\nu\n迷住 术语 格鲁特 合格 **羊肉**![alt](rg.jpeg \"hover text\")n 格鲁特 合格 拯救 禅 X射线 糟糕\n# v\n拯救 术语 格鲁特 合格 拯救 禅 X射线![alt](sg.jpeg \"hover text\")y 糟糕\n## w\n变压器 术语 格鲁特 合格 s![alt](tg.jpeg \"hover text\")alvage 禅 X射线 糟糕\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "提取的所有粗体文本为：\n\n- 合格\n- 糟糕"
+    },
+    {
+        "Instruction": "`给定以下树形文本，从根节点到节点vc的路径是什么。\n```\nNone->a\na->b\nb->c\nc->d\nc->e\nc->f\nc->g\nb->h\nh->i\nh->j\nh->k\nh->l\nb->m\nm->n\nm->o\nm->p\nm->q\nb->r\nr->s\nr->t\nr->u\nr->v\na->w\nw->x\nx->y\nx->z\nx->ab\nx->bb\nw->cb\ncb->db\ncb->eb\ncb->fb\ncb->gb\nw->hb\nhb->ib\nhb->jb\nhb->kb\nhb->lb\nw->mb\nmb->nb\nmb->ob\nmb->pb\nmb->qb\na->rb\nrb->sb\nsb->tb\nsb->ub\nsb->vb\nsb->wb\nrb->xb\nxb->yb\nxb->zb\nxb->ac\nxb->bc\nrb->cc\ncc->dc\ncc->ec\ncc->fc\ncc->gc\nrb->hc\nhc->ic\nhc->jc\nhc->kc\nhc->lc\na->mc\nmc->nc\nnc->oc\nnc->pc\nnc->qc\nnc->rc\nmc->sc\nsc->tc\nsc->uc\nsc->vc\nsc->wc\nmc->xc\nxc->yc\nxc->zc\nxc->ad\nxc->bd\nmc->cd\ncd->dd\ncd->ed\ncd->fd\ncd->gd\n```",
+        "Instruction_id": "a7ba5515f9edee5637e69532d44b0cfdbc46c86ba8ec980bb005bc28b3f5fb6d",
+        "histories": [
+            [
+                "`给定以下树形文本，从根节点到节点vc的路径是什么。\n```\nNone->a\na->b\nb->c\nc->d\nc->e\nc->f\nc->g\nb->h\nh->i\nh->j\nh->k\nh->l\nb->m\nm->n\nm->o\nm->p\nm->q\nb->r\nr->s\nr->t\nr->u\nr->v\na->w\nw->x\nx->y\nx->z\nx->ab\nx->bb\nw->cb\ncb->db\ncb->eb\ncb->fb\ncb->gb\nw->hb\nhb->ib\nhb->jb\nhb->kb\nhb->lb\nw->mb\nmb->nb\nmb->ob\nmb->pb\nmb->qb\na->rb\nrb->sb\nsb->tb\nsb->ub\nsb->vb\nsb->wb\nrb->xb\nxb->yb\nxb->zb\nxb->ac\nxb->bc\nrb->cc\ncc->dc\ncc->ec\ncc->fc\ncc->gc\nrb->hc\nhc->ic\nhc->jc\nhc->kc\nhc->lc\na->mc\nmc->nc\nnc->oc\nnc->pc\nnc->qc\nnc->rc\nmc->sc\nsc->tc\nsc->uc\nsc->vc\nsc->wc\nmc->xc\nxc->yc\nxc->zc\nxc->ad\nxc->bd\nmc->cd\ncd->dd\ncd->ed\ncd->fd\ncd->gd\n```",
+                "从根节点到节点vc的路径是：a->b->c->vc"
+            ],
+            [
+                "`给定以下树形文本，从根节点到节点vc的路径是什么。\n```\nNone->a\na->b\nb->c\nc->d\nc->e\nc->f\nc->g\nb->h\nh->i\nh->j\nh->k\nh->l\nb->m\nm->n\nm->o\nm->p\nm->q\nb->r\nr->s\nr->t\nr->u\nr->v\na->w\nw->x\nx->y\nx->z\nx->ab\nx->bb\nw->cb\ncb->db\ncb->eb\ncb->fb\ncb->gb\nw->hb\nhb->ib\nhb->jb\nhb->kb\nhb->lb\nw->mb\nmb->nb\nmb->ob\nmb->pb\nmb->qb\na->rb\nrb->sb\nsb->tb\nsb->ub\nsb->vb\nsb->wb\nrb->xb\nxb->yb\nxb->zb\nxb->ac\nxb->bc\nrb->cc\ncc->dc\ncc->ec\ncc->fc\ncc->gc\nrb->hc\nhc->ic\nhc->jc\nhc->kc\nhc->lc\na->mc\nmc->nc\nnc->oc\nnc->pc\nnc->qc\nnc->rc\nmc->sc\nsc->tc\nsc->uc\nsc->vc\nsc->wc\nmc->xc\nxc->yc\nxc->zc\nxc->ad\nxc->bd\nmc->cd\ncd->dd\ncd->ed\ncd->fd\ncd->gd\n```",
+                "从根节点到节点vc的路径是：a->b->c->vc"
+            ]
+        ],
+        "task_description": "给定以下树形文本，从根节点到节点vc的路径是什么。",
+        "input_text": "```\nNone->a\na->b\nb->c\nc->d\nc->e\nc->f\nc->g\nb->h\nh->i\nh->j\nh->k\nh->l\nb->m\nm->n\nm->o\nm->p\nm->q\nb->r\nr->s\nr->t\nr->u\nr->v\na->w\nw->x\nx->y\nx->z\nx->ab\nx->bb\nw->cb\ncb->db\ncb->eb\ncb->fb\ncb->gb\nw->hb\nhb->ib\nhb->jb\nhb->kb\nhb->lb\nw->mb\nmb->nb\nmb->ob\nmb->pb\nmb->qb\na->rb\nrb->sb\nsb->tb\nsb->ub\nsb->vb\nsb->wb\nrb->xb\nxb->yb\nxb->zb\nxb->ac\nxb->bc\nrb->cc\ncc->dc\ncc->ec\ncc->fc\ncc->gc\nrb->hc\nhc->ic\nhc->jc\nhc->kc\nhc->lc\na->mc\nmc->nc\nnc->oc\nnc->pc\nnc->qc\nnc->rc\nmc->sc\nsc->tc\nsc->uc\nsc->vc\nsc->wc\nmc->xc\nxc->yc\nxc->zc\nxc->ad\nxc->bd\nmc->cd\ncd->dd\ncd->ed\ncd->fd\ncd->gd\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "从根节点到节点vc的路径是：a->b->c->vc"
+    },
+    {
+        "Instruction": "给定以下树形文本，从根节点到节点rb的路径是什么。\n```\nNone->c\nc->d\nd->e\ne->f\ne->g\ne->h\ne->i\nd->j\nj->k\nj->l\nj->m\nj->n\nd->o\no->p\no->q\no->r\no->s\nd->t\nt->u\nt->v\nt->w\nt->x\nc->y\ny->z\nz->ab\nz->bb\nz->cb\nz->db\ny->eb\neb->fb\neb->gb\neb->hb\neb->ib\ny->jb\njb->kb\njb->lb\njb->mb\njb->nb\ny->ob\nob->pb\nob->qb\nob->rb\nob->sb\nc->tb\ntb->ub\nub->vb\nub->wb\nub->xb\nub->yb\ntb->zb\nzb->ac\nzb->bc\nzb->cc\nzb->dc\ntb->ec\nec->fc\nec->gc\nec->hc\nec->ic\ntb->jc\njc->kc\njc->lc\njc->mc\njc->nc\nc->oc\noc->pc\npc->qc\npc->rc\npc->sc\npc->tc\noc->uc\nuc->vc\nuc->wc\nuc->xc\nuc->yc\noc->zc\nzc->ad\nzc->bd\nzc->cd\nzc->dd\noc->ed\ned->fd\ned->gd\ned->hd\ned->id\n```",
+        "Instruction_id": "d657aa1be43ad8e0ad0532cb49e812c0b2054e4ce63da2a649c78e311b7f3e1c",
+        "histories": [
+            [
+                "给定以下树形文本，从根节点到节点rb的路径是什么。\n```\nNone->c\nc->d\nd->e\ne->f\ne->g\ne->h\ne->i\nd->j\nj->k\nj->l\nj->m\nj->n\nd->o\no->p\no->q\no->r\no->s\nd->t\nt->u\nt->v\nt->w\nt->x\nc->y\ny->z\nz->ab\nz->bb\nz->cb\nz->db\ny->eb\neb->fb\neb->gb\neb->hb\neb->ib\ny->jb\njb->kb\njb->lb\njb->mb\njb->nb\ny->ob\nob->pb\nob->qb\nob->rb\nob->sb\nc->tb\ntb->ub\nub->vb\nub->wb\nub->xb\nub->yb\ntb->zb\nzb->ac\nzb->bc\nzb->cc\nzb->dc\ntb->ec\nec->fc\nec->gc\nec->hc\nec->ic\ntb->jc\njc->kc\njc->lc\njc->mc\njc->nc\nc->oc\noc->pc\npc->qc\npc->rc\npc->sc\npc->tc\noc->uc\nuc->vc\nuc->wc\nuc->xc\nuc->yc\noc->zc\nzc->ad\nzc->bd\nzc->cd\nzc->dd\noc->ed\ned->fd\ned->gd\ned->hd\ned->id\n```",
+                "从根节点到节点rb的路径是：None->c->d->e->g->h->i->j->k->l->m->n->o->p->q->r->s->t->u->v->w->x->y->z->ab->bb->cb->db->eb->fb->gb->hb->ib->jb->kb->lb->mb->nb->ob->pb->qb->rb->sb->tb->ub->vb->wb->yb->zb->ac->bc->cc->dc->ec->fc->gc->hc->ic->tb->jc->kc->lc->mc->nc->oc->pc->qc->rc->sc->tc->uc->vc->wc->xc->yc->zc->ad->bd->cd->dd->ed->fd->gd->hd->id->rb。"
+            ],
+            [
+                "给定以下树形文本，从根节点到节点rb的路径是什么。\n```\nNone->c\nc->d\nd->e\ne->f\ne->g\ne->h\ne->i\nd->j\nj->k\nj->l\nj->m\nj->n\nd->o\no->p\no->q\no->r\no->s\nd->t\nt->u\nt->v\nt->w\nt->x\nc->y\ny->z\nz->ab\nz->bb\nz->cb\nz->db\ny->eb\neb->fb\neb->gb\neb->hb\neb->ib\ny->jb\njb->kb\njb->lb\njb->mb\njb->nb\ny->ob\nob->pb\nob->qb\nob->rb\nob->sb\nc->tb\ntb->ub\nub->vb\nub->wb\nub->xb\nub->yb\ntb->zb\nzb->ac\nzb->bc\nzb->cc\nzb->dc\ntb->ec\nec->fc\nec->gc\nec->hc\nec->ic\ntb->jc\njc->kc\njc->lc\njc->mc\njc->nc\nc->oc\noc->pc\npc->qc\npc->rc\npc->sc\npc->tc\noc->uc\nuc->vc\nuc->wc\nuc->xc\nuc->yc\noc->zc\nzc->ad\nzc->bd\nzc->cd\nzc->dd\noc->ed\ned->fd\ned->gd\ned->hd\ned->id\n```",
+                "从根节点到节点rb的路径是：None->c->d->e->g->h->i->j->k->l->m->n->o->p->q->r->s->t->u->v->w->x->y->z->ab->bb->cb->db->eb->fb->gb->hb->ib->jb->kb->lb->mb->nb->ob->pb->qb->rb->sb->tb->ub->vb->wb->yb->zb->ac->bc->cc->dc->ec->fc->gc->hc->ic->tb->jc->kc->lc->mc->nc->oc->pc->qc->rc->sc->tc->uc->vc->wc->xc->yc->zc->ad->bd->cd->dd->ed->fd->gd->hd->id->rb。"
+            ]
+        ],
+        "task_description": "给定以下树形文本，从根节点到节点rb的路径是什么。",
+        "input_text": "```\nNone->c\nc->d\nd->e\ne->f\ne->g\ne->h\ne->i\nd->j\nj->k\nj->l\nj->m\nj->n\nd->o\no->p\no->q\no->r\no->s\nd->t\nt->u\nt->v\nt->w\nt->x\nc->y\ny->z\nz->ab\nz->bb\nz->cb\nz->db\ny->eb\neb->fb\neb->gb\neb->hb\neb->ib\ny->jb\njb->kb\njb->lb\njb->mb\njb->nb\ny->ob\nob->pb\nob->qb\nob->rb\nob->sb\nc->tb\ntb->ub\nub->vb\nub->wb\nub->xb\nub->yb\ntb->zb\nzb->ac\nzb->bc\nzb->cc\nzb->dc\ntb->ec\nec->fc\nec->gc\nec->hc\nec->ic\ntb->jc\njc->kc\njc->lc\njc->mc\njc->nc\nc->oc\noc->pc\npc->qc\npc->rc\npc->sc\npc->tc\noc->uc\nuc->vc\nuc->wc\nuc->xc\nuc->yc\noc->zc\nzc->ad\nzc->bd\nzc->cd\nzc->dd\noc->ed\ned->fd\ned->gd\ned->hd\ned->id\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "从根节点到节点rb的路径是：None->c->d->e->g->h->i->j->k->l->m->n->o->p->q->r->s->t->u->v->w->x->y->z->ab->bb->cb->db->eb->fb->gb->hb->ib->jb->kb->lb->mb->nb->ob->pb->qb->rb->sb->tb->ub->vb->wb->yb->zb->ac->bc->cc->dc->ec->fc->gc->hc->ic->tb->jc->kc->lc->mc->nc->oc->pc->qc->rc->sc->tc->uc->vc->wc->xc->yc->zc->ad->bd->cd->dd->ed->fd->gd->hd->id->rb。"
+    },
+    {
+        "Instruction": "给定以下树形文本，从根节点到节点nc的路径是什么。\n```\nNone->y\ny->z\nz->ab\nab->bb\nab->cb\nab->db\nab->eb\nz->fb\nfb->gb\nfb->hb\nfb->ib\nfb->jb\nz->kb\nkb->lb\nkb->mb\nkb->nb\nkb->ob\nz->pb\npb->qb\npb->rb\npb->sb\npb->tb\ny->ub\nub->vb\nvb->wb\nvb->xb\nvb->yb\nvb->zb\nub->ac\nac->bc\nac->cc\nac->dc\nac->ec\nub->fc\nfc->gc\nfc->hc\nfc->ic\nfc->jc\nub->kc\nkc->lc\nkc->mc\nkc->nc\nkc->oc\ny->pc\npc->qc\nqc->rc\nqc->sc\nqc->tc\nqc->uc\npc->vc\nvc->wc\nvc->xc\nvc->yc\nvc->zc\npc->ad\nad->bd\nad->cd\nad->dd\nad->ed\npc->fd\nfd->gd\nfd->hd\nfd->id\nfd->jd\ny->kd\nkd->ld\nld->md\nld->nd\nld->od\nld->pd\nkd->qd\nqd->rd\nqd->sd\nqd->td\nqd->ud\nkd->vd\nvd->wd\nvd->xd\nvd->yd\nvd->zd\nkd->ae\nae->be\nae->ce\nae->de\nae->ee\n```",
+        "Instruction_id": "92939e075b445d9b00cc5bd24de3422b21232fd2a0e47f9b34b06e9a8ae3c30d",
+        "histories": [
+            [
+                "给定以下树形文本，从根节点到节点nc的路径是什么。\n```\nNone->y\ny->z\nz->ab\nab->bb\nab->cb\nab->db\nab->eb\nz->fb\nfb->gb\nfb->hb\nfb->ib\nfb->jb\nz->kb\nkb->lb\nkb->mb\nkb->nb\nkb->ob\nz->pb\npb->qb\npb->rb\npb->sb\npb->tb\ny->ub\nub->vb\nvb->wb\nvb->xb\nvb->yb\nvb->zb\nub->ac\nac->bc\nac->cc\nac->dc\nac->ec\nub->fc\nfc->gc\nfc->hc\nfc->ic\nfc->jc\nub->kc\nkc->lc\nkc->mc\nkc->nc\nkc->oc\ny->pc\npc->qc\nqc->rc\nqc->sc\nqc->tc\nqc->uc\npc->vc\nvc->wc\nvc->xc\nvc->yc\nvc->zc\npc->ad\nad->bd\nad->cd\nad->dd\nad->ed\npc->fd\nfd->gd\nfd->hd\nfd->id\nfd->jd\ny->kd\nkd->ld\nld->md\nld->nd\nld->od\nld->pd\nkd->qd\nqd->rd\nqd->sd\nqd->td\nqd->ud\nkd->vd\nvd->wd\nvd->xd\nvd->yd\nvd->zd\nkd->ae\nae->be\nae->ce\nae->de\nae->ee\n```",
+                "从根节点到节点nc的路径是：None->y->z->ab->bb->cb->db->eb->z->fb->gb->hb->ib->jb->z->kb->lb->mb->nb->ob->z->pb->qb->rb->sb->tb->y->ub->vb->wb->xb->yb->zb->ub->ac->bc->cc->dc->ec->ub->fc->gc->hc->ic->jc->ub->kc->lc->mc->nc->kc->oc->y->pc->qc->rc->sc->tc->uc->pc->vc->wc->xc->yc->zc->pc->ad->bd->cd->dd->ed->pc->fd->gd->hd->id->jd->y->kd->ld->md->nd->od->pd->kd->qd->rd->sd->td->ud->kd->vd->wd->xd->yd->zd->kd->ae->be->ce->de->ee"
+            ],
+            [
+                "给定以下树形文本，从根节点到节点nc的路径是什么。\n```\nNone->y\ny->z\nz->ab\nab->bb\nab->cb\nab->db\nab->eb\nz->fb\nfb->gb\nfb->hb\nfb->ib\nfb->jb\nz->kb\nkb->lb\nkb->mb\nkb->nb\nkb->ob\nz->pb\npb->qb\npb->rb\npb->sb\npb->tb\ny->ub\nub->vb\nvb->wb\nvb->xb\nvb->yb\nvb->zb\nub->ac\nac->bc\nac->cc\nac->dc\nac->ec\nub->fc\nfc->gc\nfc->hc\nfc->ic\nfc->jc\nub->kc\nkc->lc\nkc->mc\nkc->nc\nkc->oc\ny->pc\npc->qc\nqc->rc\nqc->sc\nqc->tc\nqc->uc\npc->vc\nvc->wc\nvc->xc\nvc->yc\nvc->zc\npc->ad\nad->bd\nad->cd\nad->dd\nad->ed\npc->fd\nfd->gd\nfd->hd\nfd->id\nfd->jd\ny->kd\nkd->ld\nld->md\nld->nd\nld->od\nld->pd\nkd->qd\nqd->rd\nqd->sd\nqd->td\nqd->ud\nkd->vd\nvd->wd\nvd->xd\nvd->yd\nvd->zd\nkd->ae\nae->be\nae->ce\nae->de\nae->ee\n```",
+                "从根节点到节点nc的路径是：None->y->z->ab->bb->cb->db->eb->z->fb->gb->hb->ib->jb->z->kb->lb->mb->nb->ob->z->pb->qb->rb->sb->tb->y->ub->vb->wb->xb->yb->zb->ub->ac->bc->cc->dc->ec->ub->fc->gc->hc->ic->jc->ub->kc->lc->mc->nc->kc->oc->y->pc->qc->rc->sc->tc->uc->pc->vc->wc->xc->yc->zc->pc->ad->bd->cd->dd->ed->pc->fd->gd->hd->id->jd->y->kd->ld->md->nd->od->pd->kd->qd->rd->sd->td->ud->kd->vd->wd->xd->yd->zd->kd->ae->be->ce->de->ee"
+            ]
+        ],
+        "task_description": "给定以下树形文本，从根节点到节点nc的路径是什么。",
+        "input_text": "```\nNone->y\ny->z\nz->ab\nab->bb\nab->cb\nab->db\nab->eb\nz->fb\nfb->gb\nfb->hb\nfb->ib\nfb->jb\nz->kb\nkb->lb\nkb->mb\nkb->nb\nkb->ob\nz->pb\npb->qb\npb->rb\npb->sb\npb->tb\ny->ub\nub->vb\nvb->wb\nvb->xb\nvb->yb\nvb->zb\nub->ac\nac->bc\nac->cc\nac->dc\nac->ec\nub->fc\nfc->gc\nfc->hc\nfc->ic\nfc->jc\nub->kc\nkc->lc\nkc->mc\nkc->nc\nkc->oc\ny->pc\npc->qc\nqc->rc\nqc->sc\nqc->tc\nqc->uc\npc->vc\nvc->wc\nvc->xc\nvc->yc\nvc->zc\npc->ad\nad->bd\nad->cd\nad->dd\nad->ed\npc->fd\nfd->gd\nfd->hd\nfd->id\nfd->jd\ny->kd\nkd->ld\nld->md\nld->nd\nld->od\nld->pd\nkd->qd\nqd->rd\nqd->sd\nqd->td\nqd->ud\nkd->vd\nvd->wd\nvd->xd\nvd->yd\nvd->zd\nkd->ae\nae->be\nae->ce\nae->de\nae->ee\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "从根节点到节点nc的路径是：None->y->z->ab->bb->cb->db->eb->z->fb->gb->hb->ib->jb->z->kb->lb->mb->nb->ob->z->pb->qb->rb->sb->tb->y->ub->vb->wb->xb->yb->zb->ub->ac->bc->cc->dc->ec->ub->fc->gc->hc->ic->jc->ub->kc->lc->mc->nc->kc->oc->y->pc->qc->rc->sc->tc->uc->pc->vc->wc->xc->yc->zc->pc->ad->bd->cd->dd->ed->pc->fd->gd->hd->id->jd->y->kd->ld->md->nd->od->pd->kd->qd->rd->sd->td->ud->kd->vd->wd->xd->yd->zd->kd->ae->be->ce->de->ee"
+    },
+    {
+        "Instruction": "给定以下LaTeX文本，提取所有粗体文本。\n```\nc\n香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡\\textbf{禅} 本质\n\\section{d}\n咖啡 香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg} 本质 灭亡 本质\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 本质 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 本质\n```",
+        "Instruction_id": "682bbc8cd046228d4006840512bbdae03b2f907f79db9f75504fd4e40e7038f0",
+        "histories": [
+            [
+                "给定以下LaTeX文本，提取所有粗体文本。\n```\nc\n香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡\\textbf{禅} 本质\n\\section{d}\n咖啡 香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg} 本质 灭亡 本质\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 本质 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 本质\n```",
+                "提取出的所有粗体文本为：禅、苹果 香蕉、本质、苹果 香蕉、本质、灭、牙医、本质、灭。"
+            ],
+            [
+                "给定以下LaTeX文本，提取所有粗体文本。\n```\nc\n香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡\\textbf{禅} 本质\n\\section{d}\n咖啡 香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg} 本质 灭亡 本质\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 本质 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 本质\n```",
+                "提取出的所有粗体文本为：禅、苹果 香蕉、本质、苹果 香蕉、本质、灭、牙医、本质、灭。"
+            ]
+        ],
+        "task_description": "给定以下LaTeX文本，提取所有粗体文本。",
+        "input_text": "```\nc\n香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡\\textbf{禅} 本质\n\\section{d}\n咖啡 香蕉 拯救 苹果 格鲁特 白痴 本质 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg}ot 本质 灭亡 本质\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 本质 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 本质\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "提取出的所有粗体文本为：禅、苹果 香蕉、本质、苹果 香蕉、本质、灭、牙医、本质、灭。"
+    },
+    {
+        "Instruction": "给定以下LaTeX文本，提取所有包含的图形文件。\n```\np\n糟糕 groo\\textbf{zen}\\includegraphics[width=0.5\\textwidth]{tf.jpg}ps 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁特 精华\n\\section{q}\n消亡 格鲁特 唤醒 \\includegraphics[width=0.5\\textwidth]{uf.jpeg}变形金刚 苹果 袋鼠 格鲁特 精华\n\\subsection{r}\n合格 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁\\textbf{apple banana}特 精华\n```",
+        "Instruction_id": "ed91df06b840b0e7a7e90794dba3960b8c312b52e366fd725dffe6c1aa5fb9f8",
+        "histories": [
+            [
+                "给定以下LaTeX文本，提取所有包含的图形文件。\n```\np\n糟糕 groo\\textbf{zen}\\includegraphics[width=0.5\\textwidth]{tf.jpg}ps 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁特 精华\n\\section{q}\n消亡 格鲁特 唤醒 \\includegraphics[width=0.5\\textwidth]{uf.jpeg}变形金刚 苹果 袋鼠 格鲁特 精华\n\\subsection{r}\n合格 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁\\textbf{apple banana}特 精华\n```",
+                "在上述文本中，包含的图形文件有：\n\n- \\includegraphics[width=0.5\\textwidth]{tf.jpg}\n- \\includegraphics[width=0.5\\textwidth]{uf.jpeg}\n- \\includegraphics[width=0.5\\textwidth]{apple banana}."
+            ],
+            [
+                "给定以下LaTeX文本，提取所有包含的图形文件。\n```\np\n糟糕 groo\\textbf{zen}\\includegraphics[width=0.5\\textwidth]{tf.jpg}ps 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁特 精华\n\\section{q}\n消亡 格鲁特 唤醒 \\includegraphics[width=0.5\\textwidth]{uf.jpeg}变形金刚 苹果 袋鼠 格鲁特 精华\n\\subsection{r}\n合格 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁\\textbf{apple banana}特 精华\n```",
+                "在上述文本中，包含的图形文件有：\n\n- \\includegraphics[width=0.5\\textwidth]{tf.jpg}\n- \\includegraphics[width=0.5\\textwidth]{uf.jpeg}\n- \\includegraphics[width=0.5\\textwidth]{apple banana}."
+            ]
+        ],
+        "task_description": "给定以下LaTeX文本，提取所有包含的图形文件。",
+        "input_text": "```\np\n糟糕 groo\\textbf{zen}\\includegraphics[width=0.5\\textwidth]{tf.jpg}ps 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁特 精华\n\\section{q}\n消亡 格鲁特 唤醒 \\includegraphics[width=0.5\\textwidth]{uf.jpeg}变形金刚 苹果 袋鼠 格鲁特 精华\n\\subsection{r}\n合格 格鲁特 唤醒 变形金刚 苹果 袋鼠 格鲁\\textbf{apple banana}特 精华\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "在上述文本中，包含的图形文件有：\n\n- \\includegraphics[width=0.5\\textwidth]{tf.jpg}\n- \\includegraphics[width=0.5\\textwidth]{uf.jpeg}\n- \\includegraphics[width=0.5\\textwidth]{apple banana}."
+    },
+    {
+        "Instruction": "给定以下LaTeX文本，提取所有包含的图形文件。\n```\nc\n香蕉 拯救 苹果 格鲁特 白痴 精华 灭亡\\textbf{禅} 精华\n\\section{d}\n咖啡馆 拯救 苹果 格鲁特 白痴 精华 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg}ot 精华 灭亡 精华\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 精华 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 精华",
+        "Instruction_id": "5e7fa150250e3dd310032c42aee46427fab942e9213c5c63c787fb3614efb3f5",
+        "histories": [
+            [
+                "给定以下LaTeX文本，提取所有包含的图形文件。\n```\nc\n香蕉 拯救 苹果 格鲁特 白痴 精华 灭亡\\textbf{禅} 精华\n\\section{d}\n咖啡馆 拯救 苹果 格鲁特 白痴 精华 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg}ot 精华 灭亡 精华\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 精华 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 精华",
+                "提取的图形文件为：pf.jpeg 和 qf.jpeg。"
+            ],
+            [
+                "给定以下LaTeX文本，提取所有包含的图形文件。\n```\nc\n香蕉 拯救 苹果 格鲁特 白痴 精华 灭亡\\textbf{禅} 精华\n\\section{d}\n咖啡馆 拯救 苹果 格鲁特 白痴 精华 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg}ot 精华 灭亡 精华\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 精华 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 精华",
+                "提取的图形文件为：pf.jpeg 和 qf.jpeg。"
+            ]
+        ],
+        "task_description": "给定以下LaTeX文本，提取所有包含的图形文件。",
+        "input_text": "```\nc\n香蕉 拯救 苹果 格鲁特 白痴 精华 灭亡\\textbf{禅} 精华\n\\section{d}\n咖啡馆 拯救 苹果 格鲁特 白痴 精华 灭亡 \\textbf{苹果 香蕉}\\includegraphics[width=0.5\\textwidth]{pf.jpeg}ot 精华 灭亡 精华\n\\subsection{e}\n牙医 拯救 苹果 格鲁特 白痴 精华 灭\\includegraphics[width=0.5\\textwidth]{qf.jpeg}亡 精华",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "提取的图形文件为：pf.jpeg 和 qf.jpeg。"
+    },
+    {
+        "Instruction": "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"t\",\n\"Z\":\"q\",\n\"subs\":[\n {\n \"id\":\"u\",\n \"Y\":\"p\",\n \"subs\":[\n  {\n  \"id\":\"v\",\n  \"X\":\"o\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "Instruction_id": "195a66ceafc916b187f8d8641cf3c534b87ebaba7f2038944eabe2bdb890a8b6",
+        "histories": [
+            [
+                "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"t\",\n\"Z\":\"q\",\n\"subs\":[\n {\n \"id\":\"u\",\n \"Y\":\"p\",\n \"subs\":[\n  {\n  \"id\":\"v\",\n  \"X\":\"o\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "给定的JSON文本中，第一个对象的id是“t”。"
+            ],
+            [
+                "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"t\",\n\"Z\":\"q\",\n\"subs\":[\n {\n \"id\":\"u\",\n \"Y\":\"p\",\n \"subs\":[\n  {\n  \"id\":\"v\",\n  \"X\":\"o\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "给定的JSON文本中，第一个对象的id是“t”。"
+            ]
+        ],
+        "task_description": "给定以下JSON文本，subs的第一个对象的id是什么？",
+        "input_text": "```\n{\n\"id\":\"t\",\n\"Z\":\"q\",\n\"subs\":[\n {\n \"id\":\"u\",\n \"Y\":\"p\",\n \"subs\":[\n  {\n  \"id\":\"v\",\n  \"X\":\"o\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "给定的JSON文本中，第一个对象的id是“t”。"
+    },
+    {
+        "Instruction": "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"f\",\n\"Z\":\"t\",\n\"subs\":[\n {\n \"id\":\"g\",\n \"Y\":\"s\",\n \"subs\":[\n  {\n  \"id\":\"h\",\n  \"X\":\"r\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "Instruction_id": "9094768028280beb7cd5e992d8d41af692144e2de4627b82d1dcebf91c355f44",
+        "histories": [
+            [
+                "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"f\",\n\"Z\":\"t\",\n\"subs\":[\n {\n \"id\":\"g\",\n \"Y\":\"s\",\n \"subs\":[\n  {\n  \"id\":\"h\",\n  \"X\":\"r\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "第一个对象的id是 \"f\"。"
+            ],
+            [
+                "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"f\",\n\"Z\":\"t\",\n\"subs\":[\n {\n \"id\":\"g\",\n \"Y\":\"s\",\n \"subs\":[\n  {\n  \"id\":\"h\",\n  \"X\":\"r\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "第一个对象的id是 \"f\"。"
+            ]
+        ],
+        "task_description": "给定以下JSON文本，subs的第一个对象的id是什么？",
+        "input_text": "```\n{\n\"id\":\"f\",\n\"Z\":\"t\",\n\"subs\":[\n {\n \"id\":\"g\",\n \"Y\":\"s\",\n \"subs\":[\n  {\n  \"id\":\"h\",\n  \"X\":\"r\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "第一个对象的id是 \"f\"。"
+    },
+    {
+        "Instruction": "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"k\",\n\"Z\":\"g\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"f\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"e\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "Instruction_id": "1e3bfa7caf52c05bb2d42dde859eb67ca1005e3640ce5b162c35dc01df52ba34",
+        "histories": [
+            [
+                "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"k\",\n\"Z\":\"g\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"f\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"e\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "给定的JSON文本中，第一个对象的id是k。"
+            ],
+            [
+                "给定以下JSON文本，subs的第一个对象的id是什么？\n```\n{\n\"id\":\"k\",\n\"Z\":\"g\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"f\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"e\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "给定的JSON文本中，第一个对象的id是k。"
+            ]
+        ],
+        "task_description": "给定以下JSON文本，subs的第一个对象的id是什么？",
+        "input_text": "```\n{\n\"id\":\"k\",\n\"Z\":\"g\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"f\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"e\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "给定的JSON文本中，第一个对象的id是k。"
+    },
+    {
+        "Instruction": "给定以下JSON文本，如何访问值\"h\"？\n```\n{\n\"id\":\"a\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"b\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"c\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "Instruction_id": "38607105d50e2d113c1472bcf6fc706869bcef27a04c959b5008c6cf7e09b7e1",
+        "histories": [
+            [
+                "给定以下JSON文本，如何访问值\"h\"？\n```\n{\n\"id\":\"a\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"b\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"c\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "可以使用以下方式访问值\"h\"：\n\n```python\nimport json\n\njson_text = '{\"id\":\"a\",\"Z\":\"j\",\"subs\":[\n {\"id\":\"b\",\"Y\":\"i\",\"subs\":[\n  {\n  \"id\":\"c\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n}\n]}'\n\ndata = json.loads(json_text)\nh = data[\"subs\"][1][\"subs\"][0][\"X\"]\nprint(h)  # 输出：h\n```"
+            ],
+            [
+                "给定以下JSON文本，如何访问值\"h\"？\n```\n{\n\"id\":\"a\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"b\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"c\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "可以使用以下方式访问值\"h\"：\n\n```python\nimport json\n\njson_text = '{\"id\":\"a\",\"Z\":\"j\",\"subs\":[\n {\"id\":\"b\",\"Y\":\"i\",\"subs\":[\n  {\n  \"id\":\"c\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n}\n]}'\n\ndata = json.loads(json_text)\nh = data[\"subs\"][1][\"subs\"][0][\"X\"]\nprint(h)  # 输出：h\n```"
+            ]
+        ],
+        "task_description": "给定以下JSON文本，如何访问值\"h\"？",
+        "input_text": "```\n{\n\"id\":\"a\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"b\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"c\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "可以使用以下方式访问值\"h\"：\n\n```python\nimport json\n\njson_text = '{\"id\":\"a\",\"Z\":\"j\",\"subs\":[\n {\"id\":\"b\",\"Y\":\"i\",\"subs\":[\n  {\n  \"id\":\"c\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n}\n]}'\n\ndata = json.loads(json_text)\nh = data[\"subs\"][1][\"subs\"][0][\"X\"]\nprint(h)  # 输出：h\n```"
+    },
+    {
+        "Instruction": "给定以下JSON文本，如何访问值“i”？\n```\n{\n\"id\":\"k\",\n\"Z\":\"i\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"h\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"g\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "Instruction_id": "c6531f6f6b7f4763958025dd9031f89eea9d50779cd821bf5b08830dbdba2b13",
+        "histories": [
+            [
+                "给定以下JSON文本，如何访问值“i”？\n```\n{\n\"id\":\"k\",\n\"Z\":\"i\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"h\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"g\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "要访问值“i”，可以使用以下代码：\n\n```python\nimport json\n\nwith open('example.json', 'r') as f:\n    data = json.load(f)\n\ni = data['Z']\n\nprint(i)\n```\n\n输出：\n\n```\ni\n```"
+            ],
+            [
+                "给定以下JSON文本，如何访问值“i”？\n```\n{\n\"id\":\"k\",\n\"Z\":\"i\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"h\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"g\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "要访问值“i”，可以使用以下代码：\n\n```python\nimport json\n\nwith open('example.json', 'r') as f:\n    data = json.load(f)\n\ni = data['Z']\n\nprint(i)\n```\n\n输出：\n\n```\ni\n```"
+            ]
+        ],
+        "task_description": "给定以下JSON文本，如何访问值“i”？",
+        "input_text": "```\n{\n\"id\":\"k\",\n\"Z\":\"i\",\n\"subs\":[\n {\n \"id\":\"l\",\n \"Y\":\"h\",\n \"subs\":[\n  {\n  \"id\":\"m\",\n  \"X\":\"g\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "要访问值“i”，可以使用以下代码：\n\n```python\nimport json\n\nwith open('example.json', 'r') as f:\n    data = json.load(f)\n\ni = data['Z']\n\nprint(i)\n```\n\n输出：\n\n```\ni\n```"
+    },
+    {
+        "Instruction": "给定以下JSON文本，如何访问值“i”？\n```\n{\n\"id\":\"j\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"k\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"l\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "Instruction_id": "2ea7eef35c813453014e94e7783cb5684fa9932043b5941d088d7dd5722d5ec3",
+        "histories": [
+            [
+                "给定以下JSON文本，如何访问值“i”？\n```\n{\n\"id\":\"j\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"k\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"l\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "可以使用以下代码访问值“i”：\n\n```python\nimport json\n\n# 读取JSON文本\nwith open('example.json', 'r') as f:\n    data = json.load(f)\n\n# 访问值“i”\ni = data['subs'][1]['subs'][0]['X']\n\nprint(i)  # 输出：h\n```\n\n首先，我们使用Python的内置`json`模块来加载JSON文本。然后，我们通过遍历JSON对象来访问值“i”。具体来说，我们首先获取包含值“i”的子对象，然后获取该子对象的第二个子对象，最后获取该子对象的第三个子对象的值。"
+            ],
+            [
+                "给定以下JSON文本，如何访问值“i”？\n```\n{\n\"id\":\"j\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"k\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"l\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+                "可以使用以下代码访问值“i”：\n\n```python\nimport json\n\n# 读取JSON文本\nwith open('example.json', 'r') as f:\n    data = json.load(f)\n\n# 访问值“i”\ni = data['subs'][1]['subs'][0]['X']\n\nprint(i)  # 输出：h\n```\n\n首先，我们使用Python的内置`json`模块来加载JSON文本。然后，我们通过遍历JSON对象来访问值“i”。具体来说，我们首先获取包含值“i”的子对象，然后获取该子对象的第二个子对象，最后获取该子对象的第三个子对象的值。"
+            ]
+        ],
+        "task_description": "给定以下JSON文本，如何访问值“i”？",
+        "input_text": "```\n{\n\"id\":\"j\",\n\"Z\":\"j\",\n\"subs\":[\n {\n \"id\":\"k\",\n \"Y\":\"i\",\n \"subs\":[\n  {\n  \"id\":\"l\",\n  \"X\":\"h\",\n  \"subs\":[]\n  }\n ]\n }\n]\n}\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "可以使用以下代码访问值“i”：\n\n```python\nimport json\n\n# 读取JSON文本\nwith open('example.json', 'r') as f:\n    data = json.load(f)\n\n# 访问值“i”\ni = data['subs'][1]['subs'][0]['X']\n\nprint(i)  # 输出：h\n```\n\n首先，我们使用Python的内置`json`模块来加载JSON文本。然后，我们通过遍历JSON对象来访问值“i”。具体来说，我们首先获取包含值“i”的子对象，然后获取该子对象的第二个子对象，最后获取该子对象的第三个子对象的值。"
+    },
+    {
+        "Instruction": "给定以下Markdown文本，提取所有粗体文本。\n```\nq\n贵族 **禅修** 迷人的 袋鼠 牙医 w![alt](ef.gif \"hover text\")醒来 精华 香蕉\n# r\n糟糕 禅修 迷人的 袋鼠 牙医 醒来 精华 香蕉\n## s\n消亡 禅修 迷人的 袋鼠 牙医 醒来 精华 香蕉\n```",
+        "Instruction_id": "6138210ffd9f543c6457146ca6f007b704f39e87e5fcc6b72200c2a8c3f82d17",
+        "histories": [
+            [
+                "给定以下Markdown文本，提取所有粗体文本。\n```\nq\n贵族 **禅修** 迷人的 袋鼠 牙医 w![alt](ef.gif \"hover text\")醒来 精华 香蕉\n# r\n糟糕 禅修 迷人的 袋鼠 牙医 醒来 精华 香蕉\n## s\n消亡 禅修 迷人的 袋鼠 牙医 醒来 精华 香蕉\n```",
+                "以下是提取的所有粗体文本：\n\n```\n贵族 **禅修** 迷人的 袋鼠 牙医 w![alt](ef.gif \"hover text\")醒来 精华 香蕉\n```"
+            ],
+            [
+                "给定以下Markdown文本，提取所有粗体文本。\n```\nq\n贵族 **禅修** 迷人的 袋鼠 牙医 w![alt](ef.gif \"hover text\")醒来 精华 香蕉\n# r\n糟糕 禅修 迷人的 袋鼠 牙医 醒来 精华 香蕉\n## s\n消亡 禅修 迷人的 袋鼠 牙医 醒来 精华 香蕉\n```",
+                "以下是提取的所有粗体文本：\n\n```\n贵族 **禅修** 迷人的 袋鼠 牙医 w![alt](ef.gif \"hover text\")醒来 精华 香蕉\n```"
+            ]
+        ],
+        "task_description": "给定以下Markdown文本，提取所有粗体文本。",
+        "input_text": "```\nq\n贵族 **禅修** 迷人的 袋鼠 牙医 w![alt](ef.gif \"hover text\")醒来 精华 香蕉\n# r\n糟糕 禅修 迷人的 袋**禅修**鼠![alt](ff.png \"hover text\")o 牙医 醒来 精华 香蕉\n## s\n消亡 禅修 迷人的 袋鼠 牙医 醒来 精华 香蕉\n```",
+        "task_category": "Structure_simple",
+        "lang": "ch",
+        "model_answer": "以下是提取的所有粗体文本：\n\n```\n贵族 **禅修** 迷人的 袋鼠 牙医 w![alt](ef.gif \"hover text\")醒来 精华 香蕉\n```"
+    }
+]
