@@ -1,6 +1,6 @@
 # CELLO
 
-CELLO is a benchmark for evaluating LLMs' ability to follow complex instructions systematically.
+CELLO is a benchmark for evaluating the**C**ompl**E**x instruction understanding ability of **L**arge **L**anguage M**O**dels systematically.
 
 - We design **eight features** for complex instructions and construct **a comprehensive evaluation dataset** from real-world scenarios.
 - We establish **four criteria** and develop **corresponding metrics**, as current ones are inadequate, biased or too strict and coarse-grained.
@@ -41,7 +41,7 @@ All the scoring results are in the folder [scores/](scores/).
 
 ## Data
 
-The collected data can be found in the [data/](data/). All samples have been anonymized. 
+The collected data can be found in the [data/](data/). All samples have been anonymized.
 
 ## Citation
 
