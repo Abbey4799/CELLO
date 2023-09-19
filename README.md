@@ -6,6 +6,12 @@ CELLO is a benchmark for evaluating the**C**ompl**E**x instruction understanding
 - We establish **four criteria** and develop **corresponding metrics**, as current ones are inadequate, biased or too strict and coarse-grained.
 - We compare the performance of representative **Chinese-oriented and English-oriented models** in following complex instructions through extensive experiments.
 
+<p align="center">
+    <br>
+    <img src="framework.png" width="900"/>
+    <br>
+</p>
+
 ## Install Dependencies
 
 ```
