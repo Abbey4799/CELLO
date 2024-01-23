@@ -1,6 +1,6 @@
 # CELLO
 
-CELLO is a benchmark for evaluating the**C**ompl**E**x instruction understanding ability of **L**arge **L**anguage M**O**dels systematically.
+CELLO is a benchmark for evaluating the**C**ompl**E**x instruction understanding ability of **L**arge **L**anguage M**O**dels systematically (AAAI 2024).
 
 - We design **eight features** for complex instructions and construct **a comprehensive evaluation dataset** from real-world scenarios.
 - We establish **four criteria** and develop **corresponding metrics**, as current ones are inadequate, biased or too strict and coarse-grained.
