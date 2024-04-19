@@ -52,11 +52,13 @@ The collected data can be found in the [data/](data/). All samples have been ano
 ## Citation
 
 ```
-@article{he2023cello,
+@inproceedings{he2024can,
   title={Can Large Language Models Understand Real-World Complex Instructions?},
-  author={Qianyu He, Jie Zeng, Wenhao Huang, Lina Chen, Jin Xiao, Qianxi He, Xunzhe Zhou, Lida Chen, Xintao Wang, Yuncheng Huang, Haoning Ye, Zihan Li, Shisong Chen, Yikai Zhang, Zhouhong Gu, Jiaqing Liang, Yanghua Xiao},
-  journal={arXiv preprint arXiv:2309.09150},
-  year={2023},
-  url={https://arxiv.org/abs/2309.09150}
+  author={He, Qianyu and Zeng, Jie and Huang, Wenhao and Chen, Lina and Xiao, Jin and He, Qianxi and Zhou, Xunzhe and Liang, Jiaqing and Xiao, Yanghua},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={16},
+  pages={18188--18196},
+  year={2024}
 }
 ```
